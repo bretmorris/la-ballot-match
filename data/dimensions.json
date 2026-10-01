@@ -1,0 +1,80 @@
+[
+  {
+    "id": "taxes-spending",
+    "label": "Taxes & government spending",
+    "minus": "Raise taxes, especially on high earners and corporations, to fund expanded public programs",
+    "plus": "Keep taxes low and limit government spending and new programs"
+  },
+  {
+    "id": "housing-growth",
+    "label": "Housing growth & land use",
+    "minus": "Preserve local control and neighborhood character; limit density and large new developments",
+    "plus": "Build much more housing: allow more density, reduce zoning limits, speed up permits"
+  },
+  {
+    "id": "renters-landlords",
+    "label": "Renters & landlords",
+    "minus": "Stronger renter protections: rent control, eviction limits, tenant legal aid",
+    "plus": "More flexibility for property owners: fewer rent and eviction rules"
+  },
+  {
+    "id": "policing-justice",
+    "label": "Policing & criminal justice",
+    "minus": "Shift resources to prevention and alternatives; reduce incarceration and sentence lengths",
+    "plus": "Expand police staffing and enforcement; tougher penalties for crime"
+  },
+  {
+    "id": "homelessness",
+    "label": "Homelessness response",
+    "minus": "Housing-first: provide housing and services without preconditions; avoid enforcement-led approaches",
+    "plus": "Enforcement-led: clear encampments, enforce camping bans, require treatment or shelter acceptance"
+  },
+  {
+    "id": "climate-energy",
+    "label": "Climate & energy",
+    "minus": "Aggressive climate action: faster emissions cuts, stricter environmental rules, phase out fossil fuels",
+    "plus": "Prioritize energy affordability and reliability; fewer environmental mandates, keep oil and gas production"
+  },
+  {
+    "id": "labor-business",
+    "label": "Workers & business",
+    "minus": "Stronger worker protections: higher minimum wages, union power, mandated benefits",
+    "plus": "Business flexibility: fewer labor mandates and regulations, lower costs for employers"
+  },
+  {
+    "id": "immigration",
+    "label": "Immigration",
+    "minus": "Protect immigrants: sanctuary policies, limit cooperation with federal immigration enforcement",
+    "plus": "Cooperate with federal immigration enforcement; stricter immigration policy"
+  },
+  {
+    "id": "education",
+    "label": "Education",
+    "minus": "Invest in traditional public schools; limit charter expansion; support teachers' unions",
+    "plus": "Expand school choice and charters; greater parental control over curriculum"
+  },
+  {
+    "id": "social-issues",
+    "label": "Abortion & LGBTQ+ rights",
+    "minus": "Protect and expand abortion access and LGBTQ+ legal protections",
+    "plus": "More restrictions on abortion; emphasis on traditional or religious values"
+  },
+  {
+    "id": "guns",
+    "label": "Guns",
+    "minus": "Stricter gun laws: more restrictions on purchase, carry, and types of firearms",
+    "plus": "Protect gun rights: fewer restrictions on ownership and carry"
+  },
+  {
+    "id": "health-care",
+    "label": "Health care",
+    "minus": "Government-run or publicly expanded coverage (e.g. single-payer, expanded Medi-Cal)",
+    "plus": "Market-based health care with private insurance and less government role"
+  },
+  {
+    "id": "transportation",
+    "label": "Transportation",
+    "minus": "Prioritize transit, bike, and pedestrian infrastructure, even at the cost of car lanes and parking",
+    "plus": "Prioritize roads, driving, and parking; skeptical of reallocating street space"
+  }
+]

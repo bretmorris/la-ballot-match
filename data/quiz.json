@@ -1,0 +1,55 @@
+{
+  "scale": [
+    { "value": -2, "label": "Strongly disagree" },
+    { "value": -1, "label": "Disagree" },
+    { "value": 0, "label": "Neutral / not sure" },
+    { "value": 1, "label": "Agree" },
+    { "value": 2, "label": "Strongly agree" }
+  ],
+  "importance": [
+    { "value": 0, "label": "Doesn't matter to me" },
+    { "value": 1, "label": "Matters a little" },
+    { "value": 2, "label": "Matters" },
+    { "value": 3, "label": "Matters a lot" }
+  ],
+  "items": [
+    { "id": "q1", "dimension": "taxes-spending", "agreeMeans": "minus", "text": "California should raise taxes on its highest earners to pay for more public services." },
+    { "id": "q2", "dimension": "taxes-spending", "agreeMeans": "plus", "text": "Before asking for new taxes, state and local governments should spend existing money more efficiently." },
+
+    { "id": "q3", "dimension": "housing-growth", "agreeMeans": "plus", "text": "Apartment buildings should be allowed in neighborhoods that are currently zoned only for single-family homes." },
+    { "id": "q4", "dimension": "housing-growth", "agreeMeans": "minus", "text": "Neighborhoods should have the final say over large new developments built near them." },
+
+    { "id": "q5", "dimension": "renters-landlords", "agreeMeans": "minus", "text": "Limits on how much landlords can raise rent each year should be expanded to more buildings." },
+    { "id": "q6", "dimension": "renters-landlords", "agreeMeans": "plus", "text": "Rent control discourages new housing and maintenance, and should be reduced." },
+
+    { "id": "q7", "dimension": "policing-justice", "agreeMeans": "plus", "text": "My city needs more police officers on the street." },
+    { "id": "q8", "dimension": "policing-justice", "agreeMeans": "minus", "text": "Some public safety money should go to mental-health responders and violence prevention instead of police." },
+
+    { "id": "q9", "dimension": "homelessness", "agreeMeans": "minus", "text": "People experiencing homelessness should be offered permanent housing first, without having to complete treatment beforehand." },
+    { "id": "q10", "dimension": "homelessness", "agreeMeans": "plus", "text": "Cities should clear encampments from sidewalks and parks, even when there aren't enough shelter beds for everyone." },
+
+    { "id": "q11", "dimension": "climate-energy", "agreeMeans": "minus", "text": "California should phase out oil and gas drilling, even if it raises energy costs in the short term." },
+    { "id": "q12", "dimension": "climate-energy", "agreeMeans": "plus", "text": "Environmental rules in California have gone too far and make gas, electricity, and housing too expensive." },
+
+    { "id": "q13", "dimension": "labor-business", "agreeMeans": "minus", "text": "The minimum wage should keep rising faster than inflation." },
+    { "id": "q14", "dimension": "labor-business", "agreeMeans": "plus", "text": "Regulations on employers in California make it too hard to run a small business." },
+
+    { "id": "q15", "dimension": "immigration", "agreeMeans": "minus", "text": "Local police and jails should not help federal agents enforce immigration law." },
+    { "id": "q16", "dimension": "immigration", "agreeMeans": "plus", "text": "State and local governments should cooperate fully with federal immigration enforcement." },
+
+    { "id": "q17", "dimension": "education", "agreeMeans": "plus", "text": "Parents should be able to use public education funds at the school of their choice, including charter or private schools." },
+    { "id": "q18", "dimension": "education", "agreeMeans": "minus", "text": "The growth of charter schools hurts traditional public schools and should be limited." },
+
+    { "id": "q19", "dimension": "social-issues", "agreeMeans": "minus", "text": "Access to abortion should be protected by law." },
+    { "id": "q20", "dimension": "social-issues", "agreeMeans": "plus", "text": "Schools should notify parents if their child asks to use a different name or pronouns." },
+
+    { "id": "q21", "dimension": "guns", "agreeMeans": "minus", "text": "Gun laws should be stricter than they are now." },
+    { "id": "q22", "dimension": "guns", "agreeMeans": "plus", "text": "Law-abiding adults should be able to carry a concealed firearm without extensive restrictions." },
+
+    { "id": "q23", "dimension": "health-care", "agreeMeans": "minus", "text": "California should create a single, government-run health insurance plan for everyone." },
+    { "id": "q24", "dimension": "health-care", "agreeMeans": "plus", "text": "Private insurance and market competition are the best ways to keep health care affordable." },
+
+    { "id": "q25", "dimension": "transportation", "agreeMeans": "minus", "text": "Cities should convert some car lanes and parking into bus lanes and protected bike lanes." },
+    { "id": "q26", "dimension": "transportation", "agreeMeans": "plus", "text": "Road improvements for drivers should be a higher priority than new transit projects." }
+  ]
+}
