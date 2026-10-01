@@ -10,8 +10,9 @@ import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { noul, score, TypeSafeClient, type ScoreCriteria } from "@typesafe-ai/sdk"
+import * as J from "../lib/jev-questions"
 
-const MODEL = "jev-1.13.0"
+const MODEL = J.JEV_MODEL
 const ROOT = join(import.meta.dirname, "..")
 const DATA = join(ROOT, "data")
 const CACHE = join(ROOT, "scripts", ".cache")
@@ -34,41 +35,11 @@ type EvidenceFile = { contestId: string; measure?: EvidenceItem[]; options?: Rec
 
 const dimensions: Dimension[] = JSON.parse(readFileSync(join(DATA, "dimensions.json"), "utf8"))
 
-// Five stand-alone levels from the "minus" pole to the "plus" pole.
-function positionLevels(d: Dimension): ScoreCriteria {
-  return [
-    `Strongly and consistently favors: ${d.minus}`,
-    `Leans toward: ${d.minus}`,
-    `Mixed, moderate, or balanced between "${d.minus}" and "${d.plus}"`,
-    `Leans toward: ${d.plus}`,
-    `Strongly and consistently favors: ${d.plus}`,
-  ]
-}
-
-function directionLevels(d: Dimension): ScoreCriteria {
-  return [
-    `A YES vote moves policy substantially toward: ${d.minus}`,
-    `A YES vote moves policy somewhat toward: ${d.minus}`,
-    `A YES vote has no meaningful effect on this issue, or effects in both directions cancel out`,
-    `A YES vote moves policy somewhat toward: ${d.plus}`,
-    `A YES vote moves policy substantially toward: ${d.plus}`,
-  ]
-}
-
 function candidateQuestions() {
   const q: Record<string, ReturnType<typeof score> | ReturnType<typeof noul>> = {}
   for (const d of dimensions) {
-    q[`${d.id}__position`] = score(
-      `Based on \`evidence\` about \`candidate\` (their own statements, voting record, policy record, and endorsements), where does the candidate stand on ${d.label}?`,
-      positionLevels(d),
-    )
-    q[`${d.id}__evidence`] = noul(
-      `Does \`evidence\` contain specific information about \`candidate\`'s own position, votes, or record on ${d.label}? Party affiliation alone does not count.`,
-      {
-        true: `The evidence states or clearly shows the candidate's position, votes, or actions on ${d.label}`,
-        false: `The evidence is silent, off-topic, or too vague to tell where the candidate stands on ${d.label}`,
-      },
-    )
+    q[`${d.id}__position`] = score(J.candidatePositionInstructions(d), J.positionLevels(d) as ScoreCriteria)
+    q[`${d.id}__evidence`] = noul(J.candidateEvidenceInstructions(d), J.candidateEvidenceCriteria(d))
   }
   return q
 }
@@ -76,17 +47,8 @@ function candidateQuestions() {
 function measureQuestions() {
   const q: Record<string, ReturnType<typeof score> | ReturnType<typeof noul>> = {}
   for (const d of dimensions) {
-    q[`${d.id}__direction`] = score(
-      `Based on \`measure\` and \`evidence\`, which way does a YES vote move policy on ${d.label}?`,
-      directionLevels(d),
-    )
-    q[`${d.id}__relevance`] = noul(
-      `Does a YES vote on \`measure\` directly change policy on ${d.label} (${d.minus} vs. ${d.plus})?`,
-      {
-        true: `Passing the measure directly changes policy, funding, or rules on ${d.label}`,
-        false: `The measure does not meaningfully affect ${d.label}`,
-      },
-    )
+    q[`${d.id}__direction`] = score(J.measureDirectionInstructions(d), J.directionLevels(d) as ScoreCriteria)
+    q[`${d.id}__relevance`] = noul(J.measureRelevanceInstructions(d), J.measureRelevanceCriteria(d))
   }
   return q
 }

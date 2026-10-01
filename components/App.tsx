@@ -33,6 +33,10 @@ export default function App() {
       <header className="masthead">
         <h1>LA Ballot Match</h1>
         <p>November 3, 2026 General Election · Los Angeles County</p>
+        <nav className="nav">
+          <a href="/how-it-works">How it works</a>
+          <a href="/contact">Report a problem</a>
+        </nav>
       </header>
 
       {loadError && <p className="error">Couldn&apos;t load ballot data. Refresh to try again.</p>}
@@ -103,7 +107,8 @@ export default function App() {
         <a href="https://www.lavote.gov/" target="_blank" rel="noreferrer">
           lavote.gov
         </a>{" "}
-        sample ballot and voter information guides.
+        sample ballot and voter information guides. Found a problem?{" "}
+        <a href="/contact">Let me know</a>.
       </footer>
     </main>
   )

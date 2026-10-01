@@ -231,3 +231,28 @@ footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
   .unofficial, .btns, details summary { display: none; }
   body { background: #fff; }
 }
+
+.field {
+  display: block;
+  width: 100%;
+  font: inherit;
+  padding: 10px 12px;
+  margin: 4px 0 12px;
+  border: 2px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 0;
+}
+textarea.field { resize: vertical; }
+
+.nav { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 8px; font-size: 14px; }
+
+.report { display: block; padding: 6px 12px 10px; font-size: 13px; text-align: right; }
+
+.prose h2 { font-size: 15px; text-transform: uppercase; letter-spacing: 0.03em; margin: 20px 0 6px; }
+.prose h2:first-child { margin-top: 0; }
+.prose p, .prose li { font-size: 15px; }
+.prose code, .prose pre { font-family: ui-monospace, Menlo, monospace; font-size: 13px; }
+.prose pre { background: var(--page); padding: 10px; overflow-x: auto; white-space: pre-wrap; border: 1px solid var(--rule-soft); }
+.prose table { border-collapse: collapse; width: 100%; font-size: 13px; }
+.prose td, .prose th { border: 1px solid var(--rule-soft); padding: 4px 6px; text-align: left; vertical-align: top; }

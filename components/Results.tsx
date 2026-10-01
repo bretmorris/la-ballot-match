@@ -70,7 +70,11 @@ export default function Results({ bundle, profile, precinct, onEditQuiz, onEditA
             </span>
           </div>
           <p className="meta" style={{ marginTop: 10 }}>
-            Some contests may not be listed. Compare with your official sample ballot at{" "}
+            New tool, so expect some rough edges. If something&apos;s missing or wrong,{" "}
+            <a href="/contact" target="_blank" rel="noreferrer">
+              report it
+            </a>
+            . Some contests may not be listed. Compare with your official sample ballot at{" "}
             <a href="https://www.lavote.gov/isb" target="_blank" rel="noreferrer">
               lavote.gov
             </a>
@@ -170,6 +174,9 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
           </div>
         </details>
       )}
+      <a className="report" href={`/contact?contest=${encodeURIComponent(c.id)}`} target="_blank" rel="noreferrer">
+        Something wrong here? Report it
+      </a>
     </article>
   )
 }
