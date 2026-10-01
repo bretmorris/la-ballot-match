@@ -228,8 +228,19 @@ input[type="text"] {
 footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
 
 @media print {
-  .unofficial, .btns, details summary { display: none; }
+  /* Always print the light ballot, whatever the screen theme. */
+  :root, :root:not([data-theme="light"]) {
+    --paper: #ffffff; --page: #ffffff; --ink: #000000; --ink-soft: #444444;
+    --rule: #000000; --rule-soft: #bbbbbb; --bar: #000000; --bar-ink: #ffffff; --accent: #000000;
+  }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body { background: #fff; }
+  .btns, .nav, .report, details, footer a[href="/contact"] { display: none; }
+  .wrap { max-width: none; padding: 0; }
+  .card { break-inside: avoid; }
+  /* Fill ovals with border width, which prints even when backgrounds are suppressed. */
+  .oval.filled { border-width: 9px; }
+  .oval.half { border-left-width: 15px; background: none; }
 }
 
 .field {
