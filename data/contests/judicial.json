@@ -1,0 +1,711 @@
+[
+  {
+    "id": "ca-supreme-court-evans",
+    "title": "Associate Justice of the Supreme Court: Shall Associate Justice Kelli M. Evans be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": null,
+      "name": "California Supreme Court"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-supreme-court-groban",
+    "title": "Associate Justice of the Supreme Court: Shall Associate Justice Joshua Groban be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": null,
+      "name": "California Supreme Court"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-michelle-c-kim",
+    "title": "Associate Justice, Court of Appeal, Second District, Division One: Shall Associate Justice Michelle C. Kim be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ],
+    "notes": "Court of Appeal retention questions are voted on by all voters in the Second Appellate District (Los Angeles, San Luis Obispo, Santa Barbara, Ventura counties), regardless of division."
+  },
+  {
+    "id": "ca-coa-2d-gregory-j-weingart",
+    "title": "Associate Justice, Court of Appeal, Second District, Division One: Shall Associate Justice Gregory J. Weingart be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-steve-goorvitch",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Two: Shall Associate Justice Steve Goorvitch be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-anne-richardson",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Two: Shall Associate Justice Anne Richardson be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-rashida-a-adams",
+    "title": "Presiding Justice, Court of Appeal, Second District, Division Three: Shall Presiding Justice Rashida A. Adams be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-mark-hanasono",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Three: Shall Associate Justice Mark Hanasono be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-helen-zukin",
+    "title": "Presiding Justice, Court of Appeal, Second District, Division Four: Shall Presiding Justice Helen Zukin be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-audra-m-mori",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Four: Shall Associate Justice Audra M. Mori be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-nicholas-daum",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Four: Shall Associate Justice Nicholas Daum be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-armen-tamzarian",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Four: Shall Associate Justice Armen Tamzarian be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-brian-m-hoffstadt",
+    "title": "Presiding Justice, Court of Appeal, Second District, Division Five: Shall Presiding Justice Brian M. Hoffstadt be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-tari-l-cody",
+    "title": "Presiding Justice, Court of Appeal, Second District, Division Six: Shall Presiding Justice Tari L. Cody be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-kenneth-r-yegan",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Six: Shall Associate Justice Kenneth R. Yegan be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-gonzalo-c-martinez",
+    "title": "Presiding Justice, Court of Appeal, Second District, Division Seven: Shall Presiding Justice Gonzalo C. Martinez be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-natalie-stone",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Seven: Shall Associate Justice Natalie Stone be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-john-wiley",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Eight: Shall Associate Justice John Wiley be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-matthew-a-scherb",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Eight: Shall Associate Justice Matthew A. Scherb be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-coa-2d-victor-g-viramontes",
+    "title": "Associate Justice, Court of Appeal, Second District, Division Eight: Shall Associate Justice Victor G. Viramontes be elected to the office for the term provided by law?",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "2",
+      "name": "Court of Appeal, Second Appellate District"
+    },
+    "kind": "retention",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-superior-court-64",
+    "title": "Judge of the Superior Court, Office No. 64",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "64",
+      "name": "Los Angeles County Superior Court"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "maria-ghobadi",
+        "name": "Maria Ghobadi",
+        "party": null
+      },
+      {
+        "id": "rhonda-a-haymon",
+        "name": "Rhonda A. Haymon",
+        "party": null
+      }
+    ],
+    "notes": "Runoff between the top two from the June 2, 2026 primary (44.05% / 42.15%), per LA County RR/CC results text page; nonpartisan. Ballot designations not yet verified from an official candidate list.",
+    "sources": [
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-superior-court-65",
+    "title": "Judge of the Superior Court, Office No. 65",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "65",
+      "name": "Los Angeles County Superior Court"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "justin-allen-clayton",
+        "name": "Justin Allen Clayton",
+        "party": null
+      },
+      {
+        "id": "anna-slotky-reitano",
+        "name": "Anna Slotky Reitano",
+        "party": null
+      }
+    ],
+    "notes": "Runoff between the top two from the June 2, 2026 primary (36.69% / 29.88%), per LA County RR/CC results text page; nonpartisan. Ballot designations not yet verified from an official candidate list.",
+    "sources": [
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-superior-court-87",
+    "title": "Judge of the Superior Court, Office No. 87",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "87",
+      "name": "Los Angeles County Superior Court"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "anthony-a-j-bayne",
+        "name": "Anthony (A.J.) Bayne",
+        "party": null
+      },
+      {
+        "id": "david-dejute",
+        "name": "David DeJute",
+        "party": null
+      }
+    ],
+    "notes": "Runoff between the top two from the June 2, 2026 primary (42.04% / 31.30%), per LA County RR/CC results text page; nonpartisan. Ballot designations not yet verified from an official candidate list.",
+    "sources": [
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-superior-court-131",
+    "title": "Judge of the Superior Court, Office No. 131",
+    "level": "judicial",
+    "jurisdiction": {
+      "type": "judicial",
+      "district": "131",
+      "name": "Los Angeles County Superior Court"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "donna-tryfman",
+        "name": "Donna Tryfman",
+        "party": null
+      },
+      {
+        "id": "david-ross",
+        "name": "David Ross",
+        "party": null
+      }
+    ],
+    "notes": "Runoff between the top two from the June 2, 2026 primary (37.31% / 33.24%), per LA County RR/CC results text page; nonpartisan. Ballot designations not yet verified from an official candidate list.",
+    "sources": [
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

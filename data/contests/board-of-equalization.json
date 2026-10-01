@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ca-boe-3",
+    "title": "Member, State Board of Equalization, 3rd District",
+    "level": "state",
+    "jurisdiction": {
+      "type": "board-of-equalization",
+      "district": "3",
+      "name": "State Board of Equalization District 3"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "mike-gipson",
+        "name": "Mike Gipson",
+        "party": "Democratic",
+        "ballotDesignation": "State Assemblymember/Father"
+      },
+      {
+        "id": "samuel-p-sukaton",
+        "name": "Samuel P. Sukaton",
+        "party": "Democratic",
+        "ballotDesignation": "Labor Union Organizer"
+      }
+    ],
+    "notes": "The June 2026 primary results published by LA County list only BOE District 3 for the county, consistent with District 3 covering Los Angeles County; this was not independently confirmed against an official district boundary document. Both advancing candidates list Democratic party preference.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

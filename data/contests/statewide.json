@@ -1,0 +1,762 @@
+[
+  {
+    "id": "ca-governor",
+    "title": "Governor",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "xavier-becerra",
+        "name": "Xavier Becerra",
+        "party": "Democratic",
+        "ballotDesignation": "Voting Rights Attorney"
+      },
+      {
+        "id": "steve-hilton",
+        "name": "Steve Hilton",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ],
+    "notes": "Top-two general: the two candidates who advanced from the June 2, 2026 primary per the Secretary of State's certified list (8/27/2026). Party shown is the candidate's party preference. No U.S. Senate contest for California appears on the certified list for this election."
+  },
+  {
+    "id": "ca-lieutenant-governor",
+    "title": "Lieutenant Governor",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "fiona-ma",
+        "name": "Fiona Ma",
+        "party": "Democratic",
+        "ballotDesignation": "State Treasurer/CPA"
+      },
+      {
+        "id": "gloria-romero",
+        "name": "Gloria Romero",
+        "party": "Republican",
+        "ballotDesignation": "Educator/Businesswoman"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-attorney-general",
+    "title": "Attorney General",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "rob-bonta",
+        "name": "Rob Bonta",
+        "party": "Democratic",
+        "ballotDesignation": "California Attorney General",
+        "incumbent": true
+      },
+      {
+        "id": "michael-e-gates",
+        "name": "Michael E. Gates",
+        "party": "Republican",
+        "ballotDesignation": "Deputy United States Attorney"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-secretary-of-state",
+    "title": "Secretary of State",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "shirley-n-weber",
+        "name": "Shirley N. Weber",
+        "party": "Democratic",
+        "ballotDesignation": "California Secretary of State",
+        "incumbent": true
+      },
+      {
+        "id": "donald-p-don-wagner",
+        "name": "Donald P. (Don) Wagner",
+        "party": "Republican",
+        "ballotDesignation": "Orange County Supervisor"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-controller",
+    "title": "Controller",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "malia-m-cohen",
+        "name": "Malia M. Cohen",
+        "party": "Democratic",
+        "ballotDesignation": "State Controller/Mother",
+        "incumbent": true
+      },
+      {
+        "id": "herb-w-morgan",
+        "name": "Herb W Morgan",
+        "party": "Republican",
+        "ballotDesignation": "Chief Investment Officer"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-treasurer",
+    "title": "Treasurer",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "eleni-kounalakis",
+        "name": "Eleni Kounalakis",
+        "party": "Democratic",
+        "ballotDesignation": "Lieutenant Governor of California"
+      },
+      {
+        "id": "jennifer-hawks",
+        "name": "Jennifer Hawks",
+        "party": "Republican",
+        "ballotDesignation": "Retired Business Executive"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-insurance-commissioner",
+    "title": "Insurance Commissioner",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "ben-allen",
+        "name": "Ben Allen",
+        "party": "Democratic",
+        "ballotDesignation": "California State Senator"
+      },
+      {
+        "id": "jane-kim",
+        "name": "Jane Kim",
+        "party": "Democratic",
+        "ballotDesignation": "Attorney/Consumer Advocate"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ],
+    "notes": "Both advancing candidates list Democratic party preference."
+  },
+  {
+    "id": "ca-superintendent-of-public-instruction",
+    "title": "Superintendent of Public Instruction",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "richard-barrera",
+        "name": "Richard Barrera",
+        "party": null,
+        "ballotDesignation": "State Superintendent Advisor"
+      },
+      {
+        "id": "sonja-shaw",
+        "name": "Sonja Shaw",
+        "party": null,
+        "ballotDesignation": "School District President"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026, General Election - Official Certified List of Candidates (CA SOS, 8/27/2026)",
+        "retrieved": "2026-09-30"
+      }
+    ],
+    "notes": "Nonpartisan office; the certified list labels both candidates 'Non-Partisan'."
+  },
+  {
+    "id": "ca-prop-1",
+    "title": "Proposition 1: Authorizes Bonds for Housing Affordability Programs. Legislative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Authorizes $11.25 billion in state general obligation bonds for housing affordability programs, including for California veterans, and to finance housing development projects seeking federal tax credits. Funds include $5.1 billion for multifamily rental housing and $1.25 billion for veterans' mortgages.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-2",
+    "title": "Proposition 2: Increases State's Rainy Day Fund. Legislative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Increases California's Rainy Day Fund by doubling the budget reserve cap from 10% to 20% of General Fund revenues, requires additional savings in years when tax revenues are high, and increases budget reserves available for education, state debts, and pension obligations.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-3",
+    "title": "Proposition 3: Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes. Initiative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Makes permanent the existing 2012 voter-approved income tax rates on high-income Californians, currently set to expire in 2031 (applying to income over about $371,000 for single filers). Allocates revenues 89% to K-12 schools and 11% to community colleges, with local school boards deciding how funds are spent.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-4",
+    "title": "Proposition 4: Repeals Prohibition Against Public Funding of Election Campaigns. Legislative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Repeals the current prohibition on state and local governments using public funds for election campaigns, allowing them to create public campaign financing programs for candidates who agree to spending limits and meet eligibility criteria. Also triples the maximum fine for campaign contributions by foreign entities.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-5",
+    "title": "Proposition 5: Changes Recall Election Process for Statewide Officers. Legislative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Changes the recall process for statewide officers: if the Governor is recalled, the Lieutenant Governor becomes Governor for the remainder of the term or until a successor is elected; for other recalled officers, the office remains vacant until filled by a subsequent special election or appointment as specified in existing law.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-37",
+    "title": "Proposition 37: Creates Loan Program for Middle-Income Buyers of Qualified New Homes. Initiative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Authorizes up to $25 billion in bonds to offer eligible buyers fixed-rate mortgages for up to 17% of the purchase price of a qualified new home. Borrowers must be California residents, occupy the home, meet income limits, and pay at least 3% down; bonds are repaid from homeowners' mortgage payments, not by the State.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-38",
+    "title": "Proposition 38: Authorizes Bonds for Immunology Medical Research. Initiative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Authorizes $8.4 billion in state general obligation bonds for immunology and immunotherapy research, with half dedicated to cancer, heart disease, and Alzheimer's disease. Funds are split between a single UC-affiliated nonprofit research institute and research grants for public or nonprofit institutions; recipients must sell resulting technology and drugs in California at 20% below the national average price.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-39",
+    "title": "Proposition 39: Prohibits Citizens from Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Prohibits voting by mail unless the voter designates a government-issued identification number in their registration, invalidates mail ballots lacking the last four digits of a matching ID number, and prohibits voting in person without presenting government-issued identification. Requires elections officials to annually report the share of voters whose citizenship status they have verified.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-40",
+    "title": "Proposition 40: Imposes One-Time Tax on Certain Taxpayers. Initiative Constitutional Amendment and Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Imposes a one-time tax of up to 5% on certain taxpayers with covered assets valued over $1 billion (businesses, securities, art, collectibles, intellectual property; excluding real property and some pensions and retirement accounts). Allocates 90% of revenues to health care and 10% to food assistance or education-related programs.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-41",
+    "title": "Proposition 41: Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes. Initiative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Prohibits any new state taxes that exclude their revenues from the state spending limit approved by voters in 1979. For statewide special taxes, requires a pre-election audit of programs that would receive funding and recurring audits of programs funded by special taxes enacted after January 1, 2026. States that conflicting measures on the same ballot are void if this measure receives more affirmative votes.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-42",
+    "title": "Proposition 42: Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes. Initiative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Prohibits new state taxes on personal property, including business interests, intellectual property, and financial assets (including assets in retirement and investment accounts), and prohibits new state taxes that apply retroactively based on conduct or status before the tax's effective date. Applies to taxes enacted or taking effect on or after January 1, 2026; states that conflicting measures on the same ballot are void if this measure receives more affirmative votes.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-43",
+    "title": "Proposition 43: Limits Voters' Ability to Raise Revenues for Local Government Services. Legislative Constitutional Amendment.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Raises the vote needed to approve voter-initiated local special taxes (taxes dedicated to a specific purpose, placed on the ballot by signature gathering) from a majority to two-thirds, matching the requirement for special taxes placed on the ballot by local governments. Applies to voter-proposed measures approved after January 1, 2027.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-44",
+    "title": "Proposition 44: Requires Community Health Clinics Spend 90% Of Revenue on Program Services. Initiative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Imposes penalties on nonprofit Federally Qualified Health Centers that spend less than 90% of revenue on 'program services' advancing their charitable purpose, with the Department of Public Health able to waive requirements in exceptional circumstances. Authorizes the Attorney General to publish guidance defining qualifying expenditures and authorizes criminal charges for false reports or artificially increasing the spending ratio.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-prop-45",
+    "title": "Proposition 45: Modifies Environmental Review for Certain Projects. Initiative Statute.",
+    "level": "state",
+    "jurisdiction": {
+      "type": "statewide",
+      "district": null,
+      "name": "California"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the California Environmental Quality Act (CEQA) to expedite environmental review for specified project categories (including most housing, transportation, water, health, wildfire mitigation, educational facility, internet access, and clean energy projects). Sets deadlines for public agencies to complete review and limits agencies' current obligation to consider project alternatives.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+        "title": "Official Voter Information Guide, November 3, 2026 General Election (CA SOS)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+        "title": "Qualified Statewide Ballot Measures (CA SOS)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

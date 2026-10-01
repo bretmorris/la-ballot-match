@@ -1,0 +1,94 @@
+[
+  {
+    "id": "la-county-sheriff",
+    "title": "Sheriff",
+    "level": "county",
+    "jurisdiction": {
+      "type": "county",
+      "district": null,
+      "name": "Los Angeles County"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "robert-g-luna",
+        "name": "Robert G. Luna",
+        "party": null
+      },
+      {
+        "id": "alex-villanueva",
+        "name": "Alex Villanueva",
+        "party": null
+      }
+    ],
+    "notes": "Top two from the June 2, 2026 primary (Luna 44.15%, Villanueva 21.70%), per LA County RR/CC results text page; nonpartisan office. Ballot designations and incumbency not yet captured from an official candidate list. Not independently checked against a final certified statement of vote.",
+    "sources": [
+      {
+        "url": "https://results.lavote.gov/text-results/4338",
+        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-county-measure-a",
+    "title": "Measure A: Los Angeles County Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes",
+    "level": "county",
+    "jurisdiction": {
+      "type": "county",
+      "district": null,
+      "name": "Los Angeles County"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the Los Angeles County Charter to prohibit strikes by district attorney investigators, medical examiners, and lifeguards, their supervisors, and nonadministrative civilian employees in the Fire Department, Sheriff's Department, and Department of Medical Examiner; reiterates existing good faith negotiation obligations; and establishes an impartial binding arbitration process for labor disputes with certified public safety employee organizations, including firefighters and sheriffs. Passes with a majority vote.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/measures-appearing-on-the-ballot---november-3-2026-rev-8-14-2026-v-4.pdf",
+        "title": "Measures Appearing on the Ballot - November 3, 2026 (LA County RR/CC, rev. 8/14/26)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "la-county-measure-e",
+    "title": "Measure E: County of Los Angeles Ethics Commission and Community Investment Budget Allocation Charter Amendment",
+    "level": "county",
+    "jurisdiction": {
+      "type": "county",
+      "district": null,
+      "name": "Los Angeles County"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the Los Angeles County Charter to provide greater independence and structure for the County Ethics Commission, Office of Ethics Compliance, and Ethics Compliance Officer (appointment processes, qualifications, term, duties and responsibilities), and to continue uninterrupted the County's commitment to community investment and alternatives to incarceration. Passes with a majority vote.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/measures-appearing-on-the-ballot---november-3-2026-rev-8-14-2026-v-4.pdf",
+        "title": "Measures Appearing on the Ballot - November 3, 2026 (LA County RR/CC, rev. 8/14/26)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]
