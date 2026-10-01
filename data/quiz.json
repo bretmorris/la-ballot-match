@@ -44,169 +44,281 @@
       "id": "q1",
       "dimension": "taxes-spending",
       "agreeMeans": "minus",
-      "text": "I would pay for expanded public services, like housing, transit, and health care, with higher taxes on high earners and corporations."
+      "text": "California should raise taxes on high earners and corporations to pay for more public services, like housing, transit, and health care.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Taxation_in_California",
+        "title": "Taxation in California"
+      }
     },
     {
       "id": "q2",
       "dimension": "taxes-spending",
       "agreeMeans": "plus",
-      "text": "California taxes are already too high. Government should live within its current budget, even if that means cutting some programs."
+      "text": "California taxes are already too high. Government should live within its current budget, even if that means cutting some programs.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/California_state_budget",
+        "title": "California state finances"
+      }
     },
     {
       "id": "q3",
       "dimension": "housing-growth",
       "agreeMeans": "plus",
-      "text": "Apartment buildings should be allowed in neighborhoods that are currently zoned only for single-family homes."
+      "text": "Apartment buildings should be allowed in neighborhoods that are currently zoned only for single-family homes.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Single-family_zoning",
+        "title": "Single-family zoning"
+      }
     },
     {
       "id": "q4",
       "dimension": "housing-growth",
       "agreeMeans": "minus",
-      "text": "Neighborhoods should have the final say over large new developments built near them."
+      "text": "Neighborhoods should have the final say over large new developments built near them.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Zoning_in_the_United_States",
+        "title": "Zoning in the United States"
+      }
     },
     {
       "id": "q5",
       "dimension": "renters-landlords",
       "agreeMeans": "minus",
-      "text": "Limits on how much landlords can raise rent each year should be expanded to more buildings."
+      "text": "Limits on how much landlords can raise rent each year should be expanded to more buildings.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Rent_control_in_the_United_States",
+        "title": "Rent control in the United States"
+      }
     },
     {
       "id": "q6",
       "dimension": "renters-landlords",
       "agreeMeans": "plus",
-      "text": "Rent control discourages new housing and maintenance, and should be reduced."
+      "text": "Rent control discourages new housing and maintenance, and should be reduced.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Rent_control_in_the_United_States",
+        "title": "Rent control in the United States"
+      }
     },
     {
       "id": "q7",
       "dimension": "policing-justice",
       "agreeMeans": "plus",
-      "text": "My city should hire more police officers, even if that means less money for other services."
+      "text": "My city should hire more police officers, even if that means less money for other services.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Police_reform_in_the_United_States",
+        "title": "Police reform in the United States"
+      }
     },
     {
       "id": "q8",
       "dimension": "policing-justice",
       "agreeMeans": "minus",
-      "text": "Cities should move some police funding to mental-health responders and violence-prevention programs."
+      "text": "Cities should move some police funding to mental-health responders and violence-prevention programs.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Police_reform_in_the_United_States",
+        "title": "Police reform in the United States"
+      }
     },
     {
       "id": "q9",
       "dimension": "homelessness",
       "agreeMeans": "minus",
-      "text": "People experiencing homelessness should be offered permanent housing first, without having to complete treatment beforehand."
+      "text": "People experiencing homelessness should be offered permanent housing first, without having to complete treatment beforehand.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Housing_First",
+        "title": "Housing First"
+      }
     },
     {
       "id": "q10",
       "dimension": "homelessness",
       "agreeMeans": "plus",
-      "text": "Cities should clear encampments from sidewalks and parks, even when there aren't enough shelter beds for everyone."
+      "text": "Cities should clear encampments from sidewalks and parks, even when there aren't enough shelter beds for everyone.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/City_of_Grants_Pass_v._Johnson",
+        "title": "City of Grants Pass v. Johnson"
+      }
     },
     {
       "id": "q11",
       "dimension": "climate-energy",
       "agreeMeans": "minus",
-      "text": "California should phase out oil and gas drilling, even if it raises energy costs in the short term."
+      "text": "California should phase out oil and gas drilling, even if it raises energy costs in the short term.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Fossil_fuel_phase-out",
+        "title": "Fossil fuel phase-out"
+      }
     },
     {
       "id": "q12",
       "dimension": "climate-energy",
       "agreeMeans": "plus",
-      "text": "Environmental rules in California have gone too far and make gas, electricity, and housing too expensive."
+      "text": "Environmental rules in California have gone too far and make gas, electricity, and housing too expensive.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/California_Environmental_Quality_Act",
+        "title": "California Environmental Quality Act"
+      }
     },
     {
       "id": "q13",
       "dimension": "labor-business",
       "agreeMeans": "minus",
-      "text": "The minimum wage should keep rising faster than inflation."
+      "text": "The minimum wage should keep rising faster than inflation.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Minimum_wage_in_California",
+        "title": "Minimum wage in California"
+      }
     },
     {
       "id": "q14",
       "dimension": "labor-business",
       "agreeMeans": "plus",
-      "text": "California should slow minimum-wage increases and new employer mandates to help small businesses survive."
+      "text": "California should slow minimum-wage increases and new employer mandates to help small businesses survive.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Minimum_wage_in_California",
+        "title": "Minimum wage in California"
+      }
     },
     {
       "id": "q15",
       "dimension": "immigration",
       "agreeMeans": "minus",
-      "text": "Local police and jails should not help federal agents enforce immigration law."
+      "text": "Local police and jails should not help federal agents enforce immigration law.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/California_Values_Act",
+        "title": "California Values Act"
+      }
     },
     {
       "id": "q16",
       "dimension": "immigration",
       "agreeMeans": "plus",
-      "text": "State and local governments should cooperate fully with federal immigration enforcement."
+      "text": "State and local governments should cooperate fully with federal immigration enforcement.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Sanctuary_city",
+        "title": "Sanctuary city"
+      }
     },
     {
       "id": "q17",
       "dimension": "education",
       "agreeMeans": "plus",
-      "text": "Parents should be able to use public education funds at the school of their choice, including charter or private schools."
+      "text": "Parents should be able to use public education funds at the school of their choice, including charter or private schools.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/School_choice",
+        "title": "School choice"
+      }
     },
     {
       "id": "q18",
       "dimension": "education",
       "agreeMeans": "minus",
-      "text": "The growth of charter schools hurts traditional public schools and should be limited."
+      "text": "The growth of charter schools hurts traditional public schools and should be limited.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Charter_schools_in_the_United_States",
+        "title": "Charter schools in the United States"
+      }
     },
     {
       "id": "q19",
       "dimension": "social-issues",
       "agreeMeans": "minus",
-      "text": "Access to abortion should be protected by law."
+      "text": "Access to abortion should be protected by law.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Abortion_in_California",
+        "title": "Abortion in California"
+      }
     },
     {
       "id": "q20",
       "dimension": "social-issues",
       "agreeMeans": "plus",
-      "text": "Schools should tell parents if their child asks to use a different name or pronouns at school, even if the child objects."
+      "text": "Schools should tell parents if their child asks to use a different name or pronouns at school, even if the child objects.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Transgender_rights_in_California",
+        "title": "LGBTQ rights in California"
+      }
     },
     {
       "id": "q21",
       "dimension": "guns",
       "agreeMeans": "minus",
-      "text": "Gun laws should be stricter than they are now."
+      "text": "Gun laws should be stricter than they are now.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Gun_laws_in_California",
+        "title": "Gun laws in California"
+      }
     },
     {
       "id": "q22",
       "dimension": "guns",
       "agreeMeans": "plus",
-      "text": "Law-abiding adults should be able to carry a concealed firearm without extensive restrictions."
+      "text": "Law-abiding adults should be able to carry a concealed firearm without extensive restrictions.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/New_York_State_Rifle_%26_Pistol_Association,_Inc._v._Bruen",
+        "title": "New York State Rifle & Pistol Association v. Bruen"
+      }
     },
     {
       "id": "q23",
       "dimension": "health-care",
       "agreeMeans": "minus",
-      "text": "California should create a single, government-run health insurance plan for everyone."
+      "text": "California should create a single, government-run health insurance plan for everyone.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Single-payer_healthcare",
+        "title": "Single-payer healthcare"
+      }
     },
     {
       "id": "q24",
       "dimension": "health-care",
       "agreeMeans": "plus",
-      "text": "Private insurance and market competition are the best ways to keep health care affordable."
+      "text": "Private insurance and market competition are the best ways to keep health care affordable.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Covered_California",
+        "title": "Covered California"
+      }
     },
     {
       "id": "q25",
       "dimension": "transportation",
       "agreeMeans": "minus",
-      "text": "Cities should convert some car lanes and parking into bus lanes and protected bike lanes."
+      "text": "Cities should convert some car lanes and parking into bus lanes and protected bike lanes.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Road_diet",
+        "title": "Road diet"
+      }
     },
     {
       "id": "q26",
       "dimension": "transportation",
       "agreeMeans": "plus",
-      "text": "Road improvements for drivers should be a higher priority than new transit projects."
+      "text": "Road improvements for drivers should be a higher priority than new transit projects.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Transportation_in_Los_Angeles",
+        "title": "Transportation in Los Angeles"
+      }
     },
     {
       "id": "q27",
       "dimension": "elections-voting",
       "agreeMeans": "plus",
-      "text": "Voters should have to show a government-issued photo ID to vote, including by mail."
+      "text": "Voters should have to show a government-issued photo ID to vote, including by mail.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Voter_identification_laws_in_the_United_States",
+        "title": "Voter identification laws in the United States"
+      }
     },
     {
       "id": "q28",
       "dimension": "elections-voting",
       "agreeMeans": "minus",
-      "text": "Every registered voter should automatically be mailed a ballot."
+      "text": "Every registered voter should automatically be mailed a ballot.",
+      "learnMore": {
+        "url": "https://en.wikipedia.org/wiki/Postal_voting_in_the_United_States",
+        "title": "Postal voting in the United States"
+      }
     }
   ]
 }

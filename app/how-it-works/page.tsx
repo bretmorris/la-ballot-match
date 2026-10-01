@@ -43,7 +43,7 @@ export default function HowItWorks() {
             Each issue has two statements, written so that agreeing with one points the opposite way from agreeing with
             the other. This reduces the bias toward agreeing with whatever you read. Your answers (strongly disagree to
             strongly agree) average into a position from −1 to +1 on each issue. Your importance answer (0–3) sets that
-            issue&apos;s weight. Issues you mark &quot;doesn&apos;t matter to me&quot; are ignored.
+            issue&apos;s weight. Issues you mark &quot;doesn&apos;t matter to me&quot; are ignored. Each statement has a &quot;Learn more&quot; link to a Wikipedia article for background. I chose Wikipedia for neutral, general context, not to argue for either side.
           </p>
           <p>The issues and the two ends of each:</p>
           <table>

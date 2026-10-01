@@ -120,7 +120,7 @@ export default function AddressStep({ onBack, onDone }: Props) {
           </div>
         )}
 
-        {busy && <p className="meta">Looking up…</p>}
+        {busy && <p className="meta" style={{ marginTop: 16 }}>Looking up…</p>}
         {error && <p className="error">{error}</p>}
       </div>
     </section>

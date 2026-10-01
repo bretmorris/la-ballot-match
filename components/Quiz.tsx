@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import type { Bundle } from "@/lib/bundle"
 import type { QuizResponse } from "@/lib/match"
 
@@ -24,6 +24,9 @@ export default function Quiz({ bundle, response, onChange, onBack, onDone }: Pro
     )
     return i === -1 ? 0 : i
   })
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [page])
   const dim = dimensions[page]
   const items = quiz.items.filter((i) => i.dimension === dim.id)
   const answered = items.every((i) => response.answers[i.id] !== undefined) && response.importance[dim.id] !== undefined
@@ -50,7 +53,12 @@ export default function Quiz({ bundle, response, onChange, onBack, onDone }: Pro
             {dim.label}
           </legend>
           <div className="body" style={{ clear: "both" }}>
-            <p style={{ fontSize: 17 }}>{item.text}</p>
+            <p style={{ fontSize: 17, marginBottom: 6 }}>{item.text}</p>
+            {item.learnMore && (
+              <a className="meta" href={item.learnMore.url} target="_blank" rel="noreferrer">
+                Learn more: {item.learnMore.title} ↗
+              </a>
+            )}
           </div>
           {quiz.scale.map((s) => (
             <OvalRow
@@ -66,7 +74,7 @@ export default function Quiz({ bundle, response, onChange, onBack, onDone }: Pro
 
       <fieldset className="card" style={{ padding: 0 }}>
         <legend className="bar" style={{ width: "100%", float: "left" }}>
-          How much does {dim.label.toLowerCase()} matter to you?
+          {dim.label}: how much does this issue matter to you?
         </legend>
         <div style={{ clear: "both" }} />
         {quiz.importance.map((s) => (

@@ -37,7 +37,7 @@ export type Bundle = {
   quiz: {
     scale: { value: number; label: string }[]
     importance: { value: number; label: string }[]
-    items: (QuizItem & { text: string })[]
+    items: (QuizItem & { text: string; learnMore?: { url: string; title: string } })[]
   }
   contests: Contest[]
 }
