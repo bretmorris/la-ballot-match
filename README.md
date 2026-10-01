@@ -1,5 +1,9 @@
 # LA Ballot Match
 
+![LA Ballot Match: a ballot-style card reading "Take a short quiz on the issues" and "See which choices match your views"](.github/social-preview.png)
+
+**Live site: [la-ballot-match.vercel.app](https://la-ballot-match.vercel.app)**
+
 A nonpartisan tool that helps Los Angeles County voters see how the contests on their
 **November 3, 2026 General Election** ballot line up with their own stated political views.
 
