@@ -182,10 +182,16 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
   )
 }
 
+/** "A", "A and B", "A, B, and C" */
+const list = (xs: string[]) => new Intl.ListFormat("en", { style: "long", type: "conjunction" }).format(xs)
+const either = (xs: string[]) => new Intl.ListFormat("en", { style: "long", type: "disjunction" }).format(xs)
+/** Lowercase the first letter only, so "Abortion & LGBTQ+ rights" stays readable mid-sentence. */
+const lcFirst = (s: string) => s.charAt(0).toLowerCase() + s.slice(1)
+
 function measureTossUpReason(m: MeasureMatch | null | undefined, profile: Profile, dims: Record<string, Dimension>): string {
   const top = m?.byDimension[0]
   if (top && Math.abs(profile[top.dimension]?.position ?? 0) < 0.15) {
-    return `your quiz answers on ${dims[top.dimension].label.toLowerCase()}, the main issue here, were balanced between the two sides`
+    return `your quiz answers on ${lcFirst(dims[top.dimension].label)}, the main issue here, were balanced between the two sides`
   }
   return "this measure pulls both ways on the issues you care about"
 }
@@ -214,7 +220,7 @@ function Verdict({
     )
   }
   if (rec.kind === "pick") {
-    const label = c.kind === "measure" ? `${rec.optionIds[0].toUpperCase()}` : rec.optionIds.map(name).join(", ")
+    const label = c.kind === "measure" ? `${rec.optionIds[0].toUpperCase()}` : list(rec.optionIds.map(name))
     return (
       <div className="verdict">
         Best match for your answers: <strong>{label}</strong>
@@ -227,15 +233,15 @@ function Verdict({
       <div className="verdict">
         {rec.alsoPick?.length ? (
           <>
-            Best match for your answers: <strong>{rec.alsoPick.map(name).join(", ")}</strong>. For the remaining seat
-            {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up between {rec.optionIds.map(name).join(", ")}.
+            Best match for your answers: <strong>{list(rec.alsoPick.map(name))}</strong>. For the remaining seat
+            {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up among {either(rec.optionIds.map(name))}.
           </>
         ) : (
           <>
             Toss-up:{" "}
             {c.kind === "measure"
               ? measureTossUpReason(measure, profile, dims)
-              : `${rec.optionIds.map(name).join(" and ")} match you about equally`}
+              : `${list(rec.optionIds.map(name))} match you about equally`}
             .
           </>
         )}
@@ -251,7 +257,7 @@ function Verdict({
       {c.kind === "measure"
         ? "This measure doesn't clearly touch the issues you rated as important. Read the summary and decide."
         : someScored
-          ? `Not enough public information on ${rec.unscored!.map(name).join(", ")} to compare all the candidates fairly. See "Why, and sources" for what was found.`
+          ? `Not enough public information on ${list(rec.unscored!.map(name))} to compare all the candidates fairly. See "Why, and sources" for what was found.`
           : "Not enough public information on these candidates' positions to match them to your answers."}
     </div>
   )
