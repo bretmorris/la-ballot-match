@@ -1,0 +1,73 @@
+{
+  "contestId": "city-of-santa-clarita-member-of-the-city-council-4th-district",
+  "options": {
+    "jeffrey-berman": [],
+    "valerie-bradford": [],
+    "peter-yahiayan": [],
+    "nick-somers": [
+      {
+        "text": "\"I believe our city deserves thoughtful leadership, responsible growth, and a City Hall that listens.\" His site lists no detailed issue positions.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.nicksomers.com",
+          "title": "Nick Somers for Santa Clarita City Council 2026 (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      }
+    ],
+    "laurene-weste": [
+      {
+        "text": "Campaign site says she expanded protected open space to 16,000 acres linked by a 150-mile trail system, and lists as a priority an open-space green belt surrounding the City.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.laureneweste.com",
+          "title": "Laurene Weste for City Council (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      },
+      {
+        "text": "\"Build roads that ease traffic congestion.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.laureneweste.com",
+          "title": "Laurene Weste for City Council (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      },
+      {
+        "text": "Says she has grown the City's budget reserves to $27 million and delivered a balanced, on-time city budget every year.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.laureneweste.com",
+          "title": "Laurene Weste for City Council (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      },
+      {
+        "text": "\"Advocated for veterans' and senior housing\" and pledges to continue doing so.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.laureneweste.com",
+          "title": "Laurene Weste for City Council (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      },
+      {
+        "text": "Says she led opposition to a poorly sited State courthouse proposed near McBean Parkway and helped defeat the LA County prison proposed for Saugus.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.laureneweste.com",
+          "title": "Laurene Weste for City Council (campaign site)",
+          "retrieved": "2026-10-01"
+        }
+      }
+    ]
+  },
+  "notes": "Web search budget was exhausted during this run; sources limited to directly fetched campaign sites. No public positions found for jeffrey-berman, valerie-bradford, peter-yahiayan (valeriebradford.com is an unused parked domain). Somers site has a Priorities page with no text retrieved; Weste's site lists no statements on homelessness, public safety, or taxes. Incumbent recorded council votes not retrieved."
+}

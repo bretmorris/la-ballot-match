@@ -1,0 +1,273 @@
+{
+ "contestId": "city-of-west-hollywood-member-of-the-city-council",
+ "options": {
+  "helen-krieger": [
+   {
+    "text": "Pointed to a 2025 safety study suggesting digital billboards were not a major distraction concern (Streets for All debate).",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-billboard-pac-byers-krieger-cottrell-billboard-money/",
+     "title": "WEHO Online: Billboard money pours into new PAC backing Byers, Cottrell and Krieger (Sept 22, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by UNITE HERE Local 11, which backs rent control, the city minimum wage and the hotel-worker protection ordinance.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/unite-here-local-11-west-hollywood-election/",
+     "title": "WEHO Online: UNITE HERE Local 11 makes another push for power at West Hollywood City Hall (Sept 21, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "On filling the vacant council seat left by Erickson, Krieger supported filling it by council appointment.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   }
+  ],
+  "kody-christiansen": [
+   {
+    "text": "Criticized using fundraising totals as a forum qualification measure, questioning whether developer contributions reflect listening to renters and small business owners.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-business-forum-council-candidates/",
+     "title": "WEHO Online: Six take the stage Sunday in latest WeHo council showdown",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "jonathan-cottrell": [
+   {
+    "text": "On digital billboards, expressed skepticism: \"the Sunset Strip feels oversaturated\" (Streets for All debate).",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-billboard-pac-byers-krieger-cottrell-billboard-money/",
+     "title": "WEHO Online: Billboard money pours into new PAC backing Byers, Cottrell and Krieger (Sept 22, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by UNITE HERE Local 11, which backs rent control, the city minimum wage and the hotel-worker protection ordinance.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/unite-here-local-11-west-hollywood-election/",
+     "title": "WEHO Online: UNITE HERE Local 11 makes another push for power at West Hollywood City Hall (Sept 21, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "On filling the vacant council seat left by Erickson, Cottrell advocated a special election.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   }
+  ],
+  "stephen-j-post": [
+   {
+    "text": "Defended billboard revenue while calling for restrictions such as lower brightness (Streets for All debate).",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-billboard-pac-byers-krieger-cottrell-billboard-money/",
+     "title": "WEHO Online: Billboard money pours into new PAC backing Byers, Cottrell and Krieger (Sept 22, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by UNITE HERE Local 11, which backs rent control, the city minimum wage and the hotel-worker protection ordinance.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/unite-here-local-11-west-hollywood-election/",
+     "title": "WEHO Online: UNITE HERE Local 11 makes another push for power at West Hollywood City Hall (Sept 21, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   }
+  ],
+  "kevin-l-ligon": [],
+  "j-el-zald-var": [],
+  "tom-demille": [],
+  "john-duran": [
+   {
+    "text": "On housing, said he would \"put some restraint on\" new construction \"because I think it's gone too far\" (Sept 27, 2026 forum).",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "On the Fountain Avenue redesign: \"Leave Fountain exactly as it is.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "transportation"
+   },
+   {
+    "text": "Opposes new billboards on Santa Monica Boulevard: \"I don't believe that we should be putting new billboards on Santa Monica Boulevard.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On minimum wage: \"I would have kept us on par with the City of Los Angeles.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "On policing: \"I never would have defunded the sheriffs\"; supports more foot patrols in the Rainbow District.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   },
+   {
+    "text": "Said license-plate-reader (Flock) cameras \"are fine\" with usage restrictions.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/john-duran-west-hollywood-city-council-comeback/",
+     "title": "WEHO Online: John Duran makes his case for a City Hall comeback (Sept 27, 2026 forum)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   },
+   {
+    "text": "On filling the vacant council seat left by Erickson, Duran preferred a special election over a council appointment.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   },
+   {
+    "text": "Endorsed by ALADS (Association for Los Angeles Deputy Sheriffs); UNITE HERE Local 11 recommends voting No on him.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-business-forum-council-candidates/",
+     "title": "WEHO Online: Six take the stage Sunday in latest WeHo council showdown",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   }
+  ],
+  "larry-block": [
+   {
+    "text": "On filling the vacant council seat left by Erickson, Block favored a special election.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   },
+   {
+    "text": "Endorsed by ALADS (sheriff's deputies union); UNITE HERE Local 11 recommends voting No on him.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-business-forum-council-candidates/",
+     "title": "WEHO Online: Six take the stage Sunday in latest WeHo council showdown",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   }
+  ],
+  "kyle-brazeal": [
+   {
+    "text": "On filling the vacant council seat left by Erickson, Brazeal supported a special election.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   },
+   {
+    "text": "Endorsed by ALADS (sheriff's deputies union).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-business-forum-council-candidates/",
+     "title": "WEHO Online: Six take the stage Sunday in latest WeHo council showdown",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   }
+  ],
+  "chelsea-byers": [
+   {
+    "text": "Defended West Hollywood's digital billboard program and the revenue it generates for city services (Streets for All debate).",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-billboard-pac-byers-krieger-cottrell-billboard-money/",
+     "title": "WEHO Online: Billboard money pours into new PAC backing Byers, Cottrell and Krieger (Sept 22, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by UNITE HERE Local 11, which backs rent control, the city minimum wage and the hotel-worker protection ordinance.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://wehoonline.com/unite-here-local-11-west-hollywood-election/",
+     "title": "WEHO Online: UNITE HERE Local 11 makes another push for power at West Hollywood City Hall (Sept 21, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "On filling the vacant council seat left by Erickson, Byers said filling it by appointment \"would be a conversation\".",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+     "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   }
+  ],
+  "alden-marlon-gobel": [],
+  "chukwudubem-chiedu-egbuniwe": [],
+  "tatyana-tanya-tsikanovsky": [
+   {
+    "text": "Noted her roughly $40,000 in campaign funds came entirely from individual donors with no self-funding.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wehoonline.com/west-hollywood-business-forum-council-candidates/",
+     "title": "WEHO Online: Six take the stage Sunday in latest WeHo council showdown",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   }
+  ]
+ },
+ "notes": "Evidence drawn from WEHO Online reporting of Sept 2026 forums (WebSearch unavailable; lavote statements and candidate sites not reachable). No public positions found for: kevin-l-ligon, j-el-zald-var, tom-demille, alden-marlon-gobel, chukwudubem-chiedu-egbuniwe. Kody Christiansen and Tanya Tsikanovsky have only process comments, not policy positions."
+}

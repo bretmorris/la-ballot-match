@@ -1,0 +1,249 @@
+{
+ "contestId": "city-of-culver-city-member-of-the-city-council",
+ "options": {
+  "jeannine-wisnosky-stehlin": [
+   {
+    "text": "At a candidate forum, argued the city spends too much relative to its size, citing the $16 million homelessness expenditure as an example.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "homelessness"
+   },
+   {
+    "text": "At a housing/transportation forum, challenged the city's housing loan funding, saying officials were 'borrowing towards our reserves' and putting parking structures up as collateral.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "taxes-spending"
+   },
+   {
+    "text": "On wages, called for bringing stakeholders to the table for dialogue.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Declined to sign the Independent Auditor Pledge, citing a general policy against signing pledges, while saying she appreciated the spirit behind it.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/21/dear-editor-candidates-support-independent-auditor-for-fraud-waste-abuse-reporting/",
+     "title": "Culver City Crossroads: Dear Editor - Candidates Support Independent Auditor Pledge (2026-09-21)",
+     "retrieved": "2026-10-01"
+    }
+   },
+   {
+    "text": "Endorsed by the LA County Federation of Labor, IBEW Locals 11 and 40, UNITE HERE Local 11, and LIUNA Local 300.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/30/jeannine-wisnosky-stehlin-announces-endorsements-for-council-run/",
+     "title": "Culver City Crossroads: Stehlin Announces Endorsements for Council Run (2026-09-30)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Endorsed by the Culver City Chamber of Commerce and BizFed PAC.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/30/jeannine-wisnosky-stehlin-announces-endorsements-for-council-run/",
+     "title": "Culver City Crossroads: Stehlin Announces Endorsements for Council Run (2026-09-30)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Endorsed by Moms Demand Action (2026 Gun Sense Candidate).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/30/jeannine-wisnosky-stehlin-announces-endorsements-for-council-run/",
+     "title": "Culver City Crossroads: Stehlin Announces Endorsements for Council Run (2026-09-30)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "guns"
+   },
+   {
+    "text": "Action plan priorities: quality of life and environmental protection, traffic safety and mobility, affordability and fiscal responsibility, small business support, homelessness solutions, City-School District collaboration, and a lobbyist registry.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/30/jeannine-wisnosky-stehlin-announces-endorsements-for-council-run/",
+     "title": "Culver City Crossroads: Stehlin Announces Endorsements for Council Run (2026-09-30)",
+     "retrieved": "2026-10-01"
+    }
+   }
+  ],
+  "franklin-carvajal": [
+   {
+    "text": "On wages, recommended officials 'start with the small of the small' so micro-businesses survive, noting large corporations like Amazon and Apple don't need extra support.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Positioned himself as the middle ground in the race: 'I want to be the person in the middle... I'm going to shake things up.'",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    }
+   },
+   {
+    "text": "Signed the Independent Auditor Pledge, committing to appoint an Internal Auditor answering to the City Council with authority over the Fraud, Waste & Abuse hotline and unannounced departmental audits.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/21/dear-editor-candidates-support-independent-auditor-for-fraud-waste-abuse-reporting/",
+     "title": "Culver City Crossroads: Dear Editor - Candidates Support Independent Auditor Pledge (2026-09-21)",
+     "retrieved": "2026-10-01"
+    }
+   }
+  ],
+  "freddy-puza": [
+   {
+    "text": "Defended municipal loans for Jubilo Village housing; said drawing from reserves 'was a complex decision meant to tackle an urgent housing shortage.'",
+    "kind": "voting-record",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "Pointed to housing groundbreakings like Jubilo Village as proof of his record: 'People want tangible things.'",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "Said his campaign focuses on advancing safe transportation options, including the Better Overland project.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "transportation"
+   },
+   {
+    "text": "Cited a 30% reduction in unhoused residents during his tenure.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "homelessness"
+   },
+   {
+    "text": "Said a city study on wage adjustments is ongoing.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Signed the Independent Auditor Pledge, committing to appoint an Internal Auditor answering to the City Council with authority over the Fraud, Waste & Abuse hotline and unannounced departmental audits.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/21/dear-editor-candidates-support-independent-auditor-for-fraud-waste-abuse-reporting/",
+     "title": "Culver City Crossroads: Dear Editor - Candidates Support Independent Auditor Pledge (2026-09-21)",
+     "retrieved": "2026-10-01"
+    }
+   }
+  ],
+  "thomas-aujero-small": [
+   {
+    "text": "On wages, advocated 'sustainable wage floors' that protect active construction projects and worker protections.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "On the housing loans, described municipal bonding as standard governance but said 'I might not have voted for that.'",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "Neutral on the Better Overland project at the forum.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "transportation"
+   },
+   {
+    "text": "Signed the Independent Auditor Pledge, committing to appoint an Internal Auditor answering to the City Council with authority over the Fraud, Waste & Abuse hotline and unannounced departmental audits.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/21/dear-editor-candidates-support-independent-auditor-for-fraud-waste-abuse-reporting/",
+     "title": "Culver City Crossroads: Dear Editor - Candidates Support Independent Auditor Pledge (2026-09-21)",
+     "retrieved": "2026-10-01"
+    }
+   }
+  ],
+  "kimberley-kim-griffin": [
+   {
+    "text": "Raised concerns about financial exposure from the housing loans and called for more public oversight, saying the decision 'should have gone to a ballot.'",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+     "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "On wages, stated Culver City need not exceed state minimum wage laws.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+     "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+     "retrieved": "2026-10-01"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Signed the Independent Auditor Pledge, committing to appoint an Internal Auditor answering to the City Council with authority over the Fraud, Waste & Abuse hotline and unannounced departmental audits.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://culvercitycrossroads.com/2026/09/21/dear-editor-candidates-support-independent-auditor-for-fraud-waste-abuse-reporting/",
+     "title": "Culver City Crossroads: Dear Editor - Candidates Support Independent Auditor Pledge (2026-09-21)",
+     "retrieved": "2026-10-01"
+    }
+   }
+  ]
+ },
+ "notes": "Sources limited to Culver City Crossroads forum coverage (journalist summaries of candidate remarks) and Stehlin's endorsement announcement; web search was unavailable, so campaign sites and sample-ballot statements were not reviewed. Coverage is thin for Carvajal, Small and Griffin."
+}
