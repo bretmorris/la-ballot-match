@@ -1,0 +1,446 @@
+[
+  {
+    "id": "city-of-los-angeles-city-attorney",
+    "title": "City of Los Angeles — City Attorney",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "john-mckinney",
+        "name": "John McKinney",
+        "party": null,
+        "ballotDesignation": "Deputy District Attorney"
+      },
+      {
+        "id": "marissa-roy",
+        "name": "Marissa Roy",
+        "party": null,
+        "ballotDesignation": "Deputy Attorney General"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). Final certified list shows the contest as printed; the City Clerk page (clerk.lacity.gov) returned HTTP 403 and could not be fetched.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-member-of-the-city-council-3rd-district",
+    "title": "City of Los Angeles — Member of the City Council, 3rd District",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city-council",
+      "district": "3",
+      "name": "City of Los Angeles"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "timothy-k-gaspar",
+        "name": "Timothy K. Gaspar",
+        "party": null,
+        "ballotDesignation": "Valley Businessman/Parent"
+      },
+      {
+        "id": "barri-worth-girvan",
+        "name": "Barri Worth Girvan",
+        "party": null,
+        "ballotDesignation": "Valley Community Advocate"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). Final certified list shows the contest as printed; the City Clerk page (clerk.lacity.gov) returned HTTP 403 and could not be fetched.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-member-of-the-city-council-9th-district",
+    "title": "City of Los Angeles — Member of the City Council, 9th District",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city-council",
+      "district": "9",
+      "name": "City of Los Angeles"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "estuardo-mazariegos",
+        "name": "Estuardo Mazariegos",
+        "party": null,
+        "ballotDesignation": "Director, Community Organization"
+      },
+      {
+        "id": "jose-ugarte",
+        "name": "Jose Ugarte",
+        "party": null,
+        "ballotDesignation": "Community Outreach Director"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). Final certified list shows the contest as printed; the City Clerk page (clerk.lacity.gov) returned HTTP 403 and could not be fetched.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-mayor",
+    "title": "City of Los Angeles — Mayor",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "nithya-raman",
+        "name": "Nithya Raman",
+        "party": null,
+        "ballotDesignation": "Councilmember/Urban Planner"
+      },
+      {
+        "id": "karen-ruth-bass",
+        "name": "Karen Ruth Bass",
+        "party": null,
+        "ballotDesignation": "Mayor, City of Los Angeles"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). Final certified list shows the contest as printed; the City Clerk page (clerk.lacity.gov) returned HTTP 403 and could not be fetched.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-te",
+    "title": "City of Los Angeles — Measure TE: Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Provides a one-time exemption from the City's special documentary transfer tax (Proposition ULA) for residential properties damaged or destroyed in the Palisades Fire that are sold within five years of the fire.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-la",
+    "title": "City of Los Angeles — Measure LA: City Infrastructure, Budget, Finance, and Contracting. Charter Amendment LA",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the City Charter to establish a capital infrastructure plan and a two-year budget cycle, increase the authority of the Director of Public Works and allow elimination of or changes to the Board of Public Works, remove restrictions on the City engaging in business enterprises and mortgaging City-owned property, and change certain contracting rules and procedures.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-pl",
+    "title": "City of Los Angeles — Measure PL: City Planning Department. Charter Amendment PL",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the City Charter to replace Area Planning Commissions with a Neighborhood Appeals Commission, create a process for City Council review of Neighborhood Appeals Commission and City Planning Commission decisions, change the timing and process for Council action on certain planning decisions, give the Planning Department authority over certain quasi-judicial applications, and allow floor area regulations to be changed by ordinance.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-ee",
+    "title": "City of Los Angeles — Measure EE: City Ethics, Elections, and Governance. Charter Amendment EE",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the City Charter to increase the authority of the Police Department Inspector General and Fire Department Independent Assessor, bar Ethics Commissioners from running for certain elected offices for five years, increase penalties for campaign finance violations, require the City Council to meet at least weekly rather than three days a week, and increase referendum petition signature requirements.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-prk",
+    "title": "City of Los Angeles — Measure PRK: City Department of Recreation and Parks Budget. Charter Amendment PRK",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the City Charter to increase the minimum budget allocated to the Department of Recreation and Parks, phased in over ten years until it is double the current minimum, with exceptions for fiscal emergencies.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-prt",
+    "title": "City of Los Angeles — Measure PRT: City Airports, Harbor, and Water and Power Departments. Charter Amendment PRT",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the City Charter to require the Harbor Department to allocate funds for waterfront public access projects, require disclosure of workforce impacts for certain Harbor Department leases and agreements, increase maximum terms for certain leases, and change the composition requirement for the Airport Commission.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-fd",
+    "title": "City of Los Angeles — Measure FD: Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax. Initiative Ordinance FD",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Imposes a one-half percent (0.5%) sales tax in the City of Los Angeles to fund the Fire Department, including hiring firefighters and paramedics, vehicles and equipment, fire stations and brush clearance. Generates about $345 million a year until ended by voters, with annual audits and a citizen's oversight committee.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "city-of-los-angeles-measure-sc",
+    "title": "City of Los Angeles — Measure SC: Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections. Charter Amendment SC",
+    "level": "city",
+    "jurisdiction": {
+      "type": "city",
+      "district": null,
+      "name": "City of Los Angeles"
+    },
+    "kind": "measure",
+    "voteFor": 1,
+    "summary": "Amends the Los Angeles City Charter to clarify the campaign finance rules for Board of Education (LAUSD) elections and allow them to be changed by ordinance.",
+    "options": [
+      {
+        "id": "yes",
+        "name": "Yes"
+      },
+      {
+        "id": "no",
+        "name": "No"
+      }
+    ],
+    "notes": "Vote required to pass: Majority Vote 50%+1. Summary condensed from the official ballot question in the RR/CC Final Measures list (rev. 9/22/2026); impartial analyses were not available in the sources reviewed.",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026.pdf",
+        "title": "LA County RR/CC - Final Measures Appearing on the Ballot, General Election 11/3/2026 (rev. 9/22/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
+        "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

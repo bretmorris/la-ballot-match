@@ -24,7 +24,7 @@
         "ballotDesignation": "Labor Union Organizer"
       }
     ],
-    "notes": "The June 2026 primary results published by LA County list only BOE District 3 for the county, consistent with District 3 covering Los Angeles County; this was not independently confirmed against an official district boundary document. Both advancing candidates list Democratic party preference.",
+    "notes": "Los Angeles County is entirely within BOE District 3 (SOS BOE district map lists District 3 = Los Angeles; BOE member page states the 3rd District covers all of Los Angeles County). The other three districts (1, 2, 4) do not include LA County. Both advancing candidates list Democratic party preference.",
     "sources": [
       {
         "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
@@ -32,8 +32,13 @@
         "retrieved": "2026-09-30"
       },
       {
-        "url": "https://results.lavote.gov/text-results/4338",
-        "title": "June 02, 2026 Primary Election Results, Text Version (LA County RR/CC)",
+        "url": "https://vigarchive.sos.ca.gov/2022/primary/voter-info/boe-map.htm",
+        "title": "California Board of Equalization Districts (CA SOS, 2022 map)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.boe.ca.gov/members/board.htm",
+        "title": "Board Members (California State Board of Equalization)",
         "retrieved": "2026-09-30"
       }
     ]

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-002",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 002",
+    "level": "school",
+    "jurisdiction": {
+      "type": "community-college",
+      "district": "2",
+      "name": "Los Angeles Community College District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "steven-f-veres",
+        "name": "Steven F. Veres",
+        "party": null,
+        "ballotDesignation": "Los Angeles Community College District, Member of the Board of Trustees",
+        "incumbent": true
+      },
+      {
+        "id": "robert-payne",
+        "name": "Robert Payne",
+        "party": null,
+        "ballotDesignation": "Researcher/Writer/Environmentalist"
+      },
+      {
+        "id": "kristina-irwin",
+        "name": "Kristina Irwin",
+        "party": null,
+        "ballotDesignation": "Parent/Business Owner"
+      },
+      {
+        "id": "roy-payan",
+        "name": "Roy Payan",
+        "party": null,
+        "ballotDesignation": "Disabled Student Advocate"
+      },
+      {
+        "id": "adriana-cabrera",
+        "name": "Adriana Cabrera",
+        "party": null,
+        "ballotDesignation": "Educator"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). LAUSD: no LAUSD Board of Education contest appears on the RR/CC certified list or measures list; per LAist, the 2026 LAUSD seats (Districts 2, 4, 6) were decided outright in the June 2, 2026 primary (https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-live-results-lausd-board-districts-2-4-6).",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-004",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 004",
+    "level": "school",
+    "jurisdiction": {
+      "type": "community-college",
+      "district": "4",
+      "name": "Los Angeles Community College District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "nancy-pearlman",
+        "name": "Nancy Pearlman",
+        "party": null,
+        "ballotDesignation": "Environmentalist/Anthropologist/Educator"
+      },
+      {
+        "id": "darryn-harris",
+        "name": "Darryn Harris",
+        "party": null,
+        "ballotDesignation": "Community College Educator"
+      },
+      {
+        "id": "adam-bruno",
+        "name": "Adam Bruno",
+        "party": null,
+        "ballotDesignation": "SHERMAN OAKS, CA  91413"
+      },
+      {
+        "id": "elaine-alaniz",
+        "name": "Elaine Alaniz",
+        "party": null,
+        "ballotDesignation": "Healthcare Workforce Specialist"
+      },
+      {
+        "id": "isidro-j-armenta",
+        "name": "Isidro J. Armenta",
+        "party": null,
+        "ballotDesignation": "Fire Department Employee"
+      },
+      {
+        "id": "priscilla-umana",
+        "name": "Priscilla Umana",
+        "party": null,
+        "ballotDesignation": "ASL Educational Interpreter"
+      },
+      {
+        "id": "jason-r-aula",
+        "name": "Jason R. Aula",
+        "party": null,
+        "ballotDesignation": "Business Owner/Journalist"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). LAUSD: no LAUSD Board of Education contest appears on the RR/CC certified list or measures list; per LAist, the 2026 LAUSD seats (Districts 2, 4, 6) were decided outright in the June 2, 2026 primary (https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-live-results-lausd-board-districts-2-4-6).",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-006",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 006",
+    "level": "school",
+    "jurisdiction": {
+      "type": "community-college",
+      "district": "6",
+      "name": "Los Angeles Community College District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "gabriel-buelna",
+        "name": "Gabriel Buelna",
+        "party": null,
+        "ballotDesignation": "Member of the Board of Trustees, Los Angeles Community College District, Seat 6",
+        "incumbent": true
+      },
+      {
+        "id": "tonia-arey",
+        "name": "Tonia Arey",
+        "party": null,
+        "ballotDesignation": "Realtor"
+      },
+      {
+        "id": "randall-winston",
+        "name": "Randall Winston",
+        "party": null,
+        "ballotDesignation": "Architect"
+      },
+      {
+        "id": "roberto-david-lacarra",
+        "name": "Roberto David Lacarra",
+        "party": null,
+        "ballotDesignation": "Community College Professor"
+      }
+    ],
+    "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation). LAUSD: no LAUSD Board of Education contest appears on the RR/CC certified list or measures list; per LAist, the 2026 LAUSD seats (Districts 2, 4, 6) were decided outright in the June 2, 2026 primary (https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-live-results-lausd-board-districts-2-4-6).",
+    "sources": [
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+        "title": "LA County RR/CC - Final List of Qualified Candidates to Appear on the Ballot, General Election 11/3/2026 (dated 9/2/2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
+        "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]
