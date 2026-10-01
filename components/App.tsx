@@ -52,17 +52,17 @@ export default function App() {
               much each one matters to you.
             </p>
             <p>
-              <strong>2. Enter your address</strong>{" "}so we can find the contests on your ballot.
+              <strong>2. Enter your address</strong>{" "}so the site can find the contests on your ballot.
             </p>
             <p>
-              <strong>3. See your matches.</strong>{" "}For each contest we show which choice best lines up with your answers,
+              <strong>3. See your matches.</strong>{" "}For each contest, the site shows which choice best lines up with your answers,
               based on the candidates&apos; own statements and records and the official text of each measure. Every match
               links to its sources.
             </p>
             <p className="meta">
-              Your answers and address stay in your browser and are never stored. The address is sent once to the US
-              Census geocoder (via our server, without logging) to find your location. This is a tool for thinking
-              things through, not an instruction on how to vote. Where we don&apos;t have enough information, we say so.
+              Your answers and address stay in your browser and are never stored. The address is sent once to LA County&apos;s
+              address locator (through this site&apos;s server, without logging) to find your location. This is a tool for thinking
+              things through, not an instruction on how to vote. Where there isn&apos;t enough information, it says so.
             </p>
             <div className="btns">
               <button className="btn primary" disabled={!bundle} onClick={() => setStep("quiz")}>

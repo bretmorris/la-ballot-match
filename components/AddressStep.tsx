@@ -74,7 +74,7 @@ export default function AddressStep({ onBack, onDone }: Props) {
       <div className="bar">Where are you registered to vote?</div>
       <div className="body">
         <p className="meta">
-          Your ballot depends on your address. We use it only to find your districts. It isn&apos;t stored.
+          Your ballot depends on your address. It&apos;s used only to find your districts. It isn&apos;t stored.
         </p>
         <form
           onSubmit={(e) => {
@@ -109,7 +109,7 @@ export default function AddressStep({ onBack, onDone }: Props) {
         {found && (
           <div style={{ marginTop: 16, borderTop: "1px solid var(--rule-soft)", paddingTop: 12 }}>
             <p>
-              We found: <strong>{found.matched}</strong>
+              Found: <strong>{found.matched}</strong>
             </p>
             <p className="meta">Is this right? If not, edit the address above and try again.</p>
             <div className="btns">

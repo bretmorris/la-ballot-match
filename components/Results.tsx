@@ -251,7 +251,7 @@ function Verdict({
       {c.kind === "measure"
         ? "This measure doesn't clearly touch the issues you rated as important. Read the summary and decide."
         : someScored
-          ? `Not enough public information on ${rec.unscored!.map(name).join(", ")} to compare all the candidates fairly. See "Why, and sources" for what we found.`
+          ? `Not enough public information on ${rec.unscored!.map(name).join(", ")} to compare all the candidates fairly. See "Why, and sources" for what was found.`
           : "Not enough public information on these candidates' positions to match them to your answers."}
     </div>
   )

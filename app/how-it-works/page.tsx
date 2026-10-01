@@ -23,7 +23,7 @@ export default function HowItWorks() {
         <div className="body prose">
           <p>
             You answer {quiz.items.length} statements about {dimensions.length} issues and say how much each issue matters to
-            you. We look up the contests on your ballot from your address. Ahead of time, we collected what each
+            you. The site looks up the contests on your ballot from your address. Ahead of time, I collected what each
             candidate has said and done, with links, and used an AI model called <strong>Jev</strong> to place every
             candidate and measure on the same {dimensions.length} issues. Your browser then compares your answers to those
             placements with simple arithmetic and shows the closest match in each contest, or says there isn&apos;t enough
@@ -75,11 +75,12 @@ export default function HowItWorks() {
         <div className="bar">2. Finding your ballot</div>
         <div className="body prose">
           <p>
-            Your address is sent once, inside the body of a request to our server, which passes it to the{" "}
+            Your address is sent once, inside the body of a request to this site&apos;s server, which passes it to LA
+            County&apos;s public address locator (falling back to the{" "}
             <a href="https://geocoding.geo.census.gov/" target="_blank" rel="noreferrer">
               US Census Bureau geocoder
             </a>{" "}
-            to get latitude and longitude. (The Census service doesn&apos;t accept requests directly from browsers.) Our
+            if the county&apos;s can&apos;t find it) to get latitude and longitude. (Neither service accepts requests directly from browsers.) The
             server doesn&apos;t store or log the address. You confirm the matched address, and then your browser sends only the
             coordinates to LA County Registrar-Recorder/County Clerk&apos;s public precinct map service. That service
             returns your precinct and every district it belongs to: congressional, state legislative, supervisorial, city
@@ -124,7 +125,7 @@ export default function HowItWorks() {
               Jev
             </a>{" "}
             is a &quot;System One&quot; model from TypeSafe. It doesn&apos;t write text. It answers narrowly defined questions with
-            probabilities. We use version <code>{J.JEV_MODEL}</code>. For each candidate and each issue, Jev receives the
+            probabilities. I use version <code>{J.JEV_MODEL}</code>. For each candidate and each issue, Jev receives the
             candidate&apos;s name, party, ballot designation and the collected notes, and answers two questions. Here are
             the exact questions for the &quot;{example.label}&quot; issue:
           </p>
@@ -143,7 +144,7 @@ export default function HowItWorks() {
           </p>
           <pre>{J.candidateEvidenceInstructions(example)}</pre>
           <p>
-            Jev returns a probability for each level. We use the probability-weighted average as the candidate&apos;s
+            Jev returns a probability for each level. The site uses the probability-weighted average as the candidate&apos;s
             position (−1 to +1), and the yes-probability of the second question as how much evidence there is. An
             issue with no evidence counts for nothing, even if a party label might suggest a position.
           </p>
@@ -170,15 +171,15 @@ export default function HowItWorks() {
           <p>
             <strong>Candidates.</strong> On each issue where a candidate has evidence, closeness is 1 − |your position −
             their position| ÷ 2, from 0 (opposite ends) to 1 (identical). A candidate&apos;s alignment is the average closeness,
-            weighted by how much you care about each issue × how much evidence there is. We only compare candidates
+            weighted by how much you care about each issue × how much evidence there is. The site only compares candidates
             whose evidence adds up to at least {MIN_EVIDENCE_WEIGHT} (importance × evidence, about two issues you care
-            about). If the top two are within {Math.round(MIN_CANDIDATE_MARGIN * 100)} points, we call it a toss-up.
+            about). If the top two are within {Math.round(MIN_CANDIDATE_MARGIN * 100)} points, it calls it a toss-up.
           </p>
           <p>
             <strong>Measures.</strong> For each issue, your position × the direction of a YES vote shows whether YES
             moves toward you or away, weighted by importance × relevance. If the measure barely touches the issues you
             care about (weight under {MIN_MEASURE_RELEVANCE}), or the overall lean is under{" "}
-            {Math.round(MIN_MEASURE_LEAN * 100)}%, we don&apos;t pick a side.
+            {Math.round(MIN_MEASURE_LEAN * 100)}%, it doesn&apos;t pick a side.
           </p>
           <p>
             <strong>Known limits.</strong> Two candidates can be compared on different sets of issues. An incumbent
@@ -188,8 +189,8 @@ export default function HowItWorks() {
             nudge the placement.
           </p>
           <p>
-            <strong>What we don&apos;t do.</strong> The match itself never uses party. We make no recommendation in judicial retention
-            elections, because judges don&apos;t campaign on policy. We don&apos;t weigh experience, character, competence,
+            <strong>What it doesn&apos;t do.</strong> The match itself never uses party. It makes no recommendation in judicial retention
+            elections, because judges don&apos;t campaign on policy. It doesn&apos;t weigh experience, character, competence,
             or anything else outside the quiz, and those may matter more to you.
           </p>
         </div>
@@ -199,8 +200,8 @@ export default function HowItWorks() {
         <div className="bar">Privacy</div>
         <div className="body prose">
           <p>
-            There are no accounts, cookies, analytics or ads. Your quiz answers never leave your browser. Your address
-            is sent to our server once, only to get coordinates, and isn&apos;t stored. Our host (Vercel) keeps standard
+            There are no accounts, cookies or ads. The site counts page visits with Vercel Web Analytics, which uses no cookies and doesn&apos;t identify you, so I can see roughly how many people use it. Your quiz answers never leave your browser. Your address
+            is sent to this site&apos;s server once, only to get coordinates, and isn&apos;t stored. The host (Vercel) keeps standard
             request logs (such as IP address and the page requested), but the address travels in the request body,
             which isn&apos;t logged. Messages sent through the contact form are delivered by email (via Resend) and used only
             to reply and fix problems.
