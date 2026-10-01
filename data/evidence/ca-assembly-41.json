@@ -1,0 +1,118 @@
+{
+  "contestId": "ca-assembly-41",
+  "options": {
+    "john-harabedian": [
+      {
+        "text": "Campaign priority: \"BUILD AFFORDABLE HOUSING to reduce homelessness and make homeownership possible for young families.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"FUND MENTAL HEALTH treatment to get people off the streets and into long-term supportive care.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"COMBAT CLIMATE CHANGE by investing in the renewable energy and water infrastructure we urgently need.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"STRENGTHEN K-12 SCHOOLS by paying competitive salaries for teachers and expanding afterschool programs.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"KEEP NEIGHBORHOODS SAFE by improving enforcement of our gun laws and investing in rehabilitation.\"",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"DEFEND REPRODUCTIVE RIGHTS including access to birth control and abortion health care.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priority: \"SUPPORT LOCAL BUSINESSES by expanding public transit options and making downtown areas walkable.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://johnharabedian.com/",
+          "title": "John Harabedian for California State Assembly District 41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 493 (chaptered), requiring financial institutions to pay at least 2% simple annual interest on hazard insurance proceeds held in loss draft accounts while a home is rebuilt, aimed at disaster victims such as wildfire survivors.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB493",
+          "title": "AB 493 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 238 (Mortgage Forbearance Act), requiring mortgage servicers to offer wildfire-affected borrowers forbearance of up to 12 months, with no late fees and no foreclosure during forbearance.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB238",
+          "title": "AB 238 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2576, which adds State Historic Resources Inventory-listed historic sites and districts to the properties excluded from transit-oriented housing development streamlining provisions.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2576",
+          "title": "AB 2576 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1642, directing the Department of Toxic Substances Control to set lead and asbestos screening and remediation standards for properties after wildfires.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1642",
+          "title": "AB 1642 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "adam-christopher-vena": []
+  },
+  "notes": "No public positions found for adam-christopher-vena: no campaign website; Independent Journal Action voter guide (ijaction.org/ad-41-2026) reported positions not documented and no funds raised as of 2026-04-16. Harabedian floor votes not retrieved; evidence is campaign priorities and authored bills."
+}

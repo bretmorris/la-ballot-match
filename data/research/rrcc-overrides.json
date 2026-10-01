@@ -1,0 +1,21 @@
+{
+  "hawthorne-school-district-measure-hh": ["DST_ESD", "HAWTHORNE ELEMENTARY"],
+  "lancaster-school-district-governing-board-member-trustee-area-no-2": ["DIV_ESD", "LANCASTER ELEMENTARY TA2"],
+  "lancaster-school-district-governing-board-member-trustee-area-no-5": ["DIV_ESD", "LANCASTER ELEMENTARY TA5"],
+  "lawndale-school-district-governing-board-member-trustee-area-no-1": ["DIV_ESD", "LAWNDALE ELEMENTARY TA1"],
+  "lennox-school-district-governing-board-member": ["DST_ESD", "LENNOX ELEMENTARY"],
+  "little-lake-city-school-district-governing-board-member-trustee-area-no-1": ["DIV_ESD", "LITTLE LAKE CITY ELEMENTARY TA1"],
+  "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2": ["DST_JRC", "LOS ANGELES COMMUNITY COLLEGE"],
+  "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-4": ["DST_JRC", "LOS ANGELES COMMUNITY COLLEGE"],
+  "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-6": ["DST_JRC", "LOS ANGELES COMMUNITY COLLEGE"],
+  "mountain-view-school-district-governing-board-member": ["DST_ESD", "MOUNTAIN VIEW ELEMENTARY"],
+  "palmdale-school-district-governing-board-member-trustee-area-no-1": ["DIV_ESD", "PALMDALE ELEMENTARY TA1"],
+  "palmdale-school-district-governing-board-member-trustee-area-no-5": ["DIV_ESD", "PALMDALE ELEMENTARY TA5"],
+  "south-whittier-school-district-governing-board-member-trustee-area-no-5": ["DIV_ESD", "SOUTH WHITTIER ELEMENTARY TA5"],
+  "valle-lindo-school-district-governing-board-member": ["DST_ESD", "VALLE LINDO ELEMENTARY"],
+  "valley-county-water-district-member-board-of-directors": ["DST_CW", "VALLEY CO WATER"],
+  "water-replenishment-district-of-southern-california-member-board-of-directors-division-3": ["DIV_WR", "WATER REPL DIST OF SO CAL DIV 3"],
+  "water-replenishment-district-of-southern-california-member-board-of-directors-division-4": ["DIV_WR", "WATER REPL DIST OF SO CAL DIV 4"],
+  "westside-union-school-district-governing-board-member": ["DST_ESD", "WESTSIDE UNION ELEMENTARY"],
+  "whittier-city-school-district-governing-board-member-trustee-area-no-5": ["DIV_ESD", "WHITTIER CITY ELEMENTARY TA5"]
+}

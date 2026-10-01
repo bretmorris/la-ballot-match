@@ -1,0 +1,175 @@
+{
+ "contestId": "ca-assembly-53",
+ "options": {
+  "michelle-rodriguez": [
+   {
+    "text": "Campaign lists seven priorities: Safe Neighborhoods, Cleaner Air and Water, Healthcare for All, Jobs and the Economy, Women's Equality, Homelessness, and Schools and Higher Education.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://michelleforassembly.com/",
+     "title": "Michelle for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign priority listed as \"Healthcare for All.\"",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://womencount.org/candidate/michelle-rodriguez-ca-assembly-53/",
+     "title": "Michelle Rodriguez, CA-Assembly-53 - WomenCount",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign priority listed as \"Cleaner Air and Water.\"",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://michelleforassembly.com/",
+     "title": "Michelle for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign priority listed as \"Women's Equality.\"",
+    "kind": "own-statement",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://womencount.org/candidate/michelle-rodriguez-ca-assembly-53/",
+     "title": "Michelle Rodriguez, CA-Assembly-53 - WomenCount",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign priority listed as \"Homelessness.\" No specific approach was stated on the pages retrieved.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://michelleforassembly.com/",
+     "title": "Michelle for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Public safety platform: \"work with local police departments to fund and implement community policing programs.\"",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://ijaction.org/ad-53-2026/",
+     "title": "Assembly District 53 - IJ Action 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Served as a Commissioner on the California Commission on Peace Officer Standards and Training (POST) before her election.",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://en.wikipedia.org/wiki/Michelle_Rodriguez_(politician)",
+     "title": "Michelle Rodriguez (politician) - Wikipedia",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Los Angeles County Professional Peace Officers' Association, California Coalition of Law Enforcement Associations, California Police Chiefs Association, and California Correctional Peace Officers Association.",
+    "kind": "endorsement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://ijaction.org/ad-53-2026/",
+     "title": "Assembly District 53 - IJ Action 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Serves on the Assembly Banking and Finance, Revenue and Taxation, Insurance, Public Employment and Retirement, Economic Development, Governmental Organization, and Rules committees.",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.assembly.ca.gov/assemblymembers/53",
+     "title": "Assembly Member Rodriguez - California State Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 1628 (child protection: safe surrender), AB 2006 (daycare centers in state office buildings), AB 2453 (off-highway motor vehicles), and AB 744 (alcohol tied-house exceptions) in the 2025-26 session; she is Assistant Majority Whip.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://calmatters.digitaldemocracy.org/legislators/michelle-rodriguez-187426",
+     "title": "Michelle Rodriguez - Digital Democracy",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "rafaela-romero": [
+   {
+    "text": "\"I will fight to lower the cost of living for working families by opposing unnecessary tax increases, reducing burdensome regulations, and supporting policies that make California more affordable.\"",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On affordable housing she supports \"cutting unnecessary red tape, speeding up permits, lowering excessive fees.\"",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "\"I support holding repeat offenders accountable, supporting law enforcement, and investing in prevention programs that help young people stay on the right path.\"",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "\"Reading, writing, math, financial literacy, and career readiness should be priorities\"; supports expanding vocational education, trade programs and apprenticeships, plus tutoring and parental involvement.",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "\"California needs a reliable long-term water plan that supports families, farms, and communities\"; supports building more water storage, fixing aging water systems and capturing more stormwater.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists top priorities as lowering the cost of living for working families, prioritizing public safety, and improving education and infrastructure.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388867",
+     "title": "Vote411 Voter Guide, CA Assembly District 53",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Listed by the California Republican Party as its endorsed candidate for AD 53.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://cagop.org/endorsements/",
+     "title": "CAGOP Endorsements - California Republican Party",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Rodriguez (incumbent): no floor-vote records or issue-page text on housing, renters, guns, immigration, labor, elections could be retrieved (leginfo/asmdc.org pages failed or lacked vote data; Digital Democracy page did not show votes), and she left the Vote411 guide blank. Items are campaign priorities, committee roles, authored bills, and endorsements only. Romero (Republican, special education aide): no campaign website; evidence is from her Vote411 answers and a CAGOP endorsement listing; no positions found on renters, homelessness, climate, labor, immigration, social issues, guns, health care, transportation, elections."
+}

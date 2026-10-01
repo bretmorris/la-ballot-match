@@ -1,0 +1,200 @@
+{
+  "contestId": "ca-assembly-42",
+  "options": {
+    "deborah-klein-lopez": [
+      {
+        "text": "Seeks \"more resources for local law enforcement, including investment in technology\" and addressing retail theft, plus mental health beds and drug treatment facilities as alternatives to incarceration.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"increasing the supply of attainable housing through careful, well-planned development\" while respecting local concerns, restoring collaborative land-use planning and prioritizing workforce housing.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to \"cut red tape and reduce the cost and risk of doing business\" and pursue workforce development partnerships with educational institutions.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Champions \"expanding access to affordable, renewable energy for all communities\", reducing vehicle emissions and creating green jobs.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to \"stabilize school funding\" and empower educators; priorities include campus safety, facility modernization and expanded early learning and higher education access.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Aims to protect access to quality care, expand \"mental health and substance use treatment, with a focus on early, community-based support\", and protect reproductive health.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://deborahkleinlopez.com/issues/",
+          "title": "Issues - Deborah Klein Lopez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said \"I very much value our immigrant community\", advocated comprehensive federal immigration reform, and said immigrants deserve a path to citizenship.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On student privacy law AB 1955, said schools must prioritize student safety and trust since some students may not feel safe discussing gender identity or sexual orientation at home.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said Proposition 13 protections should be reformed to help seniors stay in homes or downsize without penalty.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party, CTA, CFT, SEIU, Equality California and other labor organizations.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://indivisibleventura.org/state-42nd-assembly-district-2026-primary-election/",
+          "title": "STATE: 42nd Assembly District (Indivisible Ventura)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"stand up to Trump's targeted attacks\", restore healthcare programs cut by the \"Big Beautiful Bill\", and support community choice energy to reduce utility costs.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://indivisibleventura.org/state-42nd-assembly-district-2026-primary-election/",
+          "title": "STATE: 42nd Assembly District (Indivisible Ventura)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ted-nordblum": [
+      {
+        "text": "Campaign aims to \"rid our community of crime\" and support law enforcement officers; says priorities include public safety, economic prosperity and quality of life.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://tednordblum.substack.com/p/ted-nordblum-for-state-assembly",
+          "title": "Ted Nordblum For State Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports cutting \"gas taxes\" and is \"running to protect Prop 13\".",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://tednordblum.substack.com/p/ted-nordblum-for-state-assembly",
+          "title": "Ted Nordblum For State Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports efforts to \"empower parents in shaping their kids' education.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://tednordblum.substack.com/p/ted-nordblum-for-state-assembly",
+          "title": "Ted Nordblum For State Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said \"I'm all for legal immigration,\" but \"If you're illegal, I'm sorry, you shouldn't be here. I'm all for the deportation right now.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On student privacy law AB 1955, said \"The parent raises the child, not the state,\" objecting to withholding information from parents about their children's decisions.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocated eliminating property taxes entirely, arguing homeowners shouldn't face ongoing taxation after purchase.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.toacorn.com/articles/debate-follows-party-line-script/",
+          "title": "Debate follows party-line script (Thousand Oaks Acorn)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Top priority is public safety; wants Proposition 36 funded; criticizes the Coastal Commission and CEQA as preventing new housing and favors rolling back home-building regulations.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://indivisibleventura.org/state-42nd-assembly-district-2026-primary-election/",
+          "title": "STATE: 42nd Assembly District (Indivisible Ventura)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports water infrastructure including Proposition 1 reservoirs and opposes excessive taxation on working families.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://indivisibleventura.org/state-42nd-assembly-district-2026-primary-election/",
+          "title": "STATE: 42nd Assembly District (Indivisible Ventura)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Neither is a legislator; no floor votes exist. Some endorsement items for Nordblum (e.g. Howard Jarvis, CRA) appeared only in search snippets and were not verified from a fetched page, so are omitted."
+}

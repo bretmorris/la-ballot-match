@@ -1,0 +1,178 @@
+{
+  "contestId": "la-city-mayor",
+  "options": {
+    "nithya-raman": [
+      {
+        "text": "At the runoff debate Raman said her 4th Council District saw a 49% decrease in unsheltered homelessness, and committed to auditing every city dollar spent on homelessness programs and tracking their performance.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Promises performance-based homelessness funding with public dashboards showing real-time data, ending underperforming contracts and maximizing existing shelter capacity.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted against the 2023 LAPD compensation package, saying: \"This contract gave raises to this PD that our city couldn't afford, and we suffered as a result.\" Says she would maintain LAPD staffing levels.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said LAPD Chief Jim McDonnell's response to ICE raids has not \"met the moment\" and that the city needs police leadership that respects this. Describes herself as author of the Sanctuary City Ordinance barring city resources for federal immigration enforcement.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said \"Yes, I'm a YIMBY\"; supports state housing law SB 79 (transit-oriented density) with gentler local implementation, including unit and height caps in single-family neighborhoods.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.yahoo.com/news/articles/l-mayoral-candidate-nithya-ramans-110000360.html",
+          "title": "L.A. mayoral candidate Nithya Raman's record may surprise you",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Championed just-cause eviction protections extended to about 400,000 additional rental units beyond rent-stabilized housing, and backed strengthening the rent stabilization ordinance.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.yahoo.com/news/articles/l-mayoral-candidate-nithya-ramans-110000360.html",
+          "title": "L.A. mayoral candidate Nithya Raman's record may surprise you",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed exempting newer apartment buildings from the Measure ULA 5.3% tax on sales over $5.3 million, citing evidence ULA makes it harder for developers to profit.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.yahoo.com/news/articles/l-mayoral-candidate-nithya-ramans-110000360.html",
+          "title": "L.A. mayoral candidate Nithya Raman's record may surprise you",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said she backs a state film and TV tax credit like Georgia's to bring back production jobs.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposed costly motel/hotel temporary housing approach; criticized Bass's roughly $400 million Inside Safe spending and refusal to audit it.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "karen-ruth-bass": [
+      {
+        "text": "\"I achieved a 17.5% reduction in street homelessness.\" Launched Inside Safe to move people from encampments into housing; says \"We will not hide people; we will house them.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the debate, argued that if the city controls the homelessness system completely, it can contract with federally qualified health clinics for health care, drug and mental health treatment.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Executive Directive One fast-tracked affordable housing; Bass says it helped speed 42,000 housing units, and she is pursuing adaptive reuse of empty buildings.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+          "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"My budget for next year maintains our LAPD staffing goals\"; says \"The status quo simply cannot protect Angelenos.\" Campaign says LAPD is hiring new officers.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.cbsnews.com/losangeles/news/mayor-karen-bass-tackles-the-homeless-crisis-olympics-and-deficit",
+          "title": "Mayor Karen Bass tackles the homeless crisis, Olympics and deficit (CBS LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Appointed Jim McDonnell as LAPD chief; her proposed budget prioritizes hiring about 510 new officers.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes her approach to Trump administration as \"resistance with a purpose\": protecting residents from aggressive enforcement while demanding the federal government meet its obligations to LA.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"If we want to house people; if we want to keep our city safe; if we want to fix our streets, we must pay our workers fairly.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.cbsnews.com/losangeles/news/mayor-karen-bass-tackles-the-homeless-crisis-olympics-and-deficit",
+          "title": "Mayor Karen Bass tackles the homeless crisis, Olympics and deficit (CBS LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, LA County Democratic Party and the Los Angeles Police Protective League.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+          "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

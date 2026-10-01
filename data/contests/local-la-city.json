@@ -36,6 +36,12 @@
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -74,6 +80,12 @@
         "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DIV_CITY",
+        "value": "CITY OF LOS ANGELES 03RD COUNCIL"
       }
     ]
   },
@@ -114,6 +126,12 @@
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DIV_CITY",
+        "value": "CITY OF LOS ANGELES 09TH COUNCIL"
+      }
     ]
   },
   {
@@ -153,6 +171,12 @@
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -188,6 +212,12 @@
         "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
       }
     ]
   },
@@ -225,6 +255,12 @@
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -260,6 +296,12 @@
         "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
       }
     ]
   },
@@ -297,6 +339,12 @@
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -332,6 +380,12 @@
         "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
       }
     ]
   },
@@ -369,6 +423,12 @@
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -405,6 +465,12 @@
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_CITY",
+        "value": "CITY OF LOS ANGELES"
+      }
     ]
   },
   {
@@ -440,6 +506,12 @@
         "url": "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections",
         "title": "LA County RR/CC - November 3, 2026 General Election (measures and offices)",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_USD",
+        "value": "LOS ANGELES USD"
       }
     ]
   }

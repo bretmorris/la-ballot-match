@@ -1,0 +1,98 @@
+{
+  "contestId": "ca-assembly-43",
+  "options": {
+    "celeste-rodriguez": [
+      {
+        "text": "Top priorities: lowering family expenses for food, housing and healthcare; protecting immigrant communities from ICE actions; and rebuilding social safety nets.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388816",
+          "title": "Member of the State Assembly, District 43 - VOTE411 Voter Guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"California must make it easier to stay housed, easier to work, and easier to raise children.\" Supports faster housing production, tenant protections, and rental assistance.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388816",
+          "title": "Member of the State Assembly, District 43 - VOTE411 Voter Guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports faster housing production and streamlined approvals alongside prevention strategies such as rental assistance.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388816",
+          "title": "Member of the State Assembly, District 43 - VOTE411 Voter Guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports full Proposition 98 funding and schools as \"community anchors\", with community schools, expanded early childhood education and family support.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388816",
+          "title": "Member of the State Assembly, District 43 - VOTE411 Voter Guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes ongoing funding and long-term maintenance for clean water infrastructure in San Fernando and groundwater cleanup, noting climate change intensifies these challenges.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388816",
+          "title": "Member of the State Assembly, District 43 - VOTE411 Voter Guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 495 (Family Preparedness Plan Act of 2025, chaptered): broadens caregiver authorizations and guardianship options when parents face immigration-related action, and limits schools and child care facilities from collecting immigration status information.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB495",
+          "title": "AB 495 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2428, eliminating many criminal administrative fees and making outstanding court-imposed cost balances unenforceable, citing burdens on low-income defendants.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2428",
+          "title": "AB 2428 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 799 (chaptered), creating a death benefit of $50,000 plus half of prior-year earnings for incarcerated Conservation Camp hand crew members who die in firefighting work.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB799",
+          "title": "AB 799 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2160, requiring updated Department of Health Care Services guidance on Medi-Cal coverage of lactation services without prior authorization or referral requirements.",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2160",
+          "title": "AB 2160 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ricardo-benitez": []
+  },
+  "notes": "No public positions found for ricardo-benitez: VOTE411 answers marked 'Candidate has not yet responded'; no campaign website; no funds raised as of 2026-04-16. Rodriguez floor votes not retrieved; evidence is questionnaire answers and authored bills."
+}

@@ -1,0 +1,168 @@
+{
+  "contestId": "la-city-city-attorney",
+  "options": {
+    "marissa-roy": [
+      {
+        "text": "\"I would also make sure that we are prosecuting rogue ICE agents.\" Proposes using consumer protection powers against companies enabling ICE surveillance or running detention centers unlawfully.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.huffpost.com/entry/los-angeles-city-attorney-marissa-roy_n_6a0e2f3fe4b079e4ea354c20",
+          "title": "How A Candidate For A Little-Known Public Office Plans To Take On Trump (HuffPost)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Plans a dedicated tenants rights unit and says the office can help prevent homelessness by holding landlords accountable and stopping illegal evictions.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.huffpost.com/entry/los-angeles-city-attorney-marissa-roy_n_6a0e2f3fe4b079e4ea354c20",
+          "title": "How A Candidate For A Little-Known Public Office Plans To Take On Trump (HuffPost)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Plans to massively expand wage theft enforcement, partnering with labor organizations to identify violators; cites a car wash case recovering $10,000-$40,000 per worker in back pay.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.huffpost.com/entry/los-angeles-city-attorney-marissa-roy_n_6a0e2f3fe4b079e4ea354c20",
+          "title": "How A Candidate For A Little-Known Public Office Plans To Take On Trump (HuffPost)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On LAPD liability: \"the best way to defend a client is to prevent the lawsuit — prevent them from breaking the law in the first place.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.huffpost.com/entry/los-angeles-city-attorney-marissa-roy_n_6a0e2f3fe4b079e4ea354c20",
+          "title": "How A Candidate For A Little-Known Public Office Plans To Take On Trump (HuffPost)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site lists priorities including public safety strategies that reduce cycles of criminalization while enhancing community safety, plus environmental enforcement against polluters.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.marissaroy.com/",
+          "title": "Marissa Roy For City Attorney (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the city attorney should fight the Trump administration and ICE, and that the office has been largely in the background of litigation on this.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-attorney",
+          "title": "Los Angeles City Attorney: Who's running Nov. 3 general and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Federation of Labor, United Teachers Los Angeles, DSA-LA and the LA County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.marissaroy.com/",
+          "title": "Marissa Roy For City Attorney (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Planned Parenthood, Sen. Bernie Sanders, Sen. Adam Schiff, Sen. Alex Padilla and Attorney General Rob Bonta.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.marissaroy.com/",
+          "title": "Marissa Roy For City Attorney (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "john-mckinney": [
+      {
+        "text": "Prioritizes prosecuting repeat offenders driving quality-of-life crime (theft, vandalism, property destruction) and organized retail shoplifting that threatens small businesses.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://patch.com/california/los-angeles/meet-john-mckinney-candidate-los-angeles-city-attorney",
+          "title": "Meet John McKinney, Candidate For Los Angeles City Attorney (Patch)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign focus includes \"more prosecutions for misdemeanor gun crimes\" and prosecuting illegal firearms possession.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.foxla.com/news/la-city-attorney-roy-mckinney-leading",
+          "title": "Marissa Roy, John McKinney leading race for LA City Attorney (Fox LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes street racing and open-air drug markets as \"immediate risks to public safety.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://patch.com/california/los-angeles/meet-john-mckinney-candidate-los-angeles-city-attorney",
+          "title": "Meet John McKinney, Candidate For Los Angeles City Attorney (Patch)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would enforce laws on encampments while \"keeping sidewalks passable, protecting parks and schools\"; favors \"compassionate accountability\" with diversion and services, and placing arrested homeless individuals into mental health or addiction treatment.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://patch.com/california/los-angeles/meet-john-mckinney-candidate-los-angeles-city-attorney",
+          "title": "Meet John McKinney, Candidate For Los Angeles City Attorney (Patch)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to cut costs by limiting private law firm contracts, noting the office has \"nearly 500 attorneys on staff.\" Runs on public safety plus fiscal restraint.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://voteorelse.com/2026/la-city-attorney",
+          "title": "Los Angeles City Attorney: Marissa Roy vs. John McKinney (Vote or Else)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles Police Protective League and LA County DA Nathan Hochman.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-attorney",
+          "title": "Los Angeles City Attorney: Who's running Nov. 3 general and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Central City Association and Latino Business Association (primary).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.foxla.com/news/la-city-attorney-roy-mckinney-leading",
+          "title": "Marissa Roy, John McKinney leading race for LA City Attorney (Fox LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA City Councilmember Traci Park.",
+        "kind": "endorsement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-attorney",
+          "title": "Los Angeles City Attorney: Who's running Nov. 3 general and why it matters (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

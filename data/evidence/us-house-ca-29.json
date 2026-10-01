@@ -1,0 +1,207 @@
+{
+  "contestId": "us-house-ca-29",
+  "options": {
+    "angelica-maria-duenas": [
+      {
+        "text": "Advocates for \"Medicare for All, promoting a single-payer solution.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Abolish and Prosecute ICE\"; says the agency \"terrorized families, violated due process.\" Advocates \"legal status for all, DREAM Act citizenship, work visa programs, healthcare access.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Ensuring housing as a fundamental right, we combat gentrification, advocate for affordable homes.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Close Billionaire Loopholes\": any loan backed by stock should be treated and taxed as income, just like wages.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"demilitarize police, boost accountability, end school-to-prison pipeline, ban private prisons, eliminate mandatory minimums.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Protect the right to unionize, raise the minimum wage to a living wage, defend collective bargaining.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Clean energy now to lower costs, create local jobs, and protect the health of our communities.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"stronger public schools, better teacher support,\" universal pre-K and Head Start, and tuition-free public college and trade schools.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Ensure access to abortion and reproductive healthcare, defend bodily autonomy\"; also pledges to protect LGBTQIA+ rights and ensure equal protection under the law.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"fight to get Corporate money out of politics and end Citizens United\"; campaign is \"100% funded by individual donations\" with no Super PAC, big oil, big pharma or war-industry money.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "States she will \"never vote to send U.S. weapons or military aid to Israel\" and has never taken AIPAC money.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://angelica4congress.com/",
+          "title": "Angélica Dueñas campaign site - policy positions",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "luz-maria-rivas": [
+      {
+        "text": "Voted NO on S. 2 (passed House 214-212), which adds $70 billion for ICE. Said: \"Republicans' reckless budget gives ICE an additional $70 billion to terrorize our communities.\"",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-votes-against-republicans-unprecedented-bill-fund-ice",
+          "title": "Rep. Rivas votes against Republicans' bill to fund ICE (June 9, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the HEART Act of 2026 to create a mental health office serving communities affected by ICE enforcement raids.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases",
+          "title": "Rep. Luz Rivas press releases (June 18, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged USCIS to address DACA renewal backlogs and urged DHS to extend TPS for Salvadoran migrants.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases",
+          "title": "Rep. Luz Rivas press releases (June 29 and July 7, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the Methane Pollution Accountability Act, requiring federal-lease oil and gas operators to pay royalties on vented/flared methane and plan to reduce pollutants in environmental justice communities.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-protect-public-health-and-our",
+          "title": "Rivas introduces Methane Pollution Accountability Act (Aug 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted against the Republican Stop Insider Trading Act (failed 198-232, July 23, 2026), saying it \"will make mail-in voting harder\" and carries restrictive SAVE America Act voter ID provisions. Co-sponsored the Restore Trust in Government Act banning stock ownership by members of Congress.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-votes-against-republicans-bill-cover-insider-trading",
+          "title": "Rivas votes against Republicans' insider trading bill (July 23, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Welcomed the bipartisan 21st Century ROAD to Housing Act becoming law (House passed 358-32, June 23, 2026): \"Trump held our bipartisan housing bill hostage because he would rather make it harder to vote than make life more affordable.\"",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-bipartisan-housing-bill-becoming-law-after-trumps",
+          "title": "Rivas on bipartisan housing bill becoming law (July 11, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for H.Con.Res. 86 War Powers Resolution directing withdrawal from hostilities with Iran (passed 215-208); her fourth such vote. Cited gas prices of about $8 per gallon in LA County.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-votes-end-trumps-unconstitutional-war-iran",
+          "title": "Rivas votes to end war in Iran (June 4, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted to proceed with impeachment proceedings against President Trump (Sept 15, 2026): \"The President needs to be held accountable for ICE's actions and this Administration's abuses of power.\"",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases",
+          "title": "Rep. Luz Rivas press releases (Sept 15, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Member of the Congressional Progressive Caucus; joined the House Sustainable Energy and Environment Coalition (May 2026) to advance environmental justice and clean energy.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://rivas.house.gov/media/press-releases",
+          "title": "Rep. Luz Rivas press releases / official site",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rivas items come from her House office press releases (rivas.house.gov); her issues pages have no detailed positions, GovTrack returned 403, and no health-care, guns, abortion, tax or education votes were verified from fetched pages. Duenas items are from her campaign site only; she holds no office so there is no voting record."
+}

@@ -1,0 +1,179 @@
+{
+  "contestId": "us-house-ca-44",
+  "options": {
+    "nanette-diaz-barragan": [
+      {
+        "text": "'Healthcare is a fundamental right'; has consistently supported the Affordable Care Act and pledges to 'fight to preserve and strengthen health care reforms that make quality, affordable health coverage accessible to all.'",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://barragan.house.gov/issues/healthcare",
+          "title": "Healthcare - Rep. Nanette Barragan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted NO on House Republicans' September 2025 spending bill because it 'does nothing to solve the continuing health care crisis.'",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://barragan.house.gov/2025/09/19/press-release-congresswoman-barragans-statement-on-her-vote-on-house-republicans-spending-bill/",
+          "title": "Congresswoman Barragan's Statement on Her Vote on House Republicans' Spending Bill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "After a May 2026 oversight visit to the Dilley detention center: 'Why are young children being locked up at the Dilley Detention Center...? Our immigrant families should not be treated in this way.'",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://barragan.house.gov/2026/05/28/reps-barragan-castro-and-stanton-inspect-dilley-trailer-prison-meet-with-children-and-families/",
+          "title": "Reps. Barragan, Castro, and Stanton Inspect Dilley Trailer Prison",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-led a letter signed by 26 members urging DHS and ICE to investigate CoreCivic for denying people with disabilities basic medical care at the California City immigration facility (Jan. 2026).",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://barragan.house.gov/2026/01/16/representatives-barragan-and-chu-lead-a-california-member-letter-urging-dhs-and-ice-to-investigate-corecivic-for-disability-rights-violations-at-california-city-detention-facility/",
+          "title": "Barragan and Chu Lead California Member Letter on CoreCivic",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Led 38 lawmakers in a May 2026 letter urging EPA not to weaken the 2024 chemical accident prevention rule: 'All communities deserve to live their daily lives free from toxic exposure.'",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://barragan.house.gov/2026/05/11/__trashed-2/",
+          "title": "Barragan Leads Bicameral Opposition to New EPA Rule",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the Housing Tariff Exclusion Act (H.R. 10416, Sept. 16, 2026), creating a process to exempt home-building materials from current and future tariffs to lower construction costs.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.realestatenews.com/2026/09/25/new-legislation-would-exempt-building-materials-from-tariffs",
+          "title": "New legislation would exempt building materials from tariffs",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "genevieve-angel": [
+      {
+        "text": "Priorities include 'lowering out-of-pocket costs, expanding access to care, and improving system efficiency' in health care.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Frames her agenda around 'economic affordability: lowering the cost of living, supporting working families, and expanding economic opportunity.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'smart regulation' but says climate initiatives have 'burdened working Americans and increased the cost of living'; says over-regulation of oil, gas and refineries 'worsened economic conditions.'",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls for 'securing the border, creating fair legal pathways' and 'immigration policies that work in practice.'",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Second Amendment and 'an individual right to own firearms for self-defense, hunting, and sport.'",
+        "kind": "questionnaire",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes herself as 'personally pro-life' but respects states' right to decide; opposes a federal pro-life mandate; supports exceptions for the mother's life, rape and incest; opposes taxpayer funding for Planned Parenthood.",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "States that 'marriage is a union of one man and one woman' and that biological males should not participate in women's sports.",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports eliminating the U.S. Department of Education and 'giving control back to states, local school boards, and parents.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports requiring 'photo identification and proof of citizenship to vote in federal elections.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports term limits for Congress and restricting lawmakers and families from trading individual stocks.",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party and the Los Angeles County GOP.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-44-2026/genevieve-angel/",
+          "title": "Genevieve Angel - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Angel's campaign site lists only four slogan-level priorities (affordability, public safety, healthcare reform, immigration reform) with no detail; most positions come from her questionnaire answers as summarized on smarter.vote. Ballotpedia could not be retrieved. Barragan's housing and safer-communities issue pages returned 404/limited content; govtrack and legisletter vote data were blocked or generic, so no specific roll-call votes beyond the Sept. 2025 spending bill are recorded."
+}

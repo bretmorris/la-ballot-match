@@ -1,0 +1,189 @@
+{
+  "contestId": "us-house-ca-45",
+  "options": {
+    "derek-tran": [
+      {
+        "text": "Says 'healthcare should be a right, not a privilege'; supports lowering health and prescription-drug costs, opposes Medicaid cuts, and supports defending Medicare.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'a living-wage minimum wage' and 'cutting taxes for middle-class families and small businesses.'",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposed H.R. 4776 (the SPEED Act) and supported restrictions on new West Coast oil and gas leasing.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes himself as '100% pro-choice'; co-sponsored the Right to Contraception Act, the Women's Health Protection Act, and the EACH Act.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says 'the United States is strengthened by immigration' and opposes 'unchecked or abusive ICE practices'; backed H.R. 9883 letting families sue private ICE detention centers. Voted Yea on the Laken Riley Act.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports universal background checks, an assault weapons ban, and increased investment in violence prevention.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of H.R. 14, the John R. Lewis Voting Rights Advancement Act; supports early voting, vote-by-mail, and automatic voter registration.",
+        "kind": "official-action",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Yea on the Stop Insider Trading Act.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/derek-tran/",
+          "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the Housing COST Act (Sept. 24, 2026) creating tax credits for renters facing rising housing costs.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://tran.house.gov/media/press-releases",
+          "title": "Press Releases - Rep. Derek Tran",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "chuong-v-vo": [
+      {
+        "text": "Says 'Government wastes money too easily'; opposed a 2020 Cerritos sales tax increase, arguing the city could balance its budget without it.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://breakingbattlegrounds.substack.com/p/from-cop-to-mayor-to-congress-chuong",
+          "title": "From Cop to Mayor to Congress: Chuong Vo's Case for Common-Sense Government",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would address affordability by 'cutting wasteful government spending and auditing agencies for waste and fraud'; signed the Americans for Tax Reform Taxpayer Protection Pledge against tax increases.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites rising crime as a motivation for running; wants a 'common sense' approach and says 'Results matter more than rhetoric.'",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://breakingbattlegrounds.substack.com/p/from-cop-to-mayor-to-congress-chuong",
+          "title": "From Cop to Mayor to Congress: Chuong Vo's Case for Common-Sense Government",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports body-worn cameras, de-escalation training and community policing; says 'We don't need more racial profiling.'",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says environmental policy should 'protect clean air and water without punishing families, small businesses, or driving jobs' and favors 'cleaner technology while keeping energy affordable.'",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to 'secure the border and restore order, then modernize legal immigration,' with faster asylum and visa processing and 'professional enforcement without racial profiling.'",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'requiring proof of citizenship to vote as a safeguard' while saying voting 'should remain easy and states should retain flexibility.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says 'Parents should be partners in education' and supports improving reading, math and science and expanding career and technical education.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Publicly identified as pro-life; recommended by the California ProLife Council as its 2026 candidate.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+          "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Vo: campaign-site platform items come via the smarter.vote summary; Ballotpedia and oppintell could not be retrieved. No findable positions on housing, health care, guns, or labor. Tran: house.gov pages blocked (403), so items rely on the smarter.vote profile of his record; the Housing COST Act item comes from a search result snippet of tran.house.gov press releases and should be treated as less verified."
+}

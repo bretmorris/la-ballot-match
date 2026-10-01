@@ -1,0 +1,219 @@
+{
+  "contestId": "us-house-ca-43",
+  "options": {
+    "maxine-waters": [
+      {
+        "text": "Sponsored the Ending Homelessness Act of 2025 (H.R. 4872) and the Housing Crisis Response Act of 2025 (H.R. 6771); backed the 21st Century ROAD to Housing Act (H.R. 6644, June 2026), including limits on large institutional investors buying single-family homes.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/maxine-waters/",
+          "title": "Maxine Waters - 2026 CA-43 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Applauded a federal court ruling that temporarily blocked the Trump administration from suspending the Los Angeles Homeless Services Authority from federal homelessness grant programs (Aug. 14, 2026 press release).",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://waters.house.gov/media-center/press-releases",
+          "title": "Press Releases - Rep. Maxine Waters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cosponsored the Medicare for All Act (H.R. 3069) and introduced bills for diabetes care grants and maternal and infant health services in underserved communities.",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/maxine-waters/",
+          "title": "Maxine Waters - 2026 CA-43 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes offshore oil drilling off California's coast, supports U.S. participation in the Paris Climate Agreement, opposes EPA budget cuts, and supports zero-emission transit.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/maxine-waters/",
+          "title": "Maxine Waters - 2026 CA-43 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cosponsored the Assault Weapons Ban of 2025 (H.R. 3115) and took part in the 2016 House Democratic sit-in demanding votes on gun-control legislation.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/maxine-waters/",
+          "title": "Maxine Waters - 2026 CA-43 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes mass-deportation policies and federal targeting of sanctuary cities (May 28, 2026 release); cosponsored the Keep Families Together Act and the Haitian Refugee Immigration Fairness Act of 2026.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "http://waters.house.gov/issues/immigration",
+          "title": "Immigration - Rep. Maxine Waters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes efforts to restrict mail-in voting and shift election control to the federal government; criticized federal use of government data to verify voter eligibility (May 28, 2026 press release).",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://waters.house.gov/media-center/press-releases",
+          "title": "Press Releases - Rep. Maxine Waters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for the George Floyd Justice in Policing Act (H.R. 1280): 'Today, in honor of every person who was taken from us too soon, I voted in favor of the George Floyd Justice in Policing Act.'",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://waters.house.gov/media-center/press-releases/waters-statement-passage-george-floyd-justice-policing-act",
+          "title": "Waters Statement on Passage of the George Floyd Justice in Policing Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-introduced the Workforce Justice Act (2021) to push states to 'ban the box' by removing criminal-history questions from job applications until after a conditional offer, for public and private employers.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://waters.house.gov/media-center/press-releases/waters-trone-introduce-historic-legislation-ban-box-employment",
+          "title": "Waters, Trone Introduce Legislation to Ban the Box",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-introduced legislation protecting small businesses from anti-competitive pricing (Fair Competition Act for Small Businesses, Dec. 2025).",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://waters.house.gov/media-center/press-releases",
+          "title": "Press Releases - Rep. Maxine Waters",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "cristian-morales": [
+      {
+        "text": "Says jobs and housing are the district's top issues; wants to bring businesses and jobs back to California and address barriers to homeownership.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says Medicaid and Medicare should remain available but no other taxpayer-funded health care programs are necessary.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says California regulations impose excessive costs on businesses, favors developing nuclear or lower-emission energy, and says innovation could reduce the need for regulations.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes applicants who follow legal immigration processes and strongly disagrees with sanctuary cities.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the individual right to bear arms and opposes ownership restrictions justified as public safety measures.",
+        "kind": "questionnaire",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says human life deserves legal protection from conception; would allow elective abortion only for rape, incest, or the mother's life; strongly disagrees with public funding for abortion providers.",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes transgender women in women's sports and in designated women's spaces such as bathrooms, locker rooms, shelters, and prisons.",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strongly agrees with eliminating the U.S. Department of Education, returning control to states and communities, and supporting school choice for parents.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports requiring voter photo ID, a federal Election Day holiday, and counting all votes the same day; says states should keep election administration.",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists combating crime and improving conditions in Compton and Watts among his priorities; says he favors pro-labor Republican economic policies and bringing manufacturing jobs back to California.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-43-2026/cristian-morales/",
+          "title": "Cristian Morales - 2026 candidate profile (smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Morales profile (smarter.vote) summarizes his candidate questionnaire answers; his own campaign site and Ballotpedia could not be retrieved. Waters house.gov press pages partly blocked (403); some items rely on house.gov issue pages, the press release index, and the smarter.vote record summary."
+}

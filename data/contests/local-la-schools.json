@@ -55,6 +55,12 @@
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_JRC",
+        "value": "LOS ANGELES COMMUNITY COLLEGE"
+      }
     ]
   },
   {
@@ -123,6 +129,12 @@
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
       }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_JRC",
+        "value": "LOS ANGELES COMMUNITY COLLEGE"
+      }
     ]
   },
   {
@@ -174,6 +186,12 @@
         "url": "https://www.lavote.gov/Apps/CandidateList/Index?id=4348",
         "title": "LA County RR/CC - Candidate List, General Election 11/3/2026",
         "retrieved": "2026-09-30"
+      }
+    ],
+    "rrcc": [
+      {
+        "field": "DST_JRC",
+        "value": "LOS ANGELES COMMUNITY COLLEGE"
       }
     ]
   }

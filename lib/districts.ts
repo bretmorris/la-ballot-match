@@ -51,24 +51,13 @@ export function contestsFor<C extends ContestLike>(contests: C[], attrs: Precinc
   })
 }
 
-/** Fields worth requesting from the layer (keeps the response small). */
-export const PRECINCT_FIELDS = [
-  "PRECINCT",
-  ...Object.keys(ORDINAL_FIELDS),
-  "DST_CITY", "DIV_CITY", "DST_USD", "DIV_USD", "DST_HSD", "DST_ESD", "DST_JRC", "DIV_JRC",
-  "DST_WA", "DST_MWD", "DST_WR", "DST_WAG", "DST_CW", "DST_IRR", "DST_CS", "DST_LIB", "DST_RC",
-  "DST_CAW", "DST_CEM", "DST_MOS", "DST_SAN", "DST_TRN", "DST_FIR", "DST_FLD", "DST_HOSP",
-  "DST_PARK", "DIV_PARK", "DST_GARB", "DST_CL", "DST_SM", "DST_RD",
-  "DST_MISC1", "DST_MISC2", "DST_MISC3", "DST_MISC4", "DST_ANX1", "DST_ANX2", "DST_ANX3", "DST_ANX4", "DST_ANX5",
-]
-
 export function precinctQueryUrl(lat: number, lng: number): string {
   const p = new URLSearchParams({
     geometry: `${lng},${lat}`,
     geometryType: "esriGeometryPoint",
     inSR: "4326",
     spatialRel: "esriSpatialRelIntersects",
-    outFields: PRECINCT_FIELDS.join(","),
+    outFields: "*", // ~90 short string fields; no geometry
     returnGeometry: "false",
     f: "json",
   })

@@ -1,0 +1,118 @@
+{
+  "contestId": "ca-assembly-54",
+  "options": {
+    "mark-gonzalez": [
+      {
+        "text": "Authored AB 1896 (with Speaker Rivas), the \"GTFO Act\": bars people who personally engaged in immigration enforcement from becoming California peace officers (effective Jan 1, 2028); applicants must declare prior immigration enforcement. Bill enrolled September 4, 2026.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1896",
+          "title": "AB 1896 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On his GTFO bill: \"If you participated in cruel, baseless immigration enforcement — if you violated civil rights, ignored due process, or followed unlawful orders — You will not be welcomed into California's public workforce.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rafu.com/2026/02/state-bill-introduced-to-barice-officers-from-public-employment/",
+          "title": "State Bill Introduced to Bar ICE Officers from Public Employment - Rafu Shimpo",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Announcing AB 1896: \"They have been targeting people who look like me; people with brown skin.\" Said he stands with the Speaker on legislation so \"we are not going to abandon my community; not ever.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://californiaglobe.com/fl/californias-gtfo-act-disqualifies-ice-agents-from-local-public-employment/",
+          "title": "California's GTFO Act Disqualifies ICE Agents from Local Public Employment - California Globe",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Principal coauthor of AB 736, the Affordable Housing Bond Act of 2026, authorizing $10 billion in state bonds for affordable housing programs including rental assistance, homeownership, and farmworker housing; amended in Senate June 22, 2026.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB736",
+          "title": "AB 736 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Coauthor of AB 804, which would make housing support services (transition navigation, deposits, tenancy support) a covered Medi-Cal benefit for people experiencing or at risk of homelessness.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB804",
+          "title": "AB 804 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Coauthor of AB 1109 (Kalra), creating an evidentiary privilege for confidential communications between union agents and the workers they represent.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1109",
+          "title": "AB 1109 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Coauthor of AB 1331 (Elhawary), restricting employer workplace surveillance tools, e.g. no monitoring in bathrooms; penalties up to $500 per violation. Enrolled September 4, 2026.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1331",
+          "title": "AB 1331 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2332, requiring the State Department of Education to establish a Dual Language Immersion Coordinator (pending appropriation) to help schools start or expand dual language programs. Approved by Governor September 27, 2026.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2332",
+          "title": "AB 2332 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 817 after the June 2026 Boyle Heights cold storage fire: cold storage facility permits require a contingency fund of up to $20 million for community relief; survivor settlement payments excluded from state income tax. Chaptered September 27, 2026.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB817",
+          "title": "AB 817 - California Legislative Information",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes himself as \"an organizer, a caregiver, a renter, and an activist\" who believes \"the system isn't working for ordinary people.\" Priorities listed from his time as LA County Democratic chair: free community college, clean air and water, affordable housing, abortion rights protection.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.markgonzalezforassembly.com/",
+          "title": "Mark Gonzalez for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "2024 campaign priorities: raising wages for working families, addressing LA's homelessness and affordability crisis, and guaranteeing healthcare access to all residents.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.losangelesblade.com/2024/11/11/mark-gonzalez-triumphs-a-new-era-begins-for-assembly-district-54/",
+          "title": "Mark Gonzalez triumphs: A new era begins for Assembly District 54 - Los Angeles Blade",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alexandra-briseno": []
+  },
+  "notes": "alexandra-briseno: Republican write-in candidate (0.3% in June 2026 primary); no campaign site, questionnaire, or public positions found, so no items. mark-gonzalez: authored/coauthored bills (leginfo) and statements only; floor-vote records, Digital Democracy vote pages, and asmdc.org press pages could not be fetched this session."
+}
