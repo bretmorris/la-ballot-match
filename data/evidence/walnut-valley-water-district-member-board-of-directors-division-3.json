@@ -1,0 +1,48 @@
+{
+  "contestId": "walnut-valley-water-district-member-board-of-directors-division-3",
+  "options": {
+    "theresa-lee": [
+      {
+        "text": "In February 2026, Lee was one of two directors voting no as the board approved, 3-2, a 5% merit increase for the general manager on top of the 4% cost-of-living adjustment given to all employees.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://walnutvalleywater.gov/wp-content/uploads/2025/12/02-17-2026-M-Regular-1.pdf",
+          "title": "Walnut Valley Water District minutes, regular board meeting Feb. 17, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In February 2026, Lee cast the lone no vote as the board voted 4-1 to extend the general manager's employment contract through June 30, 2026.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://walnutvalleywater.gov/wp-content/uploads/2025/12/02-17-2026-M-Regular-1.pdf",
+          "title": "Walnut Valley Water District minutes, regular board meeting Feb. 17, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In June 2026, Lee voted with the 4-0 majority to approve the district's FY 2026-27 budget, including the Capital Investment Program budget.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://walnutvalleywater.gov/wp-content/uploads/2026/05/09-A-06-15-2026-M-Regular-Ciampa-rev.pdf",
+          "title": "Walnut Valley Water District minutes, regular board meeting June 15, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Finance Committee chair in August 2026, Lee moved approval (passed 5-0) of Affordable Rate Program changes: a $15 monthly discount for new and renewing participants, with $18,053.53 in property tax revenue added to the program fund.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://walnutvalleywater.gov/wp-content/uploads/2026/05/08-17-2026-M-Regular.pdf",
+          "title": "Walnut Valley Water District minutes, regular board meeting Aug. 17, 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "kenny-shu": []
+  },
+  "notes": "Incumbent Theresa Lee's recorded 2026 votes are from WVWD board minutes, including her dissents on general manager pay and contract extension. No campaign site, statements or news coverage found for Kenny Shu. Searches used: 6"
+}

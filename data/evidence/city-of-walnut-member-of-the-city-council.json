@@ -1,0 +1,42 @@
+{
+  "contestId": "city-of-walnut-member-of-the-city-council",
+  "options": {
+    "allen-wu": [
+      {
+        "text": "Told the World Journal (in Chinese) that during his tenure public safety improved across the board, especially theft prevention, with 2025 thefts down more than 35% from 2024 and some neighborhoods reporting zero cases.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.worldjournal.com/wj/story/121555/9707458",
+          "title": "核桃市2席議員4人參選 2華裔競逐 (Walnut council race: 4 candidates for 2 seats) - World Journal",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the World Journal the city budget has run a surplus in each of his eight years on the council.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.worldjournal.com/wj/story/121555/9707458",
+          "title": "核桃市2席議員4人參選 2華裔競逐 (Walnut council race: 4 candidates for 2 seats) - World Journal",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "richard-ritchie-cajulis": [
+      {
+        "text": "Per the Asian Journal, on becoming mayor in 2025 he emphasized building on city services while preserving Walnut's natural beauty and open spaces, named public safety and cybersecurity key priorities, and backed long-term development of a downtown to support residents and local businesses.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://asianjournal.com/usa/dateline-usa/filipino-american-ritchie-cajulis-is-new-city-of-walnut-mayor/",
+          "title": "Filipino American Ritchie Cajulis is new City of Walnut mayor - Asian Journal (Oct. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "hong-diana-zhao": [],
+    "stefanie-n-leilua": []
+  },
+  "notes": "Wu and Cajulis (incumbents): only news coverage (World Journal, translated; Asian Journal) found, no campaign sites. Zhao (second run) and Leilua: no campaign sites, statements, or reported positions found; World Journal notes Leilua's platform is not yet public. Searches used: 8"
+}

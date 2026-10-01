@@ -1,0 +1,29 @@
+{
+  "contestId": "west-basin-municipal-water-district-member-board-of-directors-division-2",
+  "options": {
+    "gloria-d-gray": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "carol-raines-brown": [
+      {
+        "text": "Told 2UrbanGirls: \"I was the only member of the board who was adamant about retaining local control, and we need representation on the water board that is both present and available to address ratepayers' concerns.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://2urbangirls.com/2026/08/inglewood-councilwoman-draws-challengers-to-water-board-seat/",
+          "title": "2UrbanGirls: Inglewood councilwoman draws challengers to water board seat (2026-08-19)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tyron-d-turner": []
+  },
+  "notes": "No public positions found for Tyron D. Turner. Gloria Gray (also an Inglewood councilmember now running for mayor) has no findable water-policy positions; 2UrbanGirls coverage of her focuses on whether holding both offices is legal, not on policy, so it is left out. Searches used: 9"
+}

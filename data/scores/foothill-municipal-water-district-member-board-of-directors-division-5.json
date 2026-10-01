@@ -2,6 +2,177 @@
  "contestId": "foothill-municipal-water-district-member-board-of-directors-division-5",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.625Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.110Z",
+ "options": {
+  "patrick-w-atwater": {
+   "taxes-spending": {
+    "position": -0.03,
+    "evidence": 0.55,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0,
+     "1": 0.23,
+     "2": 0.59,
+     "3": 0.17,
+     "4": 0.01
+    }
+   },
+   "housing-growth": {
+    "position": 0.385,
+    "evidence": 0.77,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.24,
+     "3": 0.73,
+     "4": 0.02
+    }
+   },
+   "renters-landlords": {
+    "position": 0.085,
+    "evidence": 0.05,
+    "confidence": 0.83,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.81,
+     "3": 0.15,
+     "4": 0.02
+    }
+   },
+   "policing-justice": {
+    "position": -0.015,
+    "evidence": 0.06,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.97,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.19,
+    "evidence": 0.03,
+    "confidence": 0.67,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.33,
+     "2": 0.64,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.42,
+    "evidence": 0.93,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.15,
+     "1": 0.55,
+     "2": 0.29,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": 0.025,
+    "evidence": 0.07,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.96,
+     "3": 0.04,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.065,
+    "evidence": 0.48,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.12,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.02,
+    "evidence": 0.01,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.005,
+    "evidence": 0.03,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.01,
+    "evidence": 0.03,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

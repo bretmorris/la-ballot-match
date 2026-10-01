@@ -2,6 +2,177 @@
  "contestId": "san-gabriel-valley-municipal-water-district-member-board-of-directors-division-5",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.626Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.110Z",
+ "options": {
+  "robert-gonzales": {
+   "taxes-spending": {
+    "position": 0.17,
+    "evidence": 0.03,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.69,
+     "3": 0.28,
+     "4": 0.03
+    }
+   },
+   "housing-growth": {
+    "position": 0.595,
+    "evidence": 0.96,
+    "confidence": 0.76,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.04,
+     "3": 0.72,
+     "4": 0.24
+    }
+   },
+   "renters-landlords": {
+    "position": 0.135,
+    "evidence": 0.02,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.77,
+     "3": 0.2,
+     "4": 0.03
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.035,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.06,
+     "2": 0.93,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.105,
+    "evidence": 0.06,
+    "confidence": 0.82,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.81,
+     "3": 0.17,
+     "4": 0.02
+    }
+   },
+   "labor-business": {
+    "position": 0.295,
+    "evidence": 0.16,
+    "confidence": 0.56,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.46,
+     "3": 0.48,
+     "4": 0.06
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.01,
+    "evidence": 0.01,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.04,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

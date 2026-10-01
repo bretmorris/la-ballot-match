@@ -1,0 +1,79 @@
+{
+  "contestId": "city-of-la-verne-member-of-the-city-council-1st-district",
+  "options": {
+    "thomas-d-allison": [
+      {
+        "text": "\"Preserving our character does not mean opposing every change. It means ensuring that growth respects the community\"; new development should fit neighborhoods, address traffic and parking, and \"pay its fair share of the costs it creates.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://thomasforlaverne.com/preserving-la-vernes-character",
+          "title": "Preserving La Verne's Character - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Every cent taken from a resident is a cent that they could be using to improve their own quality of life\"; wants the city to exhaust every revenue opportunity before cuts and \"prioritize core services before discretionary expansion.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://thomasforlaverne.com/fiscal-responsibility",
+          "title": "Fiscal Responsibility - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a \"Neighbors Helping Neighbors\" program: an active Neighborhood Watch in every District 1 neighborhood and expanded CERT training, plus a voluntary exterior-camera registry police could draw on after incidents.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://thomasforlaverne.com/safer-neighborhoods",
+          "title": "Safer Neighborhoods - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the A Line and \"regional homelessness create new public-safety, humanitarian and service-delivery challenges\"; advocates auditing alleys, parks and transit approaches for visibility and adding pedestrian-scale lighting.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://thomasforlaverne.com/safer-neighborhoods",
+          "title": "Safer Neighborhoods - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urges discussion of staff compensation, opposing having staff \"carry the burden of offsetting the costs of our services\" and seeking \"equitable compensation\" so La Verne retains talent; disagrees with the council's vote to limit committees and commissions.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://thomasforlaverne.com/fiscal-responsibility",
+          "title": "Fiscal Responsibility - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would \"reduce unnecessary barriers for small businesses\" and protect Old Town, and advocates protecting the urban tree canopy.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://thomasforlaverne.com/preserving-la-vernes-character",
+          "title": "Preserving La Verne's Character - Thomas for La Verne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "steven-frank-johnson": [
+      {
+        "text": "(2022) Wanted a local ballot measure returning La Verne to four districts with an elected mayor: \"I believe that having an elected mayor is important, and that we should be able to choose as a resident who that person is.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://lvcampustimes.org/2022/04/city-council-candidates-focus-on-safety-transportation-representation/",
+          "title": "City council candidates focus on safety, transportation, representation - Campus Times (Apr. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Allison: campaign site (thomasforlaverne.com). Johnson (incumbent; insurance broker): no 2026 campaign site or statements found; only a 2022 Campus Times quote. Searches used: 6"
+}

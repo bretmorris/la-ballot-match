@@ -2,6 +2,347 @@
  "contestId": "west-basin-municipal-water-district-member-board-of-directors-division-2",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.626Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.111Z",
+ "options": {
+  "gloria-d-gray": {
+   "taxes-spending": {
+    "position": -0.19,
+    "evidence": 0.02,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.36,
+     "2": 0.62,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.06,
+    "evidence": 0.02,
+    "confidence": 0.85,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.85,
+     "3": 0.11,
+     "4": 0.02
+    }
+   },
+   "renters-landlords": {
+    "position": -0.12,
+    "evidence": 0.01,
+    "confidence": 0.79,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.24,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.125,
+    "evidence": 0.01,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.24,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.13,
+     "2": 0.86,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.215,
+    "evidence": 0.02,
+    "confidence": 0.62,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.38,
+     "2": 0.58,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.295,
+    "evidence": 0.02,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.54,
+     "2": 0.43,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.25,
+    "evidence": 0.02,
+    "confidence": 0.57,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.44,
+     "2": 0.52,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.23,
+    "evidence": 0.02,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.34,
+     "2": 0.6,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.465,
+    "evidence": 0.02,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.09,
+     "1": 0.75,
+     "2": 0.16,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.435,
+    "evidence": 0.02,
+    "confidence": 0.69,
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.64,
+     "2": 0.24,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.2,
+    "evidence": 0.02,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.36,
+     "2": 0.62,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.035,
+    "evidence": 0.02,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0,
+     "1": 0.07,
+     "2": 0.93,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.285,
+    "evidence": 0.02,
+    "confidence": 0.52,
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.47,
+     "2": 0.48,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "carol-raines-brown": {
+   "taxes-spending": {
+    "position": 0.265,
+    "evidence": 0.09,
+    "confidence": 0.55,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.52,
+     "3": 0.42,
+     "4": 0.06
+    }
+   },
+   "housing-growth": {
+    "position": -0.515,
+    "evidence": 0.02,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0.2,
+     "1": 0.63,
+     "2": 0.17,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.035,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.94,
+     "3": 0.04,
+     "4": 0.02
+    }
+   },
+   "labor-business": {
+    "position": 0.02,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.96,
+     "3": 0.03,
+     "4": 0.01
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.02,
+    "evidence": 0.01,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.005,
+    "evidence": 0.12,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

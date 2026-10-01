@@ -1,0 +1,74 @@
+{
+  "contestId": "keppel-union-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "matthew-gaines": [
+      {
+        "text": "Per LAist's voter guide, former Keppel Union board member Matthew Gaines is among those who submitted the ballot argument in favor of Measure K, Keppel's 2026 $27 million school bond (about $30 per $100,000 of assessed value).",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/voter-guide-2026-general-election-school-bond-keppel-union-measure-k",
+          "title": "LAist: What you need to know to vote on Keppel Union School District Measure K (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alma-i-rodriguez": [
+      {
+        "text": "(2024) Cast the lone no vote on Darbari's 18-month interim superintendent contract, asking \"why you guys chose Darbari for this position and why it is that the contract was designed like it was\" and why it ran through June 2025.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/keppel-approves-interim-contract/article_d3e30a7a-c63a-11ee-9d6f-977eecadfc3e.html",
+          "title": "Antelope Valley Press: Keppel approves interim contract (2024-02-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Voted no on Darbari's four-year superintendent contract (approved 3-2): \"This is unbelievable, like, how is it you can decide something all by yourself?\"",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/local_news/keppel-approves-4-year-contract-for-superintendent/article_c0aa309a-f23c-11ee-b2f2-f3a060fd1c09.html",
+          "title": "Antelope Valley Press: Keppel approves 4-year contract for superintendent (2024-04-04)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Did not attend the Dec. 28, 2023 meeting where the majority fired Superintendent Walker, and with Cullors refused to enter a closed session to ratify the dismissal and appoint an interim, calling it a \"trick.\"",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.avpress.com/news/hundreds-decry-keppel-leader-s-ouster/article_5dbae894-b5ba-11ee-b8c2-af7bb5f71b42.html",
+          "title": "Antelope Valley Press: Hundreds decry Keppel leader's ouster (2024-01-18)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Objected to reclassifying the superintendent's secretary to serve the board majority: \"The role of the board is only to supervise the superintendent, not the assistant superintendent secretary.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.avpress.com/news/keppel-waits-to-reclassify-secretary/article_67b80182-c7cc-11ee-91d5-ef2782d4cc69.html",
+          "title": "Antelope Valley Press: Keppel waits to reclassify secretary (2024-02-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Opposed the proposed closure of Keppel Academy, the district's only all-AVID school, during budget-driven restructuring: \"I feel that the school should stay open,\" adding they need to work together to help the district.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.avpress.com/news/fighting-for-their-school/article_fe7bc150-f87b-11ee-a1ab-e7e23e5dfcf3.html",
+          "title": "Antelope Valley Press: Fighting for their school (2024-04-12)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Per the AV Press, said at a protest of Walker's firing that the board majority's decisions were causing tremendous stress on staff and children and affecting the district's fiscal solvency.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.avpress.com/news/protesters-oppose-superintendent-firing/article_b6e306a6-bb3a-11ee-b165-e3cfbe50e733.html",
+          "title": "Antelope Valley Press: Protesters oppose superintendent firing (2024-01-25)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Matthew Gaines: only his Measure K ballot argument (via LAist) found; no candidate site or forum statements. Alma Rodriguez: board-minority record from the 2023-24 superintendent controversy (governance items). The Measure K board resolution roll call could not be retrieved (DocumentCloud 403). Searches used: 8."
+}

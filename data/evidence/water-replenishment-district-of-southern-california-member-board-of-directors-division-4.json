@@ -1,0 +1,68 @@
+{
+  "contestId": "water-replenishment-district-of-southern-california-member-board-of-directors-division-4",
+  "options": {
+    "sergio-joseph-calderon": [
+      {
+        "text": "Per his WRD profile, a supporter of the Water Independence Now program, which aims through advanced treatment and stormwater capture to make the service area independent of imported water for basin recharge.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.wrd.org/director-sergio-calderon",
+          "title": "Water Replenishment District: Director Sergio Calderon profile",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jorgel-chavez": [
+      {
+        "text": "\"My commitment has always been to protect our community by expanding parks, investing in families, and standing up to ICE to defend our immigrant communities.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://jorgelchavez.com/",
+          "title": "Jorgel Chavez for WRD (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"protect our water supply from data centers and make sure residents are not stuck paying higher water costs because of them.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://jorgelchavez.com/priorities",
+          "title": "Jorgel Chavez for WRD: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities include local hire, partnering with unions to expand apprenticeships, stormwater capture and recycling, and exploring \"additional investments in desalination.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jorgelchavez.com/priorities",
+          "title": "Jorgel Chavez for WRD: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As a Bell Gardens councilmember, says the council \"passed some of the strongest renter protections in California to help keep families in their homes.\"",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://jorgelchavez.com/about-jorgel",
+          "title": "Jorgel Chavez for WRD: About Jorgel (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "samuel-a-pena": []
+  },
+  "notes": "No public positions found for Samuel A. Peña. Calderon has only his official WRD profile. Searches used: 9"
+}

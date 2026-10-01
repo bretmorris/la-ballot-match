@@ -1,0 +1,87 @@
+{
+ "contestId": "bellflower-unified-school-district-governing-board-member-trustee-area-no-5",
+ "options": {
+  "brad-w-crihfield": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Bellflower Teachers Association (BTA).",
+    "kind": "endorsement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.bradcrihfield.com/",
+     "title": "Re-elect Brad Crihfield 2026, BUSD Trustee Area 5: home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists safety steps taken during his tenure: armed security on high school campus perimeters, more security staff, vape detectors, K-9 drug detection, and a standing safety committee.",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.bradcrihfield.com/blank-1",
+     "title": "Re-elect Brad Crihfield 2026: Track Record",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says the board 'raised teacher salaries from among the lowest to among the most competitive in the region,' increased professional development, approved early-retirement incentives and added school-site support staff.",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.bradcrihfield.com/blank-1",
+     "title": "Re-elect Brad Crihfield 2026: Track Record",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Cites transparency steps: hired BUSD's first public information officer, began live-streaming board meetings, and added live captioning and Spanish translation.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://www.bradcrihfield.com/blank-1",
+     "title": "Re-elect Brad Crihfield 2026: Track Record",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Cites launching BUSD's first artificial intelligence pathway, more career technical education offerings, and an MOU to expand Special Olympics programs; as board president in 2024 he prioritized the Mayfair athletic fields project.",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.bradcrihfield.com/blank-1",
+     "title": "Re-elect Brad Crihfield 2026: Track Record",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) As board president, voted for the contract settlement and termination of Superintendent Dr. Ben Drati; three members voted yes and one abstained.",
+    "kind": "voting-record",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.loscerritosnews.net/2024/02/09/breaking-bellflower-unified-board-fires-superintendent-dr-drati/",
+     "title": "Los Cerritos Community News: Bellflower Unified board fires Superintendent Dr. Drati (2024-02-09)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "A special education parent, he says the role is personal and drives him 'to fight for the resources, fairness, and accountability our students deserve.'",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.bradcrihfield.com/about-brad",
+     "title": "Re-elect Brad Crihfield 2026: Why I'm Running",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "todd-j-roberts": []
+ },
+ "notes": "No public positions found for Todd J. Roberts; toddroberts.org is a placeholder that can't be tied to this candidate. Searches used: 10"
+}

@@ -1,0 +1,88 @@
+{
+  "contestId": "city-of-duarte-member-of-the-city-council-1st-district",
+  "options": {
+    "margaret-e-finlay": [
+      {
+        "text": "Cites as council record \"new mixed-use housing developments near the Gold Line station and on Huntington Drive, providing needed homes and adhering to state-mandated housing increases.\"",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://margaretfinlay.com",
+          "title": "Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Goal: \"Create more housing to mitigate the housing crisis that has affected the state of California.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://margaretfinlay.com/accomplishments-and-goals",
+          "title": "Accomplishments and Goals - Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"Continue to address homelessness by locating permanent housing, with job training and addiction recovery programs, keeping our sidewalks and parks safe for public use.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://margaretfinlay.com",
+          "title": "Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Goal to \"Continue our downward crime trend with our pro-active policing policies, such as LPR (license plate reader) cameras that can track stolen cars.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://margaretfinlay.com/accomplishments-and-goals",
+          "title": "Accomplishments and Goals - Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Goals: extend the A Line toward Ontario Airport, \"removing thousands of cars from our roads,\" and encourage \"alternative forms of cleaner transportation\" (she commutes to many meetings by bicycle).",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://margaretfinlay.com/accomplishments-and-goals",
+          "title": "Accomplishments and Goals - Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites working with Rep. Grace Napolitano to secure $1.6 million for the Royal Oaks bike path.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://margaretfinlay.com",
+          "title": "Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Worked to preserve 330 acres of foothills as permanent open space, opposed a neighboring city's mining expansion and brought real-time air quality monitoring; wants a wildfire mitigation plan.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://margaretfinlay.com/accomplishments-and-goals",
+          "title": "Accomplishments and Goals - Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Supervisors Kathryn Barger, Janice Hahn and Hilda Solis, Assemblymember Blanca Rubio, and retired Rep. Grace Napolitano.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://margaretfinlay.com",
+          "title": "Margaret Finlay for Duarte City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "luz-yesenia-paez": []
+  },
+  "notes": "Finlay (35-year incumbent): campaign site. Luz Yesenia Paez: no campaign site, statement, or reported positions found (luzpaez.com is parked). Searches used: 9"
+}

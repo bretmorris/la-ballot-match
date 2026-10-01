@@ -1,0 +1,129 @@
+{
+  "contestId": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "julee-brooks": [
+      {
+        "text": "Supports \"necessary tactical protections, like our partnership with the Sheriff's Department,\" alongside Wellness Center mental-health staffing with manageable caseloads and strong mandated-reporting and crisis protocols.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls herself a Moms Demand Action candidate and backs \"commonsense gun safety\" as part of school safety.",
+        "kind": "questionnaire",
+        "dimension": "guns",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to build on Hart's Career Technical Education, deepen the College of the Canyons partnership, expand apprenticeships, and see \"real union training facilities in our area.\"",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says Hart faces unique funding pressures as a high-school-only district; promises budget discipline and transparency and to \"bring new funding ideas to district leadership.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"strong instruction in science, history, and civics,\" and, as a special-needs parent, disability policy ensuring public-education access for students of all abilities.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Teachers Association and the Hart District Teachers Association.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA/OC Building and Construction Trades Council and IUOE Local 12.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Julee_Brooks",
+          "title": "Ballotpedia: Julee Brooks (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party and Santa Clarita Valley Democrats.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: 2026 Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "bryan-biggers": [
+      {
+        "text": "Says the district doesn't have to choose between rigorous academics and trades: students wanting a demanding AP load should get it, and those who want to build things deserve \"a real technical pathway that leads to a career, not just a leftover elective.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://biggers4hart.com",
+          "title": "Bryan Biggers for Hart School Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Teachers are the engine of our schools — not a line item, the engine. Support them, keep them, and back them up.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://biggers4hart.com",
+          "title": "Bryan Biggers for Hart School Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On safety: \"Resource officers and real support matter — but culture matters more,\" defining safety as every student having one adult on campus who knows their name.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://biggers4hart.com",
+          "title": "Bryan Biggers for Hart School Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants a board that treats parents as partners, \"providing straight answers, and keeping budgets open and transparent.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://biggers4hart.com",
+          "title": "Bryan Biggers for Hart School Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Brooks: Ballotpedia survey and endorsements. Biggers: campaign-site priorities only; no survey, no endorsements found. Open seat. The Signal was unreachable (403) this batch. Searches used: 9"
+}

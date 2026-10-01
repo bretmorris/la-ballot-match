@@ -1,0 +1,59 @@
+{
+ "contestId": "downey-unified-school-district-governing-board-member-trustee-area-no-7",
+ "options": {
+  "betty-luz-monroy": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "joseph-manacmul": [
+   {
+    "text": "Per the Downey Patriot, his campaign announced endorsements from the Downey Education Association and CSEA Units 1 and 2.",
+    "kind": "endorsement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.thedowneypatriot.com/articles/local-leaders-back-manacmul-for-dusd-board",
+     "title": "The Downey Patriot: Local leaders back Manacmul for DUSD board (2026-09-24)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says Downey schools 'should be judged by whether they work for the kids and families who depend on them, not by politics, not by ideology'; backs fiscal responsibility, 'real partnership with teachers and staff,' and keeping a stable board.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://joemanacmul.com/about",
+     "title": "Joe Manacmul for Downey School Board, Trustee Area 7: About",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says he served on the campaign committees for school bond Measures O and K and for city Measure S (public safety, parks and infrastructure funding).",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://joemanacmul.com/about",
+     "title": "Joe Manacmul for Downey School Board, Trustee Area 7: About",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "As appointed trustee, says he has 'studied budgets closely, walked Measure K construction sites, and pushed for clearer answers on spending, because parents deserve facts, not guesswork.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://joemanacmul.com/",
+     "title": "Joe Manacmul for Downey School Board, Trustee Area 7: home page",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "No issue statements found for Betty Luz Monroy (no campaign site or local coverage located); she has only an LACDP endorsement. Searches used: 10"
+}

@@ -1,0 +1,129 @@
+{
+  "contestId": "beverly-hills-unified-school-district-governing-board-member",
+  "options": {
+    "jared-gonzales": [
+      {
+        "text": "\"As a teacher, I'm very concerned that these budget cuts could lead to cutting of faculty and staff that are great people and are going to be difficult to replace.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://beverlypress.com/2026/09/gonzales-hopes-to-bring-classroom-experience-to-bhusd/",
+          "title": "Beverly Press: Gonzales hopes to bring classroom experience to BHUSD (2026-09-30)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I'm fighting to make sure that we have educational expertise on the board for the next four years\"; said board meetings sometimes look \"like a middle school classroom that's on fire.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://beverlypress.com/2026/09/gonzales-hopes-to-bring-classroom-experience-to-bhusd/",
+          "title": "Beverly Press: Gonzales hopes to bring classroom experience to BHUSD (2026-09-30)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jackie-r-kruger": [
+      {
+        "text": "\"Beverly Hills voters deserve a board that follows its own rules and answers to the community, not one that rewrites bylaws to concentrate power, silences public comment or governs in closed session.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://beverlypress.com/2026/08/five-candidates-set-for-bhusd-board-race/",
+          "title": "Beverly Press: Five candidates set for BHUSD board race (2026-08-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per the Beverly Press, pledged to prioritize students, classrooms and educators over political conflict and unnecessary spending.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://beverlypress.com/2026/07/jackie-kruger-kim-lifschitz-join-bhusd-race/",
+          "title": "Beverly Press: Jackie Kruger, Kim Lifschitz join BHUSD race (2026-07-15)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "kimberly-lifschitz": [
+      {
+        "text": "\"In recent years, our district has been sidetracked by interpersonal conflict, opaque decision-making and a litany of avoidable legal and PR crises. Community members are treated as political adversaries.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://beverlypress.com/2026/07/jackie-kruger-kim-lifschitz-join-bhusd-race/",
+          "title": "Beverly Press: Jackie Kruger, Kim Lifschitz join BHUSD race (2026-07-15)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"It's time for BHUSD to get back to school,\" citing who it serves, how it spends its money, and why it's making headlines.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://beverlypress.com/2026/08/five-candidates-set-for-bhusd-board-race/",
+          "title": "Beverly Press: Five candidates set for BHUSD board race (2026-08-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "david-cienfuegos": [
+      {
+        "text": "\"In TK-8, classrooms should prioritize teachers, books, writing, discussion, creativity and human interaction, not unnecessary dependence on screens.\" Supports the Wait Until 8th smartphone movement.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://beverlypress.com/2026/08/david-cienfuegos-enters-bhusd-board-race/",
+          "title": "Beverly Press: David Cienfuegos enters BHUSD board race (2026-08-05)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per the Beverly Press, advocates rigorous instruction in core subjects plus tutoring, and supports responsible fiscal oversight, transparent decision-making and measurable goals.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://beverlypress.com/2026/08/david-cienfuegos-enters-bhusd-board-race/",
+          "title": "Beverly Press: David Cienfuegos enters BHUSD board race (2026-08-05)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "judith-manouchehri": [
+      {
+        "text": "Per the Beverly Press, seeks another term to keep raising academic standards, strengthen school safety, protect taxpayers, support educators and modernize campuses.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://beverlypress.com/2026/08/five-candidates-set-for-bhusd-board-race/",
+          "title": "Beverly Press: Five candidates set for BHUSD board race (2026-08-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the December 2025 reorganization, voted with the 3-2 majority against installing Amanda Stern as vice president, accusing Stern of \"misleading the public\"; Sigalie Sabag was then installed instead (later challenged in a claim and lawsuit).",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://beverlypress.com/2026/02/bhusd-board-rejects-claim-filed-by-lifschitz/",
+          "title": "Beverly Press: BHUSD Board rejects claim filed by Lifschitz (2026-02-11)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Beverly Press articles fetched via WebFetch (site 403s curl). Positions are mostly about governance and academics; little on scored dimensions. Searches used: 9"
+}

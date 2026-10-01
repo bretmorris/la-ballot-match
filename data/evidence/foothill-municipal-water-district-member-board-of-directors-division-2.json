@@ -1,0 +1,38 @@
+{
+  "contestId": "foothill-municipal-water-district-member-board-of-directors-division-2",
+  "options": {
+    "tom-majich": [
+      {
+        "text": "Speaking for Kinneloa Irrigation District after the Eaton Fire, Majich warned contractors against taking water without permits: water systems \"are owned by you and that water theft is theft of your property,\" and \"also a public health risk.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://pasadenanow.com/main/altadena-water-agencies-report-progress-toward-drinking-water-restoration",
+          "title": "Pasadena Now: Altadena Water Agencies Report Progress Toward Drinking Water Restoration (2025)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "john-vrsalovich": [
+      {
+        "text": "On June 22, 2026, Vrsalovich voted with the unanimous board to adopt the district's proposed budget, rates, charges and reserves and modify its reserve policy.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.fmwd.com/uploads/files/July%20Special%20Packet.pdf",
+          "title": "Foothill MWD July 2026 special board packet (minutes of June 22, 2026 regular meeting)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On July 30, 2026, Vrsalovich moved, and the board approved, advertising a request for proposals for a condition and seismic assessment of the La Cañada East and La Crescenta East and West reservoirs.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.fmwd.com/uploads/files/Board-Packets/August%202026%20Board%20Packetv2.pdf",
+          "title": "Foothill MWD August 2026 board packet (minutes of July 30, 2026 special meeting)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent Vrsalovich: only routine recorded board votes found (all 2026 votes in the minutes reviewed were unanimous except a July 30 AB 1383 pension-bill item, whose motion wording isn't recorded, so it was omitted). Majich (Kinneloa Irrigation District manager): no campaign site or 2026 statements found; one 2025 professional statement. Searches used: 4"
+}

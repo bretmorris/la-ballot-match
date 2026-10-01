@@ -1,0 +1,40 @@
+{
+  "contestId": "palmdale-school-district-governing-board-member-trustee-area-no-1",
+  "options": {
+    "nancy-k-smith": [
+      {
+        "text": "As board president, voted with the 4-0 board in Feb. 2025 to renew The Palmdale Aerospace Academy charter through 2030: \"I'd like to see the continued cooperation and transparency so that we can all be comfortable with both sides.\"",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.avpress.com/news/local_news/five-more-years-for-tpaa/article_adcf626e-eb5c-11ef-b31c-27f2358bacb9.html",
+          "title": "Antelope Valley Press: Five more years for TPAA (2025-02-15)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ralph-velador": [
+      {
+        "text": "(2024) Spoke at the Palmdale Planning Commission for the 433-acre Antelope Valley Commerce Center industrial plan, saying local jobs keep money in the community and spare residents long commutes: \"These jobs are super important for us.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/commerce-center-coming-to-palmdale/article_261b5b08-c98c-11ef-8068-ffe100cc2d7c.html",
+          "title": "Antelope Valley Press: Commerce center coming to Palmdale (2025-01-03)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Speaking as LiUNA's director of organizing, praised Lancaster's Westside annexation/industrial plan: \"those are good-paying union jobs, good-benefited jobs, mortgage-paying jobs that allow these folks to go to work every day, come home and spend quality time with their family.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/westside-annexation-plan-supported-by-commission/article_e7a941d5-d255-456f-90a2-21c529b2e031.html",
+          "title": "Antelope Valley Press: Westside annexation plan supported by commission (2025-08-30)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Two incumbents in the same trustee area. Velador was absent for several reported board votes (TPAA renewal, academy appointments), so none are attributed to him. Board-wide unanimous votes (e.g., Dec. 2025 cabinet contracts) are not attributed because members aren't named. Searches used: 8."
+}

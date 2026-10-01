@@ -2,6 +2,177 @@
  "contestId": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-2",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:59.622Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.068Z",
+ "options": {
+  "ricardo-ortega": {
+   "taxes-spending": {
+    "position": -0.27,
+    "evidence": 0.7,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.54,
+     "2": 0.42,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.03,
+    "evidence": 0.03,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.92,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "renters-landlords": {
+    "position": -0.24,
+    "evidence": 0.05,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.45,
+     "2": 0.53,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": 0.02,
+    "evidence": 0.06,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.16,
+     "2": 0.63,
+     "3": 0.18,
+     "4": 0.02
+    }
+   },
+   "homelessness": {
+    "position": -0.245,
+    "evidence": 0.04,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.42,
+     "2": 0.54,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.225,
+    "evidence": 0.65,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0,
+     "1": 0.45,
+     "2": 0.54,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.485,
+    "evidence": 0.69,
+    "confidence": 0.69,
+    "probabilities": {
+     "0": 0.17,
+     "1": 0.64,
+     "2": 0.18,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.22,
+    "evidence": 0.03,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.41,
+     "2": 0.56,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.805,
+    "evidence": 0.95,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0.67,
+     "1": 0.27,
+     "2": 0.05,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.55,
+    "evidence": 0.15,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0.16,
+     "1": 0.78,
+     "2": 0.06,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.165,
+    "evidence": 0.01,
+    "confidence": 0.58,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.35,
+     "2": 0.55,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "health-care": {
+    "position": -0.365,
+    "evidence": 0.83,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.71,
+     "2": 0.27,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.035,
+    "evidence": 0.88,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0,
+     "1": 0.17,
+     "2": 0.6,
+     "3": 0.21,
+     "4": 0.02
+    }
+   },
+   "elections-voting": {
+    "position": -0.305,
+    "evidence": 0.03,
+    "confidence": 0.57,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.5,
+     "2": 0.44,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

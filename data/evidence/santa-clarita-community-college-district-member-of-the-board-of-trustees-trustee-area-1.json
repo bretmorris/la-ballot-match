@@ -1,0 +1,118 @@
+{
+  "contestId": "santa-clarita-community-college-district-member-of-the-board-of-trustees-trustee-area-1",
+  "options": {
+    "reza-rassool": [
+      {
+        "text": "Campaign white paper: says COC suffers from \"Fiscal Scandal and Negative Climate Survey\" and that \"only radical fiscal transparency and shared governance can restore the college's reputation as a responsible steward of public tax dollars.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://docs.google.com/document/d/1LdxHEZweWyMpSn-a4m766VJ6cs-MqKOKbUdXF7HUAVs/preview",
+          "title": "Reza Rassool campaign white paper: Student Empowerment",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls some campus buildings \"vanity construction projects built for a different era\"; proposes an industrial residency program where businesses set up on campus for reduced rent in exchange for internships, apprenticeships and job offers for vocational and technical students.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://docs.google.com/document/d/1LdxHEZweWyMpSn-a4m766VJ6cs-MqKOKbUdXF7HUAVs/preview",
+          "title": "Reza Rassool campaign white paper: Student Empowerment",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Argues AI should be treated as \"a tool-of-the-trade that our students must master,\" not mainly a cheating tool; says colleges must adjust pedagogical goals for automation.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://docs.google.com/document/d/1LdxHEZweWyMpSn-a4m766VJ6cs-MqKOKbUdXF7HUAVs/preview",
+          "title": "Reza Rassool campaign white paper: Student Empowerment",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: running to keep College of the Canyons \"affordable, high-quality, and student-centered—supporting transfer, certificates, and workforce training for all students.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://trusteevote.com",
+          "title": "Rassool for COC Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Teachers Association, the COC Faculty Association, COC classified employees, and the AFL-CIO.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://trusteevote.com",
+          "title": "Rassool for COC Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party, California Democrats, SCV Democrats, Rep. George Whitesides, and Stonewall.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://trusteevote.com",
+          "title": "Rassool for COC Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "darlene-trevino": [
+      {
+        "text": "Campaign site says she \"pushed to strengthen financial oversight by demanding a forensic audit and review of all contracts and expenditures\" and believes in \"setting and sustaining a balanced budget with regular status updates.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Darlene_Trevino",
+          "title": "Ballotpedia: Darlene Trevino (quoting campaign website, Sept. 24, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she championed the district's Student Equity and Achievement Plan to improve access, completion and career outcomes, \"especially for student groups experiencing achievement gaps,\" including counseling, tutoring and early-alert programs.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Darlene_Trevino",
+          "title": "Ballotpedia: Darlene Trevino (quoting campaign website, Sept. 24, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Has proposed \"responsible Artificial Intelligence (AI) policies centered on ethics, privacy, and equity\" and prioritizes facility modernization to reduce deferred maintenance costs.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Darlene_Trevino",
+          "title": "Ballotpedia: Darlene Trevino (quoting campaign website, Sept. 24, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to expand workforce programs such as the Employee Training Institute for local businesses and apprenticeships that \"combine classroom instruction with paid on-the-job training.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Darlene_Trevino",
+          "title": "Ballotpedia: Darlene Trevino (quoting campaign website, Sept. 24, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Sept. 2025 voted with trustees Arnold and Johnson (3-1-1) to place Interim CEO David Andrus on paid leave pending termination, despite faculty and staff resolutions supporting him.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.hometownstation.com/santa-clarita-news/education/college-of-the-canyons/college-of-the-canyons-board-votes-to-remove-interim-ceo-david-andrus-563903",
+          "title": "KHTS: College Of The Canyons Board Votes To Remove Interim CEO David Andrus (Sept. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rassool: campaign site, white paper, and endorsements (LACDP list confirms party endorsement). Trevino: campaign-site platform as quoted by Ballotpedia (her Wix site renders no text) plus her Sept. 2025 vote on Interim CEO Andrus reported by KHTS. Neither completed Ballotpedia's survey. The Signal (signalscv.com) returned 403s to every fetch method this batch, so its COC board coverage could not be used. Searches used: 9"
+}

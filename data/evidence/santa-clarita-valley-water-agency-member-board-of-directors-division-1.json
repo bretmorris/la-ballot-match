@@ -1,0 +1,129 @@
+{
+  "contestId": "santa-clarita-valley-water-agency-member-board-of-directors-division-1",
+  "options": {
+    "bill-cooper": [
+      {
+        "text": "Voted yes (April 1, 2025) on Resolution SCV-469, adopting retail water rate increases for FY 2025/26 through 2029/30; passed with Director Armitage the only no.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.yourscvwater.com/sites/default/files/2025-04/SCV-Water-Board-Approved-Meeting-Minutes-April-1%2C-2025.pdf",
+          "title": "SCV Water Board approved minutes, April 1, 2025 (Resolution SCV-469 roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Moved, and voted for, Ordinance No. 03 raising directors' per-meeting compensation 6.7%, from $239 to $255; passed with Armitage, Colley and Petersen voting no.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.yourscvwater.com/sites/default/files/2024-01/SCV-Water-Board-Approved-Meeting-Minutes-December-19-%2C2023_0.pdf",
+          "title": "SCV Water Board approved minutes, Dec. 19, 2023 (Ordinance No. 03 roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: says SCV Water has \"NO ability to approve or disprove\" development and must by law supply water for it; warns that without planned growth \"Young families would be forced to move outside of our community to afford housing.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://votebillcooper.com",
+          "title": "Re-Elect Bill Cooper for SCV Water Board 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign \"myths\" page: \"SCV Water rates are some of the lowest in Southern California,\" about 37 cents per 100 gallons; says local water \"meets or exceeds all state and federal requirements.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://votebillcooper.com/myths",
+          "title": "Bill Cooper campaign: SCV Water Agency Myths",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Writes that \"climate change is changing the picture and is having a major effect on snowpack\" and backs conservation rebates such as turf replacement and smart controllers.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://votebillcooper.com/water-conservation",
+          "title": "Bill Cooper campaign: Water Conservation",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "noah-m-ropp": [
+      {
+        "text": "Pledges to vote \"against rate increases to protect ratepayers' pocketbooks\" and against \"unnecessary expenditures like increases to board member stipends.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would continue and expand the Ratepayer Assistance Program so customers can afford bills \"regardless of their situation,\" and make large industrial users fully pay for their demand.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants more water-quality testing for perchlorate from the Whittaker-Bermite site, PFAS and microplastics, more frequent testing near Chiquita Canyon Landfill, and contaminant cleanup written into agency budget priorities.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports expanding recycled water and stormwater capture, stricter water-efficiency rules for landscaping in new developments, and climate-focused committees to prepare for \"the climate crisis actively harming our community.\"",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes himself as an environmental organizer who has fought \"dirty fuel projects\" and \"electricity-guzzling data centers\"; says no corporate money funds his campaign.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says government has a duty to ensure \"the vulnerable receive the support they need\" and that true equality of opportunity is achieved regardless of race or class.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Noah_Ropp",
+          "title": "Ballotpedia: Noah Ropp (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Clarita Valley Democrats, LA County Democratic Party, California Democratic Party, and SCV Water director Kathye Armitage.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://roppforscvwater.com/endorsements-2/",
+          "title": "Ropp for SCV Water: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Cooper: board roll-call votes from SCV Water's own approved minutes, plus his campaign site (endorsements page is empty; no Ballotpedia survey). Ropp: Ballotpedia survey (mirrors his campaign issues page) and endorsements. Searches used: 9"
+}

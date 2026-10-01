@@ -1,0 +1,99 @@
+{
+  "contestId": "city-of-glendora-member-of-the-city-council-1st-district",
+  "options": {
+    "michael-allawos": [
+      {
+        "text": "\"I have consistently advocated for strong local control and responsible decision making that reflects the will of our residents.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.allawosforcitycouncil.com",
+          "title": "Michael Allawos for City Council - Vision (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Public safety remains one of my highest priorities. I have been and will continue to be a strong supporter of our Police and Fire Departments.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.allawosforcitycouncil.com",
+          "title": "Michael Allawos for City Council - Vision (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says his business background in \"budgeting, oversight, compliance, and strategic planning\" guides his approach to \"development, infrastructure, fiscal responsibility, or community services.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.allawosforcitycouncil.com",
+          "title": "Michael Allawos for City Council - Vision (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Aidan Chao, chairman of the LA County Taxpayers Association, who wrote that Allawos \"actually fights for taxpayers—holding the line on spending.\"",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.allawosforcitycouncil.com/all-endorsements",
+          "title": "Michael Allawos for City Council - All Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "teri-merrick": [
+      {
+        "text": "Platform: \"maintain Glendora and District 1's inclusive small-town vibe with responsive, affordable development.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.merrickforglendora.com",
+          "title": "Teri Merrick for Glendora City Council - Platform summary (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Real safety requires real relationships. I will prioritize community-oriented policing and proactive local outreach.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.merrickforglendora.com",
+          "title": "Teri Merrick for Glendora City Council - Platform summary (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Repairing our streets is priority number one, right alongside creating safe pathways for walkers, runners, and cyclists of all ages\"; wants neighborhoods \"Bike and Pedestrian Friendly.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.merrickforglendora.com",
+          "title": "Teri Merrick for Glendora City Council - Platform summary (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants Glendora's foothills \"protected, maintained, and kept fire-safe\" for future generations.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.merrickforglendora.com",
+          "title": "Teri Merrick for Glendora City Council - Platform summary (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both from campaign sites; LA County Democratic Party endorsed Merrick; detailed Merrick platform pages are client-rendered and not retrievable, so only plank summaries used. Allawos site quotes endorsers praising opposition to high-density housing, but that is not his own statement and is omitted. Searches used: 2"
+}

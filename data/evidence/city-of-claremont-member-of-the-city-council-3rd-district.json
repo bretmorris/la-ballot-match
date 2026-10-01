@@ -1,0 +1,159 @@
+{
+  "contestId": "city-of-claremont-member-of-the-city-council-3rd-district",
+  "options": {
+    "jennifer-stark": [
+      {
+        "text": "Campaign issues page says she \"supported tenant protections and housing stability programs,\" helped move forward the city's Housing Element, and advocated for \"smarter, data-informed housing decisions.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.claremontcraftales.com/jennifer/issues.html",
+          "title": "Jennifer Stark On The Issues (campaign site, jenniferstark2026.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Courier: \"We need to diversify our housing options not just to be compliant with the state, but so that people can afford to live here,\" citing pre-approved ADU plans, rental incentives and objective design standards for by-right projects.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-jennifer-stark-claremont-city-council-90180/",
+          "title": "Election 2026 profiles: Jennifer Stark, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"strengthened tree protections and transparency after the 2022 windstorm\" and \"advanced climate-resilient policies to preserve our urban forest.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.claremontcraftales.com/jennifer/issues.html",
+          "title": "Jennifer Stark On The Issues (campaign site, jenniferstark2026.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Courier her short-term priorities include studying how to enforce Claremont's gas-powered leaf blower prohibition and consolidating committees into a new natural resources/environmental quality commission.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-jennifer-stark-claremont-city-council-90180/",
+          "title": "Election 2026 profiles: Jennifer Stark, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Short-term priorities per Courier interview include supporting police recruitment and training, military-equipment oversight, and using Tri-City Mental Health and LA Centers for Alcohol and Drug Abuse agreements \"for dedicated mental health co-response teams.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-jennifer-stark-claremont-city-council-90180/",
+          "title": "Election 2026 profiles: Jennifer Stark, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Courier fiscal priorities include paying down unfunded CalPERS liabilities and keeping the emergency reserve at or above 30% of the general fund; said she supports raising it to 40%. Cited moving the city \"from a structural deficit to strong financial standing.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-jennifer-stark-claremont-city-council-90180/",
+          "title": "Election 2026 profiles: Jennifer Stark, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cited as council record: complete-street projects on Foothill Boulevard and Towne Avenue and lowered speed limits so walking or biking to school is safer.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-jennifer-stark-claremont-city-council-90180/",
+          "title": "Election 2026 profiles: Jennifer Stark, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Defended donating to District 4 candidate Anna Jacobsen's campaign: \"Donating a reportable amount is transparency,\" and said \"My voting record proves that I am not an ideologue.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/candidates-react-to-leaked-calaycay-email-90154/",
+          "title": "Candidates react to leaked Calaycay email - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sonja-stump": [
+      {
+        "text": "Campaign site: \"I support thoughtful planning that respects community values, safeguards neighborhood character, honors historic preservation\" and \"build relationships with developers aligned with Claremont values.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.sonja4claremont.com",
+          "title": "Sonja Stump | Rooted in Community (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Courier she wants homelessness money returned from LA County: \"we need to get the money back from wherever we're sending it to LA where it's not being used properly. I'd rather have us be in charge of it.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-sonja-stump-claremont-city-council-90272/",
+          "title": "Election 2026 profiles: Sonja Stump, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Courier she backs compelled treatment: \"I would like to see a law passed if somebody meets a certain criteria, that the police or caregivers can force that person to get the mental health care that they need.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-sonja-stump-claremont-city-council-90272/",
+          "title": "Election 2026 profiles: Sonja Stump, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"Public safety requires partnerships between law enforcement and the community. Providing adequate resources so we cultivate proactive, community policing and dialogue, continues to be a priority,\" and wants the Citizens Police Academy to return.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.sonja4claremont.com",
+          "title": "Sonja Stump | Rooted in Community (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per the Courier, long-term priorities include addressing housing costs by incentivizing developers to pay in-lieu fees to help first-time homebuyers with down payments, and creating a city \"concierge\" position to help people open businesses.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/election-2026-profiles-sonja-stump-claremont-city-council-90272/",
+          "title": "Election 2026 profiles: Sonja Stump, Claremont City Council - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: the City should \"identify activities that will help businesses thrive and actively recruit new businesses for all of our shopping centers,\" with 'shop local' a consistent theme.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.sonja4claremont.com",
+          "title": "Sonja Stump | Rooted in Community (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site on environment: Claremont must \"work together here and regionally on common sense, sustainable policies,\" calling the Johnson's Pasture purchase \"a smart move by a previous generation.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.sonja4claremont.com",
+          "title": "Sonja Stump | Rooted in Community (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Stark: campaign issues page plus Claremont Courier profile and remarks. Stump: campaign site plus Courier profile. Councilmember Corey Calaycay privately urged support for Stump (leaked email); not recorded as an endorsement. No organizational endorsements found for either. Searches used: 2"
+}

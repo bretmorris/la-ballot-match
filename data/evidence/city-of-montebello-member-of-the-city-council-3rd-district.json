@@ -1,0 +1,72 @@
+{
+ "contestId": "city-of-montebello-member-of-the-city-council-3rd-district",
+ "options": {
+  "marie-ledezma": [
+   {
+    "text": "Pledges to 'Advocate for ordinances that work, cut red tape, and expand economic opportunities,' protect green spaces and rebuild aging infrastructure.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Marie%20Ledezma.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Marie Ledezma",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "elva-sammy-osorio": [
+   {
+    "text": "Says 'I will address homelessness with balance: combining mental health help and shelter with real safety rules.'",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Elva%20Sammy%20Osorio.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Elva \"Sammy\" Osorio",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Pledges to audit city spending, 'cut red tape for small businesses,' and stop 'unfair parking tickets.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Elva%20Sammy%20Osorio.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Elva \"Sammy\" Osorio",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Prioritizes repairing roads and fixing traffic lights on Whittier and Beverly 'so drivers aren't stuck at red lights,' plus Dial-a-Ride.",
+    "kind": "own-statement",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Elva%20Sammy%20Osorio.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Elva \"Sammy\" Osorio",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says 'Our neighbors shouldn't feel forced out by high costs'; wants a Montebello 'where people can stay.'",
+    "kind": "own-statement",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Elva%20Sammy%20Osorio.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Elva \"Sammy\" Osorio",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "ana-torres": [
+   {
+    "text": "Lists priorities: public safety, local businesses, city services, youth and seniors, and 'responsible stewardship of taxpayer dollars.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Ana%20Torres.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Ana Torres",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "All items are from 2026 official candidate statements posted by the Montebello City Clerk. No other sources were found. Searches used: 10"
+}

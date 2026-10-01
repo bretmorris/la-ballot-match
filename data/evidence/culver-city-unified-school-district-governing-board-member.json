@@ -1,0 +1,207 @@
+{
+  "contestId": "culver-city-unified-school-district-governing-board-member",
+  "options": {
+    "darrel-menthe": [
+      {
+        "text": "Campaign goals: fix CCUSD finances, ensure counselor access, champion honors classes, \"Cover AP class costs—just like LA Unified,\" and reduce class sizes. Criticized the board's vote to eliminate English honors classes.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/15/menthe-running-for-ccusd-school-board/",
+          "title": "Culver City Crossroads: Menthe running for CCUSD school board (2026-06-15)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Served on the steering committee of the volunteer campaign that put a sliding-scale parcel tax for CCUSD on the November 2026 ballot.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/07/10/city-council-to-vote-on-approving-sliding-scale-parcel-tax-on-the-november-ballot/",
+          "title": "Culver City Crossroads: City Council to vote on sliding-scale parcel tax for November ballot (2026-07-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Culver City Democrats United.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/09/02/cc-dems-united-post-november-endorsements/",
+          "title": "Culver City Crossroads: CC Dems United post November endorsements (2026-09-02)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "stephanie-loredo": [
+      {
+        "text": "\"My priority is to strengthen CCUSD's financial foundation\"; her campaign cites support for the Measure E bond and the Measure O parcel tax renewal, and says she is the only board member waiving 2026 pay.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/10/school-board-president-loredo-steps-up-for-re-election/",
+          "title": "Culver City Crossroads: School board president Loredo steps up for re-election (2026-06-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign says she backs practices serving students with disabilities, LGBTQIA+ students, English learners, and foster and unhoused youth, including affinity graduation ceremonies.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/10/school-board-president-loredo-steps-up-for-re-election/",
+          "title": "Culver City Crossroads: School board president Loredo steps up for re-election (2026-06-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) At a board meeting reaffirming the district's no-ICE policy, formally requested that ICE leave Los Angeles County and urged families to document incidents.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/06/12/school-board-considers-lcap-data-reinforces-district-no-ice-policy/",
+          "title": "Culver City Crossroads: School board considers LCAP data, reinforces district no-ICE policy (2025-06-12)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On spring 2026 cuts: \"Nobody is going to be happy, but what else can we do when we have less?\"; noted a possible November parcel tax.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/03/02/ccusd-looks-to-cuts-special-board-meeting-will-address-funding/",
+          "title": "Culver City Crossroads: CCUSD looks to cuts (2026-03-02)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Culver City Federation of Teachers, LGBTQ+ Victory Fund, Stonewall Democratic Club and Culver City Democratic Club.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/07/08/loredo-gathers-a-long-list-of-endorsements-for-school-board-race/",
+          "title": "Culver City Crossroads: Loredo gathers a long list of endorsements (2026-07-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "triston-ezidore": [
+      {
+        "text": "Re-election statement cites \"attacks on educational equity and inclusion\" and pledges to protect \"the excellence and inclusivity that define our schools.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/12/ezidore-will-run-for-re-election-to-ccusd-school-board/",
+          "title": "Culver City Crossroads: Ezidore will run for re-election (2026-06-12)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Backed a fentanyl harm-reduction pilot: \"Keeping our students safe means meeting this crisis with honesty, compassion, and real tools.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/12/11/ccusd-to-launch-harm-reduction-pilot-program/",
+          "title": "Culver City Crossroads: CCUSD to launch harm reduction pilot program (2025-12-11)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As 2025 board president, cited a Project Labor Agreement \"centered on local hire, apprenticeships, and equity\" and standing up to \"the Republican administration's attacks on public education.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/12/10/ezidore-steps-down-loredo-steps-up-ccusd-school-board-ends-the-year-with-reorganized-roles/",
+          "title": "Culver City Crossroads: Ezidore steps down, Loredo steps up (2025-12-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) On a possible parcel tax: \"It's my belief that the community would pass this,\" while requesting a cost analysis.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/09/24/ccusd-board-looks-towards-parcel-tax-on-the-november-ballot/",
+          "title": "Culver City Crossroads: CCUSD board looks towards parcel tax on the November ballot (2025-09-24)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Culver City Democratic Club; also cites Sen. Adam Schiff and Supervisor Holly Mitchell.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/17/culver-city-democratic-club-posts-endorsements-for-school-board-race/",
+          "title": "Culver City Crossroads: Culver City Democratic Club posts endorsements for school board race (2026-06-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "brian-guerrero": [
+      {
+        "text": "(2025) Said he would personally step in if ICE tried to enter a district school without proper legal grounds: \"Even if they have a warrant, contact me.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/06/12/school-board-considers-lcap-data-reinforces-district-no-ice-policy/",
+          "title": "Culver City Crossroads: School board considers LCAP data, reinforces district no-ICE policy (2025-06-12)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As board vice president in Sept. 2026, urged using restricted dollars first for eligible expenses to protect unrestricted reserves.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/09/10/school-board-budget-update-takes-in-10-million-surge-in-revenues/",
+          "title": "Culver City Crossroads: School board budget update takes in $10 million surge in revenues (2026-09-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Pressed for disaggregated data, e.g. breaking out the Latino subgroup, to see where strategies are working.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2025/06/12/school-board-considers-lcap-data-reinforces-district-no-ice-policy/",
+          "title": "Culver City Crossroads: School board considers LCAP data, reinforces district no-ICE policy (2025-06-12)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Culver City Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://culvercitycrossroads.com/2026/06/17/culver-city-democratic-club-posts-endorsements-for-school-board-race/",
+          "title": "Culver City Crossroads: Culver City Democratic Club posts endorsements for school board race (2026-06-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Coverage from Culver City Crossroads (WP API). No standalone campaign platform found for Brian Guerrero. Searches used: 9"
+}

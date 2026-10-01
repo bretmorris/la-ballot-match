@@ -1,0 +1,184 @@
+{
+ "contestId": "city-of-bell-gardens-member-of-the-city-council",
+ "options": {
+  "marco-barcena": [
+   {
+    "text": "(2022) A lead proponent of Bell Gardens' permanent rent stabilization ordinance (cap of 4% or half of CPI, plus just-cause eviction rules), which passed 5-0; said 'Thank you for having the courage to stand up for the community.'",
+    "kind": "voting-record",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2022/08/bell-gardens-caps-rent-increases-at-4-2/",
+     "title": "Downey Latino News: Bell Gardens caps rent increases at 4% (Aug 26, 2022)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Part of the 4-1 council vote (De Leon Sanchez abstaining) endorsing Prop. 50 redistricting (Oct 2025); as mayor called it a chance 'to defend ourselves against this dictatorship.'",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-city-council-backs-prop-50/",
+     "title": "The SELA Sun: Bell Gardens City Council backs Prop. 50 (Nov 2, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Signed the official ballot argument for Measure BG, a quarter-cent sales tax (June 2026); in a pre-election video said 'for this tax measure everyone is on the same page.'",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.selasun.la/measure-bg-on-track-to-pass/",
+     "title": "The SELA Sun: Measure BG on track to pass (Jun 3, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "As mayor, introduced the motion (passed unanimously, Oct 2025) renaming the city's new aquatics center the 'Dreamers Aquatic Center,' saying 'we're in a very difficult time in our history as a country' and 'the theme of hope is extremely important.'",
+    "kind": "official-action",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-renames-ford-park-pool-the-dreamers-aquatic-center/",
+     "title": "The SELA Sun: Bell Gardens renames Ford Park pool the 'Dreamers Aquatic Center' (Oct 13, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "miguel-de-la-rosa": [
+   {
+    "text": "Part of the 4-1 council vote (De Leon Sanchez abstaining) endorsing Prop. 50 redistricting (Oct 2025).",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-city-council-backs-prop-50/",
+     "title": "The SELA Sun: Bell Gardens City Council backs Prop. 50 (Nov 2, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Signed the official ballot argument for Measure BG, Bell Gardens' quarter-cent sales tax, as one of all five councilmembers (June 2026).",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.selasun.la/measure-bg-on-track-to-pass/",
+     "title": "The SELA Sun: Measure BG on track to pass (Jun 3, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Called rent stabilization 'a critical foundation to build upon'; proposed more affordable housing, new low-income units, tenant legal and financial help, plus tax incentives or grants for landlords to maintain property.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Said the police budget should stay the same pending an audit; backed complementary strategies such as mental health crisis intervention teams, youth outreach and housing services to address poverty, mental health and substance abuse.",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Said he would ensure pedestrian safety and cycling lanes are in place ahead of the Southeast Gateway Line to reduce congestion, while optimizing traffic lights to ease delays.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "samuel-perez": [
+   {
+    "text": "(2024) Said rent control 'has proven to be of immediate help' but 'can also be a deterrent for investment and new housing construction'; urged incentivizing housing development and affordable units in new projects.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Said the police budget should stay the same; would not cut it if crime is falling, while seeking cost savings and promoting Neighborhood Watch.",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Said he would prioritize clean, safe roads to encourage biking, walking and local public transportation.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://downeylatinonews.com/en/2024/10/ask-the-candidates-bell-gardens-city-council-special-election/",
+     "title": "Downey Latino News: Ask the candidates! Bell Gardens City Council Special Election (Oct 20, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "francis-de-leon-sanchez": [
+   {
+    "text": "Abstained on the council's Oct 2025 Prop. 50 endorsement, saying the measure 'presents potential fiscal impacts to taxpayers that warrant closer examination.'",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-city-council-backs-prop-50/",
+     "title": "The SELA Sun: Bell Gardens City Council backs Prop. 50 (Nov 2, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On Measure BG, Bell Gardens quarter-cent sales tax (June 2026): \"We wanted to keep the money local to our city... Is Measure BG going to solve our issue? No, it’s not, but it’s definitely going to help.\"",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-warns-of-possible-8m-budget-hole-if-measure-bg-fails-and-casino-revenue-drops/",
+     "title": "The SELA Sun: Bell Gardens warns of possible $8M budget hole if Measure BG fails (May 29, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Signed the official ballot argument for Measure BG, Bell Gardens quarter-cent sales tax, as one of all five councilmembers (June 2026).",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.selasun.la/measure-bg-on-track-to-pass/",
+     "title": "The SELA Sun: Measure BG on track to pass (Jun 3, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Warned that if cardroom revenue falls, 'There are going to be cuts when it comes to public safety as well,' possibly fewer patrol officers (May 2026).",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-warns-of-possible-8m-budget-hole-if-measure-bg-fails-and-casino-revenue-drops/",
+     "title": "The SELA Sun: Bell Gardens warns of possible $8M budget hole if Measure BG fails (May 29, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Questioned expanding holiday decorations amid a projected $1.93M deficit: 'I just want to make sure that it's within our means to do that' (Aug 2026).",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.selasun.la/bell-gardens-considers-up-to-70k-in-holiday-decorations/",
+     "title": "The SELA Sun: Bell Gardens considers up to $70K in holiday decorations (Aug 31, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "jorge-o-verdin": []
+ },
+ "notes": "Bell Gardens city site blocks automated fetches (Akamai 403), so no candidate statements could be pulled. Incumbent records come from The SELA Sun and Downey Latino News. samuel-perez items are from a 2024 Bell Gardens special-election questionnaire answered by a Samuel Perez (25-year resident). That is presumably the same person, but the questionnaire gives no occupation to match his 2026 designation. No public positions found for jorge-o-verdin. Searches used: 10"
+}

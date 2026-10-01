@@ -1,0 +1,98 @@
+{
+  "contestId": "foothill-municipal-water-district-member-board-of-directors-division-4",
+  "options": {
+    "amy-i-chen": [
+      {
+        "text": "Chen's campaign notes water-related property taxes \"have more than doubled since 2024, with another 20% increase this year,\" and pledges to \"protect ratepayers from avoidable costs\" and explain major decisions' impact before commitments.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://amy4foothill.com",
+          "title": "Amy Chen for Foothill Municipal Water District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign motto: \"Fund what we need. Wait on what can wait. Pursue grants and outside funding, and invest where it improves reliability.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://amy4foothill.com",
+          "title": "Amy Chen for Foothill Municipal Water District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wrote that before major commitments directors should ask: \"Can the investment be phased? Can outside funding reduce the burden on ratepayers?\" — since \"every dollar committed by this board comes from the water rates and property taxes we pay.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/chen-announces-candidacy-for-water-board/article_18fde0d4-e00a-44be-bda1-9bf212570b29.html",
+          "title": "La Cañada Outlook: Chen Announces Candidacy for Water Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wrote that imported Colorado River and State Water Project supplies \"face long-term uncertainty\" and that she \"recognized decades ago the importance of diversification when it comes to water supply.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/chen-announces-candidacy-for-water-board/article_18fde0d4-e00a-44be-bda1-9bf212570b29.html",
+          "title": "La Cañada Outlook: Chen Announces Candidacy for Water Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to make sure Foothill MWD \"is prepared for the next Eaton Fire, earthquake, or major disruption.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://amy4foothill.com",
+          "title": "Amy Chen for Foothill Municipal Water District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Criticized that every current Foothill director, including her opponent, was appointed rather than elected, saying Division 4 voters \"have a real choice\" and need a director who votes independently rather than relying on \"political relationships.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/chen-announces-candidacy-for-water-board/article_18fde0d4-e00a-44be-bda1-9bf212570b29.html",
+          "title": "La Cañada Outlook: Chen Announces Candidacy for Water Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "laura-olhasso": [
+      {
+        "text": "On June 22, 2026, Olhasso voted with the unanimous board to adopt the district's proposed budget, rates, charges and reserves and modify its reserve policy.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.fmwd.com/uploads/files/July%20Special%20Packet.pdf",
+          "title": "Foothill MWD July 2026 special board packet (minutes of June 22, 2026 regular meeting)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said her \"top priority has been, and will continue to be, ensuring that the district has the strategic vision, resources, infrastructure and funding to reliably and efficiently deliver\" water to its eight member agencies.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/laura-olhasso-announces-candidacy-for-water-district-board-of-directors/article_d73cd0a7-d91b-4a44-87db-2d2eaafadde5.html",
+          "title": "La Cañada Outlook: Laura Olhasso Announces Candidacy for Water District Board of Directors (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per her announcement, as La Cañada Flintridge mayor Olhasso created a Blue-Ribbon Commission to evaluate the city's water usage and conservation policies.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/laura-olhasso-announces-candidacy-for-water-district-board-of-directors/article_d73cd0a7-d91b-4a44-87db-2d2eaafadde5.html",
+          "title": "La Cañada Outlook: Laura Olhasso Announces Candidacy for Water District Board of Directors (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Olhasso was appointed in Feb. 2026 (replacing Richard Atwater); her recorded 2026 votes were all unanimous. Her announcement lists endorsements from LCF Mayor Jeanne Hobson and former Mayor Mike Davitt (local officials, not issue groups, so not recorded as items). Searches used: 4"
+}

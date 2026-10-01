@@ -2,6 +2,177 @@
  "contestId": "paramount-unified-school-district-governing-board-member-trustee-area-no-4",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:59.877Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.091Z",
+ "options": {
+  "yesenia-maria-cuarenta": {
+   "taxes-spending": {
+    "position": -0.23,
+    "evidence": 0.7,
+    "confidence": 0.57,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.46,
+     "2": 0.5,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.085,
+    "evidence": 0.03,
+    "confidence": 0.85,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.14,
+     "2": 0.84,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.035,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0.07,
+     "2": 0.93,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0,
+    "evidence": 0.03,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.515,
+    "evidence": 0.89,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0.07,
+     "1": 0.89,
+     "2": 0.04,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.61,
+    "evidence": 0.84,
+    "confidence": 0.79,
+    "probabilities": {
+     "0": 0.24,
+     "1": 0.75,
+     "2": 0.01,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.72,
+    "evidence": 0.98,
+    "confidence": 0.62,
+    "probabilities": {
+     "0": 0.45,
+     "1": 0.54,
+     "2": 0.01,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.025,
+    "evidence": 0.02,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.015,
+    "evidence": 0.04,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.97,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.425,
+    "evidence": 0.57,
+    "confidence": 0.82,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.79,
+     "2": 0.18,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.045,
+    "evidence": 0.05,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.08,
+     "2": 0.92,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

@@ -1,0 +1,191 @@
+{
+  "contestId": "mountain-view-school-district-governing-board-member",
+  "options": {
+    "adam-c-carranza": [
+      {
+        "text": "Says he \"helped establish the district's first Project Labor Agreement, creating opportunities for local workers while investing in schools.\"",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he \"helped lead the successful passage of two school facility bonds\" that paid for new roofs, water pipes, fire alarms, electrical panels and HVAC.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the district installed solar shade panels \"to save money and produce cleaner electricity while providing shade for students outdoors.\"",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he has championed support for English learners, mental health counseling, arts education and immigrant families.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says \"Congress has failed to fund the 40% share it promised\" for special education under IDEA, leaving districts to provide services with little federal money.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Mountain View Teachers Association.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Federation of Labor, the LA/OC Building and Construction Trades Council, and several building-trades locals.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Adam_C._Carranza_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Adam C. Carranza Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates, November 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "cindy-wu": [
+      {
+        "text": "Key messages: expand reading and financial literacy programs, provide adequate mental and emotional support, and expand anti-bullying programs.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Key message: \"Raise school performance by increasing accountability and responsibly managing the District's multimillion-dollar budget and bond dollars.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says being a trustee means \"more than simply rubber-stamping recommendations or automatically approving the administration's proposals.\"",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists language access and support for multilingual learners among her policy interests, so families \"can meaningfully participate regardless of language barriers.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Federation of Labor, IBEW Local 11, LIUNA Local 300 and the LA/OC Building and Construction Trades Council.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Stonewall Democratic Club.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://ballotpedia.org/Cindy_Wu_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Cindy Wu Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "veronica-b-sifuentes": [
+      {
+        "text": "Told Ballotpedia that \"Currently the issue of immigration is weighing heavily on our students and community.\"",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ballotpedia.org/Veronica_B._Sifuentes_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Veronica B. Sifuentes Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she wants to give students \"equitable programs\" and make them \"feel safe. Safe to learn and grow while in the care of our district.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Veronica_B._Sifuentes_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Veronica B. Sifuentes Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Mountain View Teachers Association and California School Employees Association Chapter 430.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Veronica_B._Sifuentes_(Mountain_View_School_District_(Los_Angeles_County),_At-large,_California,_candidate_2026)",
+          "title": "Ballotpedia: Veronica B. Sifuentes Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates, November 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "darlene-nava": [],
+    "griselda-saharai-olivares": []
+  },
+  "notes": "All three incumbents (Adam C. Carranza, Cindy Wu, Veronica B. Sifuentes) answered Ballotpedia's survey. The LA County Democratic Party endorsed Carranza and Sifuentes and reached no consensus on a third. No public positions found for Darlene Nava or Griselda Saharai Olivares. Searches used: 10."
+}

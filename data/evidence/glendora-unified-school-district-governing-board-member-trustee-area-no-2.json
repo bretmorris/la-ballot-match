@@ -1,0 +1,155 @@
+{
+  "contestId": "glendora-unified-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "monica-garcia": [
+      {
+        "text": "(2023) Voted no on proposed Board Policy 5020.1, the Parental Notification Policy (requiring schools to tell parents of a student's gender-identity requests); the motion failed 2-3 with Garcia, Merkley and Reuter opposed.",
+        "kind": "voting-record",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.glendora.k12.ca.us/ourpages/auto/2022/1/16/46511135/10-9-23,%20Adopted%20Regular%20Board%20Minutes.pdf",
+          "title": "Glendora USD Board of Education adopted minutes, regular meeting October 9, 2023",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Every decision should start and end with one question: How does this help our students succeed? That means investing in classrooms, supporting our teachers, and ensuring every student has the opportunity to learn, grow, and thrive.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://monicagarciaforgusd.com/",
+          "title": "Re-Elect Monica García — Putting Students First (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Families trust us with their tax dollars, and that trust must be earned through transparency and smart budgeting. I'm committed to ensuring every dollar is spent wisely... while avoiding waste and unnecessary spending.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://monicagarciaforgusd.com/",
+          "title": "Re-Elect Monica García — Putting Students First (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"strengthen school safety, expand student support services, and foster learning environments where every child feels respected, included, and ready to succeed.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://monicagarciaforgusd.com/",
+          "title": "Re-Elect Monica García — Putting Students First (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes herself as \"a parent and advocate for public education\" who believes \"in the life-changing power of public education\" as the daughter of a single immigrant mother and first in her family to attend college.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://monicagarciaforgusd.com/biography/",
+          "title": "Monica García for GUSD: Biography (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Rep. Gil Cisneros (CA-31) and Assemblywoman Blanca Rubio (AD-48), plus numerous individual GUSD teachers.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://monicagarciaforgusd.com/",
+          "title": "Re-Elect Monica García — Putting Students First (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "c-j-cohick": [
+      {
+        "text": "Cites the October 2023 3-2 board vote rejecting a parental notification policy: \"when something important is happening with a child at school, do her parents have the right to know?\" Says voters answered; \"I'm not running to re-fight that vote\" but to make sure \"a board answers to the families it serves.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/families-at-the-center",
+          "title": "C.J. for Glendora Schools: Families at the Center (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Parents don't work for the school district. It's the other way around.\" Says parents are \"a kid's first teachers; schools are the partners.\" He and his wife homeschool their children.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/families-at-the-center",
+          "title": "C.J. for Glendora Schools: Families at the Center (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to win back families who left for charter schools, independent study and neighboring districts: \"I'd rather solve it by earning families back than by cutting our way through it.\" Would market Citrus College classes and other programs to homeschool and private-school families.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/",
+          "title": "C.J. for Glendora Schools (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports Measure G, the $86M GUSD facilities bond extending the existing tax rate: \"the repairs don't get cheaper by waiting.\" Notes there is no legal rate cap and pledges to make sure the oversight committee \"actually functions.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/measure-g",
+          "title": "C.J. for Glendora Schools: Measure G (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says schools should form \"kids of strong character\"; character \"grows out of a community that knows who it is,\" taught in \"our schools, homes, churches, and ballfields.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/kids-of-character",
+          "title": "C.J. for Glendora Schools: Kids of Character (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants academic teams (debate, mock trial) to get paid coaches like athletes, and to fix rules that \"pile risk and unpaid work onto club advisers.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/ready-for-whats-next",
+          "title": "C.J. for Glendora Schools: Ready for What's Next (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "An AI product builder, wants clear district guidance on student AI use and to give every student \"real, hands-on experiences the machine can't fake.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/ready-for-whats-next",
+          "title": "C.J. for Glendora Schools: Ready for What's Next (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pushes for plain-language board agendas and flagging big decisions before the meeting where they're voted on, plus monthly open office hours for parents.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/families-at-the-center",
+          "title": "C.J. for Glendora Schools: Families at the Center (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by former Glendora Mayor Judy Nelson.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.cjforglendoraschools.com/endorsements",
+          "title": "C.J. for Glendora Schools: Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent Monica Garcia (first-term; not the former LAUSD board member of the same name) has a campaign site with general priorities and a recorded 2023 vote against the parental notification policy. Challenger C.J. Cohick has a detailed issues site. Cohick supports Measure G; Garcia's site does not address it. No teachers' union endorsement found for either. Searches used: 8"
+}

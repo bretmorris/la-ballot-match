@@ -1,0 +1,50 @@
+{
+  "contestId": "san-gabriel-unified-school-district-governing-board-member",
+  "options": {
+    "cecilia-reyes-keffer": [],
+    "gina-l-chi": [
+      {
+        "text": "Priority: \"Great Schools for Every Kid\" — \"Support high-quality education, academic opportunities, and lifelong success for every student.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ginachi.com",
+          "title": "Re-Elect Gina Chi for SGUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priority: \"Safe Campuses\" — \"Enforce everyday campus practice — like the front gate staying closed during school hours.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://ginachi.com",
+          "title": "Re-Elect Gina Chi for SGUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priority: \"Expand counseling and mental health resources so students and families feel seen, heard, and supported.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://ginachi.com",
+          "title": "Re-Elect Gina Chi for SGUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the I-Chinese American Political Action Committee (IAPAC), fellow SGUSD trustees Rochelle Haas and Gary Thomas Scott, and San Gabriel Mayor Eric Chan.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ginachi.com",
+          "title": "Re-Elect Gina Chi for SGUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rochelle-kate-ongsiako-haas": [],
+    "gary-thomas-scott": [],
+    "leif-halgard-andersen": []
+  },
+  "notes": "Vote for 3; first contested SGUSD board election since 2013 (incumbents Haas and Scott were previously appointed in lieu of election). Only Gina Chi has a findable campaign site (general priorities, endorsements). No public positions found for Cecilia Reyes Keffer, Rochelle Kate Ongsiako Haas, Gary Thomas Scott or Leif Halgard Andersen; Colorado Boulevard's 2026 San Gabriel election preview lists biographies only. Searches used: 10"
+}

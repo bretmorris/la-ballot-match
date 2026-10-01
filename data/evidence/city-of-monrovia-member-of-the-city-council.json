@@ -1,0 +1,89 @@
+{
+  "contestId": "city-of-monrovia-member-of-the-city-council",
+  "options": {
+    "tamala-p-kelly": [
+      {
+        "text": "(2022-era campaign issues page) \"Encourage inclusionary zoning\" and \"Set aside 20% of units for affordable housing in multi-unit developments\"; build new multi-unit housing \"equitably across the city, instead of clustering it in one area.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://votetamalakelly.com/issues",
+          "title": "Issues - Tamala Kelly for City Council (campaign site; undated, site dates from her 2022 run)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022-era campaign issues page) \"Protect tenants and prevent rent-gouging, making it easier for Monrovians to stay in their homes\"; help low-income residents stay housed.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://votetamalakelly.com/issues",
+          "title": "Issues - Tamala Kelly for City Council (campaign site; undated, site dates from her 2022 run)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022-era campaign issues page) \"Secure Measure K funding to employ a full-time psychiatrist and social worker to do ride-alongs with our Police and Fire departments\"; wants a strong police-community relationship.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://votetamalakelly.com/issues",
+          "title": "Issues - Tamala Kelly for City Council (campaign site; undated, site dates from her 2022 run)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022-era campaign issues page) \"Reinstate the Monrovia Environmental Accord — 21 action items focused on energy, waste reduction, transportation, environmental health, and water,\" plus a citizen Green Team and more shade trees in south Monrovia.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://votetamalakelly.com/issues",
+          "title": "Issues - Tamala Kelly for City Council (campaign site; undated, site dates from her 2022 run)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Reelection announcement cites reopening Canyon Park, investing in \"the award-winning SGVCares program,\" and keeping the community \"fiscally sound, while continuing to improve our budget.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://votetamalakelly.com",
+          "title": "Re-elect Dr. Tamala Kelly - Tamala Kelly for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022-era campaign issues page) \"City funds need to be spent prudently and effectively\"; oversight and public information are essential so taxpayers have confidence in how their money is used.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://votetamalakelly.com/issues",
+          "title": "Issues - Tamala Kelly for City Council (campaign site; undated, site dates from her 2022 run)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "larry-j-spicer": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jesus-rojas": []
+  },
+  "notes": "Kelly: campaign site (issues page undated, carried from her 2022 campaign). Spicer: no campaign site or policy statements found; only LA County Democratic Party endorsement (his only 2026 public statement found responds to a Rojas mailer about his decades-old criminal record, per Monrovia Now). Rojas: no positions found beyond that attack mailer. Chamber/LWV forum is Oct. 12. Searches used: 5"
+}

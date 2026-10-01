@@ -1,0 +1,32 @@
+{
+ "contestId": "lynwood-unified-school-district-governing-board-member",
+ "options": {
+  "julian-del-real-calleros": [],
+  "james-m-bishop-sr": [],
+  "jose-luis-pina": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "mariela-renteria": [],
+  "martina-rodriguez": [],
+  "alma-ruby-andrade": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Vote for 2. No public positions found for Julian Del Real-Calleros (incumbent; district bio gives background only), James M. Bishop Sr., Mariela Renteria or Martina Rodriguez. Jose Luis Piña and Alma Ruby Andrade have only LACDP endorsements. No campaign sites located. Searches used: 10"
+}

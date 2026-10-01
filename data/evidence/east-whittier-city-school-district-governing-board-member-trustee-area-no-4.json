@@ -1,0 +1,30 @@
+{
+  "contestId": "east-whittier-city-school-district-governing-board-member-trustee-area-no-4",
+  "options": {
+    "thomas-baird": [
+      {
+        "text": "Per an AI-generated Citizen Portal summary of the March 10, 2026 appointment interviews, Baird told the board he would bring a \"student-centered\" approach prioritizing equity, collaboration and transparency, saying \"I'm here for the kids, not just my own.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://citizenportal.ai/articles/7799917/California/School-Districts/East-Whittier-City-Elementary/East-Whittier-board-appoints-Thomas-Baird-to-fill-Area-4-vacancy",
+          "title": "Citizen Portal (AI-generated meeting summary): East Whittier board appoints Thomas Baird to fill Area 4 vacancy (Mar. 10, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "miguel-angel-hernandez-jr": [
+      {
+        "text": "Per an AI-generated Citizen Portal summary of the March 10, 2026 Area 4 appointment interviews, Miguel Hernandez, a district graduate, stressed support for staff and facilities and responding to community concerns; the board appointed Baird instead.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://citizenportal.ai/articles/7799917/California/School-Districts/East-Whittier-City-Elementary/East-Whittier-board-appoints-Thomas-Baird-to-fill-Area-4-vacancy",
+          "title": "Citizen Portal (AI-generated meeting summary): East Whittier board appoints Thomas Baird to fill Area 4 vacancy (Mar. 10, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Thin evidence for both: only an AI-generated meeting summary of the March 2026 appointment interviews (Hernandez there is described as a district graduate and community volunteer; assumed to be the same Miguel Angel Hernandez Jr. who later filed). No campaign sites, endorsements or other positions found for either. Searches used: 10"
+}

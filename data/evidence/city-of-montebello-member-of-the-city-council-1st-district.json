@@ -1,0 +1,104 @@
+{
+ "contestId": "city-of-montebello-member-of-the-city-council-1st-district",
+ "options": {
+  "georgina-tamayo": [
+   {
+    "text": "Says that as councilmember/mayor she 'Adopted the city's first Community Workforce Agreement, ensuring unionized labor on city funded projects.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Georgina%20Tamayo.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Georgina Tamayo",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says she made 'significant investments in our fire and police departments, expanding personnel and creating a new Public Park Safety Division,' and secured over $3 million for a new District 1 fire station.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Georgina%20Tamayo.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Georgina Tamayo",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says she attracted major retailers including Tesla, Hobby Lobby, Planet Fitness, Yard House and Round 1, and reinstated the Traffic & Safety Commission.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Georgina%20Tamayo.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Georgina Tamayo",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "kimberly-cobos-cawthorne": [
+   {
+    "text": "Says as former mayor she 'successfully championed Measure H, securing over $48 million in dedicated, local tax revenue to protect vital city services.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Kimberly%20Cobos%20Cawthorne.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Kimberly Cobos Cawthorne",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Pledges not to accept a city council salary if elected, 'every dollar saved goes back to serving you.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Kimberly%20Cobos%20Cawthorne.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Kimberly Cobos Cawthorne",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists priorities: 'expanding resources for our local first responders,' keeping tax dollars local, supporting small businesses, and investing in youth and senior programs.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Kimberly%20Cobos%20Cawthorne.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Kimberly Cobos Cawthorne",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "shazia-hoq": [
+   {
+    "text": "Pledges 'transparency, accountability, responsible budgeting, safer neighborhoods' and a city government that 'respects residents, employees, labor partners, and public safety professionals.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Shazia%20Hoq.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Shazia Hoq",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Cites two terms as VP of the Wilshire Center Koreatown Neighborhood Council working on economic development, public safety, housing and homelessness solutions.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Shazia%20Hoq.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Shazia Hoq",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "rafael-santoya": [
+   {
+    "text": "Lists priorities: public safety, strong schools, responsible city services, local businesses, and 'ensuring our police and fire departments have the resources they need.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement-%20Rafael%20Santoya.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Rafael Santoya",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "All items are from 2026 official candidate statements posted by the Montebello City Clerk. They are mostly general, and no questionnaires or forum coverage were found. Searches used: 10"
+}

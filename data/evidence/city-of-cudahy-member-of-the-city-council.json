@@ -1,0 +1,53 @@
+{
+ "contestId": "city-of-cudahy-member-of-the-city-council",
+ "options": {
+  "cynthia-gonzalez": [
+   {
+    "text": "Voted aye (Aug 4, 2026) to place a measure on the ballot requiring voter approval to raise Cudahy's 3% annual rent-increase ceiling and a 2/3 council vote to amend the rent stabilization chapter.",
+    "kind": "voting-record",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://www.cityofcudahyca.gov/DocumentCenter/View/2624",
+     "title": "City of Cudahy - Resolution No. 26-34 (rent stabilization protection measure), adopted Aug 4, 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye (Jul 21, 2026) to ask voters to continue Cudahy's existing 3/4% sales tax.",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.cityofcudahyca.gov/DocumentCenter/View/2616",
+     "title": "City of Cudahy - Resolution No. 26-30 (sales tax continuation measure), adopted Jul 21, 2026",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "martin-u-fuentes": [
+   {
+    "text": "Abstained (Aug 4, 2026) on placing the measure requiring voter approval to raise Cudahy's 3% rent-increase ceiling on the ballot.",
+    "kind": "voting-record",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://www.cityofcudahyca.gov/DocumentCenter/View/2624",
+     "title": "City of Cudahy - Resolution No. 26-34 (rent stabilization protection measure), adopted Aug 4, 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye (Jul 21, 2026) to ask voters to continue Cudahy's existing 3/4% sales tax.",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.cityofcudahyca.gov/DocumentCenter/View/2616",
+     "title": "City of Cudahy - Resolution No. 26-30 (sales tax continuation measure), adopted Jul 21, 2026",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "richard-corvera-hernandez": [],
+  "cynthia-romo": [],
+  "jose-r-gonzalez": []
+ },
+ "notes": "Incumbent votes are from certified roll calls in the scanned city resolutions. Cudahy posts no candidate statements online. No public positions found for richard-corvera-hernandez, cynthia-romo or jose-r-gonzalez. A partisan opinion site (The Current Report) covers a 2025 Cynthia Gonzalez video about ICE. It was not used: the outlet is not reputable reporting, and she called the video satire. Searches used: 10"
+}

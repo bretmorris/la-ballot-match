@@ -1,0 +1,154 @@
+{
+  "contestId": "city-of-san-marino-member-of-the-city-council",
+  "options": {
+    "shelley-boyle": [
+      {
+        "text": "Candidacy statement: \"We can protect what makes our neighborhoods distinctive while supporting responsible development and thoughtful growth,\" citing eight years on the Planning Commission and a passion for preserving historic character and the mature tree canopy.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/boyle-announces-candidacy-for-city-council/article_108fa583-221a-4f89-812d-d556426b6da9.html",
+          "title": "Boyle Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I believe residents deserve a city government that is thoughtful, transparent, and accountable with every dollar\"; strong financial management \"requires discipline and a willingness to make difficult choices about priorities.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/boyle-announces-candidacy-for-city-council/article_108fa583-221a-4f89-812d-d556426b6da9.html",
+          "title": "Boyle Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants San Marino to \"think creatively about economic development and opportunities to strengthen our revenue base\" by attracting and retaining businesses.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/boyle-announces-candidacy-for-city-council/article_108fa583-221a-4f89-812d-d556426b6da9.html",
+          "title": "Boyle Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "john-dustin": [
+      {
+        "text": "Candidacy statement: San Marino can meet state housing mandates \"while ensuring proactive protection of the charm of our city,\" praising ADU encouragement and \"firmly limiting zoning for mixed-use to our commercial rather than our residential areas\"; wants stronger design standards.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/dustin-announces-candidacy-for-city-council/article_3ee67d2c-04e8-4bc5-9ae1-2d31eb2b0577.html",
+          "title": "Dustin Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the new sewer fee and \"a modest increase in the local sales tax will provide additional funds\" and calls renewal of the utility users tax \"a vital source of funds\"; city must be thoughtful about cutting expenses to preserve essential services.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/dustin-announces-candidacy-for-city-council/article_3ee67d2c-04e8-4bc5-9ae1-2d31eb2b0577.html",
+          "title": "Dustin Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports continuing the voter-approved public safety tax funding fire and police: \"It is important to continue this priority.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/dustin-announces-candidacy-for-city-council/article_3ee67d2c-04e8-4bc5-9ae1-2d31eb2b0577.html",
+          "title": "Dustin Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As an avid walker, concerned about pedestrian safety and says the city could explore \"modest measures\" to enhance it.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/dustin-announces-candidacy-for-city-council/article_3ee67d2c-04e8-4bc5-9ae1-2d31eb2b0577.html",
+          "title": "Dustin Announces Candidacy for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tony-chou": [
+      {
+        "text": "Reelection statement cites completing and certifying the state-mandated Housing Element while \"preserving the unique residential character of our neighborhoods\" and updating pre-approved architectural lists to minimize red tape.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/chou-announces-reelection-campaign-for-city-council/article_08055b5f-6cd6-435a-aab8-6b421aeaaec1.html",
+          "title": "Chou Announces Reelection Campaign for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says renegotiated contracts and partnerships with institutions like The Huntington generate \"new recurring municipal revenue without placing additional tax burdens on our residents.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/chou-announces-reelection-campaign-for-city-council/article_08055b5f-6cd6-435a-aab8-6b421aeaaec1.html",
+          "title": "Chou Announces Reelection Campaign for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Through proactive policing and community-wide safety initiatives, we have enhanced neighborhood security and driven down local crime.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/chou-announces-reelection-campaign-for-city-council/article_08055b5f-6cd6-435a-aab8-6b421aeaaec1.html",
+          "title": "Chou Announces Reelection Campaign for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As mayor, chaired the council that certified the Measure S 1% sales tax and in July 2026 voted to put a utility users tax renewal raising the rate from 5% to 6% on the November ballot; thanked colleagues for backing \"hard decisions\" (individual votes not reported).",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/stakes-high-for-san-marino-in-utility-users-tax-renewal/article_aada5b7a-9517-426d-bb60-e8a25f980ae9.html",
+          "title": "Stakes High for San Marino in Utility Users Tax Renewal - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "calvin-lo": [
+      {
+        "text": "Reelection statement: worked \"to strengthen public safety, promote fiscal responsibility, preserve the character of our neighborhoods\"; says new crime-prevention tools and technology produced \"significant progress in reducing crime.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/lo-announces-reelection-campaign-for-city-council/article_5dc010cf-6f88-495d-ba94-860baf59a0e6.html",
+          "title": "Lo Announces Reelection Campaign for City Council - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the council's May 2026 vote approving a 3% sewer charge increase: \"We were the only city in the entire Los Angeles County without a sewer fee... we are starting low, but we are starting somewhere.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/san-marino-city-council-eyes-long-term-fix-as-it-raises-sewer-rate/article_ce96f23f-7899-4120-8a4a-dc5d18778caf.html",
+          "title": "San Marino City Council Eyes Long-Term Fix as It Raises Sewer Rate - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As vice mayor after Measure S (1% sales tax) passed, said \"our job is to ensure the implementation is seamless, transparent and also tightly managed\"; council then voted to seek a utility users tax increase to 6%.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/sanmarinotribune/stakes-high-for-san-marino-in-utility-users-tax-renewal/article_aada5b7a-9517-426d-bb60-e8a25f980ae9.html",
+          "title": "Stakes High for San Marino in Utility Users Tax Renewal - San Marino Tribune",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "All four from San Marino Tribune candidacy announcements; incumbents also from Tribune council coverage (vote tallies not reported by member). No campaign sites or organizational endorsements found. Searches used: 4"
+}

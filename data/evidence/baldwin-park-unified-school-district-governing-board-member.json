@@ -1,0 +1,62 @@
+{
+  "contestId": "baldwin-park-unified-school-district-governing-board-member",
+  "options": {
+    "norma-olmos": [],
+    "laura-a-franklin": [],
+    "diana-e-miranda-dzib": [],
+    "christina-lucero": [],
+    "john-b-de-leon": [
+      {
+        "text": "Told Ballotpedia he has \"advocated for phonics-based instruction\" and that in his first year on the board BPUSD implemented a science-based reading curriculum \"to ensure every kid reads at grade level.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/John_B._de_Leon_(Baldwin_Park_Unified_School_District_Board_of_Education,_California,_candidate_2026)",
+          "title": "Ballotpedia: John B. de Leon Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he wants to keep expanding career technical education, especially at the middle and high school level, and that athletics and arts programs that get kids excited about school \"must be protected.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/John_B._de_Leon_(Baldwin_Park_Unified_School_District_Board_of_Education,_California,_candidate_2026)",
+          "title": "Ballotpedia: John B. de Leon Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On AI: it \"should be expanded in the classroom to the extent it supplements learning,\" but is harmful as a shortcut; \"School districts need to set up strong guard rails if they are going to use AI.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/John_B._de_Leon_(Baldwin_Park_Unified_School_District_Board_of_Education,_California,_candidate_2026)",
+          "title": "Ballotpedia: John B. de Leon Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he supports helping working parents \"by providing quality programs for students year-round with free after-school programs, expanded before-school care, and immersive summer field trips.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://johnbdeleon.com",
+          "title": "John B. de Leon campaign site (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls character education \"extremely important\" and says its disappearance \"has contributed to the mental health struggles that many of our kids experience.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/John_B._de_Leon_(Baldwin_Park_Unified_School_District_Board_of_Education,_California,_candidate_2026)",
+          "title": "Ballotpedia: John B. de Leon Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Only incumbent John B. de Leon has findable positions (Ballotpedia Candidate Connection survey and campaign site). No public positions found for Norma Olmos, Laura A. Franklin, Diana E. Miranda-Dzib, or Christina Lucero (a 2024 Ballotpedia survey by board member Christina M. Lucero exists, but Ballotpedia keeps the 2026 candidate on a separate page and a trustee elected in 2024 would not normally be on the 2026 ballot, so identity is unconfirmed and it was not used). BPUSD board page had no position statements. Searches used: 10."
+}

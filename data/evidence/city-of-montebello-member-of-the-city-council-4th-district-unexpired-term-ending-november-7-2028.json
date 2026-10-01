@@ -1,0 +1,30 @@
+{
+ "contestId": "city-of-montebello-member-of-the-city-council-4th-district-unexpired-term-ending-november-7-2028",
+ "options": {
+  "danielle-romero": [
+   {
+    "text": "Says on the council she has worked to 'strengthen public safety, invest in infrastructure, support local businesses, and protect taxpayer dollars through responsible fiscal decisions.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Danielle%20Romero.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Danielle Romero",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "rafael-gutierrez": [
+   {
+    "text": "Lists priorities including 'supporting responsible housing projects,' improving infrastructure and parks, and attracting businesses, restaurants and jobs.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Rafael%20Gutierrez.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Rafael Gutierrez",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "All items are from 2026 official candidate statements posted by the Montebello City Clerk. Both are general, and no other sources were found. Searches used: 10"
+}

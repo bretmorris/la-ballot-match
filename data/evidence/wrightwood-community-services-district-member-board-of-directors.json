@@ -1,0 +1,41 @@
+{
+  "contestId": "wrightwood-community-services-district-member-board-of-directors",
+  "options": {
+    "david-e-schoenwetter": [],
+    "russ-drew": [],
+    "wes-zuber": [],
+    "jason-agraz": [
+      {
+        "text": "Lists \"Safe Streets for Kids and Pedestrians\" as a priority: \"Every child walking to school... and every resident crossing our streets should feel confident that their safety comes first.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.jasonforwrightwood.com",
+          "title": "Jason Agraz for Wrightwood CSD (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"thoughtful decisions that encourage responsible growth, strengthen our business community\"; pledges to preserve Wrightwood's \"peaceful mountain atmosphere\" as the town grows.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.jasonforwrightwood.com",
+          "title": "Jason Agraz for Wrightwood CSD (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs programs that keep seniors and young people active and engaged in community life, and pledges to \"Promote accountability and transparency\" as a steward of public resources.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.jasonforwrightwood.com",
+          "title": "Jason Agraz for Wrightwood CSD (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "erin-c-degroot": []
+  },
+  "notes": "Three seats. Only Agraz has a findable campaign site (general priorities only). Schoenwetter (appointed 2025; board president) and DeGroot (appointed May 2025; vice president) have only biographical CSD board pages. No positions found for Drew or Zuber. Tri-Community NewsPlus had no 2026 candidate coverage. Mountain News (mtnnews.com) did not respond. Searches used: 9"
+}

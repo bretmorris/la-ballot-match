@@ -1,0 +1,119 @@
+{
+  "contestId": "city-of-glendora-member-of-the-city-council-4th-district",
+  "options": {
+    "karen-k-davis": [
+      {
+        "text": "Supports \"strategic, targeted growth that fits Glendora while providing opportunities for everyone to call Glendora home through a range of housing options.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/priorities",
+          "title": "Karen Davis's Priorities - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proponent of the Metro A Line and \"First Mile/Last Mile\" improvements providing \"convenient, affordable transportation options,\" and of building Glendora's urban trails.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/priorities",
+          "title": "Karen Davis's Priorities - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"protecting taxpayer dollars while investing in the services that residents rely upon,\" maintaining infrastructure and modernizing city services.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/priorities",
+          "title": "Karen Davis's Priorities - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Serves on the San Gabriel Valley Council of Governments Homelessness Committee and the board of the Regional Housing Trust for the San Gabriel Valley; Glendora Police Department chaplain since 2002.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/about",
+          "title": "About Karen Davis - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Congresswoman Judy Chu (28th Congressional District).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/about",
+          "title": "About Karen Davis - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"equitable access to green spaces\" and maintaining natural trails and open space for future generations.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.karendavisforcouncil.com/priorities",
+          "title": "Karen Davis's Priorities - Karen Davis for Glendora City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lindsey-morgan": [],
+    "ralph-munoz-iv": [
+      {
+        "text": "Platform: \"Oppose any new taxes or fee increases on Glendora residents and businesses\"; conduct regular audits to eliminate wasteful spending.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ralphmunozforcouncil.com/issues",
+          "title": "Ralph's Platform - Ralph Munoz for Glendora City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Protect single-family neighborhoods from incompatible high-density projects\" and ensure new development is compatible with existing neighborhood character.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://ralphmunozforcouncil.com/issues",
+          "title": "Ralph's Platform - Ralph Munoz for Glendora City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Maintain full police and fire staffing, invest in equipment and training, strengthen community policing, and \"Support mental health co-responder programs to address non-violent calls appropriately.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ralphmunozforcouncil.com/issues",
+          "title": "Ralph's Platform - Ralph Munoz for Glendora City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Cut red tape and reduce bureaucratic hurdles for small business owners\" and streamline permitting for small businesses and homeowners.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ralphmunozforcouncil.com/issues",
+          "title": "Ralph's Platform - Ralph Munoz for Glendora City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Improve pedestrian safety with better crosswalks, lighting and sidewalks; prioritize road repair and data-driven fixes for traffic congestion.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://ralphmunozforcouncil.com/issues",
+          "title": "Ralph's Platform - Ralph Munoz for Glendora City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Davis (incumbent): campaign site. Munoz: campaign site (ralphmunozforcouncil.com; endorsements there are anonymous). Lindsey Morgan: no campaign site, statement, or reported positions found. Searches used: 2"
+}

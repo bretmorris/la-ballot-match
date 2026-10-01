@@ -1,0 +1,121 @@
+{
+  "contestId": "crescenta-valley-water-district-member-board-of-directors",
+  "options": {
+    "james-bodnar": [
+      {
+        "text": "On July 22, 2025, Bodnar voted yes (4-0 roll call) to adopt the report for collecting FY 2025-26 capital charges on the property tax roll after no majority protest.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wp.cvwd.ccsdesigns.com/wp-content/uploads/files/agendas_packets/2025/082625%20Board%20Packetv2.pdf",
+          "title": "Crescenta Valley Water District Aug. 26, 2025 board packet (minutes of July 22, 2025 meeting)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2023) Bodnar was part of the unanimous vote for a \"hybrid\" pipeline-replacement funding plan: a $194-per-household annual charge on property tax bills plus about $24 million in bonds.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/06/29/2023/board-votes-on-hybrid-solution-to-cvwd-water-woes/",
+          "title": "Crescenta Valley Weekly: Board Votes on Hybrid Solution to CVWD Water Woes (June 2023)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2023) On choosing an auditor, Bodnar said the outspoken crowd \"demanded choosing a company that charges 30% less\"; the board selected SingerLewak.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/06/29/2023/board-votes-on-hybrid-solution-to-cvwd-water-woes/",
+          "title": "Crescenta Valley Weekly: Board Votes on Hybrid Solution to CVWD Water Woes (June 2023)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      }
+    ],
+    "jeffery-w-johnson": [
+      {
+        "text": "On July 22, 2025, Johnson voted yes (4-0 roll call) to adopt the report for collecting FY 2025-26 capital charges on the property tax roll after no majority protest.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wp.cvwd.ccsdesigns.com/wp-content/uploads/files/agendas_packets/2025/082625%20Board%20Packetv2.pdf",
+          "title": "Crescenta Valley Water District Aug. 26, 2025 board packet (minutes of July 22, 2025 meeting)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2023) Johnson was part of the unanimous vote for a \"hybrid\" pipeline-replacement funding plan: a $194-per-household annual charge on property tax bills plus about $24 million in bonds.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/06/29/2023/board-votes-on-hybrid-solution-to-cvwd-water-woes/",
+          "title": "Crescenta Valley Weekly: Board Votes on Hybrid Solution to CVWD Water Woes (June 2023)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2023) Before the vote on the pipeline-funding charge, Johnson said, \"We're all going to feel pain.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/06/29/2023/board-votes-on-hybrid-solution-to-cvwd-water-woes/",
+          "title": "Crescenta Valley Weekly: Board Votes on Hybrid Solution to CVWD Water Woes (June 2023)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "As board president in 2025, Johnson said the board and staff \"have held numerous workshops, surveys, interviews, open office hours and town halls\" on operations and a possible rate increase.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/",
+          "title": "Crescenta Valley Weekly: CVWD Public Meeting: Lots of Questions, Not Many Answers (June 2025)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      }
+    ],
+    "alec-hyeler": [
+      {
+        "text": "(2024) Said his primary goal is \"maintaining steady and affordable water rates\" while ensuring water quality, and investing in long-term solutions \"without burdening ratepayers, especially considering rising inflation.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/10/17/2024/water-district-introduces-board-candidates/",
+          "title": "Crescenta Valley Weekly: Water District Introduces Board Candidates (Oct. 2024)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2024) Called climate change \"undeniably one of the greatest threats to the future of our water district\" and urged investment in conservation, recycled water and stormwater infiltration.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/10/17/2024/water-district-introduces-board-candidates/",
+          "title": "Crescenta Valley Weekly: Water District Introduces Board Candidates (Oct. 2024)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2024) Said CVWD \"should avoid fearmongering and punitive measures, such as lowering rate tier thresholds\" to educate the public about future shortages.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/10/17/2024/water-district-introduces-board-candidates/",
+          "title": "Crescenta Valley Weekly: Water District Introduces Board Candidates (Oct. 2024)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      },
+      {
+        "text": "(2024) Pledged \"greater transparency to the decision-making process\" and better ratepayer communication, including more board social media presence.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://www.crescentavalleyweekly.com/news/10/17/2024/water-district-introduces-board-candidates/",
+          "title": "Crescenta Valley Weekly: Water District Introduces Board Candidates (Oct. 2024)",
+          "retrieved": "https://www.crescentavalleyweekly.com/news/06/12/2025/145432/"
+        }
+      }
+    ],
+    "carla-d-dillon": []
+  },
+  "notes": "Vote for 3. Incumbents Bodnar and Johnson: recorded votes found are unanimous (capital charges, 2023 pipeline funding plan); no 2026 campaign statements found. Alec Hyeler's only positions are from his 2024 CVWD run (CV Weekly questionnaire). No campaign statements found for Carla D. Dillon. CVWD's 2025 minutes list a Carla Dillon as the district's Director of Engineering and Operations, but there's no confirmation it's the same person, so nothing was attributed to her. Searches used: 4"
+}

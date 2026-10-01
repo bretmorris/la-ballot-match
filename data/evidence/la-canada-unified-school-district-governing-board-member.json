@@ -1,0 +1,214 @@
+{
+  "contestId": "la-canada-unified-school-district-governing-board-member",
+  "options": {
+    "octavia-thuss": [
+      {
+        "text": "At a 2026 board discussion of a June school bond, Thuss agreed with colleague Joe Radabaugh to go to voters at the lower rate of $30 per $100,000 of assessed value.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-unified-eyes-185m-bond-measure-for-june-election/article_a38f6813-5e26-40df-8f17-622e6f5e30d6.html",
+          "title": "La Cañada Outlook: La Cañada Unified Eyes $185M Bond Measure for June Election (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "During a board discussion of a cellphone-use policy, Thuss asked whether it would also cover other devices such as smart glasses.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-unified-getting-input-from-all-sides-on-student-cellphone-policy/article_30c94b08-4a9f-407d-833a-248c4d19eb10.html",
+          "title": "La Cañada Outlook: La Cañada Unified Getting Input From All Sides on Student Cellphone Policy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) On district DEI work, Thuss said \"the vast majority are supportive of the work,\" wanted the plan's results measured, and said it should focus early on mitigating bullying: \"Start young, build trust, build inclusion.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/archives/q-a-meet-the-lcusd-governing-board-candidates/article_95058fb5-5453-535e-b28c-a43d18507e11.html",
+          "title": "Outlook Valley Sun: Q&A: Meet the LCUSD Governing Board Candidates (Oct. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) On facilities, said the district must prioritize remaining bond dollars, seek matching grants and consider \"a future bond\"; thanked the community for its willingness \"to invest in our current and future students.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/archives/q-a-meet-the-lcusd-governing-board-candidates/article_95058fb5-5453-535e-b28c-a43d18507e11.html",
+          "title": "Outlook Valley Sun: Q&A: Meet the LCUSD Governing Board Candidates (Oct. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) On school safety, proposed improving volunteer credentials \"beyond a TB test\" with fingerprinting, background checks and mandated-reporter training.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/archives/q-a-meet-the-lcusd-governing-board-candidates/article_95058fb5-5453-535e-b28c-a43d18507e11.html",
+          "title": "Outlook Valley Sun: Q&A: Meet the LCUSD Governing Board Candidates (Oct. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "shilpa-shinde-garg": [
+      {
+        "text": "Per her candidacy announcement, Shinde-Garg helped lead the successful 2026 Measure LCF campaign \"to secure long-term funding for local schools.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/shinde-garg-announces-candidacy-for-school-board/article_8ec4609b-0ce7-4954-9eb6-daf487b00e00.html",
+          "title": "La Cañada Outlook: Shinde-Garg Announces Candidacy for School Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Her announcement says she \"believes strong public schools are the foundation of a thriving community\" and is committed to \"academic excellence, fiscal responsibility, student well-being, and strong partnerships with teachers, families, and the community.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/shinde-garg-announces-candidacy-for-school-board/article_8ec4609b-0ce7-4954-9eb6-daf487b00e00.html",
+          "title": "La Cañada Outlook: Shinde-Garg Announces Candidacy for School Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "susan-moore": [
+      {
+        "text": "A La Cañada High English teacher for nearly two decades, Moore wrote she is committed to \"responsible fiscal stewardship, supporting exceptional teachers, expanding opportunities for every student, and making thoughtful, transparent decisions that put students first.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/moore-announces-candidacy-for-school-board/article_b89fe264-f8eb-423f-9ed9-e8eb3add10ac.html",
+          "title": "La Cañada Outlook: Moore Announces Candidacy for School Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wrote that she understands \"the importance of supporting teachers and staff while also ensuring that district resources are being used responsibly and effectively.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/moore-announces-candidacy-for-school-board/article_b89fe264-f8eb-423f-9ed9-e8eb3add10ac.html",
+          "title": "La Cañada Outlook: Moore Announces Candidacy for School Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dan-jeffries": [
+      {
+        "text": "In 2026, Jeffries said the district has been consistently fiscally conservative and should \"not ask for more than is reasonable\" in a facilities bond, as the board reached consensus on a $30-per-$100,000 rate.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-unified-eyes-185m-bond-measure-for-june-election/article_a38f6813-5e26-40df-8f17-622e6f5e30d6.html",
+          "title": "La Cañada Outlook: La Cañada Unified Eyes $185M Bond Measure for June Election (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In a 2026 discussion of an AI board policy, Jeffries said the district was getting \"a little overconfident\" about its tools and that problems can arise even with guardrails and training.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/la-ca-ada-unified-talks-ai-board-policy/article_12ca9327-95be-4874-acde-2f5fcd9f919f.html",
+          "title": "La Cañada Outlook: La Cañada Unified Talks AI Board Policy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites the adopted 2026-27 budget's projected $710,903 surplus and says \"fiscal responsibility remains essential,\" with a positive multiyear outlook to help rebuild reserves.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/dan-jeffries-announces-reelection-bid-for-lcusd-governing-board/article_0d0b2a80-63f8-4e1e-9f1f-a395c8c54793.html",
+          "title": "La Cañada Outlook: Dan Jeffries Announces Reelection Bid for LCUSD Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says that as chair of the city's Joint Operations Team he works with the City Council \"to strengthen school safety and security\" and enhance fields and facilities.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/dan-jeffries-announces-reelection-bid-for-lcusd-governing-board/article_0d0b2a80-63f8-4e1e-9f1f-a395c8c54793.html",
+          "title": "La Cañada Outlook: Dan Jeffries Announces Reelection Bid for LCUSD Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "His campaign lists commitments to \"academic excellence, strong student support services, outstanding educators, modern facilities, fiscal responsibility, and transparent governance.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://dan4lacanadaschools.org",
+          "title": "Dan Jeffries for La Cañada Schools (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Said the board phased its Facilities Master Plan, which \"allowed us to ask our community to support the issuance of new bonds without raising taxes.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/archives/q-a-meet-the-lcusd-governing-board-candidates/article_95058fb5-5453-535e-b28c-a43d18507e11.html",
+          "title": "Outlook Valley Sun: Q&A: Meet the LCUSD Governing Board Candidates (Oct. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) On DEI, said the goal is school cultures where all students and staff feel \"welcome, safe, supported and included\"; acknowledged the board \"misstepped by not securing more upfront community input.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/archives/q-a-meet-the-lcusd-governing-board-candidates/article_95058fb5-5453-535e-b28c-a43d18507e11.html",
+          "title": "Outlook Valley Sun: Q&A: Meet the LCUSD Governing Board Candidates (Oct. 2022)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "amarpreet-singh-malik": [
+      {
+        "text": "Pledges to deliver Measure LCF's $113 million bond \"on time and on budget,\" insisting on \"rigorous oversight, independent audits\"; has served on the district's Citizens Oversight and Parcel Tax Oversight committees.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/amar-malik-announces-candidacy-for-governing-board/article_aff228ca-719c-4959-8b84-c8cd5dec8e64.html",
+          "title": "La Cañada Outlook: Amar Malik Announces Candidacy for Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wrote that California funds education below the national average, \"which is why local bonds and parcel taxes matter so much here,\" and pledged to \"safeguard every locally controlled dollar.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/amar-malik-announces-candidacy-for-governing-board/article_aff228ca-719c-4959-8b84-c8cd5dec8e64.html",
+          "title": "La Cañada Outlook: Amar Malik Announces Candidacy for Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will support strong STEM, arts and college- and career-readiness programs and \"recruit and retain outstanding teachers.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/amar-malik-announces-candidacy-for-governing-board/article_aff228ca-719c-4959-8b84-c8cd5dec8e64.html",
+          "title": "La Cañada Outlook: Amar Malik Announces Candidacy for Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"champion mental health resources, strong anti-bullying practices, and a school culture where every child feels like they belong.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://outlooknewspapers.com/lacanadaoutlook/amar-malik-announces-candidacy-for-governing-board/article_aff228ca-719c-4959-8b84-c8cd5dec8e64.html",
+          "title": "La Cañada Outlook: Amar Malik Announces Candidacy for Governing Board (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Three seats. Incumbents Thuss and Jeffries have 2026 board-meeting statements plus 2022 Outlook Valley Sun Q&A answers; Jeffries also has a 2026 announcement and campaign site. Thuss has no 2026 campaign statement or site found. Shinde-Garg and Moore have only generic 2026 candidacy announcements; many letters to the editor support them but none were used (not the candidates' words). No teachers' union or party-club endorsements found for any candidate. Searches used: 3"
+}

@@ -1,0 +1,49 @@
+{
+  "contestId": "city-of-diamond-bar-member-of-the-city-council-4th-district",
+  "options": {
+    "chia-yu-teng": [],
+    "lee-mao": [
+      {
+        "text": "\"My top priority is keeping Diamond bar safe\": consider more sheriff patrols, expanded neighborhood watch, license plate readers \"and quickly moving our homeless into appropriate shelter.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.lee4diamondbar.com/",
+          "title": "Lee Mao for Diamond Bar City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to grow businesses and implement the Downtown Diamond Bar expansion \"to increase our dining, retail and entertainment revenue without tax increases\"; \"Fiscal responsibility is not optional, it is essential.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.lee4diamondbar.com/",
+          "title": "Lee Mao for Diamond Bar City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On traffic: push Caltrans and USDOT to finish freeway improvements, synchronize lights, \"fund more traffic officers, and add traffic calming measures to discourage non-local drivers.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.lee4diamondbar.com/",
+          "title": "Lee Mao for Diamond Bar City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says Edison's intentional high-fire-period power shutoffs need alternatives: \"Our residents should not have to endure days without power.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.lee4diamondbar.com/",
+          "title": "Lee Mao for Diamond Bar City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Teng (incumbent): campaign site chiayuteng.com shows only 'Launching Soon'; no statements or recorded positions found. Mao: campaign site (endorsed by Mayor Steve Tye and former state Sen. Josh Newman among individuals). Searches used: 7"
+}

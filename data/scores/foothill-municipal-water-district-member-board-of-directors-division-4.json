@@ -2,6 +2,347 @@
  "contestId": "foothill-municipal-water-district-member-board-of-directors-division-4",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.625Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.109Z",
+ "options": {
+  "amy-i-chen": {
+   "taxes-spending": {
+    "position": 0.755,
+    "evidence": 0.93,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.49,
+     "4": 0.51
+    }
+   },
+   "housing-growth": {
+    "position": -0.06,
+    "evidence": 0.02,
+    "confidence": 0.9,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.07,
+     "2": 0.91,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.01,
+    "evidence": 0.01,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.15,
+    "evidence": 0.1,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.74,
+     "3": 0.21,
+     "4": 0.05
+    }
+   },
+   "labor-business": {
+    "position": 0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.88,
+     "3": 0.1,
+     "4": 0.02
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": -0.11,
+    "evidence": 0.68,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.18,
+     "2": 0.79,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "laura-olhasso": {
+   "taxes-spending": {
+    "position": 0.13,
+    "evidence": 0.7,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.75,
+     "3": 0.24,
+     "4": 0.01
+    }
+   },
+   "housing-growth": {
+    "position": -0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.11,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.03,
+    "evidence": 0.28,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.91,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "labor-business": {
+    "position": 0.025,
+    "evidence": 0.03,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.96,
+     "3": 0.04,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

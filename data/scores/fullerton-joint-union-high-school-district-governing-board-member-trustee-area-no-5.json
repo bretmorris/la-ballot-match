@@ -2,6 +2,347 @@
  "contestId": "fullerton-joint-union-high-school-district-governing-board-member-trustee-area-no-5",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.305Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.098Z",
+ "options": {
+  "marilyn-buchi": {
+   "taxes-spending": {
+    "position": 0.355,
+    "evidence": 0.72,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.31,
+     "3": 0.67,
+     "4": 0.02
+    }
+   },
+   "housing-growth": {
+    "position": -0.04,
+    "evidence": 0.02,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.05,
+     "2": 0.93,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.165,
+    "evidence": 0.06,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.35,
+     "2": 0.59,
+     "3": 0.04,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.565,
+    "evidence": 0.96,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0.24,
+     "1": 0.65,
+     "2": 0.11,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.015,
+    "evidence": 0.02,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.96,
+     "3": 0.03,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "health-care": {
+    "position": 0.03,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.95,
+     "3": 0.04,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.06,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "amy-dudich": {
+   "taxes-spending": {
+    "position": 0.065,
+    "evidence": 0.51,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0,
+     "1": 0.07,
+     "2": 0.73,
+     "3": 0.2,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.015,
+    "evidence": 0.1,
+    "confidence": 0.86,
+    "probabilities": {
+     "0": 0,
+     "1": 0.09,
+     "2": 0.85,
+     "3": 0.06,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "labor-business": {
+    "position": -0.52,
+    "evidence": 0.34,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0.17,
+     "1": 0.71,
+     "2": 0.12,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.01,
+    "evidence": 0.01,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.98,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.825,
+    "evidence": 0.93,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0.66,
+     "1": 0.33,
+     "2": 0.01,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.04,
+    "evidence": 0.02,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.08,
+     "2": 0.92,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.02,
+    "evidence": 0.27,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.04,
+    "evidence": 0.02,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0,
+     "1": 0.07,
+     "2": 0.93,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

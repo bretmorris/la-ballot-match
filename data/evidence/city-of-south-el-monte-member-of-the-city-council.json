@@ -1,0 +1,68 @@
+{
+  "contestId": "city-of-south-el-monte-member-of-the-city-council",
+  "options": {
+    "rudy-bojorquez": [
+      {
+        "text": "Campaign site: \"Supporting our local sheriff means supporting proactive policing, community outreach programs, and partnerships that focus on prevention as much as enforcement,\" citing \"crime down 40%.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.votebojorquez.com/public-safety",
+          "title": "Public Safety - Re-Elect Rudy Bojorquez 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs (ALADS), which cited his \"support of deputy sheriffs and support of a fair bargaining process for ALADS members.\"",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.votebojorquez.com/public-safety",
+          "title": "Public Safety - Re-Elect Rudy Bojorquez 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Rep. Gil Cisneros, LA County Supervisor Hilda Solis and Assemblymember Lisa Calderon.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.votebojorquez.com/endorsements",
+          "title": "Endorsements - Re-Elect Rudy Bojorquez 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "manuel-manny-acosta": [],
+    "kimberly-kim-valencia": [
+      {
+        "text": "Campaign blog: stressed \"investing in high-quality camera systems\" to identify suspects and deter crime, and said that although crime is trending down, seniors still feel unsafe: \"Public safety is not only about data. It is also about perception, confidence, and trust.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.kimvalenciaforsouthelmonte.com/public_safety",
+          "title": "Coffee with a Deputy 2025 & 2026 - Kimberly Kim Valencia for South El Monte Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Our city has been tainted by corruption and extortion in the past. It is time to believe in ethical leadership.\" Says she wants a city where \"small businesses can grow.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.kimvalenciaforsouthelmonte.com",
+          "title": "Kimberly Kim Valencia for South El Monte Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Bojorquez: campaign site plus LA County Democratic Party endorsement. Valencia: campaign site (issues page lists only headings: public safety, parks, transparency, business advocacy, affordability, responsible development). Manny Acosta (incumbent): no campaign site or positions found (filed a candidate statement with the city, not posted online). Searches used: 10"
+}

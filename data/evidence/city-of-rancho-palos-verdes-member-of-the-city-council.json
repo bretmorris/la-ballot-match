@@ -1,0 +1,62 @@
+{
+  "contestId": "city-of-rancho-palos-verdes-member-of-the-city-council",
+  "options": {
+    "matthew-brach": [],
+    "michele-patrick-carbone": [],
+    "david-chura": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tina-funiciello": [],
+    "jessica-patton-vlaco": [],
+    "john-cruikshank": [
+      {
+        "text": "Says that during two council terms (2017-2024) he \"never raised taxes, championed limited government\"; pledges to oppose unfunded mandates and \"policies that lead to increased fees, taxes.\" \"Government should live within its means.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://johncruikshank.us/",
+          "title": "John Cruikshank for Rancho Palos Verdes City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls the Portuguese Bend landslide the city's biggest infrastructure challenge and pledges aggressive advocacy for county, state and federal remediation funding.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://johncruikshank.us/",
+          "title": "John Cruikshank for Rancho Palos Verdes City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Fire safety priority: home hardening, vegetation management, evacuation planning and grant funding to mitigate wildfire risk.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://johncruikshank.us/",
+          "title": "John Cruikshank for Rancho Palos Verdes City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by BizFed PAC and the Los Angeles County Taxpayers Association.",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://johncruikshank.us/endorsements",
+          "title": "Endorsements - John Cruikshank for RPV City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Open seats (no incumbents). Only former councilmember John Cruikshank has a findable campaign site with positions. David Chura has only the LACDP endorsement. No campaign sites or reported positions found for Matthew Brach, Michele Carbone, Tina Funiciello or Jessica Vlaco; forum recordings exist only as video. Searches used: 10"
+}

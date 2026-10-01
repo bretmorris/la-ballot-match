@@ -1,0 +1,99 @@
+{
+  "contestId": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-5",
+  "options": {
+    "barbara-gaines": [
+      {
+        "text": "Voted with the 4-1 majority (Mar. 2025; only Michael Rives opposed) for a $251,800 contract with TeamCivX to help prepare a possible November 2026 AVC bond measure.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.avpress.com/news/avc-trustees-mull-2026-bond/article_57761230-0085-11f0-aa5a-cba0cdcbe58e.html",
+          "title": "AV Press: AVC trustees mull 2026 bond (Mar. 14, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 4-1 majority (Apr. 2025; only Rives dissented) to abolish nine vacant classified positions after the classified union asked that the move be bargained first.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/college-board-eliminates-3-staff-positions/article_4daa258f-0574-4d83-bfa3-c7fdb2e3279e.html",
+          "title": "AV Press: College board eliminates 3 staff positions (Apr. 17, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted (May 2025, 4-0) to raise the cap on Atkinson, Andelson, Loya, Ruud & Romo legal fees by $175,000 to $375,000, over objections from both employee unions.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/union-leaders-protest-avc-spending-hike/article_aa61ca06-4fdd-453f-ab7a-ff28e212a3fc.html",
+          "title": "AV Press: Union leaders protest AVC spending hike (May 17, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 4-1 majority (Nov. 2025; only Michelle Harvey dissented) for a rolling three-year contract for Superintendent/President Jennifer Zellet, whose salary is about $311,692.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/av-college-head-gets-three-year-employment-deal/article_24fe65a0-50bd-45c0-bf2a-2ff1ccee5bd8.html",
+          "title": "AV Press: AV College head gets three-year employment deal (Nov. 22, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "When consultants advised against a 2026 AVC bond after a weak voter survey, \"expressed concern about waiting until 2028, and how things might not improve by then,\" per the AV Press.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.avpress.com/news/survey-voters-support-avc/article_234243fd-6d50-4e32-9b92-dcb7f3f33873.html",
+          "title": "AV Press: Survey: Voters support AVC (Oct. 16, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "pamela-ford": [
+      {
+        "text": "As AVC classified union president, opposed a $175,000 legal-fee increase: \"I do not agree with the extension of legal fees for punitive purposes... approximately 20 employees have been fired in two years.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/union-leaders-protest-avc-spending-hike/article_aa61ca06-4fdd-453f-ab7a-ff28e212a3fc.html",
+          "title": "AV Press: Union leaders protest AVC spending hike (May 17, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged trustees to roll the abolition of nine classified positions into bargaining: \"Positions are being removed from the federation. The district is not bargaining anything in exchange even though we submitted a demand to bargain.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/college-board-eliminates-3-staff-positions/article_4daa258f-0574-4d83-bfa3-c7fdb2e3279e.html",
+          "title": "AV Press: College board eliminates 3 staff positions (Apr. 17, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Told the board it did not follow state law on layoffs, saying no layoff resolution appeared in board packets and that decisions on public employment shouldn't be made behind closed doors.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.avpress.com/news/avc-workers-treatment-draws-ire/article_45ca6532-c1af-11ef-a807-33e3270ac8ac.html",
+          "title": "AV Press: AVC workers' treatment draws ire (Dec. 24, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Thanked the board for a Marriott agreement giving homeless and housing-insecure students \"safer and cleaner temporary housing,\" saying it shows a \"holistic interest in serving its students.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.avpress.com/news/avc-makes-new-student-housing-deal/article_f8849968-9734-11ef-97fa-07b3c082841c.html",
+          "title": "AV Press: AVC makes new student housing deal (Oct. 31, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Gaines: board votes as reported by the Antelope Valley Press. Her yes votes are inferred from tallies that name the lone dissenter or absentee. Ford: public comments to the board as classified union president, per AV Press. Neither has a campaign site or Ballotpedia survey that could be found. Searches used: 9"
+}

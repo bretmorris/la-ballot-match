@@ -1,0 +1,79 @@
+{
+  "contestId": "west-basin-municipal-water-district-member-board-of-directors-division-1",
+  "options": {
+    "tommy-g-faavae": [
+      {
+        "text": "Candidate statement: since his 2025 appointment has focused on \"protecting our water supply, strengthening critical infrastructure, advancing local water independence, expanding recycled water, and ensuring responsible stewardship of taxpayer dollars.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.tommyfaavae.com/candidate-statement",
+          "title": "Tommy Faavae for West Basin: Candidate Statement (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Operating Engineers Local 12, Iron Workers Local 433, the Teamsters Joint Council (Local 42) and other building-trades locals, plus LA County Federation of Labor president Yvonne Wheeler.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.tommyfaavae.com/endorsements",
+          "title": "Tommy Faavae for West Basin: Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists his West Basin priorities as strengthening infrastructure, advancing sustainability, \"advocating for environmental justice,\" creating local jobs, and promoting workforce diversity; cites a leading role creating the ARCHES renewable-hydrogen alliance.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.tommyfaavae.com/about-tommy",
+          "title": "Tommy Faavae for West Basin: About Tommy (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "deirdre-badal": [],
+    "tim-zajic": [
+      {
+        "text": "Lists priorities including fiscal responsibility; says his interest is in water consumers' satisfaction, \"not in any particular special interest group or union.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "http://www.timzajic.com/timz4wbmwd.html",
+          "title": "Tim Zajic for West Basin MWD Board Division 1 (campaign page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the district must plan for climate change, with more rain than snow in the Sierra Nevada and continued sea level rise, and plan additional reservoirs intelligently.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "http://www.timzajic.com/timz4wbmwd.html",
+          "title": "Tim Zajic for West Basin MWD Board Division 1 (campaign page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Noting the board's 3-2 vote in 2021 to end desalination plant development, says \"ongoing studies of the practicality of putting a desalination plant in place in the future are warranted.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "http://www.timzajic.com/timz4wbmwd.html",
+          "title": "Tim Zajic for West Basin MWD Board Division 1 (campaign page)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "anthony-j-fidaleo": []
+  },
+  "notes": "No public positions found for Deirdre Badal or Anthony J. Fidaleo. Searches used: 9"
+}

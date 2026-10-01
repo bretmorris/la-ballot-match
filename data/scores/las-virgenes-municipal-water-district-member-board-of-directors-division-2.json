@@ -2,6 +2,177 @@
  "contestId": "las-virgenes-municipal-water-district-member-board-of-directors-division-2",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.626Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.110Z",
+ "options": {
+  "andy-coradeschi": {
+   "taxes-spending": {
+    "position": 0.185,
+    "evidence": 0.68,
+    "confidence": 0.6,
+    "probabilities": {
+     "0": 0,
+     "1": 0.05,
+     "2": 0.54,
+     "3": 0.39,
+     "4": 0.02
+    }
+   },
+   "housing-growth": {
+    "position": -0.045,
+    "evidence": 0.02,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.06,
+     "2": 0.92,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.07,
+    "evidence": 0.17,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.78,
+     "3": 0.16,
+     "4": 0.02
+    }
+   },
+   "labor-business": {
+    "position": 0.14,
+    "evidence": 0.07,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.74,
+     "3": 0.25,
+     "4": 0.01
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.02,
+    "evidence": 0.01,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

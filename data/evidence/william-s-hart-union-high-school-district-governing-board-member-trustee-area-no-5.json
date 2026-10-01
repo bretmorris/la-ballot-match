@@ -1,0 +1,120 @@
+{
+  "contestId": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-5",
+  "options": {
+    "joe-messina": [
+      {
+        "text": "Campaign site priority: \"Restoring FULL Parental Access\" — \"Parents have been demonized and voices have been silenced. I will continue to fight for you to be heard!\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://www.joe4hart.com/",
+          "title": "Re-Elect Joe Messina 4 Hart (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Better Parental Oversight of Curriculum\": \"Parents have a right to know what's being taught in the classroom and what's in the books your kids are reading. They are YOUR kids!\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://www.joe4hart.com/",
+          "title": "Re-Elect Joe Messina 4 Hart (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates \"a return to the basics... REAL math, REAL science, and REAL history\" and renewed Career Technical Education because \"Not all students need or want to go to college.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://www.joe4hart.com/",
+          "title": "Re-Elect Joe Messina 4 Hart (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to keep being \"a watchdog over your tax dollars\" and calls for full transparency in district finances.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "http://www.joe4hart.com/",
+          "title": "Re-Elect Joe Messina 4 Hart (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Floated a district parental-notification policy covering gender identity, mental health, bullying and drug abuse; told the board it was not \"a forced outing policy\" but \"full transparency,\" adding \"If the parents knew that their kids were having issues, they could have kept a better eye on things.\"",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.hometownstation.com/santa-clarita-news/education/william-s-hart-union-school-district/community-members-voice-concerns-about-potential-hart-district-parental-notification-system-486886",
+          "title": "KHTS: Community Members Voice Concerns About Potential Hart District Parental-Notification System (Nov. 2023)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "stacy-fortner": [
+      {
+        "text": "Says she is passionate about \"strong public schools, protecting intellectual freedom, supporting student mental health,\" and environments where every student feels safe and valued.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Stacy_Fortner",
+          "title": "Ballotpedia: Stacy Fortner (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I want every student no matter who they are, who they love, or what they choose for their future to feel safe, loved, and that they belong here.\"",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://ballotpedia.org/Stacy_Fortner",
+          "title": "Ballotpedia: Stacy Fortner (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites declining enrollment and budget pressures; says fiscal responsibility means \"making sure resources are directed to the classroom and to student success.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Stacy_Fortner",
+          "title": "Ballotpedia: Stacy Fortner (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: will protect strong academic programs and support career and technical education, and says staff morale concerns require listening to teachers and classified employees.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.electstacyfortner.com",
+          "title": "Stacy Fortner for Hart School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Moms Demand Action as a Gun Sense Candidate.",
+        "kind": "endorsement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.electstacyfortner.com/endorsements",
+          "title": "Stacy Fortner campaign: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party, SCV Dems, and the Stonewall Democratic Club.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.electstacyfortner.com/endorsements",
+          "title": "Stacy Fortner campaign: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Messina: campaign site plus his 2023 parental-notification remarks (KHTS). The Signal's coverage of his board record (e.g., the 2023 notification-policy review committee) could not be fetched (403), and he did not complete Ballotpedia's survey. Fortner: Ballotpedia survey, campaign site, endorsements. Searches used: 9"
+}

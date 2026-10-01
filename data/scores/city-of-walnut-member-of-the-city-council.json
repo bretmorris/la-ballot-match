@@ -2,6 +2,347 @@
  "contestId": "city-of-walnut-member-of-the-city-council",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:59.169Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.064Z",
+ "options": {
+  "allen-wu": {
+   "taxes-spending": {
+    "position": 0.525,
+    "evidence": 0.49,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.13,
+     "3": 0.68,
+     "4": 0.19
+    }
+   },
+   "housing-growth": {
+    "position": -0.055,
+    "evidence": 0.02,
+    "confidence": 0.9,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.07,
+     "2": 0.91,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0.21,
+    "evidence": 0.5,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.62,
+     "3": 0.34,
+     "4": 0.04
+    }
+   },
+   "homelessness": {
+    "position": 0.02,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "climate-energy": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "labor-business": {
+    "position": 0.04,
+    "evidence": 0.03,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.92,
+     "3": 0.07,
+     "4": 0.01
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.01,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "richard-ritchie-cajulis": {
+   "taxes-spending": {
+    "position": 0.03,
+    "evidence": 0.04,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.92,
+     "3": 0.07,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.255,
+    "evidence": 0.18,
+    "confidence": 0.55,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.48,
+     "2": 0.46,
+     "3": 0.03,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": 0.165,
+    "evidence": 0.27,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.68,
+     "3": 0.31,
+     "4": 0.01
+    }
+   },
+   "homelessness": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.015,
+    "evidence": 0.09,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.96,
+     "3": 0.03,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": 0.115,
+    "evidence": 0.19,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.78,
+     "3": 0.22,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.98,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

@@ -1,0 +1,89 @@
+{
+ "contestId": "bellflower-unified-school-district-governing-board-member-trustee-area-no-2",
+ "options": {
+  "john-paul-drayer": [
+   {
+    "text": "On safety, proposes 'proactive mental health investment' over reactive measures: significantly expanding on-campus counselors, trauma-informed counselors and social workers to lower student-to-counselor ratios.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.johnpauldrayer4busd.com/priorities",
+     "title": "John Paul Drayer for BUSD Trustee Area 2: Priorities",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would prioritize 'significantly increasing funding' for smaller class sizes and personalized, high-dosage tutoring to close achievement gaps.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.johnpauldrayer4busd.com/priorities",
+     "title": "John Paul Drayer for BUSD Trustee Area 2: Priorities",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would mandate a public online dashboard of all district expenditures in real time, by school site, department and program, plus quarterly community budget forums.",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.johnpauldrayer4busd.com/priorities",
+     "title": "John Paul Drayer for BUSD Trustee Area 2: Priorities",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would cap before- and after-school program fees for low-income households at a nominal rate, seek grants and partnerships to lower costs for all, and use district facilities after hours to expand programs.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.johnpauldrayer4busd.com/priorities",
+     "title": "John Paul Drayer for BUSD Trustee Area 2: Priorities",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists his core focuses as 'community preservation, transparency, and a balanced budget.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.johnpauldrayer4busd.com/about",
+     "title": "John Paul Drayer for BUSD Trustee Area 2: About",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "renita-armstrong": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2024) Voted no on the contract settlement and termination of Superintendent Dr. Ben Drati; three members voted yes and one abstained.",
+    "kind": "voting-record",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.loscerritosnews.net/2024/02/09/breaking-bellflower-unified-board-fires-superintendent-dr-drati/",
+     "title": "Los Cerritos Community News: Bellflower Unified board fires Superintendent Dr. Drati (2024-02-09)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2022) In her re-election campaign: 'As a classroom teacher, I have witnessed the direct impact of policy decisions on many students. I know and have seen the value of talented teachers.' Also noted that the Bellflower Teachers Association did not endorse her that year.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://renitaarmstrong.org/important-updates",
+     "title": "Renita Armstrong campaign site: Important Updates (2022 re-election posts)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "No 2026 campaign platform found for Renita Armstrong (incumbent); her campaign site has only 2022 posts. Searches used: 10"
+}

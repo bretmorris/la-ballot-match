@@ -1,0 +1,149 @@
+{
+  "contestId": "city-of-south-pasadena-member-of-the-city-council-4th-district",
+  "options": {
+    "michael-cacciotti": [
+      {
+        "text": "Campaign priorities include \"Regain local control of development to keep our small town character\" and \"Champion financial and environmental sustainability.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.michaelcacciotti.com/priorities",
+          "title": "PRIORITIES | Michael Cacciotti (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site says he \"fought for years\" to move South Pasadena's police fleet to electric vehicles, the first all-electric police fleet in the nation, and negotiated grants cutting the transition's cost by over $1 million.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.michaelcacciotti.com/achivements",
+          "title": "ACHIEVEMENTS | Michael Cacciotti (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: led the council to fund protected bike lanes on Huntington Drive and Fremont Avenue plus solar flashing stop signs for pedestrians and cyclists; priority to \"Increase bike and pedestrian safety.\"",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.michaelcacciotti.com/achivements",
+          "title": "ACHIEVEMENTS | Michael Cacciotti (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site says he brought mobile crisis vans to the city, so that \"Instead of relying solely on law enforcement\" professional teams de-escalate, assess mental health and connect people to services; advocated SGV Regional Housing Trust funding for senior affordable housing.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.michaelcacciotti.com/achivements",
+          "title": "ACHIEVEMENTS | Michael Cacciotti (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the South Pasadena Police Officers' Association and South Pasadena firefighters.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.michaelcacciotti.com/endorsements",
+          "title": "ENDORSEMENTS | Michael Cacciotti (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"Each year I've been in office, we have balanced our budget and improved our fiscal reserves,\" citing grants won \"to reduce the burden on taxpayers.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.michaelcacciotti.com",
+          "title": "Michael Cacciotti for South Pasadena City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025, as SCAQMD vice chair) Told a League of Women Voters forum \"we still have a long way to go to meet health-based air quality standards,\" and said the goal is moving \"from a fossil-based economy to a green economy\" with zero-emission efforts.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://southpasadenan.com/michael-cacciotti-speaks-at-league-of-women-voters-his-fight-for-cleaner-air-never-wavers/",
+          "title": "Michael Cacciotti Speaks at League of Women Voters - The South Pasadenan (Mar. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "nevin-stanton-trehan": [
+      {
+        "text": "Told the South Pasadenan he is \"all in\" on the city's $80 million street-repair bond measure: \"How can we afford it without a bond? That was my first question. And to be fair, we can't.\" Wants monthly progress reporting for the bond's life.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://southpasadenan.com/local-elections-nov-2026-nevin-stanton-trehan-wants-michael-cacciottis-seat-revealing-interview-peeks-behind-the-smile/",
+          "title": "Local Elections Nov. 2026: Nevin Stanton-Trehan Wants Michael Cacciotti's Seat - The South Pasadenan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Finance Commission chair, says he asked for and obtained monthly budget, forecast and investment reports; told the South Pasadenan \"I didn't create the budget... I just asked that they be presented to us.\"",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://southpasadenan.com/local-elections-nov-2026-nevin-stanton-trehan-wants-michael-cacciottis-seat-revealing-interview-peeks-behind-the-smile/",
+          "title": "Local Elections Nov. 2026: Nevin Stanton-Trehan Wants Michael Cacciotti's Seat - The South Pasadenan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"By prioritizing pedestrian-friendly design and safe cycling paths, we reduce traffic congestion and enhance the quality of life for all residents.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.nevinstantontrehan.com/issues",
+          "title": "Issues | Nevin Stanton Trehan (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the South Pasadenan he wants, at minimum, marked crosswalks at Stratford and Hope leading into Garfield Park, and would rather have speed bumps or a lighted stop; asked the city to repaint faded crosswalks on Marengo walking routes.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://southpasadenan.com/local-elections-nov-2026-nevin-stanton-trehan-wants-michael-cacciottis-seat-revealing-interview-peeks-behind-the-smile/",
+          "title": "Local Elections Nov. 2026: Nevin Stanton-Trehan Wants Michael Cacciotti's Seat - The South Pasadenan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"I support a modern, responsive approach to public safety that fosters trust between citizens and first responders while ensuring emergency services are fully equipped.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.nevinstantontrehan.com/issues",
+          "title": "Issues | Nevin Stanton Trehan (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports goat grazing for brush clearance, telling the South Pasadenan \"Life and property come first in a high-fire town\" and \"goats are fast, cheap and green.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://southpasadenan.com/local-elections-nov-2026-nevin-stanton-trehan-wants-michael-cacciottis-seat-revealing-interview-peeks-behind-the-smile/",
+          "title": "Local Elections Nov. 2026: Nevin Stanton-Trehan Wants Michael Cacciotti's Seat - The South Pasadenan",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Cacciotti: campaign site plus 2025 South Pasadenan forum coverage; endorsed by SP police officers/firefighters and the LA County Democratic Party. Stanton-Trehan: campaign site and South Pasadenan interview; endorsers are individuals (SPUSD board members, SPEF president). Neither addresses rent or housing density in detail. Searches used: 3"
+}

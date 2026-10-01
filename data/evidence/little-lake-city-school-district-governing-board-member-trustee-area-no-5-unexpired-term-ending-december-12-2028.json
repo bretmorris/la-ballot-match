@@ -1,0 +1,49 @@
+{
+  "contestId": "little-lake-city-school-district-governing-board-member-trustee-area-no-5-unexpired-term-ending-december-12-2028",
+  "options": {
+    "scherise-r-acosta": [
+      {
+        "text": "Acosta's platform says she \"supports stronger special education services and manageable class sizes. Every student deserves a classroom built to help them succeed, not just get by.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.scheriseacosta.com/",
+          "title": "Scherise Acosta for Little Lake City School Board: Home / Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Acosta \"believes in protecting taxpayer dollars while still investing in the modern, well-maintained facilities our students deserve.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.scheriseacosta.com/",
+          "title": "Scherise Acosta for Little Lake City School Board: Home / Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Acosta pledges \"real transparency and open communication, so families understand how decisions get made and teachers have a genuine partner on the board.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.scheriseacosta.com/",
+          "title": "Scherise Acosta for Little Lake City School Board: Home / Platform",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dora-d-sandoval": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party for this seat.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates (Nov. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Scherise Acosta has a campaign site with platform. Dora D. Sandoval: only the LA County Democratic Party endorsement found; no campaign site or stated positions found. Searches used: 10"
+}

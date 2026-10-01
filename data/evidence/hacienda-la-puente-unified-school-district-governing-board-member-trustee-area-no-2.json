@@ -1,0 +1,100 @@
+{
+  "contestId": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "nancy-loera": [
+      {
+        "text": "On May 11, 2026, voted no on Resolution 2025/26-38, which put a proposal on the November ballot to limit HLPUSD board members to two consecutive four-year terms. It passed 3-2 (Serrano, De La Torre, Quiñones aye; Loera, Kwok no).",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/217941.pdf",
+          "title": "HLPUSD Board Resolution No. 2025/26-38 proposing board term limits (adopted May 11, 2026), as filed with LA County Board of Supervisors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In her district board profile: \"I am committed to putting students first in every decision, expanding opportunities for all students, and ensuring that district resources are used responsibly and effectively.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.hlpschools.org/board-of-education",
+          "title": "Hacienda La Puente USD: Board of Education member profiles",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "carmen-eulalia-basso": [],
+    "richard-rodriguez": [],
+    "johnathon-johnny-yoder": [
+      {
+        "text": "Key message: \"Teachers and classified staff deserve competitive compensation, manageable workloads, safe schools, professional respect, and the resources they need to succeed.\"",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Key message: \"Declining enrollment requires honest budgeting, clear priorities, and responsible decisions that protect the district's long-term financial health.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says every student deserves access to strong academics, STEM, career education, arts, music, theatre and athletics, and that he cares about special education and \"making sure public resources are used responsibly.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Hacienda La Puente Teachers Association.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU Local 99 and the Los Angeles County Federation of Labor (AFL-CIO).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Equality California.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://ballotpedia.org/Johnathon_Yoder_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_2,_California,_candidate_2026)",
+          "title": "Ballotpedia: Johnathon Yoder Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates, November 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent Nancy Loera: recorded vote against placing board term limits on the ballot, plus her district profile statement. Johnny Yoder: Ballotpedia survey and endorsements. No public positions found for Carmen Eulalia Basso or Richard Rodriguez. Searches used: 10."
+}

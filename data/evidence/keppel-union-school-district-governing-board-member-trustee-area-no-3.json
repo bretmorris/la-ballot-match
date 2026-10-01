@@ -1,0 +1,55 @@
+{
+  "contestId": "keppel-union-school-district-governing-board-member-trustee-area-no-3",
+  "options": {
+    "ana-laura-quiles": [
+      {
+        "text": "(2024) Helped lead the recall effort against trustees Nava and Ramirez after they fired the superintendent: \"We hope Nava and Ramirez do the right thing and step down and avoid another cost to the school district, but if not, it will be recall in November.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.avpress.com/news/2-on-keppel-board-face-recall/article_98da0244-b681-11ee-b196-cbcc3a27c6fd.html",
+          "title": "Antelope Valley Press: 2 on Keppel board face recall (2024-01-19)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "andrew-ramirez": [
+      {
+        "text": "(2023) As vice president, joined Nava and Ballante at a Dec. 28, 2023 special meeting in firing Superintendent Terry Walker without cause, days before SB 494's 72-hour notice rule took effect.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/hundreds-decry-keppel-leader-s-ouster/article_5dbae894-b5ba-11ee-b8c2-af7bb5f71b42.html",
+          "title": "Antelope Valley Press: Hundreds decry Keppel leader's ouster (2024-01-18)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Cast the lone dissent (3-1) when the board appointed Terry Walker superintendent on July 11, 2023.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/keppel-chief-meeting-legally-posted/article_43106e8c-aab7-11ee-a30f-93f929aa24d9.html",
+          "title": "Antelope Valley Press: Keppel chief meeting legally posted (2024-01-04)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Voted with Nava against Walker's employment agreement, approved 3-2 on Aug. 15, 2023.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/hundreds-decry-keppel-leader-s-ouster/article_5dbae894-b5ba-11ee-b8c2-af7bb5f71b42.html",
+          "title": "Antelope Valley Press: Hundreds decry Keppel leader's ouster (2024-01-18)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) With Nava and Ballante, approved an 18-month interim contract for Priya Darbari in February and then a four-year superintendent contract ($220,000/yr) in April on a 3-2 vote.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/local_news/keppel-approves-4-year-contract-for-superintendent/article_c0aa309a-f23c-11ee-b2f2-f3a060fd1c09.html",
+          "title": "Antelope Valley Press: Keppel approves 4-year contract for superintendent (2024-04-04)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both candidates' records come from the 2023-24 Keppel superintendent-firing controversy (governance, no policy-dimension mapping): Ramirez in the board majority, Quiles leading the recall. No 2026 campaign statements, forums or endorsements found. Searches used: 8."
+}

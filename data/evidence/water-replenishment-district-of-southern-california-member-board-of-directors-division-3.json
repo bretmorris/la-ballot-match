@@ -1,0 +1,72 @@
+{
+  "contestId": "water-replenishment-district-of-southern-california-member-board-of-directors-division-3",
+  "options": {
+    "al-austin": [
+      {
+        "text": "\"Families deserve clean, reliable water at a price they can afford. Our community deserves leaders who understand how to balance fiscal responsibility with long-term investments.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.randomlengthsnews.com/archives/2026/06/30/al-austin-launches-campaign/76338",
+          "title": "Random Lengths News: Al Austin launches campaign for WRD board (2026-06-30)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his campaign launch, priorities include protecting groundwater, managing ratepayer dollars responsibly, investing in infrastructure, and \"preparing for future droughts and climate challenges.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.randomlengthsnews.com/archives/2026/06/30/al-austin-launches-campaign/76338",
+          "title": "Random Lengths News: Al Austin launches campaign for WRD board (2026-06-30)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tracy-burns": [],
+    "mike-murchison": [
+      {
+        "text": "Endorsed by the Western States Regional Council of Carpenters (CARPAC).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.murchison4wrdboard.com/",
+          "title": "Mike Murchison for Water Replenishment District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"As we continue to battle record droughts and climate change, we must create a sustainable system that protects our water resources.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.murchison4wrdboard.com/",
+          "title": "Mike Murchison for Water Replenishment District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Every dollar should be accounted for; spending should be transparent, and infrastructure investments should deliver results.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.murchison4wrdboard.com/",
+          "title": "Mike Murchison for Water Replenishment District (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tonia-reyes-uranga": [
+      {
+        "text": "(2014, prior WRD bid) \"Water quality and availability is a quality of life issue that has a tremendous impact on our neighborhoods, business community and economic growth.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://lbpost.com/news/politics/former-councilmember-tonia-reyes-uranga-announces-bid-for-water-replenishment-district-seat/",
+          "title": "Long Beach Post: Tonia Reyes Uranga announces bid for WRD seat (2014-07-25)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No public positions found for Tracy Burns (tracyburns.com is a 'launching soon' placeholder; identity not confirmed). Uranga's 2026 site is biographical only; her only position quote is from a 2014 bid. LACDP: no endorsement in Division 3. Searches used: 9"
+}

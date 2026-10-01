@@ -1,0 +1,149 @@
+{
+  "contestId": "city-of-claremont-member-of-the-city-council-4th-district",
+  "options": {
+    "anna-jacobsen": [
+      {
+        "text": "Housing platform: \"creating more housing choices while being thoughtful about where and how we grow,\" making policies work \"for renters, property owners, and neighborhoods alike,\" and prioritizing adoption of Objective Design Standards to shape new housing.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes low-cost or forgivable repair loans for small rental owners in exchange for keeping units affordable, and finding funding to continue Claremont's rental-assistance program via a nonprofit administrator to prevent displacement.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: prevention \"should be a central part of Claremont's approach,\" plus \"consistent, relationship-based street outreach\" with service partnerships and clear measures of what works.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"a strong local Police Department\" with competitive pay to retain officers, wants the Tri-City Mobile Crisis Care Team to handle nonviolent mental-health calls and is exploring a co-response model; calls for transparency and accountability as \"the standard.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocated for Claremont's recent speed-limit reductions; wants to adopt AB 382 now to cut school-zone limits to 20 mph and make traffic calming based on need rather than residents paying.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports a strong emergency reserve, discipline on ongoing expenses, and a policy steering one-time year-end surpluses to pension liabilities, facilities, parks and equipment.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.annaforclaremont.com",
+          "title": "Anna for Claremont - My Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Responding to Calaycay's email, said he \"attributed positions to me on things like rent stabilization and housing density and homelessness without ever having a conversation with me about where I stand.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://claremontcourier.com/latest-news/candidates-react-to-leaked-calaycay-email-90154/",
+          "title": "Candidates react to leaked Calaycay email - Claremont Courier",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party - Endorsed Candidates, Nov. 3, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "aundre-johnson": [
+      {
+        "text": "\"We can meet state housing requirements through intelligent, community-supported solutions like sensible infill and ADUs, not oversized high-density projects driven by outside interests.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges \"responsible growth that respects neighborhood character\" and says Claremont \"must comply with state housing law while protecting neighborhood livability,\" with clear design standards and meaningful notice to neighbors.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Homelessness: supports \"coordinated outreach, housing and service referrals, and lawful enforcement where necessary,\" and \"appropriate enforcement when conduct threatens public health or safety,\" including along the Foothill Corridor.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"a well-trained, properly resourced Police Department,\" staffing retention and recruitment, special enforcement details, and a feasibility study for an Unmanned Aircraft System (drone) program \"with appropriate oversight.\" Serves on the Claremont Police Commission.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"disciplined budgeting, strong reserves, competitive purchasing\"; says when the city considers new revenue residents deserve a clear explanation of need, cost, use and oversight. Proposes a public maintenance and capital dashboard.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will advocate \"practical, data-informed\" bike and pedestrian improvements and traffic calming, saying \"A sign alone cannot solve every safety problem.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.johnsonforclaremont.com",
+          "title": "Aundré Johnson for Claremont - Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lawrence-mueller": []
+  },
+  "notes": "Jacobsen and Johnson: campaign-site platforms (Johnson's site lists only individual endorsers; Mayor Stark donated to Jacobsen; LA County Democratic Party endorsed Jacobsen). Lawrence Mueller: no campaign site, statement, or reported positions found (appeared at Sept. 17 Active Claremont forum; Courier District 4 profiles not yet published). Searches used: 2"
+}

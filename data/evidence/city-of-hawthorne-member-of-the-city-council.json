@@ -1,0 +1,129 @@
+{
+  "contestId": "city-of-hawthorne-member-of-the-city-council",
+  "options": {
+    "katrina-manning": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alexandre-alex-monteiro": [
+      {
+        "text": "Priorities include expanding first-time homebuyer programs and advocating \"for affordable and workforce housing so residents can live and work in Hawthorne.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/",
+          "title": "Re-Elect Alex Monteiro for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he helped develop Hawthorne Tiny Homes as temporary housing for unhoused residents until permanent placement, and grew SBCCOG homeless funding for Hawthorne from $40,000 to $500,000 a year.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/accomplishments-1",
+          "title": "Alex's Accomplishments 2018-2026 - Alex Monteiro for Hawthorne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he secured a $6 million SBCCOG Housing Trust soft loan for the Cordary Adobe project, 92 low-income units.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/accomplishments-1",
+          "title": "Alex's Accomplishments 2018-2026 - Alex Monteiro for Hawthorne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supported Hawthorne PD technology including surveillance cameras, drones and aircraft policing, plus community policing programs; priority to \"strengthen public safety while building trust between residents and law enforcement.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/accomplishments-1",
+          "title": "Alex's Accomplishments 2018-2026 - Alex Monteiro for Hawthorne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he is committed to \"fighting for good-paying jobs with benefits\" and college and vocational career pathways.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/",
+          "title": "Re-Elect Alex Monteiro for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party, IBEW Local 11, LA County Firefighters IAFF Local 1014, Hawthorne Municipal Employees Association and Rep. Maxine Waters.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://alexmonteiroforhawthorne.com/endorsements",
+          "title": "Endorsements - Alex Monteiro for Hawthorne (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sergio-roberto-mortara": [
+      {
+        "text": "Plan: \"Support our police department, put officers where they are needed most, and keep our neighborhoods safe.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.mortaraforhawthorne.com/",
+          "title": "Sergio Mortara for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges \"practical, compassionate solutions to tackle homelessness and keep our streets and parks clean.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.mortaraforhawthorne.com/",
+          "title": "Sergio Mortara for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"cut red tape, lower barriers for local entrepreneurs\" and move long-overdue economic development projects forward.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.mortaraforhawthorne.com/",
+          "title": "Sergio Mortara for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to run City Hall \"with fiscal responsibility, clear communication, and a focus on serving taxpayers.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.mortaraforhawthorne.com/",
+          "title": "Sergio Mortara for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists endorsements from Hawthorne Mayor Alex Vargas, Mayor Pro Tem Faye Johnson and the Hawthorne Chamber of Commerce CEO.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.mortaraforhawthorne.com/",
+          "title": "Sergio Mortara for Hawthorne City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Katrina Manning (incumbent) has no findable campaign site or public positions; only the LACDP endorsement. Hawthorne city website blocked fetching. Searches used: 10"
+}

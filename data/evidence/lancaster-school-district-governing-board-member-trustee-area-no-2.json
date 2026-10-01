@@ -1,0 +1,58 @@
+{
+  "contestId": "lancaster-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "oscar-iraheta": [],
+    "duane-g-winn": [
+      {
+        "text": "(2024) As board president, joined a unanimous vote for a $743,528 sheriff's school-resource-deputy contract: \"Our sheriffs at our schools have been nothing but a big help. They are here, not for discipline, they're here to assist.\"",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.avpress.com/news/lancaster-district-oks-deputies-pact/article_686de868-6037-11ef-93db-ff63c17d3c37.html",
+          "title": "Antelope Valley Press: Lancaster district OKs deputies pact (2024-08-22)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) As board president, was part of the board's unanimous vote placing a $122.1 million school bond on the November 2024 ballot (max. ~$30 per $100,000 assessed value), structured to issue new bonds as old ones are paid off.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.avpress.com/news/voters-get-school-district-bond/article_42ff656e-44b4-11ef-a63b-1b4a0899fb94.html",
+          "title": "Antelope Valley Press: Voters get school district bond (2024-07-18)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Objected at the AV high school board to approving the Synergy charter school: \"The charter school that you want to approve does nothing more, does nothing, that our schools don't already do.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.avpress.com/news/synergy-school-petition-gets-green-light/article_35c51d90-e316-11ed-b46b-db9a67c7e2f5.html",
+          "title": "Antelope Valley Press: Synergy School petition gets green light (2023-04-25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 4-0 board (Tepe absent) in Nov. 2025 to renew iLEAD Lancaster Charter School for five years, after asking how iLEAD did on the state Dashboard and whether its teachers are all credentialed.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.avpress.com/news/board-oks-ilead-s-charter-renewal/article_2fae4ee8-48f8-4966-9f43-94441655d290.html",
+          "title": "Antelope Valley Press: Board OKs iLEAD's charter renewal (2025-12-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cast the lone no vote (4-1) in Aug. 2025 on a $69,500 contract with nonprofit Agents of Change to provide AVID tutors at three middle schools; no reason was reported.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/district-will-pay-for-avid-tutors/article_a6fbb9c0-e68a-435a-8e4c-1fa45f2b3690.html",
+          "title": "Antelope Valley Press: District will pay for AVID tutors (2025-08-08)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No public positions found for Oscar Iraheta (AV Press mentions only as a spokesman for nonprofit Salva). Note: AV Press also covers AVUHSD trustee Donita Winn - only Duane Winn's items are used. Searches used: 8."
+}

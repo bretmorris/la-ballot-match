@@ -1,0 +1,90 @@
+{
+  "contestId": "city-of-diamond-bar-member-of-the-city-council-1st-district",
+  "options": {
+    "steve-tye": [
+      {
+        "text": "\"Steve believes public safety must remain a top priority. He supports the men and women who protect our community\" and will work to ensure Diamond Bar has the resources needed to keep residents safe.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://tye4diamondbar.com/priorities/",
+          "title": "Priorities - Steve Tye for Diamond Bar City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs (ALADS).",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://tye4diamondbar.com/endorsements/",
+          "title": "Endorsements - Steve Tye for Diamond Bar City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Committed to \"responsible budgeting, transparency, and making sure city resources are used effectively\"; supports \"a business-friendly community that creates opportunities while preserving Diamond Bar's character.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://tye4diamondbar.com/priorities/",
+          "title": "Priorities - Steve Tye for Diamond Bar City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ruben-torres": [
+      {
+        "text": "Plan: \"Repair the roads, fix the lights, and modernize the systems the city runs on — without raising property taxes on the families who live here.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://torresfordiamondbar.com/",
+          "title": "Ruben Torres for Diamond Bar City Council, District 1 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Plan: \"Protect the hillsides, trails, and parks that make Diamond Bar feel like Diamond Bar. Smart growth means knowing what not to develop.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://torresfordiamondbar.com/",
+          "title": "Ruben Torres for Diamond Bar City Council, District 1 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: \"A regional, humane, results-driven approach that connects people to services while keeping neighborhoods safe and clean.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://torresfordiamondbar.com/",
+          "title": "Ruben Torres for Diamond Bar City Council, District 1 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety: \"Adequate funding and accountability for public safety, smart traffic enforcement, and neighborhood programs that actually prevent crime.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://torresfordiamondbar.com/",
+          "title": "Ruben Torres for Diamond Bar City Council, District 1 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to \"Support local small businesses, attract responsible investment, and keep Diamond Bar's commercial corridors thriving.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://torresfordiamondbar.com/",
+          "title": "Ruben Torres for Diamond Bar City Council, District 1 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Tye (incumbent mayor): campaign site; ALADS endorsement. Torres (Planning Commissioner): campaign site. Searches used: 7"
+}

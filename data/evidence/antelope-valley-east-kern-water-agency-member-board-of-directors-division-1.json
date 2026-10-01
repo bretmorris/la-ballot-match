@@ -1,0 +1,29 @@
+{
+  "contestId": "antelope-valley-east-kern-water-agency-member-board-of-directors-division-1",
+  "options": {
+    "drew-mercy": [
+      {
+        "text": "As AV EDGE executive director, spoke in support of the proposed Prairie Song battery storage project near Acton: \"Every job we can create up here is a green job because it gets people off the freeway.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.avpress.com/news/acton-residents-speak-out-on-energy-storage/article_016da15b-f057-4fed-bba7-7e3b1a7f2df4.html",
+          "title": "Antelope Valley Press: Acton residents speak out on energy storage (2026-03-05)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Backed a county motion to create an Antelope Valley water plan: \"The Antelope Valley is among the last regions in the county with room to grow safely and smartly. By coordinating with our local governments, we can better ensure that growth occurs in a sustainable way.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.avpress.com/news/supervisors-approve-proposal-to-establish-water-plan-for-av/article_df0367d2-af6b-11ee-b4af-6721d1b64bed.html",
+          "title": "Antelope Valley Press: Supervisors approve proposal to establish water plan for AV (2024-01-10)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lynn-robert-barnes": []
+  },
+  "notes": "AVEK posts board agendas but no minutes/roll calls online, so no recorded votes for Drew Mercy were found; his items are statements as AV EDGE director. No public positions found for Lynn Robert Barnes. Searches used: 8."
+}

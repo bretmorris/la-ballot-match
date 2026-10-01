@@ -1,0 +1,170 @@
+{
+  "contestId": "las-virgenes-unified-school-district-governing-board-member",
+  "options": {
+    "coral-edwardsen": [
+      {
+        "text": "Called technology \"the hot issue right now\"; said it has a place in classrooms but students should first build strong foundations in reading, writing and critical thinking rather than relying on devices.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.theacorn.com/articles/two-challengers-eye-school-board/",
+          "title": "The Acorn: Two challengers eye school board (2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said one focus would be \"How do we effectively communicate with our communities in order to make LVUSD the absolute best it can be?\" and stressed a deliberative process including input from teachers and families.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.theacorn.com/articles/two-challengers-eye-school-board/",
+          "title": "The Acorn: Two challengers eye school board (2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priorities: curriculum with clear standards-aligned goals; students as \"good stewards of technology\"; school safety including mental health; budgeting by working with teachers and staff.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.coraledwardsen.com/issues",
+          "title": "Coral Edwardsen for LVUSD: Issues (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Las Virgenes Educators Association (teachers union) and all five sitting LVUSD board members.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.coraledwardsen.com/endorsements",
+          "title": "Coral Edwardsen for LVUSD: Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dallas-lawrence": [
+      {
+        "text": "At a Sept. 15, 2026 board meeting called for a stronger screen policy, including middle and high school screen limits and a complete device ban in TK and kindergarten: \"We have allowed things to seep into our classrooms that are not proven.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/lengthy-school-board-meeting-addresses-student-screen-policy/",
+          "title": "The Acorn: Lengthy school board meeting addresses student screen policy (2026-09-24)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for the districtwide campus cellphone ban adopted in early 2025, which passed narrowly.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/books-cellphones-and-social-media-a-whirlwind-school-year/",
+          "title": "The Acorn: Books, cellphones and social media — a whirlwind school year (2025-12-25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On a teacher placed on leave over Charlie Kirk posts: \"This was not about politics. It was about ... keeping our children safe. There is no place for violent discourse from school employees. Period.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.theacorn.com/articles/las-virgenes-school-teacher-placed-on-leave-over-charlie-kirk-comments/",
+          "title": "The Acorn: Las Virgenes teacher placed on leave over Charlie Kirk comments (2025-09-15)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Opposed giving the sheriff's department \"24/7, unfettered, unreviewed, unsupervised access\" to campus camera feeds, and sought a 90-day review.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.theacorn.com/articles/school-district-gives-sheriff-ok-to-monitor-campus-cameras-full-time/",
+          "title": "The Acorn: School district gives sheriff OK to monitor campus cameras full time (2024-12-05)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Asked in a May 2026 screen-time discussion, \"When is technology too soon?\", noting data suggesting 30 minutes a day for i-Ready.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/parents-want-more-limits-placed-on-screen-time/",
+          "title": "The Acorn: Parents want more limits placed on screen time (2026-05-21)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "angela-cutbill": [
+      {
+        "text": "Backing tighter screen limits: \"I don't think it's pulling the rug out from under our teachers to do this, but my God, I want to pull the headphones off the 5-year-old.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/lengthy-school-board-meeting-addresses-student-screen-policy/",
+          "title": "The Acorn: Lengthy school board meeting addresses student screen policy (2026-09-24)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for the districtwide campus cellphone ban adopted in early 2025.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/books-cellphones-and-social-media-a-whirlwind-school-year/",
+          "title": "The Acorn: Books, cellphones and social media — a whirlwind school year (2025-12-25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) As board president, supported letting the sheriff's department monitor campus cameras full time: \"They've kind of assured us, they're not looking to just sit and study kids.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.theacorn.com/articles/school-district-gives-sheriff-ok-to-monitor-campus-cameras-full-time/",
+          "title": "The Acorn: School district gives sheriff OK to monitor campus cameras full time (2024-12-05)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sandra-pope": [
+      {
+        "text": "In an Aug. 2026 letter: \"We cannot afford to 'pause' the inclusion of technology in our classrooms,\" criticizing the parent group Schools Beyond Screens and defending the district technology committee.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/too-late-to-pause-technology-in-class/",
+          "title": "The Acorn letter by Sandra Pope: Too late to pause technology in class (2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Later apologized at a board meeting for that letter, saying it was dismissive of parents' concerns, and asked the board to consider a two-year screen-time policy with committees studying the issue first.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/lengthy-school-board-meeting-addresses-student-screen-policy/",
+          "title": "The Acorn: Lengthy school board meeting addresses student screen policy (2026-09-24)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed bringing together school districts, law enforcement and tech experts to develop a K-12 curriculum \"that keeps kids safe from the second they turn on a computer.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theacorn.com/articles/two-challengers-eye-school-board/",
+          "title": "The Acorn: Two challengers eye school board (2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Praised district leadership as \"very progressive\" and said some parents feel the board lacks \"a good vehicle for communication\" and transparency.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.theacorn.com/articles/two-challengers-eye-school-board/",
+          "title": "The Acorn: Two challengers eye school board (2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Coverage from The Acorn plus Edwardsen's campaign site. No campaign sites found for Lawrence, Cutbill or Pope. Pope's letter and apology are both included. Searches used: 9"
+}

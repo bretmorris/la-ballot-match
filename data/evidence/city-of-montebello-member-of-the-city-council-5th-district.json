@@ -1,0 +1,50 @@
+{
+ "contestId": "city-of-montebello-member-of-the-city-council-5th-district",
+ "options": {
+  "ricardo-ric-alonzo": [
+   {
+    "text": "Says 'I also voted against a development that would have added residents without the services to carry them.'",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Ricardo%20Ric%20Alonzo.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Ricardo \"Ric\" Alonzo",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Cites a police community resource center and park rangers in South Montebello among accomplishments since his Jan 2025 appointment.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20Ricardo%20Ric%20Alonzo.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: Ricardo \"Ric\" Alonzo",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "james-santana": [
+   {
+    "text": "Says 'I will advocate for development that grows with residents, not around them,' noting District 5 homes sit beside heavy industry with major projects coming.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20James%20Santana.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: James Santana",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Pledges to 'support small businesses, renters, and working families' and create a commission for seniors, caregivers and aging families.",
+    "kind": "own-statement",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://www.montebelloca.gov/UserFiles/Servers/Server_58672/File/Departments/Administration/City%20Clerk's%20Office/Elections/2026/Candidate%20Statements/Candidate%20Statement%20-%20James%20Santana.pdf",
+     "title": "City of Montebello - 2026 Candidate Statement: James Santana",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "All items are from 2026 official candidate statements posted by the Montebello City Clerk. Alonzo does not name the development he voted against. Searches used: 10"
+}

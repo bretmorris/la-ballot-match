@@ -2,6 +2,347 @@
  "contestId": "long-beach-community-college-district-governing-board-member-trustee-area-no-5",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:59.622Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.072Z",
+ "options": {
+  "huy-henry-nguyen": {
+   "taxes-spending": {
+    "position": -0.155,
+    "evidence": 0.02,
+    "confidence": 0.72,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.27,
+     "2": 0.69,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.005,
+    "evidence": 0.01,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": -0.05,
+    "evidence": 0.01,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0,
+     "1": 0.1,
+     "2": 0.9,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.055,
+    "evidence": 0.02,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.09,
+     "2": 0.9,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.045,
+    "evidence": 0.02,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.09,
+     "2": 0.91,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.97,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.595,
+    "evidence": 0.05,
+    "confidence": 0.76,
+    "probabilities": {
+     "0": 0.24,
+     "1": 0.72,
+     "2": 0.04,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.085,
+    "evidence": 0.02,
+    "confidence": 0.86,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.14,
+     "2": 0.84,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.67,
+    "evidence": 0.04,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.37,
+     "1": 0.6,
+     "2": 0.03,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.295,
+    "evidence": 0.02,
+    "confidence": 0.5,
+    "probabilities": {
+     "0": 0.08,
+     "1": 0.43,
+     "2": 0.49,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.125,
+    "evidence": 0.01,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.21,
+     "2": 0.77,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.095,
+    "evidence": 0.02,
+    "confidence": 0.84,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.16,
+     "2": 0.83,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.97,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.075,
+    "evidence": 0.02,
+    "confidence": 0.87,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.13,
+     "2": 0.85,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "susana-gonzalez-edmond": {
+   "taxes-spending": {
+    "position": -0.215,
+    "evidence": 0.02,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.4,
+     "2": 0.56,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.02,
+    "evidence": 0.02,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.95,
+     "3": 0.03,
+     "4": 0.01
+    }
+   },
+   "renters-landlords": {
+    "position": -0.085,
+    "evidence": 0.02,
+    "confidence": 0.83,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.17,
+     "2": 0.81,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.13,
+    "evidence": 0.02,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.24,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.06,
+    "evidence": 0.02,
+    "confidence": 0.89,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.12,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.13,
+    "evidence": 0.02,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.23,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.11,
+    "evidence": 0.02,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.27,
+     "2": 0.62,
+     "3": 0.08,
+     "4": 0.01
+    }
+   },
+   "immigration": {
+    "position": -0.25,
+    "evidence": 0.02,
+    "confidence": 0.57,
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.41,
+     "2": 0.54,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.305,
+    "evidence": 0.03,
+    "confidence": 0.47,
+    "probabilities": {
+     "0": 0.09,
+     "1": 0.45,
+     "2": 0.45,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.465,
+    "evidence": 0.02,
+    "confidence": 0.76,
+    "probabilities": {
+     "0": 0.11,
+     "1": 0.72,
+     "2": 0.17,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.355,
+    "evidence": 0.02,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0.08,
+     "1": 0.56,
+     "2": 0.36,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.2,
+    "evidence": 0.02,
+    "confidence": 0.65,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.37,
+     "2": 0.61,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.05,
+    "evidence": 0.02,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0,
+     "1": 0.1,
+     "2": 0.9,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.32,
+    "evidence": 0.03,
+    "confidence": 0.6,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.53,
+     "2": 0.41,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

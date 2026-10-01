@@ -1,0 +1,151 @@
+{
+  "contestId": "palos-verdes-peninsula-unified-school-district-governing-board-member",
+  "options": {
+    "allyson-lehrer": [
+      {
+        "text": "VOTE411: top priority is fiscal sustainability and enrollment; calls California's funding model uniquely challenging and pledges data-driven decisions that \"preserve the programs, people, and opportunities.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=69228448",
+          "title": "PVPUSD Governing Board Member - VOTE411 Voter Guide (League of Women Voters), Nov 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "VOTE411: supports \"age-appropriate guardrails and intentional-use frameworks for technology, screens, and AI\" while teaching AI literacy and keeping human interaction central.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=69228448",
+          "title": "PVPUSD Governing Board Member - VOTE411 Voter Guide (League of Women Voters), Nov 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Palos Verdes Faculty Association (teachers' union) and Assemblymember Al Muratsuchi.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "http://al4pv.com/endorsements/",
+          "title": "Endorsements - Allyson Lehrer for PV School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "liz-peterson": [
+      {
+        "text": "VOTE411: top priorities are transparent decisions, responsible budgeting and school safety; pledges \"every dollar is spent wisely on behalf of our students, stakeholders and taxpayers.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=69228448",
+          "title": "PVPUSD Governing Board Member - VOTE411 Voter Guide (League of Women Voters), Nov 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to champion teachers and staff, including \"higher salaries, improved working conditions, and professional development opportunities.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://liz4pv.com/",
+          "title": "Liz Peterson for PVPUSD (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "louis-matthew-harley": [
+      {
+        "text": "VOTE411 priorities: fight declining enrollment, clean up and secure school sites, and \"better medical benefits for all employees.\"",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=69228448",
+          "title": "PVPUSD Governing Board Member - VOTE411 Voter Guide (League of Women Voters), Nov 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"There is no place for A.I. in the K-12 classroom\"; pledges to recruit and retain teachers after more than 40 took early retirement.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://www.harleyforpv.com",
+          "title": "Harley for PV - Lou Harley for PV School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Running a self-funded campaign, refusing donations \"from any source including PACs, political parties and unions.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "http://www.harleyforpv.com",
+          "title": "Harley for PV - Lou Harley for PV School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jeremy-vanderhal": [
+      {
+        "text": "VOTE411: says PVPUSD gets $45 million less a year than the state average under LCFF; pledges to \"fight the good fight\" for fair funding and close oversight of Measure SOS bond projects.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=69228448",
+          "title": "PVPUSD Governing Board Member - VOTE411 Voter Guide (League of Women Voters), Nov 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges not to accept contributions from any elected politician, political party, partisan PAC or political organization, \"including unions.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "http://vanderhal4pv.com/",
+          "title": "Jeremy Vanderhal for Palos Verdes School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants decisions focused on student outcomes and \"safe learning environments—over distractions or divisive agendas.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://vanderhal4pv.com/",
+          "title": "Jeremy Vanderhal for Palos Verdes School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites an endorsement from ICAN, saying it reflects his support for AB 715's statewide antisemitism prevention coordinator for K-12 schools.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "http://vanderhal4pv.com/endorsements",
+          "title": "Endorsements - Vanderhal for PV School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "paul-vidal": []
+  },
+  "notes": "Four of five candidates answered the LWV VOTE411 guide. Paul Vidal did not respond to VOTE411 and has no findable campaign site or positions. Searches used: 10"
+}

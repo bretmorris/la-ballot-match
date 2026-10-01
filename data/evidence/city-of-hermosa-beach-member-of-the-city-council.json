@@ -1,0 +1,494 @@
+{
+  "contestId": "city-of-hermosa-beach-member-of-the-city-council",
+  "options": {
+    "raymond-ray-jackson": [
+      {
+        "text": "Voted no on the 3-2 August 2026 motion permitting short-term vacation rentals in Hermosa's Coastal Zone; had moved instead to bring a full regulatory program to the Coastal Commission, saying \"I don't think there's a rush.\"",
+        "kind": "voting-record",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the 2026 debate called for the city's \"unlimited short-term rental policy\" to be repealed and replaced, saying it lets long-term homes become vacation rentals.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted to place the 2026 half-cent sales tax on the ballot: \"I will reluctantly support this measure... But understand, I will not support any funding request that isn't absolutely necessary to keep our lights on and our pipes plumbed.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/half-cent-tax-measure-approved-by-council-for-november-ballot/",
+          "title": "Half-cent tax measure approved by Council for November ballot - Easy Reader (Jul 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the deficit: \"We cannot make up for that budget shortfall. We have to generate revenue. That's the reality of it.\" Moved (unsuccessfully, 2-3) to also put a higher hotel tax on short-term rentals on the ballot.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-council-puts-half-cent-sales-tax-on-nov-ballot/",
+          "title": "Hermosa Beach council puts half-cent sales tax on Nov. ballot - Easy Reader (Jun 25, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the 2026 debate said this year's budget was balanced through \"budget fairy dust\" and called for an independent financial review; criticized opponents of the 2024 tax measure for offering \"no alternative plan.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed exploring a downtown entertainment zone letting people carry drinks outdoors: \"it's the behavior that we penalize. It's not necessarily what the individual is consuming.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said he was \"proud to stand by the Pride Tower,\" the Pride-painted 13th Street lifeguard tower, and that it should stay.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Called for a park ranger-style presence on the Strand to address e-bikes, funded in part by the sales tax.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with a 5-0 council in March 2026 to join the South Bay Regional Housing Trust, funded by Measure A, to finance affordable housing.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-joins-regional-housing-trust/",
+          "title": "Hermosa Beach joins regional housing trust - Easy Reader (Mar 12, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dean-francois": [
+      {
+        "text": "Cast the only council vote (4-1) against placing the 2026 half-cent sales tax on the ballot, calling it regressive: \"The people who are paying the brunt of this tax are the ones on the smallest income brackets.\" Argued for raising the hotel tax on visitors instead.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/half-cent-tax-measure-approved-by-council-for-november-ballot/",
+          "title": "Half-cent tax measure approved by Council for November ballot - Easy Reader (Jul 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Only 2026 candidate opposing the sales tax at the debate: said residents would carry the cost as the rate rises to 10.75% (\"Isn't that enough?\") and faulted spending $50,000 to publicize the measure.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Outlined a five-point plan he said could save $4 million a year, including renegotiating county lifeguard contracts and charging the county rent for lifeguard facilities.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 3-2 majority in August 2026 to permit short-term vacation rentals in the Coastal Zone and collect hotel tax, saying it would not stop the council from adding protections later.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Called claims the council left short-term rentals unlimited \"fear-mongering\"; said he brokered a six-month compromise to gather data before regulating.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questioned whether the state could afford license plates on every e-bike when colleague Saemann proposed them.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with a 5-0 council in March 2026 to join the South Bay Regional Housing Trust for affordable housing; named alternate delegate.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-joins-regional-housing-trust/",
+          "title": "Hermosa Beach joins regional housing trust - Easy Reader (Mar 12, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Cast the lone dissenting vote, 4-1, against asking voters to approve the 2024 three-quarter-cent sales tax (Measure HB).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-sales-tax-measure-divides-current-former-councilmembers/",
+          "title": "Hermosa Beach sales tax measure divides current, former councilmembers - Easy Reader (Aug 14, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "elka-worner": [
+      {
+        "text": "Backs the 2026 half-cent sales tax after opposing 2024's: \"this time I'm voting yes, but I also expect the city to tighten its belt.\" Proposed cutting consultants and sharing services with neighboring cities.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Asked the council in June 2026 to add a five-year sunset clause to the sales tax measure: \"I think it would be more palatable for the public.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-council-puts-half-cent-sales-tax-on-nov-ballot/",
+          "title": "Hermosa Beach council puts half-cent sales tax on Nov. ballot - Easy Reader (Jun 25, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Opposed Measure HB: \"we need to do everything we can to give our businesses an edge... We don't have a revenue problem, we have a spending problem.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-council-candidate-worner-cites-journalism-work/",
+          "title": "Hermosa Beach Council Candidate Worner cites journalism work - Easy Reader (Oct 9, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged the council in August 2026 to legalize coastal short-term rentals now, citing about $1 million in yearly tax revenue: \"there's no reason to postpone it any longer.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the 2026 debate said she opposes party houses and corporate operators but short-term rental policy should rest on data: \"We should make our policy based on the evidence and not fear.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On crime, said the discussion should \"start with the facts,\" noting overall crime down 22% year to date, while calling for a closer look at rising simple assaults.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Called for police officers on e-bikes along the Strand and consistent tickets rather than warnings.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Opposed building a new civic center, saying the city should first finish outstanding capital projects like the city yard.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-council-candidate-worner-cites-journalism-work/",
+          "title": "Hermosa Beach Council Candidate Worner cites journalism work - Easy Reader (Oct 9, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "maggie-bove-lamonica": [
+      {
+        "text": "Supports the 2026 half-cent sales tax but said the council failed to deliver promised community education: \"We will lose community trust if a third time this sales tax doesn't pass.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Signed the ballot argument in favor of the 2024 Hermosa Beach sales tax increase (Measure HB).",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-sales-tax-measure-divides-current-former-councilmembers/",
+          "title": "Hermosa Beach sales tax measure divides current, former councilmembers - Easy Reader (Aug 14, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the council in August 2026 that permitting coastal short-term rentals moved too fast, noting other coastal cities cap them near 2.5% of housing stock: \"Option 1 puts profit over people.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Criticized the council for skipping community engagement on short-term rentals: \"Manhattan Beach did seven meetings... Hermosa Beach didn't do a single one.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Blamed the structural deficit on \"this particular council's mismanagement,\" citing more than 3,000 missed parking citations during World Cup watch parties.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pointed to 13 years on the Hermosa Beach school board helping pass and manage $87 million in facilities bonds; cited endorsements from Rep. Ted Lieu and state Sen. Ben Allen.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "eric-horne": [
+      {
+        "text": "Will be \"reluctantly voting yes\" on the 2026 sales tax, citing rising county fire, lifeguard and beach contract costs, an unfunded city yard and no pier funding plan.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Projected a roughly $9 million annual cash shortfall by 2032; proposed about $700,000 in cuts, including capping police overtime at $800,000 a year using AI analysis of crime and calls-for-service data.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed a dedicated $2.5 million-a-year pier fund financed partly by a surcharge on coastal-zone short-term rentals.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said he would immediately reopen short-term rental rules to distinguish owner-occupied rentals from investment properties before the Olympics.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged the council in August 2026 to hold more community meetings before legalizing coastal short-term rentals: \"This is one of the most important decisions that has come before Council this year.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed rotating two-officer e-bike enforcement details along the Strand.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rob-saemann": [
+      {
+        "text": "Voted to place the 2026 half-cent sales tax on the ballot: \"Half a cent is the right amount and the right thing to do. It's conservative, it's reasonable.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-council-puts-half-cent-sales-tax-on-nov-ballot/",
+          "title": "Hermosa Beach council puts half-cent sales tax on Nov. ballot - Easy Reader (Jun 25, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-author, with Councilmember Keegan, of the ballot argument in favor of the 2026 sales tax; criticized a proposed $50,000 voter-education consultant contract, saying it \"smells like the way we did it the last two times.\"",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://easyreadernews.com/half-cent-tax-measure-approved-by-council-for-november-ballot/",
+          "title": "Half-cent tax measure approved by Council for November ballot - Easy Reader (Jul 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Made the August 2026 substitute motion, passed 3-2, permitting short-term vacation rentals in the Coastal Zone and collecting hotel tax while keeping them banned elsewhere, modeled on Manhattan Beach.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/stvr-public-hearing-splits-residents-and-city-council/",
+          "title": "STVR public hearing splits residents and City Council - Easy Reader (Aug 27, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said the deficit stemmed from \"poorly planned, poorly executed, overfunded projects\" and consultant use; pointed to short-term-rental hotel taxes and Lot A/D development as revenue.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledged not to cut the number of sworn officers: \"I don't want to encourage a narrative that crime is somehow out of control.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Has pushed for license plates on Class 2 and Class 3 e-bikes, taking the idea to neighboring mayors, the school board and the South Bay Cities COG.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Named Hermosa's delegate to the South Bay Regional Housing Trust after a 5-0 vote in March 2026 to join the Measure A-funded affordable housing trust.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://easyreadernews.com/hermosa-beach-joins-regional-housing-trust/",
+          "title": "Hermosa Beach joins regional housing trust - Easy Reader (Mar 12, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said he made the March 2026 motion directing staff to plan pier replacement for 2032, and proposed segmental reconstruction to keep part of the pier open during construction.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.hermosareview.com/city-council-hopefuls-face-off-in-first-election-debate/",
+          "title": "City Council hopefuls face off in first election debate - The Hermosa Review (Sep 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "All six candidates have findable 2026 positions via the Sep. 29, 2026 HBneighborhood.org debate (Hermosa Review) and Easy Reader council coverage. Remark on the Pride Tower attributed to Jackson only (article says 'all five candidates' without naming them). Searches used: 10"
+}

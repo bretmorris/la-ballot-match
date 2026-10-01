@@ -1,0 +1,89 @@
+{
+  "contestId": "city-of-azusa-member-of-the-city-council-1st-district",
+  "options": {
+    "mark-a-caro": [],
+    "andrew-n-mendez": [
+      {
+        "text": "Housing platform: \"Support the development of affordable and workforce housing units,\" \"Encourage mixed-use development near transit corridors,\" and \"Streamline approvals for infill housing that fits the character of our neighborhoods.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Protect existing renters through fair housing policies and tenant resources\"; create down payment assistance programs for working families.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site says Azusa has taken \"aggressive, multi-pronged action\" on homelessness \"with compassion, accountability\": HALO outreach team, a library resource hub, and the Azusa Resource Center interim shelter prioritizing residents, veterans and seniors.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety: \"Maintain full staffing levels for the Azusa Police Department and at our Fire Departments\" and expand community policing programs.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites \"Consecutive years of balanced budgets with no new taxes\" and record-high city reserves.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to expand bicycle and pedestrian infrastructure, improve signal timing and advocate better regional Metro and bus connections.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to expand Azusa's urban tree canopy, \"Promote clean energy adoption for city facilities,\" and strengthen water conservation.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU Local 721, Teamsters Joint Council 42, IATSE, Azusa Police Officers Association, Azusa Police Management Association, LA County Firefighters Local 1014, BizFed PAC, California Association of Realtors PAC, and the LA County Taxpayers Association.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://andrewforazusa.com",
+          "title": "Andrew Mendez for Azusa City Council - Issues, Record and Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "patricia-trish-gonzales": []
+  },
+  "notes": "Mendez (appointed incumbent): campaign site andrewforazusa.com (client-rendered; text read from the site's bundled content). Mark A. Caro and Patricia \"Trish\" Gonzales: no campaign sites, statements, or reported positions found. Searches used: 9"
+}

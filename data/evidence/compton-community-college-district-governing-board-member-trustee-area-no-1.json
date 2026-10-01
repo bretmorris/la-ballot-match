@@ -1,0 +1,28 @@
+{
+ "contestId": "compton-community-college-district-governing-board-member-trustee-area-no-1",
+ "options": {
+  "andres-ramos": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2025) As board president, on the 2025-26 budget: \"This budget reflects our values and priorities, investing in students, faculty, and the future of Compton College... We're proud to support initiatives that expand access, improve outcomes, and strengthen our community.\"",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://2urbangirls.com/2025/09/compton-ccd-approves-1m-in-student-centered-investments-in-2025-2026-budget/",
+     "title": "2UrbanGirls: Compton CCD approves $1M+ in student-centered investments in 2025-2026 budget (2025-09-23)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "skyy-d-fisher": []
+ },
+ "notes": "No findable positions for Skyy D. Fisher (campaign domain blocked by a bot wall; no 2026 statements found). Andres Ramos has only an LACDP endorsement and a 2025 budget statement. Searches used: 10"
+}

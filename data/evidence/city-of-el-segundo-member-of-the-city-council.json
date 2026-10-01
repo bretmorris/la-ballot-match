@@ -1,0 +1,158 @@
+{
+  "contestId": "city-of-el-segundo-member-of-the-city-council",
+  "options": {
+    "chris-pimentel": [
+      {
+        "text": "As chair of a South Bay Cities COG committee in December 2025, favored the COG staying agnostic on the South Bay light rail route (Hawthorne Blvd. vs. railroad right-of-way); a motion to stay neutral passed.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://easyreadernews.com/the-south-bay-cities-council-of-governments-remains-neutral-on-south-bay-light-rail-route/",
+          "title": "The South Bay Cities Council of Governments remains neutral on South Bay light rail route - Easy Reader (Dec 11, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per a Citizen Portal AI summary of the June 2025 meeting, the council created a charter-city study commission and appointed Mayor Pimentel and Mayor Pro Tem Baldino to explore a possible 2026 charter measure.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://citizenportal.ai/articles/6195462/california/los-angeles-county/el-segundo-city/council-creates-city-charter-commission-appoints-mayor-and-mayor-pro-tem-to-explore-voter-measure-for-2026",
+          "title": "Council creates city charter commission (El Segundo, June 17, 2025) - Citizen Portal AI meeting summary",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ryan-w-baldino": [
+      {
+        "text": "Housing: \"The challenge isn't whether we should build housing. It's how we build it.\" Notes RHNA rose to 521 units; says decisions shouldn't be \"driven solely by state mandates\" and new state laws reduce local control.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://baldinoforelsegundo.com/",
+          "title": "Ryan Baldino for El Segundo City Council (campaign site, 'Where He Stands')",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports keeping El Segundo's own police and fire departments while facing long-term costs; says the city has addressed unfunded pension liabilities and he will continue so safety services \"are funded wisely.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://baldinoforelsegundo.com/",
+          "title": "Ryan Baldino for El Segundo City Council (campaign site, 'Where He Stands')",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Formed a Hyperion ad hoc subcommittee in 2023 and testified in Sacramento for AB 1216, signed in 2023, making fence-line hydrogen sulfide monitoring permanent and public in real time.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://baldinoforelsegundo.com/",
+          "title": "Ryan Baldino for El Segundo City Council (campaign site, 'Where He Stands')",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Chaired the ESUSD Citizens' Bond Oversight Committee; pledges to keep a collaborative City-ESUSD relationship including joint-use agreements, crossing guards and library services.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://baldinoforelsegundo.com/",
+          "title": "Ryan Baldino for El Segundo City Council (campaign site, 'Where He Stands')",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per a Citizen Portal AI summary of the June 2025 meeting, appointed with Mayor Pimentel to a commission exploring a possible 2026 charter-city measure.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://citizenportal.ai/articles/6195462/california/los-angeles-county/el-segundo-city/council-creates-city-charter-commission-appoints-mayor-and-mayor-pro-tem-to-explore-voter-measure-for-2026",
+          "title": "Council creates city charter commission (El Segundo, June 17, 2025) - Citizen Portal AI meeting summary",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "john-pickhaver": [
+      {
+        "text": "Says decades of under-zoning caused El Segundo's housing shortage; laws like SB 9 and SB 79 \"are not the cause\" but \"the consequence.\" Backs mixed-use housing east of PCH near jobs and transit while protecting single-family neighborhoods.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Notes nearly 60% of residents rent; says he would be the council's only renter, Millennial and registered Democrat.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a Safe Intersections Initiative (four-way stops, crosswalks, traffic calming) and proactive e-bike and NEV rules, faulting the city's wait-and-see approach to the South Bay Bicycle Master Plan.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports keeping ESPD and ESFD in-house but cites a racial-profiling lawsuit and says surveillance tech like license plate readers and drones must not compromise privacy or civil liberties.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Helped mobilize residents against a 230,780 sq. ft. AI data center relying on an old EIR; calls for holding Chevron and Hyperion accountable \"as federal oversight diminishes under the Trump administration.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says being business-friendly \"doesn't mean every development is right for every location\"; supports outdoor dining and pedestrian improvements downtown.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site lists endorsements from the LA League of Conservation Voters, Equality California, Streets For All and Indivisible South Bay.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.johnpickhaver.com/",
+          "title": "John Pickhaver for El Segundo City Council 2026 (campaign site, priorities and endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Pickhaver and Baldino have detailed campaign sites. Mayor Chris Pimentel has no campaign website (city clerk lists only an email) and no findable 2026 positions; only two official actions found. El Segundo Herald was unreachable. Searches used: 10"
+}

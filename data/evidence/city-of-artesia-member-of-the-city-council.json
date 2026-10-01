@@ -1,0 +1,43 @@
+{
+ "contestId": "city-of-artesia-member-of-the-city-council",
+ "options": {
+  "dan-rocha": [],
+  "ali-taj": [
+   {
+    "text": "(2018) Voted to approve Artesia Live II, a seven-story mixed-use development across from Los Cerritos Center (4-0 vote, Mayor Flowers recused).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.loscerritosnews.net/2018/02/19/on-a-4-0-vote-artesia-council-approves-artesia-live-ii/",
+     "title": "Los Cerritos Community News: On a 4-0 vote, Artesia Council approves Artesia Live II (Feb 2018)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "rene-j-trevino": [
+   {
+    "text": "(2018) Then a former commissioner, joined opponents of the seven-story Artesia Live II mixed-use project at the council hearing; per LCCN he emailed around a petition against high-density developments.",
+    "kind": "official-action",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.loscerritosnews.net/2018/02/19/on-a-4-0-vote-artesia-council-approves-artesia-live-ii/",
+     "title": "Los Cerritos Community News: On a 4-0 vote, Artesia Council approves Artesia Live II (Feb 2018)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2018) As a candidate, sent a mailer claiming 'CRIME HAS RISEN 46% OVERALL IN ARTESIA' and 'There has been no serious response from our city council.' The Sheriff's Department disputed his numbers.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.loscerritosnews.net/2018/10/27/artesia-council-candidate-rene-trevino-claims-crime-is-up-in-city-sheriffs-department-refutes-his-numbers/",
+     "title": "Los Cerritos Community News: Artesia Council Candidate Rene Trevino Claims Crime is Up in City (Oct 2018)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "melissa-ramoso": [],
+  "craig-francis": []
+ },
+ "notes": "Artesia's city site posts no 2026 candidate statements, and no 2026 coverage was found. Only older 2018 items exist. The LCCN source is openly hostile to Trevino, so only his own actions and mailer text are recorded. No public positions found for dan-rocha, melissa-ramoso or craig-francis. Searches used: 10"
+}

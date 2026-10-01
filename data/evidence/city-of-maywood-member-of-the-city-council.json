@@ -1,0 +1,57 @@
+{
+ "contestId": "city-of-maywood-member-of-the-city-council",
+ "options": {
+  "eduardo-eddie-de-la-riva": [
+   {
+    "text": "Called the council's unanimous Feb 2025 approval of a negotiating agreement with the Cesar Chavez Foundation for a 61-unit, all-affordable project on city land a 'big win' for a community 'heavily burdened by rent.'",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.selasun.la/maywood-moves-forward-with-proposed-61-unit-affordable-housing-project/",
+     "title": "The SELA Sun: Maywood Moves Forward with Proposed 61-Unit Affordable Housing Project (Mar 21, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Sits on the council that unanimously passed (Feb 2025) an ordinance requiring contractors on large projects to disclose labor violations, including wage theft. Backed by the Western States Regional Council of Carpenters.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.selasun.la/new-law-in-maywood-will-force-builders-to-disclose-labor-violations/",
+     "title": "The SELA Sun: New Law in Maywood Will Force Builders to Disclose Labor Violations (Mar 21, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "mayra-aguiluz": [
+   {
+    "text": "Sits on the council that unanimously approved (Feb 2025) an exclusive negotiating agreement with the Cesar Chavez Foundation for a 61-unit, all-affordable housing project on city-owned land.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.selasun.la/maywood-moves-forward-with-proposed-61-unit-affordable-housing-project/",
+     "title": "The SELA Sun: Maywood Moves Forward with Proposed 61-Unit Affordable Housing Project (Mar 21, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Sits on the council that unanimously passed (Feb 2025) an ordinance requiring contractors on large projects to disclose past labor violations, including wage theft.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.selasun.la/new-law-in-maywood-will-force-builders-to-disclose-labor-violations/",
+     "title": "The SELA Sun: New Law in Maywood Will Force Builders to Disclose Labor Violations (Mar 21, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "thomas-ramon-martin": [],
+  "gabriela-a-bernal": [],
+  "edith-rodriguez": [],
+  "gustavo-villa": [],
+  "aleyda-lemus": [],
+  "maritza-cruz": [],
+  "veronica-peral-bernabe": []
+ },
+ "notes": "Maywood's 2026 election page lists qualified candidates only, with no statements. The Aguiluz items depend on the reported unanimous votes; her individual attendance was not confirmed. No public positions found for thomas-ramon-martin, gabriela-a-bernal, edith-rodriguez, gustavo-villa, aleyda-lemus, maritza-cruz or veronica-peral-bernabe. Searches used: 10"
+}

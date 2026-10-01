@@ -1,0 +1,53 @@
+{
+  "contestId": "valle-lindo-school-district-governing-board-member",
+  "options": {
+    "veronica-lauria": [
+      {
+        "text": "On May 13, 2026, the five-member board voted 5-0 (none absent) on Resolution 1171-26, placing the $9.2 million Measure R school facilities bond on the November ballot. Lauria signed the resolution as board president.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/217775.pdf",
+          "title": "Valle Lindo SD Resolution No. 1171-26 ordering Measure R bond election (adopted May 13, 2026), as filed with LA County Board of Supervisors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per LAist, board president Lauria was among those who submitted the ballot argument in favor of Measure R, the district's first-ever property-tax bond ($9.2 million). No argument against was filed.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/voter-guide-2026-general-election-school-bond-valle-lindo-measure-r",
+          "title": "LAist: What you need to know to vote on Valle Lindo School District Measure R (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jacqueline-j-rubio": [
+      {
+        "text": "On May 13, 2026, the five-member board voted 5-0 (none absent or abstaining) on Resolution 1171-26, placing the $9.2 million Measure R school facilities bond on the November ballot. Rubio (vice president) is listed as a sitting trustee.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/217775.pdf",
+          "title": "Valle Lindo SD Resolution No. 1171-26 ordering Measure R bond election (adopted May 13, 2026), as filed with LA County Board of Supervisors",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rudy-t-martinez": [
+      {
+        "text": "On May 13, 2026, the five-member board voted 5-0 (none absent or abstaining) on Resolution 1171-26, placing the $9.2 million Measure R school facilities bond on the November ballot. Martinez is listed as a sitting trustee.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/217775.pdf",
+          "title": "Valle Lindo SD Resolution No. 1171-26 ordering Measure R bond election (adopted May 13, 2026), as filed with LA County Board of Supervisors",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "angelica-garcia": []
+  },
+  "notes": "The only evidence for incumbents is the unanimous 5-0 vote to place the Measure R bond on the ballot. The resolution certificate gives the tally but no names; board membership comes from the district roster (https://www.vallelindo.k12.ca.us/apps/pages/index.jsp?uREC_ID=1211155&type=d&pREC_ID=1447330). Lauria also signed the resolution and, per LAist, was among those who submitted the ballot argument in favor. No public positions found for Angelica Garcia. The LA County Democratic Party endorsed Yes on Measure R. Searches used: 10."
+}

@@ -1,0 +1,28 @@
+{
+  "contestId": "las-virgenes-municipal-water-district-member-board-of-directors-division-2",
+  "options": {
+    "teri-l-davis": [],
+    "andy-coradeschi": [
+      {
+        "text": "Campaign says that when he joined the board the district had one water source under state-mandated rationing, and it has since added four sources with no rationing.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.andycoradeschi.com/",
+          "title": "Andy Coradeschi for LVMWD Director (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Defended a rate increase: about half was \"directly due to the increased price of the water\" from the State Water Project, the rest held below inflation; said \"the Pure Water project effectively gives us 20% more water.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.theacorn.com/articles/las-virgenes-water-rates-trickle-higher/",
+          "title": "The Acorn: Las Virgenes water rates trickle higher (2022-12-15)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No public positions, campaign site, or news coverage found for Teri L. Davis. Coradeschi has a campaign site and an older (2022) Acorn quote. Searches used: 9"
+}

@@ -2,6 +2,177 @@
  "contestId": "san-gabriel-unified-school-district-governing-board-member",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.150Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.094Z",
+ "options": {
+  "gina-l-chi": {
+   "taxes-spending": {
+    "position": -0.055,
+    "evidence": 0.02,
+    "confidence": 0.89,
+    "probabilities": {
+     "0": 0,
+     "1": 0.12,
+     "2": 0.87,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.025,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.03,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.01,
+    "evidence": 0.09,
+    "confidence": 0.79,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.12,
+     "2": 0.76,
+     "3": 0.1,
+     "4": 0.01
+    }
+   },
+   "homelessness": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.025,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0.05,
+     "2": 0.95,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.495,
+    "evidence": 0.8,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.21,
+     "1": 0.5700000000000001,
+     "2": 0.22,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.025,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0.05,
+     "2": 0.95,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.05,
+    "evidence": 0.02,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0,
+     "1": 0.1,
+     "2": 0.9,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.045,
+    "evidence": 0.32,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.09,
+     "2": 0.91,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

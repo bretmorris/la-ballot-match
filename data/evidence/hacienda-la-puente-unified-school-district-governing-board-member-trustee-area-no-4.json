@@ -1,0 +1,79 @@
+{
+  "contestId": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-4",
+  "options": {
+    "gino-kwok": [
+      {
+        "text": "On May 11, 2026, voted no on Resolution 2025/26-38, which put a proposal on the November ballot to limit HLPUSD board members to two consecutive four-year terms. It passed 3-2 (Serrano, De La Torre, Quiñones aye; Loera, Kwok no).",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/217941.pdf",
+          "title": "HLPUSD Board Resolution No. 2025/26-38 proposing board term limits (adopted May 11, 2026), as filed with LA County Board of Supervisors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "His 2026 candidate statement lists among his board accomplishments creating the Spanish and Korean dual immersion programs and expanding the Chinese dual immersion program.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ginokwok.com/candidate-statement",
+          "title": "Gino Kwok campaign site: Candidate Statement (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "His candidate statement credits him with free breakfast and free SAT testing, and with having \"Spearheaded STEM Pathways\" and expanded industry partnerships for vocational training and workforce readiness.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ginokwok.com/candidate-statement",
+          "title": "Gino Kwok campaign site: Candidate Statement (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Hacienda La Puente Teachers Association (CTA/NEA).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ginokwok.com/endorsements",
+          "title": "Gino Kwok campaign site: Endorsements (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Federation of Labor (AFL-CIO).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ginokwok.com/endorsements",
+          "title": "Gino Kwok campaign site: Endorsements (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates, November 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "melissa-c-smith": [
+      {
+        "text": "Told Ballotpedia that education must serve all students: \"It may not look the same at each school site based on student population and needs,\" and \"we can't leave any group behind in their educational advancement.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Melissa_C._Smith_(Hacienda_La_Puente_Unified_School_District_school_board_Trustee_Area_4,_California,_candidate_2026)",
+          "title": "Ballotpedia: Melissa C. Smith Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tran-bao-satter": []
+  },
+  "notes": "Incumbent Gino Kwok: term-limits vote, candidate statement (English version only; the Spanish text on his site is an older statement) and endorsements. Melissa C. Smith answered the Ballotpedia survey but gave few policy specifics. No public positions found for Tran Bao Satter. Searches used: 10."
+}

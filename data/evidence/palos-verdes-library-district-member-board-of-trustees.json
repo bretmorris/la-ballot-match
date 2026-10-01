@@ -1,0 +1,52 @@
+{
+  "contestId": "palos-verdes-library-district-member-board-of-trustees",
+  "options": {
+    "beth-k-whittenbury": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jonathan-beutler": [
+      {
+        "text": "Board president; pledges \"prudent fiscal stewardship\": \"Taxpayer dollars are precious\" and spending must be \"transparent and well-justified.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.jonathanloveslibraries.com/my-priorities",
+          "title": "Policy Positions - Jonathan Beutler for PVLD Board of Trustees (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to keep delivering \"world-class services and programming\" reaching a diverse audience as the district nears its centennial.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.jonathanloveslibraries.com/my-priorities",
+          "title": "Policy Positions - Jonathan Beutler for PVLD Board of Trustees (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "gabor-nemeth": [],
+    "peter-michel": [],
+    "lisa-blank": [],
+    "maria-d-villa-lathrop": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Whittenbury (appointed incumbent) and Villa Lathrop have only LACDP endorsements. No campaign sites or positions found for Gabor Nemeth, Peter Michel or Lisa Blank. Searches used: 10"
+}

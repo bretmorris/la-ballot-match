@@ -1,0 +1,120 @@
+{
+  "contestId": "rowland-unified-school-district-governing-board-member-trustee-area-no-3",
+  "options": {
+    "jeannette-c-alvarado": [
+      {
+        "text": "Calls for reassessing the district's efforts \"to provide more professional resources such as therapists, counselors and psychologists for students,\" and for helping parents support students in and out of class.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Jeannette_C._Alvarado_(Rowland_Unified_School_District_school_board_Area_3,_California,_candidate_2026)",
+          "title": "Ballotpedia: Jeannette C. Alvarado Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants teachers to get training and tools \"to teach our students how to use technology responsibly,\" including how to tell true from false information online.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Jeannette_C._Alvarado_(Rowland_Unified_School_District_school_board_Area_3,_California,_candidate_2026)",
+          "title": "Ballotpedia: Jeannette C. Alvarado Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to use school data to make sure schools, especially in her trustee area, get resources and interventions for students who are struggling most: \"It's time to close the achievement gap.\"",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Jeannette_C._Alvarado_(Rowland_Unified_School_District_school_board_Area_3,_California,_candidate_2026)",
+          "title": "Ballotpedia: Jeannette C. Alvarado Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On a proposed data center near her community: \"More needs to be done by our government officials to regulate it and hold these companies accountable,\" citing harm to health and the environment.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Jeannette_C._Alvarado_(Rowland_Unified_School_District_school_board_Area_3,_California,_candidate_2026)",
+          "title": "Ballotpedia: Jeannette C. Alvarado Candidate Connection survey (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "brandon-m-macias": [
+      {
+        "text": "Platform calls for training all staff on immigration encounters, telling parents no school information will go to law enforcement \"without a warrant,\" know-your-rights workshops with free legal aid, and a strict ban on staff collecting students' immigration status.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://brandonmacias.com/platform",
+          "title": "Brandon Macias for RUSD campaign site: Platform (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"Study after study has shown that standardized tests are abysmal for actually measuring learning\"; he would work with educators on other measures of student learning.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://brandonmacias.com/platform",
+          "title": "Brandon Macias for RUSD campaign site: Platform (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"Strong schools mean strong unions.\" Would seek pay and benefit parity across union contracts, better retirement benefits, smaller contractual class sizes, and more hiring of aides.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://brandonmacias.com/platform",
+          "title": "Brandon Macias for RUSD campaign site: Platform (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes funding two more in-house bus routes, aligned with the East Valinda shuttle, for morning pickup and afternoon drop-off.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://brandonmacias.com/platform",
+          "title": "Brandon Macias for RUSD campaign site: Platform (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes moving student-assistant tutors from online homework help into elementary classrooms, and adding welding, HVAC and construction CTE pathways through Mt. SAC.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://brandonmacias.com/platform",
+          "title": "Brandon Macias for RUSD campaign site: Platform (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "His campaign site points voters to his \"recent work against Data Centers in SGV.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://brandonmacias.com",
+          "title": "Brandon Macias for RUSD campaign site (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by California School Employees Association Chapter 133.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://brandonmacias.com/endorsements",
+          "title": "Brandon Macias for RUSD campaign site: Endorsements (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "cary-c-chen": []
+  },
+  "notes": "Jeannette C. Alvarado: Ballotpedia survey. Brandon M. Macias: campaign platform and endorsements. No 2026 positions found for incumbent Cary C. Chen. His archived Ballotpedia page only lists 2009 endorsements, and a Macias endorser's description of him was not used. Searches used: 10."
+}

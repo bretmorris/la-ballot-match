@@ -2,6 +2,177 @@
  "contestId": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-3",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.303Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.097Z",
+ "options": {
+  "kristy-socorro-rowe": {
+   "taxes-spending": {
+    "position": -0.305,
+    "evidence": 0.02,
+    "confidence": 0.62,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.56,
+     "2": 0.41,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.03,
+    "evidence": 0.02,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.92,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "renters-landlords": {
+    "position": -0.125,
+    "evidence": 0.02,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.24,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.23,
+    "evidence": 0.02,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.4,
+     "2": 0.57,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0.14,
+     "2": 0.86,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.175,
+    "evidence": 0.02,
+    "confidence": 0.69,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.29,
+     "2": 0.68,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.305,
+    "evidence": 0.02,
+    "confidence": 0.58,
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.51,
+     "2": 0.44,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.28,
+    "evidence": 0.02,
+    "confidence": 0.52,
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.47,
+     "2": 0.48,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.475,
+    "evidence": 0.04,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0.17,
+     "1": 0.62,
+     "2": 0.21,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.495,
+    "evidence": 0.02,
+    "confidence": 0.82,
+    "probabilities": {
+     "0": 0.11,
+     "1": 0.78,
+     "2": 0.11,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.465,
+    "evidence": 0.02,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.69,
+     "2": 0.19,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.295,
+    "evidence": 0.02,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.51,
+     "2": 0.45,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.065,
+    "evidence": 0.01,
+    "confidence": 0.89,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.36,
+    "evidence": 0.02,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.08,
+     "1": 0.57,
+     "2": 0.35,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

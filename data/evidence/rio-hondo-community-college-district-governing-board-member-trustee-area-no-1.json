@@ -1,0 +1,109 @@
+{
+ "contestId": "rio-hondo-community-college-district-governing-board-member-trustee-area-no-1",
+ "options": {
+  "david-stephen-siegrist": [
+   {
+    "text": "Says that for many families 'Río Hondo is the front door'; calls community colleges 'the most direct path into higher education for working adults, first-generation students, and families who need college to be close and affordable.'",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/david-siegrist-platform-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Platform",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants to strengthen career pathways through partnerships with local businesses, industries, school districts and union apprenticeship programs.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/meet-david-siegrist-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Meet David",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Proposes an online Citizens' Oversight Dashboard showing how bond funds and tax dollars are spent.",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/meet-david-siegrist-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Meet David",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants to expand childcare, public transit assistance and veterans' services, expand dual enrollment and summer classes, and integrate AI into administration and instruction.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/meet-david-siegrist-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Meet David",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Backs Measure RH-funded on-campus student housing and a Basic Needs Center, saying 'a student who has a stable place to sleep and a meal is a student who can finish.'",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/david-siegrist-platform-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Platform",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says public institutions must manage energy, water and land well; highlights Measure RH upgrades to HVAC and energy controls, stormwater improvements, and a parking structure with EV charging and bike storage.",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.siegrist4riohondo.com/david-siegrist-platform-rio-hondo-college",
+     "title": "David Siegrist for Rio Hondo College Board: Platform",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "anais-medina-diaz": [
+   {
+    "text": "Endorsed by the Los Angeles County Democratic Party (2026 general election).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lacdp.org/candidates",
+     "title": "Los Angeles County Democratic Party: November 3, 2026 General Election endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says she wants all people 'regardless of income, gender, immigration status, and ability' to have access to higher education.",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://anaisforriohondo.com/",
+     "title": "Anais Medina Diaz for Rio Hondo College Board 2026: home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants to expand Rio Hondo's partnerships with Area 1 K-12 districts, including extending the Early College Academy to more El Monte Union High School District high schools.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://anaisforriohondo.com/",
+     "title": "Anais Medina Diaz for Rio Hondo College Board 2026: home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants more access to housing, food, technology and daycare for students, 'particularly for students of color, returning older students, and low income students,' and more programs in environment, water, sciences and communications.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://anaisforriohondo.com/",
+     "title": "Anais Medina Diaz for Rio Hondo College Board 2026: home page",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Both candidates have campaign sites. Siegrist is a current El Monte City School District board member and former Rio Hondo trustee. Searches used: 10"
+}

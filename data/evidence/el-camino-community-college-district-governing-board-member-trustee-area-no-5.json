@@ -1,0 +1,28 @@
+{
+  "contestId": "el-camino-community-college-district-governing-board-member-trustee-area-no-5",
+  "options": {
+    "myloc-dinh": [
+      {
+        "text": "Campaign cites overseeing a $180M+ budget, building strong reserves, growing enrollment, and a top-10 transfer ranking; pledges \"responsible fiscal stewardship, student achievement, career development, and lifelong learning.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.mylocdinh.com/",
+          "title": "MyLoc Dinh for El Camino College Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: Endorsed Candidates, 2026 General Election",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "keicy-chung": []
+  },
+  "notes": "No public positions, campaign site, or coverage found for Keicy Chung. Searches used: 9"
+}

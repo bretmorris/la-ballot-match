@@ -2,6 +2,347 @@
  "contestId": "city-of-glendora-member-of-the-city-council-4th-district",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:57.481Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.039Z",
+ "options": {
+  "karen-k-davis": {
+   "taxes-spending": {
+    "position": 0.36,
+    "evidence": 0.84,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.3,
+     "3": 0.68,
+     "4": 0.02
+    }
+   },
+   "housing-growth": {
+    "position": 0.055,
+    "evidence": 0.95,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0,
+     "1": 0.09,
+     "2": 0.71,
+     "3": 0.2,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": -0.04,
+    "evidence": 0.05,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0.09,
+     "2": 0.9,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.64,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.14,
+     "2": 0.7,
+     "3": 0.14,
+     "4": 0.01
+    }
+   },
+   "homelessness": {
+    "position": -0.44,
+    "evidence": 0.77,
+    "confidence": 0.79,
+    "probabilities": {
+     "0": 0.07,
+     "1": 0.75,
+     "2": 0.18,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.07,
+    "evidence": 0.13,
+    "confidence": 0.82,
+    "probabilities": {
+     "0": 0,
+     "1": 0.17,
+     "2": 0.8,
+     "3": 0.03,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": 0.025,
+    "evidence": 0.07,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.93,
+     "3": 0.06,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.085,
+    "evidence": 0.02,
+    "confidence": 0.85,
+    "probabilities": {
+     "0": 0,
+     "1": 0.16,
+     "2": 0.84,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.01,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.98,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.045,
+    "evidence": 0.02,
+    "confidence": 0.86,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.84,
+     "3": 0.11,
+     "4": 0.01
+    }
+   },
+   "guns": {
+    "position": -0.02,
+    "evidence": 0.02,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.005,
+    "evidence": 0.03,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.96,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.52,
+    "evidence": 0.97,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0.07,
+     "1": 0.9,
+     "2": 0.03,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.03,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0.06,
+     "2": 0.94,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "ralph-munoz-iv": {
+   "taxes-spending": {
+    "position": 0.95,
+    "evidence": 0.97,
+    "confidence": 0.92,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.1,
+     "4": 0.9
+    }
+   },
+   "housing-growth": {
+    "position": -0.9,
+    "evidence": 0.95,
+    "confidence": 0.83,
+    "probabilities": {
+     "0": 0.8,
+     "1": 0.2,
+     "2": 0,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.26,
+    "evidence": 0.03,
+    "confidence": 0.56,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.54,
+     "3": 0.4,
+     "4": 0.06
+    }
+   },
+   "policing-justice": {
+    "position": 0.36,
+    "evidence": 0.97,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.35,
+     "3": 0.58,
+     "4": 0.07
+    }
+   },
+   "homelessness": {
+    "position": 0.04,
+    "evidence": 0.12,
+    "confidence": 0.9,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.88,
+     "3": 0.09,
+     "4": 0.01
+    }
+   },
+   "climate-energy": {
+    "position": 0.215,
+    "evidence": 0.02,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.63,
+     "3": 0.32,
+     "4": 0.05
+    }
+   },
+   "labor-business": {
+    "position": 0.705,
+    "evidence": 0.65,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.02,
+     "3": 0.55,
+     "4": 0.43
+    }
+   },
+   "immigration": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.005,
+    "evidence": 0.01,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.02,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.03,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.14,
+    "evidence": 0.09,
+    "confidence": 0.76,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.77,
+     "3": 0.17,
+     "4": 0.06
+    }
+   },
+   "transportation": {
+    "position": 0.115,
+    "evidence": 0.95,
+    "confidence": 0.76,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.71,
+     "3": 0.25,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

@@ -2,6 +2,177 @@
  "contestId": "lawndale-school-district-governing-board-member-trustee-area-no-1",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:46:00.314Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.103Z",
+ "options": {
+  "jennifer-r-bagley": {
+   "taxes-spending": {
+    "position": -0.285,
+    "evidence": 0.02,
+    "confidence": 0.58,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.5,
+     "2": 0.46,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.06,
+    "evidence": 0.02,
+    "confidence": 0.84,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.02,
+     "2": 0.84,
+     "3": 0.1,
+     "4": 0.03
+    }
+   },
+   "renters-landlords": {
+    "position": -0.17,
+    "evidence": 0.02,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.31,
+     "2": 0.67,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.195,
+    "evidence": 0.02,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.35,
+     "2": 0.63,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.145,
+    "evidence": 0.02,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.26,
+     "2": 0.72,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.21,
+    "evidence": 0.02,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.34,
+     "2": 0.62,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.295,
+    "evidence": 0.02,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.52,
+     "2": 0.44,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.265,
+    "evidence": 0.02,
+    "confidence": 0.54,
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.45,
+     "2": 0.5,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.4,
+    "evidence": 0.02,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.57,
+     "2": 0.3,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.515,
+    "evidence": 0.02,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0.13,
+     "1": 0.78,
+     "2": 0.09,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.425,
+    "evidence": 0.02,
+    "confidence": 0.67,
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.61,
+     "2": 0.27,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.32,
+    "evidence": 0.02,
+    "confidence": 0.6,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.52,
+     "2": 0.42,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.065,
+    "evidence": 0.02,
+    "confidence": 0.89,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.36,
+    "evidence": 0.02,
+    "confidence": 0.67,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.62,
+     "2": 0.32,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

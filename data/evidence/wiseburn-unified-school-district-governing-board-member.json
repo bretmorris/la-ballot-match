@@ -1,0 +1,52 @@
+{
+  "contestId": "wiseburn-unified-school-district-governing-board-member",
+  "options": {
+    "rebecca-hamburg-cappy": [],
+    "nelson-e-martinez": [],
+    "rogelio-roger-banuelos": [],
+    "dawson-bruckman": [
+      {
+        "text": "Endorsed by the Wiseburn Faculty Association (teachers union).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://bruckmanforwiseburn.com/",
+          "title": "Bruckman for Wiseburn School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says that in 4,508 recorded votes from 2018-2026 the board never voted down a contract, and nearly half of items pass bundled on consent: \"A board can follow every rule and not show its work.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://bruckmanforwiseburn.com/",
+          "title": "Bruckman for Wiseburn School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would put a yearly workforce report in open session covering staffing, caseloads, turnover and onboarding; noted teachers' 2025-26 raises were approved more than nine months after the superintendent's.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://bruckmanforwiseburn.com/",
+          "title": "Bruckman for Wiseburn School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to question the 2026-27 budget's staffing reductions at Del Aire Elementary at the December First Interim review: \"I'm not promising positions. I'm promising the question.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://bruckmanforwiseburn.com/",
+          "title": "Bruckman for Wiseburn School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jeanne-ogar": [],
+    "grace-athena-boland-bader": []
+  },
+  "notes": "No public positions found for Rebecca Hamburg Cappy, Nelson E. Martinez, Rogelio \"Roger\" Bañuelos, Jeanne Ogar, or Grace Athena Boland Bader. Only Bruckman has a campaign site. Searches used: 9"
+}

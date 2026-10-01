@@ -1,0 +1,28 @@
+{
+  "contestId": "city-of-hawthorne-city-treasurer",
+  "options": {
+    "l-david-patterson": [
+      {
+        "text": "Campaign site says he is running \"to bring experienced leadership, responsible financial oversight, transparency, and accountability.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pattersonfortreasurer.com/",
+          "title": "Dr. David Patterson - Candidate for Hawthorne City Treasurer (campaign site, page description)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "raymond-vergara": []
+  },
+  "notes": "Little substantive evidence for this administrative office. Patterson's campaign site renders only via JavaScript; just its description is captured. No findable campaign site or positions for Raymond Vergara. Searches used: 10"
+}

@@ -2,6 +2,347 @@
  "contestId": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-4",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:45:59.622Z",
- "options": {}
+ "scoredAt": "2026-10-01T06:26:09.069Z",
+ "options": {
+  "michael-r-adams": {
+   "taxes-spending": {
+    "position": 0.3,
+    "evidence": 0.77,
+    "confidence": 0.54,
+    "probabilities": {
+     "0": 0,
+     "1": 0.05,
+     "2": 0.37,
+     "3": 0.51,
+     "4": 0.07
+    }
+   },
+   "housing-growth": {
+    "position": -0.01,
+    "evidence": 0.01,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": 0.015,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0.01
+    }
+   },
+   "labor-business": {
+    "position": 0.59,
+    "evidence": 0.92,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.09,
+     "3": 0.64,
+     "4": 0.27
+    }
+   },
+   "immigration": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.255,
+    "evidence": 0.93,
+    "confidence": 0.39,
+    "probabilities": {
+     "0": 0.13,
+     "1": 0.36,
+     "2": 0.41,
+     "3": 0.09,
+     "4": 0.01
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0,
+    "evidence": 0.01,
+    "confidence": 1,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": 0.035,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.94,
+     "3": 0.05,
+     "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": -0.005,
+    "evidence": 0.49,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "nashon-t-mitchell": {
+   "taxes-spending": {
+    "position": -0.24,
+    "evidence": 0.02,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.44,
+     "2": 0.53,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.03,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.93,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "renters-landlords": {
+    "position": -0.16,
+    "evidence": 0.02,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.3,
+     "2": 0.69,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.13,
+    "evidence": 0.02,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.23,
+     "2": 0.75,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.095,
+    "evidence": 0.02,
+    "confidence": 0.84,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.18,
+     "2": 0.81,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.165,
+    "evidence": 0.02,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.3,
+     "2": 0.68,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.325,
+    "evidence": 0.03,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.6,
+     "2": 0.37,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.24,
+    "evidence": 0.02,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.42,
+     "2": 0.55,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.375,
+    "evidence": 0.02,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0.1,
+     "1": 0.56,
+     "2": 0.34,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.495,
+    "evidence": 0.02,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.76,
+     "2": 0.12,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.395,
+    "evidence": 0.02,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0.07,
+     "1": 0.65,
+     "2": 0.28,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.26,
+    "evidence": 0.02,
+    "confidence": 0.56,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.46,
+     "2": 0.5,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.05,
+    "evidence": 0.02,
+    "confidence": 0.91,
+    "probabilities": {
+     "0": 0,
+     "1": 0.1,
+     "2": 0.9,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.34,
+    "evidence": 0.02,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.58,
+     "2": 0.36,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

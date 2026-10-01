@@ -1,0 +1,78 @@
+{
+  "contestId": "city-of-lawndale-mayor",
+  "options": {
+    "robert-pullen-miles": [
+      {
+        "text": "Asked the Metro board in January 2026 to route the South Bay light rail extension along Hawthorne Boulevard rather than the railroad right-of-way through Lawndale: \"please put the train where commerce belongs.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://easyreadernews.com/row-over-row-over-grassroots-advocates-block-light-rail-from-railroad-right-of-way/",
+          "title": "ROW over ROW over: grassroots advocates block light rail from railroad right-of-way - Easy Reader (Jan 29, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Spoke to the Metro board in favor of the Hawthorne Boulevard light rail route.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://easyreadernews.com/metro-board-holds-off-on-south-bay-light-rail-decision/",
+          "title": "Metro board holds off on South Bay light rail decision - Easy Reader (May 30, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Ballotpedia survey says he authored and passed an ordinance prohibiting residential and commercial evictions during COVID-19, and pledged a renter and mortgage relief trust fund.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://ballotpedia.org/Robert_Pullen-Miles",
+          "title": "Robert Pullen-Miles - Ballotpedia (2022 Candidate Connection survey, Assembly)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Survey: backs \"criminal justice reform that holds people accountable while investing in rehabilitation, treatment, and community policing.\"",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ballotpedia.org/Robert_Pullen-Miles",
+          "title": "Robert Pullen-Miles - Ballotpedia (2022 Candidate Connection survey, Assembly)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Survey: would combat homelessness with \"wraparound mental health services\" and expand affordable housing.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://ballotpedia.org/Robert_Pullen-Miles",
+          "title": "Robert Pullen-Miles - Ballotpedia (2022 Candidate Connection survey, Assembly)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Survey: says he helped reduce greenhouse emissions by opening three new parks and would push environmental justice legislation.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Robert_Pullen-Miles",
+          "title": "Robert Pullen-Miles - Ballotpedia (2022 Candidate Connection survey, Assembly)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Endorsed Candidates - Los Angeles County Democratic Party (Nov 3, 2026 general)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "francisco-m-talavera": []
+  },
+  "notes": "Pullen-Miles evidence is mostly his 2022 Assembly-race Ballotpedia survey plus light-rail testimony. No findable campaign site or public positions for Councilmember Francisco M. Talavera. Searches used: 10"
+}

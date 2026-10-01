@@ -1,0 +1,78 @@
+{
+  "contestId": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "ricardo-ortega": [
+      {
+        "text": "Promises to push for stronger basic-needs support, textbook affordability and emergency aid, saying \"College affordability is more than tuition\" because students also face transportation, food and rent costs.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ortegaricardo.com/",
+          "title": "Ricardo Ortega for Antelope Valley Community College Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will \"fight for policies that close equity gaps\" for Latino, Black, first-generation, foster-youth, English-learner, veteran and working-adult students.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ortegaricardo.com/",
+          "title": "Ricardo Ortega for Antelope Valley Community College Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports workforce partnerships in healthcare, aerospace, logistics, skilled trades and technology, and wants to tackle transportation and parking barriers for students who commute long distances.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ortegaricardo.com/",
+          "title": "Ricardo Ortega for Antelope Valley Community College Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU-UHW, UNITE HERE Local 11, UA Locals 250 and 709, and LIUNA Local 300.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ortegaricardo.com/",
+          "title": "Ricardo Ortega for Antelope Valley Community College Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ortegaricardo.com/",
+          "title": "Ricardo Ortega for Antelope Valley Community College Board, Trustee Area 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party: 2026 Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) As a Democratic Assembly candidate, called for better healthcare access in the high desert, resources and \"tax relief\" for small businesses, and infrastructure investment for \"the realities of climate change\"; was endorsed by Equality California.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://ballotpedia.org/Ricardo_Ortega",
+          "title": "Ballotpedia: Ricardo Ortega (2024 Assembly District 34 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "newton-chelette": []
+  },
+  "notes": "Ortega: 2026 campaign site and LACDP list; identity with the 2024 AD-34 Democratic candidate confirmed by matching bio (former foster youth, AB 2247, LA County Youth Commissioner). Chelette (retired AVC dean): no campaign site, survey or statements found; AVC news covers only his athletics hall-of-fame honor. Arthur Calloway II, named by AV Press, isn't on the certified ballot list. Searches used: 9"
+}
