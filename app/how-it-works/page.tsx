@@ -11,6 +11,7 @@ import {
   MIN_MEASURE_RELEVANCE,
   MIN_MEASURE_SLIGHT_LEAN,
 } from "@/lib/match"
+import { REPO_URL } from "@/lib/site"
 
 export const metadata: Metadata = { title: "How it works — LA Ballot Match" }
 
@@ -220,12 +221,38 @@ export default function HowItWorks() {
       </section>
 
       <section className="card">
+        <div className="bar">Open source</div>
+        <div className="body prose">
+          <p>
+            Everything behind this site is{" "}
+            <a href={REPO_URL} target="_blank" rel="noreferrer">
+              public on GitHub
+            </a>{" "}
+            under the MIT license: the quiz, the matching math, the exact questions given to Jev, every evidence note
+            with its source, and every score. If you think a candidate is placed wrong, you can see exactly why, and
+            you don&apos;t have to take my word for how any of it works.
+          </p>
+          <p>
+            If you want to build something like this for another county or a future election, you&apos;re welcome to
+            copy it. The quiz, matching and scoring pipeline carry over. The ballot lookup and contest data are specific
+            to LA County and would need to be redone for your area. The README explains what to change. Fixes and
+            improvements are welcome as issues or pull requests.
+          </p>
+        </div>
+      </section>
+
+      <section className="card">
         <div className="bar">Problems or questions</div>
         <div className="body prose">
           <p>
             This is a brand-new, independent project, and some things will be wrong. Please{" "}
             <Link href="/contact">report anything that looks off</Link>, whether it&apos;s a broken address, a missing
-            contest, or a candidate placed in the wrong spot. I&apos;ll do my best to read and respond to everything.
+            contest, or a candidate placed in the wrong spot. I&apos;ll do my best to read and respond to everything. If
+            you&apos;re comfortable with GitHub, you can also{" "}
+            <a href={`${REPO_URL}/issues`} target="_blank" rel="noreferrer">
+              open an issue
+            </a>
+            .
           </p>
         </div>
       </section>

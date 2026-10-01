@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import type { Bundle } from "@/lib/bundle"
 import type { PrecinctAttributes } from "@/lib/districts"
 import { buildProfile, type QuizResponse } from "@/lib/match"
+import { REPO_URL } from "@/lib/site"
 import Quiz from "./Quiz"
 import AddressStep from "./AddressStep"
 import Results from "./Results"
@@ -163,7 +164,11 @@ export default function App() {
           lavote.gov
         </a>{" "}
         sample ballot and voter information guides. Found a problem?{" "}
-        <a href="/contact">Let me know</a>.
+        <a href="/contact">Let me know</a>. The code and data are{" "}
+        <a href={REPO_URL} target="_blank" rel="noreferrer">
+          open source
+        </a>
+        , so you can check the work or adapt it for your own election.
       </footer>
     </main>
   )

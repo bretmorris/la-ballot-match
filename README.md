@@ -7,6 +7,9 @@ Not affiliated with the LA County Registrar-Recorder/County Clerk, any candidate
 or party. Results show alignment with a voter's quiz answers — they are not instructions
 on how to vote.
 
+The code and data are open source (MIT) so anyone can check how matches are made, and so people in
+other places can adapt it for their own elections. See [Adapting this for your election](#adapting-this-for-your-election).
+
 ## How it works
 
 1. **Ideology quiz.** The voter answers a broad, balanced set of questions. Answers map to
@@ -60,4 +63,49 @@ npm run dev
 npm test
 ```
 
-`TYPESAFE_API_KEY` goes in `.env.local` and is only used by `scripts/`.
+Copy `.env.example` to `.env.local`. The site runs with no env vars at all using the data already in `data/`.
+`TYPESAFE_API_KEY` is only used by `scripts/`; the `RESEND_*`/`CONTACT_*` vars enable the contact form.
+
+## Adapting this for your election
+
+Forks are welcome. Expect the data to be most of the work. The code is fairly small; researching every
+contest and candidate is the hard part.
+
+**Portable as-is (mostly):**
+
+- `lib/match.ts`: the matching math and thresholds. Covered by `npm test`.
+- `lib/jev-questions.ts`, `scripts/score.ts`: the Jev questions and the offline scoring run. Needs your own
+  `TYPESAFE_API_KEY`. Responses are cached in `scripts/.cache`.
+- `scripts/build-bundle.ts`: merges contests, evidence and scores into `public/data/ballot.json`.
+- `data/dimensions.json`, `data/quiz.json`: the issues and quiz statements. Reasonable for most US elections,
+  but review them for your area's issues.
+- `components/`, `app/`: the UI, apart from the place names below.
+- `scripts/check-evidence.ts`: spot-checks that evidence quotes appear on their source pages.
+
+**Specific to LA County, so you'll need to replace it:**
+
+- **Address → districts.** `app/api/geocode/route.ts` uses LA County's CAMS geocoder (falling back to the US
+  Census geocoder, which works nationwide). `lib/districts.ts` queries the LA County RR/CC precinct layer
+  and maps its `DIST_*`/`DST_*`/`DIV_*` fields to contests. Your county may publish a similar precinct or
+  district GIS layer. If not, the Census geocoder returns congressional and state legislative districts but
+  not most local ones. `data/research/address-lookup.md` records how the LA source was found and checked.
+- **Local contest mapping.** `scripts/fetch-rrcc-values.ts`, `scripts/map-local.ts`, `data/research/rrcc/`
+  and `data/research/rrcc-overrides.json` link local contests to RR/CC district codes.
+- **All contest data.** `data/contests/`, `data/evidence/` and `data/scores/`. Formats are in
+  `data/SCHEMA.md` and `data/EVIDENCE.md`, including the sourcing rules. Evidence here was gathered by AI
+  research assistants following `data/EVIDENCE.md`, so treat it as a starting point that needs checking.
+- **Names and dates.** "LA Ballot Match", "November 3, 2026" and "Los Angeles County" appear in
+  `components/App.tsx`, `app/layout.tsx`, `app/how-it-works/page.tsx` and `app/opengraph-image.tsx`, along with
+  links to lavote.gov. `scripts/check-addresses.ts` has LA sample addresses.
+- **Your own contact details.** The contact form emails whoever is in `CONTACT_TO_EMAIL`, and the copy is in
+  first person. Update it so reports reach you.
+
+`@vercel/analytics` is optional; remove `<Analytics />` from `app/layout.tsx` if you don't deploy to Vercel.
+
+If you build something with this, or fix something that would help the original, issues and pull requests
+are welcome.
+
+## License
+
+[MIT](LICENSE). Evidence items are short quotes or paraphrases of public statements and records, each linked
+to its source.
