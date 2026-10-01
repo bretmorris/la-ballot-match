@@ -184,7 +184,6 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
 
 /** "A", "A and B", "A, B, and C" */
 const list = (xs: string[]) => new Intl.ListFormat("en", { style: "long", type: "conjunction" }).format(xs)
-const either = (xs: string[]) => new Intl.ListFormat("en", { style: "long", type: "disjunction" }).format(xs)
 /** Lowercase the first letter only, so "Abortion & LGBTQ+ rights" stays readable mid-sentence. */
 const lcFirst = (s: string) => s.charAt(0).toLowerCase() + s.slice(1)
 
@@ -234,7 +233,7 @@ function Verdict({
         {rec.alsoPick?.length ? (
           <>
             Best match for your answers: <strong>{list(rec.alsoPick.map(name))}</strong>. For the remaining seat
-            {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up among {either(rec.optionIds.map(name))}.
+            {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up among {list(rec.optionIds.map(name))}.
           </>
         ) : (
           <>
