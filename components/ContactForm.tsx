@@ -57,7 +57,7 @@ export default function ContactForm({ contestId }: { contestId?: string }) {
     return (
       <div className="body">
         <p>
-          <strong>Thanks, message sent.</strong> If you left an email address, I&apos;ll do my best to reply.
+          <strong>Thanks, message sent.</strong>{" "}If you left an email address, I&apos;ll do my best to reply.
         </p>
       </div>
     )

@@ -24,7 +24,7 @@ export default function HowItWorks() {
           <p>
             You answer {quiz.items.length} statements about {dimensions.length} issues and say how much each issue matters to
             you. The site looks up the contests on your ballot from your address. Ahead of time, I collected what each
-            candidate has said and done, with links, and used an AI model called <strong>Jev</strong> to place every
+            candidate has said and done, with links, and used an AI model called <strong>Jev</strong>{" "}to place every
             candidate and measure on the same {dimensions.length}{" "}issues. Your browser then compares your answers to those
             placements with simple arithmetic and shows the closest match in each contest, or says there isn&apos;t enough
             information.
@@ -130,7 +130,7 @@ export default function HowItWorks() {
             the exact questions for the &quot;{example.label}&quot; issue:
           </p>
           <p>
-            <strong>Position</strong> (a score across five levels):
+            <strong>Position</strong>{" "}(a score across five levels):
           </p>
           <pre>
             {J.candidatePositionInstructions(example)}
@@ -140,7 +140,7 @@ export default function HowItWorks() {
               .join("\n")}
           </pre>
           <p>
-            <strong>Is there evidence?</strong> (a yes/no probability):
+            <strong>Is there evidence?</strong>{" "}(a yes/no probability):
           </p>
           <pre>{J.candidateEvidenceInstructions(example)}</pre>
           <p>
@@ -169,27 +169,27 @@ export default function HowItWorks() {
         <div className="bar">5. The match</div>
         <div className="body prose">
           <p>
-            <strong>Candidates.</strong> On each issue where a candidate has evidence, closeness is 1 − |your position −
+            <strong>Candidates.</strong>{" "}On each issue where a candidate has evidence, closeness is 1 − |your position −
             their position| ÷ 2, from 0 (opposite ends) to 1 (identical). A candidate&apos;s alignment is the average closeness,
             weighted by how much you care about each issue × how much evidence there is. The site only compares candidates
             whose evidence adds up to at least {MIN_EVIDENCE_WEIGHT} (importance × evidence, about two issues you care
             about). If the top two are within {Math.round(MIN_CANDIDATE_MARGIN * 100)} points, it calls it a toss-up.
           </p>
           <p>
-            <strong>Measures.</strong> For each issue, your position × the direction of a YES vote shows whether YES
+            <strong>Measures.</strong>{" "}For each issue, your position × the direction of a YES vote shows whether YES
             moves toward you or away, weighted by importance × relevance. If the measure barely touches the issues you
             care about (weight under {MIN_MEASURE_RELEVANCE}), or the overall lean is under{" "}
             {Math.round(MIN_MEASURE_LEAN * 100)}%, it doesn&apos;t pick a side.
           </p>
           <p>
-            <strong>Known limits.</strong> Two candidates can be compared on different sets of issues. An incumbent
+            <strong>Known limits.</strong>{" "}Two candidates can be compared on different sets of issues. An incumbent
             with a long voting record may be placed on ten issues and a challenger on two. The &quot;Why&quot; panel shows
             which issues each comparison used. Jev sees each candidate&apos;s party label alongside the evidence. It
             can&apos;t place anyone on an issue from party alone, but on issues with thin evidence the label may still
             nudge the placement.
           </p>
           <p>
-            <strong>What it doesn&apos;t do.</strong> The match itself never uses party. It makes no recommendation in judicial retention
+            <strong>What it doesn&apos;t do.</strong>{" "}The match itself never uses party. It makes no recommendation in judicial retention
             elections, because judges don&apos;t campaign on policy. It doesn&apos;t weigh experience, character, competence,
             or anything else outside the quiz, and those may matter more to you.
           </p>
