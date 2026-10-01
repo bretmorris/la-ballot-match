@@ -90,7 +90,7 @@ export default function ContactForm({ contestId }: { contestId?: string }) {
         maxLength={5000}
         value={message}
         onChange={(e) => setMessage(e.target.value)}
-        placeholder="e.g. My address says it's not in LA County, but it is. / The candidate list for my city council race is wrong."
+        placeholder="For example: my address says it's not in LA County, but it is."
       />
 
       <label className="meta" htmlFor="email">
