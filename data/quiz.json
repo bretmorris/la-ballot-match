@@ -44,13 +44,13 @@
       "id": "q1",
       "dimension": "taxes-spending",
       "agreeMeans": "minus",
-      "text": "California should raise taxes on its highest earners to pay for more public services."
+      "text": "I would pay for expanded public services, like housing, transit, and health care, with higher taxes on high earners and corporations."
     },
     {
       "id": "q2",
       "dimension": "taxes-spending",
       "agreeMeans": "plus",
-      "text": "Before asking for new taxes, state and local governments should spend existing money more efficiently."
+      "text": "California taxes are already too high. Government should live within its current budget, even if that means cutting some programs."
     },
     {
       "id": "q3",
@@ -80,13 +80,13 @@
       "id": "q7",
       "dimension": "policing-justice",
       "agreeMeans": "plus",
-      "text": "My city needs more police officers on the street."
+      "text": "My city should hire more police officers, even if that means less money for other services."
     },
     {
       "id": "q8",
       "dimension": "policing-justice",
       "agreeMeans": "minus",
-      "text": "Some public safety money should go to mental-health responders and violence prevention instead of police."
+      "text": "Cities should move some police funding to mental-health responders and violence-prevention programs."
     },
     {
       "id": "q9",
@@ -122,7 +122,7 @@
       "id": "q14",
       "dimension": "labor-business",
       "agreeMeans": "plus",
-      "text": "Regulations on employers in California make it too hard to run a small business."
+      "text": "California should slow minimum-wage increases and new employer mandates to help small businesses survive."
     },
     {
       "id": "q15",
@@ -158,7 +158,7 @@
       "id": "q20",
       "dimension": "social-issues",
       "agreeMeans": "plus",
-      "text": "Schools should notify parents if their child asks to use a different name or pronouns."
+      "text": "Schools should tell parents if their child asks to use a different name or pronouns at school, even if the child objects."
     },
     {
       "id": "q21",

@@ -163,7 +163,7 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
         )
       })}
 
-      <Verdict contest={c} rec={rec} name={name} measure={result.measure} />
+      <Verdict contest={c} rec={rec} name={name} measure={result.measure} profile={profile} dims={dims} />
 
       {(c.kind === "candidate" || c.kind === "measure") && (
         <details>
@@ -182,7 +182,29 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
   )
 }
 
-function Verdict({ contest: c, rec, name, measure }: { contest: Contest; rec: Recommendation; name: (id: string) => string; measure?: MeasureMatch | null }) {
+function measureTossUpReason(m: MeasureMatch | null | undefined, profile: Profile, dims: Record<string, Dimension>): string {
+  const top = m?.byDimension[0]
+  if (top && Math.abs(profile[top.dimension]?.position ?? 0) < 0.15) {
+    return `your quiz answers on ${dims[top.dimension].label.toLowerCase()}, the main issue here, were balanced between the two sides`
+  }
+  return "this measure pulls both ways on the issues you care about"
+}
+
+function Verdict({
+  contest: c,
+  rec,
+  name,
+  measure,
+  profile,
+  dims,
+}: {
+  contest: Contest
+  rec: Recommendation
+  name: (id: string) => string
+  measure?: MeasureMatch | null
+  profile: Profile
+  dims: Record<string, Dimension>
+}) {
   if (c.kind === "retention") {
     return (
       <div className="verdict muted">
@@ -209,7 +231,13 @@ function Verdict({ contest: c, rec, name, measure }: { contest: Contest; rec: Re
             {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up between {rec.optionIds.map(name).join(", ")}.
           </>
         ) : (
-          <>Toss-up: {c.kind === "measure" ? "this measure pulls both ways on your issues" : `${rec.optionIds.map(name).join(" and ")} match you about equally`}.</>
+          <>
+            Toss-up:{" "}
+            {c.kind === "measure"
+              ? measureTossUpReason(measure, profile, dims)
+              : `${rec.optionIds.map(name).join(" and ")} match you about equally`}
+            .
+          </>
         )}
       </div>
     )
