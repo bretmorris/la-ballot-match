@@ -181,7 +181,14 @@ export default function HowItWorks() {
             {Math.round(MIN_MEASURE_LEAN * 100)}%, we don&apos;t pick a side.
           </p>
           <p>
-            <strong>What we don&apos;t do.</strong> We don&apos;t match on party. We make no recommendation in judicial retention
+            <strong>Known limits.</strong> Two candidates can be compared on different sets of issues. An incumbent
+            with a long voting record may be placed on ten issues and a challenger on two. The &quot;Why&quot; panel shows
+            which issues each comparison used. Jev sees each candidate&apos;s party label alongside the evidence. It
+            can&apos;t place anyone on an issue from party alone, but on issues with thin evidence the label may still
+            nudge the placement.
+          </p>
+          <p>
+            <strong>What we don&apos;t do.</strong> The match itself never uses party. We make no recommendation in judicial retention
             elections, because judges don&apos;t campaign on policy. We don&apos;t weigh experience, character, competence,
             or anything else outside the quiz, and those may matter more to you.
           </p>
