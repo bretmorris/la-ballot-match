@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import type { Bundle } from "@/lib/bundle"
 import type { PrecinctAttributes } from "@/lib/districts"
 import { buildProfile, type QuizResponse } from "@/lib/match"
@@ -16,6 +16,8 @@ export default function App() {
   const [step, setStep] = useState<Step>("intro")
   const [response, setResponse] = useState<QuizResponse>({ answers: {}, importance: {} })
   const [precinct, setPrecinct] = useState<{ attrs: PrecinctAttributes; address: string } | null>(null)
+
+  const profile = useMemo(() => (bundle ? buildProfile(bundle.quiz.items, response) : {}), [bundle, response])
 
   useEffect(() => {
     fetch("/data/ballot.json")
@@ -94,7 +96,7 @@ export default function App() {
       {step === "results" && bundle && precinct && (
         <Results
           bundle={bundle}
-          profile={buildProfile(bundle.quiz.items, response)}
+          profile={profile}
           precinct={precinct}
           onEditQuiz={() => setStep("quiz")}
           onEditAddress={() => setStep("address")}

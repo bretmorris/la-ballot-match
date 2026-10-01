@@ -48,7 +48,25 @@ describe("candidates", () => {
     const x = matchCandidate(profile, { a: { position: 1, evidence: 0.1 } }, "x")
     const y = matchCandidate(profile, {}, "y")
     expect(x.evidenceWeight).toBeLessThan(4)
-    expect(recommendCandidate([x, y])).toEqual({ kind: "not-enough-info" })
+    expect(recommendCandidate([x, y])).toEqual({ kind: "not-enough-info", unscored: ["x", "y"] })
+  })
+
+  it("won't pick among scored candidates when another candidate is unscored", () => {
+    const x = matchCandidate(profile, { a: { position: 1, evidence: 1 }, b: { position: -1, evidence: 1 } }, "x")
+    const y = matchCandidate(profile, { a: { position: -1, evidence: 1 }, b: { position: 1, evidence: 1 } }, "y")
+    const z = matchCandidate(profile, {}, "z")
+    expect(recommendCandidate([x, y, z])).toEqual({ kind: "not-enough-info", unscored: ["z"] })
+  })
+
+  it("doesn't recommend in uncontested races", () => {
+    const x = matchCandidate(profile, { a: { position: -1, evidence: 1 }, b: { position: 1, evidence: 1 } }, "x")
+    expect(recommendCandidate([x])).toEqual({ kind: "uncontested" })
+  })
+
+  it("keeps a clear winner picked when lower seats are tied", () => {
+    const at = (a: number, id: string) => matchCandidate(profile, { a: { position: a, evidence: 1 }, b: { position: -1, evidence: 1 } }, id)
+    const r = recommendCandidate([at(1, "best"), at(0, "b"), at(-0.05, "c")], 2)
+    expect(r).toEqual({ kind: "toss-up", optionIds: ["b", "c"], alsoPick: ["best"] })
   })
 
   it("picks the top N for multi-seat contests", () => {
@@ -77,6 +95,11 @@ describe("measures", () => {
 
   it("skips measures irrelevant to the voter's priorities", () => {
     const m = matchMeasure(profile, { c: { direction: 1, relevance: 1 }, a: { direction: 1, relevance: 0.1 } })
+    expect(recommendMeasure(m)).toEqual({ kind: "not-enough-info" })
+  })
+
+  it("doesn't let many small relevances add up to a recommendation", () => {
+    const m = matchMeasure(profile, { a: { direction: 1, relevance: 0.2 }, b: { direction: -1, relevance: 0.2 } })
     expect(recommendMeasure(m)).toEqual({ kind: "not-enough-info" })
   })
 })

@@ -10,12 +10,12 @@
 //  - Best-effort per-IP rate limit (per serverless instance).
 
 import { createHmac, timingSafeEqual } from "node:crypto"
+import { clientIp, createRateLimiter } from "@/lib/rate-limit"
 
 const MIN_AGE_MS = 4_000
 const MAX_AGE_MS = 2 * 60 * 60_000
 const MAX_LINKS = 3
-const RATE = { windowMs: 10 * 60_000, max: 5 }
-const hits = new Map<string, number[]>()
+const rateLimited = createRateLimiter({ windowMs: 10 * 60_000, max: 5 })
 
 const secret = () => process.env.CONTACT_SECRET || process.env.RESEND_API_KEY || ""
 const sign = (ts: string) => createHmac("sha256", secret()).update(ts).digest("hex")
@@ -29,14 +29,6 @@ function validToken(token: unknown): boolean {
   if (expected.length !== given.length || !timingSafeEqual(expected, given)) return false
   const age = Date.now() - Number(ts)
   return age >= MIN_AGE_MS && age <= MAX_AGE_MS
-}
-
-function rateLimited(ip: string): boolean {
-  const now = Date.now()
-  const recent = (hits.get(ip) ?? []).filter((t) => now - t < RATE.windowMs)
-  recent.push(now)
-  hits.set(ip, recent)
-  return recent.length > RATE.max
 }
 
 const configured = () => Boolean(process.env.RESEND_API_KEY && process.env.CONTACT_TO_EMAIL && process.env.CONTACT_FROM_EMAIL)
@@ -62,8 +54,7 @@ export async function POST(request: Request) {
   if (clean(body.website, 200) !== "") return Response.json({ ok: true })
   if (!validToken(body.token)) return Response.json({ error: "Please wait a few seconds and try again." }, { status: 400 })
 
-  const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown"
-  if (rateLimited(ip)) return Response.json({ error: "Too many messages. Try again later." }, { status: 429 })
+  if (rateLimited(clientIp(request))) return Response.json({ error: "Too many messages. Try again later." }, { status: 429 })
 
   const kind = clean(body.kind, 40) || "Other"
   const name = clean(body.name, 100)

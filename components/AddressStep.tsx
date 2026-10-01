@@ -54,8 +54,13 @@ export default function AddressStep({ onBack, onDone }: Props) {
     setBusy(true)
     setError("")
     try {
-      const data = await (await fetch(precinctQueryUrl(found.lat, found.lng))).json()
-      const attrs = data?.features?.[0]?.attributes
+      const res = await fetch(precinctQueryUrl(found.lat, found.lng))
+      const data = res.ok ? await res.json() : null
+      // ArcGIS reports errors as HTTP 200 with an `error` body.
+      if (!data || data.error || !Array.isArray(data.features)) {
+        throw new Error("LA County's precinct lookup isn't responding. Please try again in a minute.")
+      }
+      const attrs = data.features[0]?.attributes
       if (!attrs) throw new Error("That location isn't in an LA County voting precinct.")
       onDone(attrs, found.matched)
     } catch (e) {

@@ -35,6 +35,8 @@ export const MIN_CANDIDATE_MARGIN = 0.05
 export const MIN_MEASURE_LEAN = 0.1
 /** Measure must touch at least this much of your importance-weighted relevance. */
 export const MIN_MEASURE_RELEVANCE = 0.5
+/** Per-issue relevance below this is treated as "doesn't touch this issue" so small probabilities don't add up. */
+export const MIN_ISSUE_RELEVANCE = 0.5
 
 export function buildProfile(items: QuizItem[], response: QuizResponse): Profile {
   const sums: Record<string, { total: number; n: number }> = {}
@@ -89,19 +91,29 @@ export function matchCandidate(profile: Profile, scores: CandidateScores, option
 
 export type Recommendation =
   | { kind: "pick"; optionIds: string[] }
-  | { kind: "toss-up"; optionIds: string[] }
-  | { kind: "not-enough-info" }
+  /** optionIds = the tied group at the last seat; alsoPick = clear winners above it (multi-seat only). */
+  | { kind: "toss-up"; optionIds: string[]; alsoPick?: string[] }
+  /** unscored = candidates we couldn't place; when some were placed and some weren't, we don't compare. */
+  | { kind: "not-enough-info"; unscored?: string[] }
+  | { kind: "uncontested" }
 
-/** Picks the top `voteFor` candidates. Needs evidence on more candidates than seats to compare. */
+/**
+ * Picks the top `voteFor` candidates. Only compares when every candidate has enough evidence:
+ * an unscored candidate might match better than any scored one.
+ */
 export function recommendCandidate(matches: CandidateMatch[], voteFor = 1): Recommendation {
-  const covered = matches.filter((m) => m.evidenceWeight >= MIN_EVIDENCE_WEIGHT).sort((a, b) => b.alignment - a.alignment)
-  if (covered.length === 0 || covered.length < Math.min(voteFor + 1, matches.length)) return { kind: "not-enough-info" }
-  const last = covered[voteFor - 1]
-  const next = covered[voteFor]
-  if (last && next && last.alignment - next.alignment < MIN_CANDIDATE_MARGIN) {
-    return { kind: "toss-up", optionIds: covered.filter((m) => last.alignment - m.alignment < MIN_CANDIDATE_MARGIN).map((m) => m.optionId) }
+  if (matches.length <= voteFor) return { kind: "uncontested" }
+  const unscored = matches.filter((m) => m.evidenceWeight < MIN_EVIDENCE_WEIGHT).map((m) => m.optionId)
+  if (unscored.length > 0) return { kind: "not-enough-info", unscored }
+  const ranked = [...matches].sort((a, b) => b.alignment - a.alignment)
+  const last = ranked[voteFor - 1]
+  const next = ranked[voteFor]
+  if (last.alignment - next.alignment < MIN_CANDIDATE_MARGIN) {
+    const tied = ranked.filter((m) => Math.abs(last.alignment - m.alignment) < MIN_CANDIDATE_MARGIN)
+    const clear = ranked.filter((m) => m.alignment - last.alignment >= MIN_CANDIDATE_MARGIN)
+    return { kind: "toss-up", optionIds: tied.map((m) => m.optionId), alsoPick: clear.map((m) => m.optionId) }
   }
-  return { kind: "pick", optionIds: covered.slice(0, voteFor).map((m) => m.optionId) }
+  return { kind: "pick", optionIds: ranked.slice(0, voteFor).map((m) => m.optionId) }
 }
 
 export type MeasureMatch = {
@@ -116,7 +128,7 @@ export function matchMeasure(profile: Profile, scores: MeasureScores): MeasureMa
   const byDimension: MeasureMatch["byDimension"] = []
   for (const [dim, { position: u, weight: w }] of Object.entries(profile)) {
     const s = scores[dim]
-    if (w <= 0 || !s || s.relevance <= 0) continue
+    if (w <= 0 || !s || s.relevance < MIN_ISSUE_RELEVANCE) continue
     const agreement = u * s.direction
     num += w * s.relevance * agreement
     den += w * s.relevance

@@ -12,6 +12,7 @@ import {
   type MeasureMatch,
   type Profile,
   type Recommendation,
+  MIN_EVIDENCE_WEIGHT,
 } from "@/lib/match"
 
 type Props = {
@@ -120,7 +121,7 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
   }, [c, profile])
 
   const rec = result.rec
-  const picked = new Set(rec.kind === "pick" ? rec.optionIds : [])
+  const picked = new Set(rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" ? (rec.alsoPick ?? []) : [])
   const tossed = new Set(rec.kind === "toss-up" ? rec.optionIds : [])
   const byId = Object.fromEntries((result.matches ?? []).map((m) => [m.optionId, m]))
   const name = (id: string) => c.options.find((o) => o.id === id)?.name ?? id
@@ -150,7 +151,7 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
               <br />
               <span className="meta">
                 {[o.party, o.ballotDesignation].filter(Boolean).join(" · ")}
-                {m && m.coverage > 0 && (
+                {m && m.evidenceWeight >= MIN_EVIDENCE_WEIGHT && (
                   <>
                     {(o.party || o.ballotDesignation) && " · "}
                     {Math.round(m.alignment * 100)}% aligned on {m.byDimension.length} of your issues
@@ -202,15 +203,28 @@ function Verdict({ contest: c, rec, name, measure }: { contest: Contest; rec: Re
   if (rec.kind === "toss-up") {
     return (
       <div className="verdict">
-        Toss-up: {c.kind === "measure" ? "this measure pulls both ways on your issues" : `${rec.optionIds.map(name).join(" and ")} match you about equally`}.
+        {rec.alsoPick?.length ? (
+          <>
+            Best match for your answers: <strong>{rec.alsoPick.map(name).join(", ")}</strong>. For the remaining seat
+            {c.voteFor - rec.alsoPick.length > 1 ? "s" : ""}, it&apos;s a toss-up between {rec.optionIds.map(name).join(", ")}.
+          </>
+        ) : (
+          <>Toss-up: {c.kind === "measure" ? "this measure pulls both ways on your issues" : `${rec.optionIds.map(name).join(" and ")} match you about equally`}.</>
+        )}
       </div>
     )
   }
+  if (rec.kind === "uncontested") {
+    return <div className="verdict muted">Uncontested: there are no more candidates than seats, so there&apos;s nothing to compare.</div>
+  }
+  const someScored = rec.unscored && rec.unscored.length < c.options.length
   return (
     <div className="verdict muted">
       {c.kind === "measure"
         ? "This measure doesn't clearly touch the issues you rated as important. Read the summary and decide."
-        : "Not enough public information on these candidates' positions to match them to your answers."}
+        : someScored
+          ? `Not enough public information on ${rec.unscored!.map(name).join(", ")} to compare all the candidates fairly. See "Why, and sources" for what we found.`
+          : "Not enough public information on these candidates' positions to match them to your answers."}
     </div>
   )
 }

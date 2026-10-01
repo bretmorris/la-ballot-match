@@ -1,9 +1,15 @@
 // Stateless proxy to the US Census geocoder (it doesn't allow browser CORS).
 // POST keeps the address out of URLs and request logs. Nothing is stored or logged.
 
+import { clientIp, createRateLimiter } from "@/lib/rate-limit"
+
 const CENSUS = "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress"
+const rateLimited = createRateLimiter({ windowMs: 10 * 60_000, max: 30 })
 
 export async function POST(request: Request) {
+  if (rateLimited(clientIp(request))) {
+    return Response.json({ error: "Too many lookups. Please wait a few minutes and try again." }, { status: 429 })
+  }
   let address = ""
   try {
     address = String((await request.json())?.address ?? "").trim()

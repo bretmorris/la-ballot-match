@@ -16,7 +16,8 @@ export default function ContactForm({ contestId }: { contestId?: string }) {
   const [status, setStatus] = useState<"idle" | "sending" | "sent">("idle")
   const [error, setError] = useState("")
 
-  useEffect(() => {
+  // Tokens expire after 2 hours; fetch a fresh one on load and after any failed send.
+  const refreshToken = () =>
     fetch("/api/contact")
       .then((r) => r.json())
       .then((d) => {
@@ -24,6 +25,9 @@ export default function ContactForm({ contestId }: { contestId?: string }) {
         setToken(d.token ?? null)
       })
       .catch(() => setConfigured(false))
+
+  useEffect(() => {
+    refreshToken()
   }, [])
 
   async function submit(e: React.FormEvent) {
@@ -45,6 +49,7 @@ export default function ContactForm({ contestId }: { contestId?: string }) {
     } catch (err) {
       setError(err instanceof Error ? err.message : "Couldn't send.")
       setStatus("idle")
+      refreshToken()
     }
   }
 
