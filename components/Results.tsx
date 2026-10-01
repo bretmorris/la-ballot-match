@@ -52,73 +52,180 @@ export default function Results({ bundle, profile, precinct, onEditQuiz, onEditA
 
   return (
     <>
-      <section className="card">
-        <div className="bar">Your matches</div>
-        <div className="body">
-          <p>
-            {contests.length} contests for <strong>{precinct.address}</strong>
-            {precinct.attrs.PRECINCT ? <span className="meta"> · precinct {String(precinct.attrs.PRECINCT)}</span> : null}
-          </p>
-          <div className="legend">
-            <span>
-              <span className="oval filled" /> best match for your answers
-            </span>
-            <span>
-              <span className="oval half" /> toss-up
-            </span>
-            <span>
-              <span className="oval" /> no match
-            </span>
+      <div className="screen-only">
+        <section className="card">
+          <div className="bar">Your matches</div>
+          <div className="body">
+            <p>
+              {contests.length} contests for <strong>{precinct.address}</strong>
+              {precinct.attrs.PRECINCT ? <span className="meta"> · precinct {String(precinct.attrs.PRECINCT)}</span> : null}
+            </p>
+            <div className="legend">
+              <span>
+                <span className="oval filled" /> best match for your answers
+              </span>
+              <span>
+                <span className="oval half" /> toss-up
+              </span>
+              <span>
+                <span className="oval" /> no match
+              </span>
+            </div>
+            <p className="meta" style={{ marginTop: 10 }}>
+              New tool, so expect some rough edges. If something&apos;s missing or wrong,{" "}
+              <a href="/contact" target="_blank" rel="noreferrer">
+                report it
+              </a>
+              . Some contests may not be listed. Compare with your official sample ballot at{" "}
+              <a href="https://www.lavote.gov/isb" target="_blank" rel="noreferrer">
+                lavote.gov
+              </a>
+              .
+            </p>
+            <div className="btns">
+              <button className="btn" onClick={onEditQuiz}>
+                Change answers
+              </button>
+              <button className="btn" onClick={onEditAddress}>
+                Change address
+              </button>
+              <button className="btn" onClick={() => window.print()}>
+                Print
+              </button>
+            </div>
           </div>
-          <p className="meta" style={{ marginTop: 10 }}>
-            New tool, so expect some rough edges. If something&apos;s missing or wrong,{" "}
-            <a href="/contact" target="_blank" rel="noreferrer">
-              report it
-            </a>
-            . Some contests may not be listed. Compare with your official sample ballot at{" "}
-            <a href="https://www.lavote.gov/isb" target="_blank" rel="noreferrer">
-              lavote.gov
-            </a>
-            .
-          </p>
-          <div className="btns">
-            <button className="btn" onClick={onEditQuiz}>
-              Change answers
-            </button>
-            <button className="btn" onClick={onEditAddress}>
-              Change address
-            </button>
-            <button className="btn" onClick={() => window.print()}>
-              Print
-            </button>
-          </div>
-        </div>
-      </section>
-
-      {sections.map((s) => (
-        <section key={s.title}>
-          <h2 className="section-title">{s.title}</h2>
-          {s.list.map((c) => (
-            <ContestCard key={c.id} contest={c} profile={profile} dims={dims} />
-          ))}
         </section>
-      ))}
+
+        {sections.map((s) => (
+          <section key={s.title}>
+            <h2 className="section-title">{s.title}</h2>
+            {s.list.map((c) => (
+              <ContestCard key={c.id} contest={c} profile={profile} dims={dims} />
+            ))}
+          </section>
+        ))}
+      </div>
+
+      <PrintSheet sections={sections} profile={profile} precinct={precinct} />
     </>
   )
 }
 
+/** Compact summary used only when printing: each contest's match, in ballot order, to copy from. */
+function PrintSheet({
+  sections,
+  profile,
+  precinct,
+}: {
+  sections: { title: string; list: Contest[] }[]
+  profile: Profile
+  precinct: Props["precinct"]
+}) {
+  return (
+    <div className="print-only print-sheet">
+      <div className="print-head">
+        <strong>LA Ballot Match · Nov 3, 2026</strong> · {precinct.address}
+        {precinct.attrs.PRECINCT ? ` · precinct ${String(precinct.attrs.PRECINCT)}` : ""}
+        <div>
+          <span className="oval filled" /> best match for your answers <span className="oval half" /> toss-up. Unofficial
+          notes, not a ballot. Matches can be wrong; check your official sample ballot at lavote.gov.
+        </div>
+      </div>
+      <div className="print-cols">
+        {sections.map((s) => {
+          const retention = s.list.filter((c) => c.kind === "retention")
+          return (
+            <section key={s.title}>
+              <h2 className="print-section">{s.title}</h2>
+              {s.list
+                .filter((c) => c.kind !== "retention")
+                .map((c) => (
+                  <PrintContest key={c.id} contest={c} profile={profile} />
+                ))}
+              {retention.length > 0 && <PrintRetention contests={retention} />}
+            </section>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+/** "Proposition 1: Authorizes Bonds…. Legislative Statute." → drop the trailing measure-type label. */
+const shortTitle = (t: string) => t.replace(/\.\s+(Legislative|Initiative)\b[^.]*\.?$/, ".")
+
+function PrintContest({ contest: c, profile }: { contest: Contest; profile: Profile }) {
+  const { rec } = recommend(c, profile)
+  const name = (id: string) => (c.kind === "measure" ? id.toUpperCase() : (c.options.find((o) => o.id === id)?.name ?? id))
+  const picked = rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" ? (rec.alsoPick ?? []) : []
+  const tossed = rec.kind === "toss-up" ? rec.optionIds : []
+  // Statewide and countywide jurisdictions just repeat what the contest title already says.
+  const showJurisdiction = !["federal", "state", "county", "judicial"].includes(c.level) && !c.title.includes(c.jurisdiction.name)
+
+  return (
+    <div className="print-contest">
+      <div className="print-title">
+        {shortTitle(c.title)}
+        {c.kind !== "measure" && c.voteFor > 1 && <span className="meta"> · vote for {c.voteFor}</span>}
+      </div>
+      {showJurisdiction && <div className="meta">{c.jurisdiction.name}</div>}
+      {picked.map((id) => (
+        <div key={id} className="print-pick">
+          <span className="oval filled" /> {name(id)}
+        </div>
+      ))}
+      {tossed.length > 0 && (
+        <div className="print-pick">
+          <span className="oval half" /> Toss-up: {list(tossed.map(name))}
+        </div>
+      )}
+      {rec.kind === "uncontested" && <div className="meta">Uncontested</div>}
+      {(rec.kind === "toss-up" || rec.kind === "not-enough-info") && (
+        <div className="print-blank">{rec.kind === "not-enough-info" ? "No match (not enough info). Your choice:" : "Your choice:"}</div>
+      )}
+    </div>
+  )
+}
+
+/** Retention votes have no match, so list the judges compactly with Yes/No ovals to mark by hand. */
+function PrintRetention({ contests }: { contests: Contest[] }) {
+  return (
+    <div className="print-contest">
+      <div className="print-title">Judges up for retention</div>
+      <div className="meta">No match: judges don&apos;t campaign on policy. Mark your own choices.</div>
+      {contests.map((c) => {
+        const judge = c.title.match(/Shall (?:Associate |Presiding )?Justice (.+?) be elected/)?.[1] ?? c.title
+        const court = c.title.split(":")[0].replace(/^(Associate|Presiding) Justice,?\s*(of the )?/, "")
+          .replace(/ Second District, Division/, " Div.")
+        return (
+          <div key={c.id} className="print-retention">
+            <span>
+              <strong>{judge}</strong> <span className="meta">{court}</span>
+            </span>
+            <span className="print-yn">
+              <span className="oval" /> Yes <span className="oval" /> No
+            </span>
+          </div>
+        )
+      })}
+    </div>
+  )
+}
+
+function recommend(c: Contest, profile: Profile): { rec: Recommendation; measure?: MeasureMatch | null; matches?: CandidateMatch[] } {
+  if (c.kind === "measure") {
+    const m = c.measureScores ? matchMeasure(profile, c.measureScores) : null
+    return { measure: m, rec: m ? recommendMeasure(m) : { kind: "not-enough-info" } }
+  }
+  if (c.kind === "candidate") {
+    const matches = c.options.map((o) => matchCandidate(profile, o.scores ?? {}, o.id))
+    return { matches, rec: recommendCandidate(matches, c.voteFor) }
+  }
+  return { rec: { kind: "not-enough-info" } }
+}
+
 function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile: Profile; dims: Record<string, Dimension> }) {
-  const result = useMemo(() => {
-    if (c.kind === "measure") {
-      const m = c.measureScores ? matchMeasure(profile, c.measureScores) : null
-      return { measure: m, rec: m ? recommendMeasure(m) : ({ kind: "not-enough-info" } as Recommendation) }
-    }
-    if (c.kind === "candidate") {
-      const matches = c.options.map((o) => matchCandidate(profile, o.scores ?? {}, o.id))
-      return { matches, rec: recommendCandidate(matches, c.voteFor) }
-    }
-    return { rec: { kind: "not-enough-info" } as Recommendation }
-  }, [c, profile])
+  const result = useMemo(() => recommend(c, profile), [c, profile])
 
   const rec = result.rec
   const picked = new Set(rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" ? (rec.alsoPick ?? []) : [])

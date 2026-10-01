@@ -227,6 +227,28 @@ input[type="text"] {
 
 footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
 
+/* Compact print sheet: hidden on screen, replaces the full cards on paper. */
+.print-only { display: none; }
+.print-sheet { font-size: 10.5px; line-height: 1.3; }
+.print-sheet .meta { font-size: 9.5px; }
+.print-sheet .oval { display: inline-block; width: 16px; height: 10px; margin: 0 3px 0 0; vertical-align: -1px; }
+.print-sheet .oval.filled { border-width: 5px; }
+.print-sheet .oval.half { border-left-width: 8px; }
+.print-head { border-bottom: 2px solid var(--rule); padding-bottom: 4px; margin-bottom: 6px; }
+.print-cols { columns: 2; column-gap: 18px; }
+.print-section {
+  font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
+  border-bottom: 1.5px solid var(--rule); margin: 6px 0 3px; padding-bottom: 1px; break-after: avoid;
+}
+.print-cols section:first-child .print-section { margin-top: 0; }
+.print-contest { break-inside: avoid; padding: 3px 0; border-bottom: 0.5px solid var(--rule-soft); }
+.print-title { font-weight: 700; }
+.print-pick { font-weight: 700; text-transform: uppercase; }
+.print-blank { color: var(--ink-soft); font-size: 9.5px; border-bottom: 0.5px solid var(--ink-soft); padding-top: 4px; width: 85%; }
+.print-retention { display: flex; justify-content: space-between; gap: 8px; padding: 1px 0; }
+.print-yn { flex: none; white-space: nowrap; }
+.print-yn .oval { margin-left: 6px; }
+
 @media print {
   /* Always print the light ballot, whatever the screen theme. */
   :root, :root:not([data-theme="light"]) {
@@ -235,7 +257,11 @@ footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
   }
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body { background: #fff; }
-  .btns, .nav, .report, details, footer a[href="/contact"] { display: none; }
+  .btns, .nav, .report, details, footer a[href="/contact"], .screen-only { display: none; }
+  /* The results print sheet carries its own header and disclaimer. */
+  body:has(.print-sheet) :is(.masthead, footer) { display: none; }
+  .print-only { display: block; }
+  .unofficial { padding: 4px 8px; font-size: 10px; }
   .wrap { max-width: none; padding: 0; }
   .card { break-inside: avoid; }
   /* Fill ovals with border width, which prints even when backgrounds are suppressed. */
