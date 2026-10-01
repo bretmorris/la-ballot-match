@@ -15,7 +15,15 @@ type Props = {
 // One issue per page: its statements, then how much it matters.
 export default function Quiz({ bundle, response, onChange, onBack, onDone }: Props) {
   const { dimensions, quiz } = bundle
-  const [page, setPage] = useState(0)
+  // Resume at the first issue that isn't fully answered.
+  const [page, setPage] = useState(() => {
+    const i = dimensions.findIndex(
+      (d) =>
+        response.importance[d.id] === undefined ||
+        quiz.items.some((it) => it.dimension === d.id && response.answers[it.id] === undefined),
+    )
+    return i === -1 ? 0 : i
+  })
   const dim = dimensions[page]
   const items = quiz.items.filter((i) => i.dimension === dim.id)
   const answered = items.every((i) => response.answers[i.id] !== undefined) && response.importance[dim.id] !== undefined

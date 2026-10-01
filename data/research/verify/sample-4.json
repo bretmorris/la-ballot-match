@@ -1,0 +1,375 @@
+[
+ {
+  "contestId": "us-house-ca-23",
+  "contest": "United States Representative, District 23 (California's 23 Congressional District)",
+  "optionId": "jay-obernolte",
+  "candidate": "Jay Obernolte",
+  "index": 10,
+  "text": "Says he fought to lower taxes, repeal gas taxes, provide small business tax relief and expand the child tax credit.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://electjay.com/",
+   "title": "Jay Obernolte for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-34",
+  "contest": "United States Representative, District 34 (California's 34 Congressional District)",
+  "optionId": "jimmy-gomez",
+  "candidate": "Jimmy Gomez",
+  "index": 1,
+  "text": "Cosponsored and voted to pass the Women's Health Protection Act to codify Roe v. Wade; original cosponsor of the Right to Contraception Act and the Reproductive Health Travel Fund Act.",
+  "kind": "official-action",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://jimmygomezforcongress.com/issues",
+   "title": "On The Issues - Jimmy Gomez for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-city-mayor",
+  "contest": "City of Los Angeles — Mayor (City of Los Angeles)",
+  "optionId": "nithya-raman",
+  "candidate": "Nithya Raman",
+  "index": 3,
+  "text": "Said LAPD Chief Jim McDonnell's response to ICE raids has not \"met the moment\" and that the city needs police leadership that respects this. Describes herself as author of the Sanctuary City Ordinance barring city resources for federal immigration enforcement.",
+  "kind": "own-statement",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-mayor",
+   "title": "Los Angeles mayor: Who's running in the June 2 primary and why it matters (LAist)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-56",
+  "contest": "Member of the State Assembly, District 56 (California State Assembly District 56)",
+  "optionId": "lisa-calderon",
+  "candidate": "Lisa Calderon",
+  "index": 9,
+  "text": "Introduced AB 2647 to clarify that the state's ban on new nuclear plants does not apply to advanced reactors; says nuclear 'must be considered' for 90% clean electricity by 2035 and 100% by 2045.",
+  "kind": "official-action",
+  "dimension": "climate-energy",
+  "source": {
+   "url": "https://calderon.asmdc.org/press-releases/20260223-calderon-legislation-seeks-modernize-californias-nuclear-moratorium",
+   "title": "Calderon Legislation Seeks to Modernize California's Nuclear Moratorium (Feb 23, 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-4",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 4 (Los Angeles Community College District)",
+  "optionId": "darryn-harris",
+  "candidate": "Darryn Harris",
+  "index": 0,
+  "text": "Says the district must take \"seriously the need for affordable housing so students can stay enrolled, succeed, and build stable futures.\"",
+  "kind": "own-statement",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://darrynharris.com/meet-darryn",
+   "title": "Darryn Harris for LA Community College Board - Meet Darryn",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-culver-city-member-of-the-city-council",
+  "contest": "City of Culver City — Member of the City Council (City of Culver City)",
+  "optionId": "kimberley-kim-griffin",
+  "candidate": "Kimberley \"Kim\" Griffin",
+  "index": 1,
+  "text": "On wages, stated Culver City need not exceed state minimum wage laws.",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+   "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+   "retrieved": "2026-10-01"
+  },
+  "dimension": "labor-business"
+ },
+ {
+  "contestId": "ca-assembly-48",
+  "contest": "Member of the State Assembly, District 48 (California State Assembly District 48)",
+  "optionId": "dan-t-tran",
+  "candidate": "Dan T. Tran",
+  "index": 0,
+  "text": "Housing priorities: lowering hidden household costs (energy, insurance, fees), supporting first-time homebuyers and renters, cutting permitting red tape that drives up costs, and expanding housing supply, especially workforce housing.",
+  "kind": "own-statement",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://www.ballotready.org/people/dan-t-tran",
+   "title": "Dan T. Tran - BallotReady",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-30",
+  "contest": "United States Representative, District 30 (California's 30 Congressional District)",
+  "optionId": "laura-friedman",
+  "candidate": "Laura Friedman",
+  "index": 4,
+  "text": "Campaign site cites legislative work supporting people experiencing severe mental illness and homelessness.",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://www.lauraforcongress.org",
+   "title": "Laura Friedman for Congress (campaign site)",
+   "retrieved": "2026-09-30"
+  },
+  "dimension": "homelessness"
+ },
+ {
+  "contestId": "us-house-ca-34",
+  "contest": "United States Representative, District 34 (California's 34 Congressional District)",
+  "optionId": "angela-gonzales-torres",
+  "candidate": "Angela Gonzales-Torres",
+  "index": 2,
+  "text": "Housing platform includes expanding emergency rental assistance and vouchers to tackle homelessness \"before it starts\" through rapid rehousing and permanently affordable housing.",
+  "kind": "own-statement",
+  "dimension": "homelessness",
+  "source": {
+   "url": "https://www.angela4congress.com/issues",
+   "title": "Issues - Angela Gonzales-Torres for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-29",
+  "contest": "United States Representative, District 29 (California's 29 Congressional District)",
+  "optionId": "angelica-maria-duenas",
+  "candidate": "Angélica María Dueñas",
+  "index": 5,
+  "text": "\"Protect the right to unionize, raise the minimum wage to a living wage, defend collective bargaining.\"",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://angelica4congress.com/",
+   "title": "Angélica Dueñas campaign site - policy positions",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-city-mayor",
+  "contest": "City of Los Angeles — Mayor (City of Los Angeles)",
+  "optionId": "karen-ruth-bass",
+  "candidate": "Karen Ruth Bass",
+  "index": 2,
+  "text": "Executive Directive One fast-tracked affordable housing; Bass says it helped speed 42,000 housing units, and she is pursuing adaptive reuse of empty buildings.",
+  "kind": "official-action",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://www.nbclosangeles.com/news/local/bass-raman-to-face-off-in-first-debate-of-mayoral-runoff/3931316/",
+   "title": "Bass, Raman clash over homelessness in first mayoral debate ahead of runoff (NBC LA)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-29",
+  "contest": "United States Representative, District 29 (California's 29 Congressional District)",
+  "optionId": "luz-maria-rivas",
+  "candidate": "Luz Maria Rivas",
+  "index": 1,
+  "text": "Introduced the HEART Act of 2026 to create a mental health office serving communities affected by ICE enforcement raids.",
+  "kind": "official-action",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://rivas.house.gov/media/press-releases",
+   "title": "Rep. Luz Rivas press releases (June 18, 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-controller",
+  "contest": "Controller (California)",
+  "optionId": "herb-w-morgan",
+  "candidate": "Herb W Morgan",
+  "index": 3,
+  "text": "Argues California \"spends more than any state in the nation—and still can't explain where the money goes.\"",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.herbmorgan.com/",
+   "title": "Herb Morgan for Controller",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-55",
+  "contest": "Member of the State Assembly, District 55 (California State Assembly District 55)",
+  "optionId": "ashley-m-brown",
+  "candidate": "Ashley M. Brown",
+  "index": 4,
+  "text": "Public safety: 'community safety starts with strong schools, accessible mental health care, and sustained investment in youth.'",
+  "kind": "questionnaire",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://ijaction.org/ad-55-2026/",
+   "title": "Assembly District 55 voter guide (IJ Action)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-61",
+  "contest": "Member of the State Assembly, District 61 (California State Assembly District 61)",
+  "optionId": "brian-lockwood",
+  "candidate": "Brian Lockwood",
+  "index": 2,
+  "text": "Campaign plan: families will be 'unburdened with the removal of restrictive taxes & red tape' and 'no more waste, fraud and abuse of our money.'",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.electbrianlockwood.com/issues",
+   "title": "The Plan - Brian Lockwood for CA State Assembly District 61",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-west-hollywood-member-of-the-city-council",
+  "contest": "City of West Hollywood — Member of the City Council (City of West Hollywood)",
+  "optionId": "helen-krieger",
+  "candidate": "Helen Krieger",
+  "index": 1,
+  "text": "Endorsed by UNITE HERE Local 11, which backs rent control, the city minimum wage and the hotel-worker protection ordinance.",
+  "kind": "endorsement",
+  "source": {
+   "url": "https://wehoonline.com/unite-here-local-11-west-hollywood-election/",
+   "title": "WEHO Online: UNITE HERE Local 11 makes another push for power at West Hollywood City Hall (Sept 21, 2026)",
+   "retrieved": "2026-09-30"
+  },
+  "dimension": "labor-business"
+ },
+ {
+  "contestId": "ca-treasurer",
+  "contest": "Treasurer (California)",
+  "optionId": "eleni-kounalakis",
+  "candidate": "Eleni Kounalakis",
+  "index": 5,
+  "text": "Endorsed by the California Labor Federation, Teamsters California and National Union of Healthcare Workers.",
+  "kind": "endorsement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+   "title": "CalMatters 2026 California Voter Guide: Treasurer",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-67",
+  "contest": "Member of the State Assembly, District 67 (California State Assembly District 67)",
+  "optionId": "paulo-morales",
+  "candidate": "Paulo Morales",
+  "index": 3,
+  "text": "On education: will focus on fundamentals, real-world skills and transparency so parents know what children are learning; says families deserve meaningful choices.",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://www.paulomoralesca.com/",
+   "title": "Paulo Morales for Assembly (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-city-city-attorney",
+  "contest": "City of Los Angeles — City Attorney (City of Los Angeles)",
+  "optionId": "marissa-roy",
+  "candidate": "Marissa Roy",
+  "index": 4,
+  "text": "Campaign site lists priorities including public safety strategies that reduce cycles of criminalization while enhancing community safety, plus environmental enforcement against polluters.",
+  "kind": "questionnaire",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://www.marissaroy.com/",
+   "title": "Marissa Roy For City Attorney (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-lieutenant-governor",
+  "contest": "Lieutenant Governor (California)",
+  "optionId": "gloria-romero",
+  "candidate": "Gloria Romero",
+  "index": 6,
+  "text": "Endorsed by the California Republican Party and Reform California.",
+  "kind": "endorsement",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/",
+   "title": "CalMatters 2026 California Voter Guide: Lieutenant Governor",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-57",
+  "contest": "Member of the State Assembly, District 57 (California State Assembly District 57)",
+  "optionId": "sade-elhawary",
+  "candidate": "Sade Elhawary",
+  "index": 5,
+  "text": "Voted Aye on SB 704 (firearm barrels) on the Assembly floor, Sept. 8, 2025 (57-20).",
+  "kind": "voting-record",
+  "dimension": "guns",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB704",
+   "title": "SB 704 Firearms: firearm barrels - bill votes (leginfo)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-37",
+  "contest": "United States Representative, District 37 (California's 37 Congressional District)",
+  "optionId": "sydney-kamlager-dove",
+  "candidate": "Sydney Kamlager-Dove",
+  "index": 0,
+  "text": "Voted Nay on H.R. 1 (the 2025 reconciliation bill, later enacted as the One Big Beautiful Bill Act) when the House passed it on May 22, 2025, and voted No again on the Senate-amended version on July 3, 2025.",
+  "kind": "voting-record",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+   "title": "GovTrack: H.R. 1 House passage, May 22, 2025 (House roll call)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-attorney-general",
+  "contest": "Attorney General (California)",
+  "optionId": "rob-bonta",
+  "candidate": "Rob Bonta",
+  "index": 7,
+  "text": "Endorsed by the California Democratic Party, California Teachers Association, California Environmental Voters, and California Nurses Association.",
+  "kind": "endorsement",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+   "title": "CalMatters 2026 California Voter Guide: Attorney General",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 2 (Los Angeles Community College District)",
+  "optionId": "steven-f-veres",
+  "candidate": "Steven F. Veres",
+  "index": 1,
+  "text": "Says he will \"continue working to expand tuition-free education\" as part of his college affordability priorities, citing more than a decade of work as an LACCD trustee.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://steveveres.com/issues/",
+   "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-62",
+  "contest": "Member of the State Assembly, District 62 (California State Assembly District 62)",
+  "optionId": "jose-luis-solache",
+  "candidate": "José Luis Solache",
+  "index": 5,
+  "text": "Voted Aye on SB 81 (health and care facilities: information sharing), an urgency measure, Sept 2, 2025.",
+  "kind": "voting-record",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB81",
+   "title": "SB 81 (Health facilities: information sharing) - Bill Votes (leginfo)",
+   "retrieved": "2026-09-30"
+  }
+ }
+]

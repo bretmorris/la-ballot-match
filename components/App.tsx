@@ -9,13 +9,60 @@ import AddressStep from "./AddressStep"
 import Results from "./Results"
 
 type Step = "intro" | "quiz" | "address" | "results"
+type Saved = { step: Step; response: QuizResponse; precinct: { attrs: PrecinctAttributes; address: string } | null }
+
+// Progress is kept in this browser only, so a refresh doesn't lose it. "Start over" clears it.
+const STORAGE_KEY = "la-ballot-match:v1"
+const EMPTY: QuizResponse = { answers: {}, importance: {} }
+
+function loadSaved(): Saved | null {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY)
+    return raw ? (JSON.parse(raw) as Saved) : null
+  } catch {
+    return null
+  }
+}
 
 export default function App() {
   const [bundle, setBundle] = useState<Bundle | null>(null)
   const [loadError, setLoadError] = useState(false)
   const [step, setStep] = useState<Step>("intro")
-  const [response, setResponse] = useState<QuizResponse>({ answers: {}, importance: {} })
+  const [response, setResponse] = useState<QuizResponse>(EMPTY)
   const [precinct, setPrecinct] = useState<{ attrs: PrecinctAttributes; address: string } | null>(null)
+  const [restored, setRestored] = useState(false)
+
+  // Restore after hydration: localStorage doesn't exist during server rendering.
+  /* eslint-disable react-hooks/set-state-in-effect */
+  useEffect(() => {
+    const saved = loadSaved()
+    if (saved) {
+      setResponse(saved.response ?? EMPTY)
+      setPrecinct(saved.precinct ?? null)
+      // Results need a precinct; fall back to the address step if it's missing.
+      setStep(saved.step === "results" && !saved.precinct ? "address" : (saved.step ?? "intro"))
+    }
+    setRestored(true)
+  }, [])
+  /* eslint-enable react-hooks/set-state-in-effect */
+
+  useEffect(() => {
+    if (!restored) return
+    try {
+      if (step === "intro" && Object.keys(response.answers).length === 0 && !precinct) localStorage.removeItem(STORAGE_KEY)
+      else localStorage.setItem(STORAGE_KEY, JSON.stringify({ step, response, precinct } satisfies Saved))
+    } catch {}
+  }, [restored, step, response, precinct])
+
+  const hasProgress = Object.keys(response.answers).length > 0 || precinct !== null
+  function startOver() {
+    try {
+      localStorage.removeItem(STORAGE_KEY)
+    } catch {}
+    setResponse(EMPTY)
+    setPrecinct(null)
+    setStep("intro")
+  }
 
   const profile = useMemo(() => (bundle ? buildProfile(bundle.quiz.items, response) : {}), [bundle, response])
 
@@ -38,6 +85,11 @@ export default function App() {
         <nav className="nav">
           <a href="/how-it-works">How it works</a>
           <a href="/contact">Report a problem</a>
+          {hasProgress && (
+            <button type="button" className="linkish" onClick={startOver}>
+              Start over (clear my answers)
+            </button>
+          )}
         </nav>
       </header>
 
@@ -60,7 +112,8 @@ export default function App() {
               links to its sources.
             </p>
             <p className="meta">
-              Your answers and address stay in your browser and are never stored. The address is sent once to LA County&apos;s
+              Your answers and address stay in your browser. They&apos;re saved on this device so a refresh
+              doesn&apos;t lose them, and &quot;Start over&quot; erases them. The address is sent once to LA County&apos;s
               address locator (through this site&apos;s server, without logging) to find your location. This is a tool for thinking
               things through, not an instruction on how to vote. Where there isn&apos;t enough information, it says so.
             </p>

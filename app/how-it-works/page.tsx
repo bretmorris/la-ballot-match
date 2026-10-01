@@ -25,7 +25,7 @@ export default function HowItWorks() {
             You answer {quiz.items.length} statements about {dimensions.length} issues and say how much each issue matters to
             you. The site looks up the contests on your ballot from your address. Ahead of time, I collected what each
             candidate has said and done, with links, and used an AI model called <strong>Jev</strong> to place every
-            candidate and measure on the same {dimensions.length} issues. Your browser then compares your answers to those
+            candidate and measure on the same {dimensions.length}{" "}issues. Your browser then compares your answers to those
             placements with simple arithmetic and shows the closest match in each contest, or says there isn&apos;t enough
             information.
           </p>
@@ -200,8 +200,8 @@ export default function HowItWorks() {
         <div className="bar">Privacy</div>
         <div className="body prose">
           <p>
-            There are no accounts, cookies or ads. The site counts page visits with Vercel Web Analytics, which uses no cookies and doesn&apos;t identify you, so I can see roughly how many people use it. Your quiz answers never leave your browser. Your address
-            is sent to this site&apos;s server once, only to get coordinates, and isn&apos;t stored. The host (Vercel) keeps standard
+            There are no accounts, cookies or ads. The site counts page visits with Vercel Web Analytics, which uses no cookies and doesn&apos;t identify you, so I can see roughly how many people use it. Your quiz answers never leave your browser. They&apos;re saved in your browser&apos;s local storage on this device, along with your confirmed address, so a refresh doesn&apos;t lose your progress. &quot;Start over&quot; at the top of the page erases them. Your address
+            is sent to this site&apos;s server once, only to get coordinates, and isn&apos;t stored there. The host (Vercel) keeps standard
             request logs (such as IP address and the page requested), but the address travels in the request body,
             which isn&apos;t logged. Messages sent through the contact form are delivered by email (via Resend) and used only
             to reply and fix problems.

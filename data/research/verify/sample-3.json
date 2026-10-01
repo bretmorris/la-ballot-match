@@ -1,0 +1,377 @@
+[
+ {
+  "contestId": "us-house-ca-35",
+  "contest": "United States Representative, District 35 (California's 35 Congressional District)",
+  "optionId": "norma-j-torres",
+  "candidate": "Norma J. Torres",
+  "index": 4,
+  "text": "Voted Nay on the Protection of Women and Girls in Sports Act (H.R. 28), Jan. 14, 2025, which passed 218-206.",
+  "kind": "voting-record",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://www.govtrack.us/congress/votes/119-2025/h12",
+   "title": "GovTrack: H.R. 28 Protection of Women and Girls in Sports Act (House roll call)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-51",
+  "contest": "Member of the State Assembly, District 51 (California State Assembly District 51)",
+  "optionId": "colin-d-hernandez",
+  "candidate": "Colin D. Hernandez",
+  "index": 4,
+  "text": "Supports raising taxes on billionaires and the largest corporations; \"full support\" for the Billionaire Wealth Tax; will fight to reform Prop 13 and close corporate loopholes.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://colinforcalifornia.com/issues/",
+   "title": "Issues - Colin Hernandez for California Assembly",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-32",
+  "contest": "United States Representative, District 32 (California's 32 Congressional District)",
+  "optionId": "brad-sherman",
+  "candidate": "Brad Sherman",
+  "index": 3,
+  "text": "Member of the Congressional Equality Caucus; introduced the Equality Act with colleagues; signed an amicus brief in Skrmetti urging the Court to strike down Tennessee's ban on gender-affirming care for minors; says he has voted against Republican bills restricting gender-affirming care.",
+  "kind": "official-action",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://www.bradsherman.com/priorities",
+   "title": "Brad Sherman for Congress - Issues",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-23",
+  "contest": "United States Representative, District 23 (California's 23 Congressional District)",
+  "optionId": "tessa-lynn-hodge",
+  "candidate": "Tessa Lynn Hodge",
+  "index": 0,
+  "text": "\"I will fight for a single-payer healthcare system so everyone gets the care they need, no exceptions... Healthcare is a right.\"",
+  "kind": "own-statement",
+  "dimension": "health-care",
+  "source": {
+   "url": "https://www.ballotready.org/people/tessa-hodge",
+   "title": "Tessa Lynn Hodge - BallotReady candidate profile",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-30",
+  "contest": "United States Representative, District 30 (California's 30 Congressional District)",
+  "optionId": "scott-alan-meyers",
+  "candidate": "Scott Alan Meyers",
+  "index": 1,
+  "text": "Advocates American energy independence to reduce gas costs.",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://www.meyersforcongress.com/issues",
+   "title": "Issues - Scott Alan Meyers for Congress",
+   "retrieved": "2026-09-30"
+  },
+  "dimension": "climate-energy"
+ },
+ {
+  "contestId": "ca-assembly-40",
+  "contest": "Member of the State Assembly, District 40 (California State Assembly District 40)",
+  "optionId": "rickey-tracy-hayes-ii",
+  "candidate": "Rickey Tracy Hayes II",
+  "index": 0,
+  "text": "Opposes the July 1, 2026 gas tax increase to 63.4 cents: \"Working people don't get an automatic pay raise every July - but the government gets one.\"",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://rickeyhayesforassembly.com/news/2/",
+   "title": "Rickey Hayes for Assembly - News",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-24",
+  "contest": "State Senator, District 24 (California State Senate District 24)",
+  "optionId": "brian-goldsmith",
+  "candidate": "Brian Goldsmith",
+  "index": 5,
+  "text": "Supports dedicated funding for universal childcare starting at six months and tax credits for working people toward college and transportation costs.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.briangoldsmith.com/issues",
+   "title": "Issues - Brian Goldsmith for CA State Senate",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-4",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 4 (Los Angeles Community College District)",
+  "optionId": "nancy-pearlman",
+  "candidate": "Nancy Pearlman",
+  "index": 1,
+  "text": "Says she advocated designated parking lots at all nine colleges for unhoused students, plus restrooms and shower facilities.",
+  "kind": "own-statement",
+  "dimension": "homelessness",
+  "source": {
+   "url": "https://nancypearlman.net/indexElect.html",
+   "title": "Nancy Pearlman - Election Campaign (official website)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-69",
+  "contest": "Member of the State Assembly, District 69 (California State Assembly District 69)",
+  "optionId": "josh-lowenthal",
+  "candidate": "Josh Lowenthal",
+  "index": 13,
+  "text": "Authored AB 2223 to establish reporting standards for health care staffing contracts at the state corrections department, amid concern that private contractors often cost more than civil service employees. Backed by state worker unions.",
+  "kind": "official-action",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://lowenthal.asmdc.org/news",
+   "title": "News - Assemblymember Josh Lowenthal",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-28",
+  "contest": "United States Representative, District 28 (California's 28 Congressional District)",
+  "optionId": "april-a-verlato",
+  "candidate": "April A. Verlato",
+  "index": 4,
+  "text": "As an Arcadia council member she voted each year to support the Police Chief's plans and budget requests, and helped organize support for a lawsuit against zero-bail policy.",
+  "kind": "official-action",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://verlatoforcongress.com/?page_id=120",
+   "title": "Issues – April Verlato for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-28",
+  "contest": "United States Representative, District 28 (California's 28 Congressional District)",
+  "optionId": "judy-chu",
+  "candidate": "Judy Chu",
+  "index": 10,
+  "text": "Co-introduced the PRIDE Act to eliminate gendered language in the tax code; her campaign also highlights her fight to restore reproductive freedoms.",
+  "kind": "official-action",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://www.judychu.org/press",
+   "title": "Press – Judy Chu for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-west-hollywood-member-of-the-city-council",
+  "contest": "City of West Hollywood — Member of the City Council (City of West Hollywood)",
+  "optionId": "chelsea-byers",
+  "candidate": "Chelsea Byers",
+  "index": 2,
+  "text": "On filling the vacant council seat left by Erickson, Byers said filling it by appointment \"would be a conversation\".",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://wehoonline.com/west-hollywood-council-appointment-erickson-vacancy/",
+   "title": "WEHO Online: Byers, Krieger say appoint Erickson replacement; four others say let voters decide (Sept 29, 2026)",
+   "retrieved": "2026-09-30"
+  },
+  "dimension": "elections-voting"
+ },
+ {
+  "contestId": "us-house-ca-36",
+  "contest": "United States Representative, District 36 (California's 36 Congressional District)",
+  "optionId": "ted-w-lieu",
+  "candidate": "Ted W. Lieu",
+  "index": 4,
+  "text": "Sponsor of the Prevent Homelessness Act of 2025 (H.R. 2206), to create a Housing Stabilization Fund providing emergency housing assistance to extremely low-income renters and homeowners.",
+  "kind": "official-action",
+  "dimension": "renters-landlords",
+  "source": {
+   "url": "https://www.govtrack.us/congress/bills/119/hr2206",
+   "title": "GovTrack: H.R. 2206 Prevent Homelessness Act of 2025",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-31",
+  "contest": "United States Representative, District 31 (California's 31 Congressional District)",
+  "optionId": "gil-cisneros",
+  "candidate": "Gil Cisneros",
+  "index": 5,
+  "text": "Voted Yea on H.R. 1689 (Apr. 16, 2026), requiring the Homeland Security Secretary to designate Haiti for temporary protected status.",
+  "kind": "voting-record",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://www.govtrack.us/congress/votes/119-2026/h120",
+   "title": "House Vote #120 (2026): H.R. 1689, Haiti TPS (GovTrack)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-culver-city-member-of-the-city-council",
+  "contest": "City of Culver City — Member of the City Council (City of Culver City)",
+  "optionId": "thomas-aujero-small",
+  "candidate": "Thomas Aujero Small",
+  "index": 2,
+  "text": "Neutral on the Better Overland project at the forum.",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+   "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+   "retrieved": "2026-10-01"
+  },
+  "dimension": "transportation"
+ },
+ {
+  "contestId": "ca-assembly-52",
+  "contest": "Member of the State Assembly, District 52 (California State Assembly District 52)",
+  "optionId": "jessica-caloza",
+  "candidate": "Jessica Caloza",
+  "index": 11,
+  "text": "Authored ACA 18 (2026), expanding the UC Board of Regents' voting membership with undergraduate and graduate student seats; AB 1750 gives K-12 employees full salary for five months after exhausting sick leave.",
+  "kind": "official-action",
+  "dimension": "education",
+  "source": {
+   "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+   "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-31",
+  "contest": "United States Representative, District 31 (California's 31 Congressional District)",
+  "optionId": "eric-ching",
+  "candidate": "Eric Ching",
+  "index": 6,
+  "text": "Supports 'a speedy public trial by jury' and opposes 'excessive fines and excessive bail, as well as cruel and unusual punishment.'",
+  "kind": "own-statement",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://www.ericchingforcongress.com/",
+   "title": "Eric Ching for Congress (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-49",
+  "contest": "Member of the State Assembly, District 49 (California State Assembly District 49)",
+  "optionId": "long-david-liu",
+  "candidate": "Long David Liu",
+  "index": 3,
+  "text": "Campaign philosophy at 2024 launch: supports law enforcement being adequately resourced and opposes drastic budget cuts to police departments; wants strict justice for criminals and fewer homeless people; advocates tax reduction for workers and small business owners.",
+  "kind": "own-statement",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://lapost.us/?p=61991",
+   "title": "Make California Safe Again, David Liu running for CA 49th district Assembly Member (The Los Angeles Post, Jan. 8, 2024)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-66",
+  "contest": "Member of the State Assembly, District 66 (California State Assembly District 66)",
+  "optionId": "paul-seo",
+  "candidate": "Paul Seo",
+  "index": 7,
+  "text": "Says he will work with labor unions and businesses on a stronger economy, and cut red tape for small businesses. Notes he is a dues-paying union member.",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://www.paulseo.com/priorities",
+   "title": "Priorities - Paul Seo for Assembly",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-66",
+  "contest": "Member of the State Assembly, District 66 (California State Assembly District 66)",
+  "optionId": "sara-deen",
+  "candidate": "Sara Deen",
+  "index": 2,
+  "text": "Wants to hold utility and insurance industries accountable and streamline permitting to cut red tape for starting a business or building, while keeping strong environmental and safety protections.",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://www.saradeenforca.com/why-im-running/",
+   "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-32",
+  "contest": "United States Representative, District 32 (California's 32 Congressional District)",
+  "optionId": "larry-thompson",
+  "candidate": "Larry Thompson",
+  "index": 5,
+  "text": "Proposes the American Work Freedom Act of 2027: complete phase-out of federal income taxes over four years while protecting Social Security, Medicare, national defense, veterans benefits and federal law enforcement.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://larrythompsonforcongress.com/legislative-initiatives",
+   "title": "Larry Thompson for U.S. Congress - Legislative Initiatives",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-49",
+  "contest": "Member of the State Assembly, District 49 (California State Assembly District 49)",
+  "optionId": "mike-fong",
+  "candidate": "Mike Fong",
+  "index": 8,
+  "text": "Voted Aye on SB 237 (Kern County oil/gasoline specifications, CEQA exemptions), Assembly floor, Sept. 13, 2025; the bill passed 66-4.",
+  "kind": "voting-record",
+  "dimension": "climate-energy",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+   "title": "SB 237 Oil spill prevention: gasoline specifications: Kern County - votes (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-67",
+  "contest": "Member of the State Assembly, District 67 (California State Assembly District 67)",
+  "optionId": "mark-pulido",
+  "candidate": "Mark Pulido",
+  "index": 3,
+  "text": "On the Cerritos council he supported leasing police vehicles with automatic license plate readers and, in 2016, opposed budget cuts that would have closed the Cerritos Sheriff's Station.",
+  "kind": "official-action",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://www.ocregister.com/2025/04/29/cerritos-councilmember-mark-pulido-is-running-for-the-67th-assembly-district/",
+   "title": "Cerritos Councilmember Mark Pulido is running for the 67th Assembly District - Orange County Register",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-city-member-of-the-city-council-3rd-district",
+  "contest": "City of Los Angeles — Member of the City Council, 3rd District (City of Los Angeles)",
+  "optionId": "barri-worth-girvan",
+  "candidate": "Barri Worth Girvan",
+  "index": 3,
+  "text": "Campaign priorities: safe, clean neighborhoods through public safety and housing; workforce development and job creation; and more transparent, efficient core services.",
+  "kind": "questionnaire",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://www.barriforthevalley.com",
+   "title": "Barri Worth Girvan for LA City Council (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-27",
+  "contest": "United States Representative, District 27 (California's 27 Congressional District)",
+  "optionId": "george-whitesides",
+  "candidate": "George Whitesides",
+  "index": 0,
+  "text": "Campaign site lists among his priorities in Congress: \"protecting a woman's right to choose.\"",
+  "kind": "own-statement",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://www.georgewhitesideforcongress.com/",
+   "title": "George Whitesides for Congress (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ }
+]

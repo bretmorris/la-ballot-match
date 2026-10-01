@@ -103,16 +103,6 @@
         }
       },
       {
-        "text": "Menjivar voted Aye on SB 101, the Budget Act of 2025, Senate concurrence, 6/13/2025.",
-        "kind": "voting-record",
-        "dimension": "taxes-spending",
-        "source": {
-          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
-          "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
-          "retrieved": "2026-09-30"
-        }
-      },
-      {
         "text": "Menjivar's campaign site says she has \"experienced housing instability\" and wants to keep \"fighting to rewrite the rules that help our working families build the future we deserve.\"",
         "kind": "own-statement",
         "dimension": "renters-landlords",

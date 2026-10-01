@@ -2,7 +2,7 @@
  "contestId": "ca-senate-26",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:41:35.703Z",
+ "scoredAt": "2026-10-01T05:18:29.800Z",
  "options": {
   "sara-hernandez": {
    "taxes-spending": {
@@ -176,66 +176,42 @@
   },
   "sarah-rascon": {
    "taxes-spending": {
-    "position": -0.755,
-    "evidence": 0.94,
-    "confidence": 0.6,
+    "position": -0.815,
+    "evidence": 0.93,
+    "confidence": 0.69,
     "probabilities": {
-     "0": 0.52,
-     "1": 0.48,
+     "0": 0.63,
+     "1": 0.37,
      "2": 0,
      "3": 0,
      "4": 0
     }
    },
    "housing-growth": {
-    "position": 0.1,
-    "evidence": 0.06,
-    "confidence": 0.82,
+    "position": 0.085,
+    "evidence": 0.07,
+    "confidence": 0.85,
     "probabilities": {
      "0": 0,
      "1": 0,
-     "2": 0.81,
-     "3": 0.18,
+     "2": 0.84,
+     "3": 0.15,
      "4": 0.01
     }
    },
    "renters-landlords": {
-    "position": -0.235,
-    "evidence": 0.03,
+    "position": -0.24,
+    "evidence": 0.02,
     "confidence": 0.6,
     "probabilities": {
      "0": 0.04,
-     "1": 0.4,
-     "2": 0.56,
+     "1": 0.41,
+     "2": 0.55,
      "3": 0,
      "4": 0
     }
    },
    "policing-justice": {
-    "position": -0.75,
-    "evidence": 0.97,
-    "confidence": 0.59,
-    "probabilities": {
-     "0": 0.5,
-     "1": 0.5,
-     "2": 0,
-     "3": 0,
-     "4": 0
-    }
-   },
-   "homelessness": {
-    "position": -0.705,
-    "evidence": 0.97,
-    "confidence": 0.65,
-    "probabilities": {
-     "0": 0.42,
-     "1": 0.58,
-     "2": 0,
-     "3": 0,
-     "4": 0
-    }
-   },
-   "climate-energy": {
     "position": -0.72,
     "evidence": 0.97,
     "confidence": 0.63,
@@ -247,15 +223,39 @@
      "4": 0
     }
    },
-   "labor-business": {
-    "position": -0.25,
-    "evidence": 0.89,
-    "confidence": 0.52,
+   "homelessness": {
+    "position": -0.69,
+    "evidence": 0.97,
+    "confidence": 0.68,
     "probabilities": {
-     "0": 0.04,
-     "1": 0.47,
-     "2": 0.44,
-     "3": 0.05,
+     "0": 0.39,
+     "1": 0.61,
+     "2": 0,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.715,
+    "evidence": 0.97,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0.44,
+     "1": 0.56,
+     "2": 0,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.395,
+    "evidence": 0.85,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0.09,
+     "1": 0.63,
+     "2": 0.27,
+     "3": 0.01,
      "4": 0
     }
    },
@@ -272,44 +272,44 @@
     }
    },
    "education": {
-    "position": -0.34,
-    "evidence": 0.36,
-    "confidence": 0.63,
+    "position": -0.37,
+    "evidence": 0.44,
+    "confidence": 0.66,
     "probabilities": {
-     "0": 0.06,
-     "1": 0.56,
-     "2": 0.38,
+     "0": 0.07,
+     "1": 0.6,
+     "2": 0.33,
      "3": 0,
      "4": 0
     }
    },
    "social-issues": {
-    "position": -0.705,
+    "position": -0.725,
     "evidence": 0.92,
-    "confidence": 0.65,
+    "confidence": 0.62,
     "probabilities": {
-     "0": 0.41,
-     "1": 0.59,
+     "0": 0.45,
+     "1": 0.55,
      "2": 0,
      "3": 0,
      "4": 0
     }
    },
    "guns": {
-    "position": -0.17,
+    "position": -0.185,
     "evidence": 0.02,
-    "confidence": 0.72,
+    "confidence": 0.69,
     "probabilities": {
      "0": 0.03,
-     "1": 0.29,
-     "2": 0.6799999999999999,
+     "1": 0.31,
+     "2": 0.66,
      "3": 0,
      "4": 0
     }
    },
    "health-care": {
     "position": -1,
-    "evidence": 0.99,
+    "evidence": 0.98,
     "confidence": 1,
     "probabilities": {
      "0": 1,
@@ -321,24 +321,24 @@
    },
    "transportation": {
     "position": -0.155,
-    "evidence": 0.03,
+    "evidence": 0.02,
     "confidence": 0.74,
     "probabilities": {
      "0": 0.01,
-     "1": 0.29,
-     "2": 0.7,
+     "1": 0.3,
+     "2": 0.69,
      "3": 0,
      "4": 0
     }
    },
    "elections-voting": {
-    "position": -0.245,
-    "evidence": 0.04,
-    "confidence": 0.59,
+    "position": -0.26,
+    "evidence": 0.07,
+    "confidence": 0.56,
     "probabilities": {
-     "0": 0.06,
-     "1": 0.37,
-     "2": 0.57,
+     "0": 0.07,
+     "1": 0.38,
+     "2": 0.55,
      "3": 0,
      "4": 0
     }

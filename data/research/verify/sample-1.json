@@ -1,0 +1,376 @@
+[
+ {
+  "contestId": "us-house-ca-35",
+  "contest": "United States Representative, District 35 (California's 35 Congressional District)",
+  "optionId": "mike-cargile",
+  "candidate": "Mike Cargile",
+  "index": 10,
+  "text": "Says he stands against boys in girls' sports and men in women's bathrooms, opposes DEI and CRT, and supports parents' right to know everything that goes on in school. Backs the Biblical definition of marriage.",
+  "kind": "own-statement",
+  "dimension": "social-issues",
+  "source": {
+   "url": "https://www.cargileforcongress.com/issues",
+   "title": "Issues - Cargile for Congress",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-lieutenant-governor",
+  "contest": "Lieutenant Governor (California)",
+  "optionId": "fiona-ma",
+  "candidate": "Fiona Ma",
+  "index": 0,
+  "text": "Calls housing her \"#1 goal\": \"We need to expand the supply of affordable housing.\" Proposes a zero-interest revolving loan fund from Building Homes and Jobs Trust Fund revenue and workforce housing on school and college land.",
+  "kind": "questionnaire",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+   "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-51",
+  "contest": "Member of the State Assembly, District 51 (California State Assembly District 51)",
+  "optionId": "rick-chavez-zbur",
+  "candidate": "Rick Chavez Zbur",
+  "index": 3,
+  "text": "Authored AB 648 (2025) giving community college districts authority to build student and staff housing, saying it cuts red tape \"while still maintaining important environmental and permitting protections.\" Also authored AB 1740 (2026), easing coastal permitting for housing and bike lanes in urban areas.",
+  "kind": "official-action",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://zbur.asmdc.org/2025-legislative-package",
+   "title": "2025 Legislative Package (Assemblymember Zbur)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-26",
+  "contest": "State Senator, District 26 (California State Senate District 26)",
+  "optionId": "sara-hernandez",
+  "candidate": "Sara Hernandez",
+  "index": 3,
+  "text": "Wants to expand \"safe zone\" protections beyond schools and healthcare and tax private ICE detention; would redirect state funding for mixed-status families facing HUD cuts.",
+  "kind": "own-statement",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://laist.com/brief/news/immigration-public-health-are-top-concerns-at-senate-district-26-candidate-forum-in-boyle-heights",
+   "title": "Immigration, public health are top concerns at Senate District 26 forum (LAist)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-44",
+  "contest": "Member of the State Assembly, District 44 (California State Assembly District 44)",
+  "optionId": "nicholas-nick-schultz",
+  "candidate": "Nicholas \"Nick\" Schultz",
+  "index": 6,
+  "text": "On immigrant legal aid and a $25M DOJ legal defense fund: \"These funds will offer direct critical assistance to veterans, students, renters, families, victims of domestic violence, and law-abiding immigrants who are being targeted by the Trump Administration.\"",
+  "kind": "own-statement",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://schultz.asmdc.org/press-releases/20250203-assemblymember-nick-schultz-assembly-democrats-pass-legal-defense-fund",
+   "title": "Assemblymember Nick Schultz, Assembly Democrats Pass Legal Defense Fund (press release, Feb 3, 2025)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-40",
+  "contest": "Member of the State Assembly, District 40 (California State Assembly District 40)",
+  "optionId": "pilar-schiavo",
+  "candidate": "Pilar Schiavo",
+  "index": 1,
+  "text": "Voted Aye on AB 130, the 2025 housing bill streamlining housing approvals; Assembly floor, 06/30/25, passed 62-3.",
+  "kind": "voting-record",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+   "title": "Assembly floor vote - AB 130 (06/30/25)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-22",
+  "contest": "State Senator, District 22 (California State Senate District 22)",
+  "optionId": "susan-rubio",
+  "candidate": "Susan Rubio",
+  "index": 3,
+  "text": "Rubio voted Aye on SB 98 (schools and colleges: immigration enforcement notification), Senate floor, 9/2/2025.",
+  "kind": "voting-record",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+   "title": "Bill Votes - SB-98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-42",
+  "contest": "Member of the State Assembly, District 42 (California State Assembly District 42)",
+  "optionId": "deborah-klein-lopez",
+  "candidate": "Deborah Klein Lopez",
+  "index": 9,
+  "text": "Endorsed by the California Democratic Party, CTA, CFT, SEIU, Equality California and other labor organizations.",
+  "kind": "endorsement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://indivisibleventura.org/state-42nd-assembly-district-2026-primary-election/",
+   "title": "STATE: 42nd Assembly District (Indivisible Ventura)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-48",
+  "contest": "Member of the State Assembly, District 48 (California State Assembly District 48)",
+  "optionId": "blanca-rubio",
+  "candidate": "Blanca Rubio",
+  "index": 1,
+  "text": "Voted AYE on AB 130 (housing) on the Assembly floor in March and June 2025, and AYE on SB 71 (CEQA exemptions: transit projects), Sept 2025.",
+  "kind": "voting-record",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+   "title": "AB 130 Bill Votes (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-insurance-commissioner",
+  "contest": "Insurance Commissioner (California)",
+  "optionId": "jane-kim",
+  "candidate": "Jane Kim",
+  "index": 3,
+  "text": "As San Francisco supervisor, secured free community college, the city's first $15 minimum wage ordinance and tenant-protection laws.",
+  "kind": "official-action",
+  "dimension": "renters-landlords",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+   "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-39",
+  "contest": "Member of the State Assembly, District 39 (California State Assembly District 39)",
+  "optionId": "juan-carrillo",
+  "candidate": "Juan Carrillo",
+  "index": 8,
+  "text": "Authored AB 2533 (2024, signed): bars local agencies from denying permits for older unpermitted ADUs over building-standard violations and prohibits impact fees except for health/safety needs.",
+  "kind": "official-action",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2533",
+   "title": "AB 2533 - Accessory dwelling units",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-34",
+  "contest": "Member of the State Assembly, District 34 (California State Assembly District 34)",
+  "optionId": "charles-frederick-hughes",
+  "candidate": "Charles Frederick Hughes",
+  "index": 5,
+  "text": "\"California needs more housing, but Sacramento's one-size-fits-all mandates are not working for rural communities.\"",
+  "kind": "own-statement",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+   "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-44",
+  "contest": "Member of the State Assembly, District 44 (California State Assembly District 44)",
+  "optionId": "carolyn-daniels",
+  "candidate": "Carolyn Daniels",
+  "index": 10,
+  "text": "Endorsed by the Howard Jarvis Taxpayers Association PAC (listed for Assembly District 44).",
+  "kind": "endorsement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.hjta.org/election-information/for-voters/endorsements-by-the-hjta-pac/",
+   "title": "HJTA-PAC Endorsements",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-secretary-of-state",
+  "contest": "Secretary of State (California)",
+  "optionId": "shirley-n-weber",
+  "candidate": "Shirley N. Weber",
+  "index": 4,
+  "text": "Endorsed by the California Democratic Party, California Federation of Teachers and SEIU California.",
+  "kind": "endorsement",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/secretary-of-state/",
+   "title": "CalMatters 2026 California Voter Guide: Secretary of State",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-36",
+  "contest": "State Senator, District 36 (California State Senate District 36)",
+  "optionId": "tony-strickland",
+  "candidate": "Tony Strickland",
+  "index": 10,
+  "text": "Strickland's office: opposed ACA 20 as \"more debt, more spending\" (6/25/2026), and criticized Sacramento Democrats for rejecting a gas tax suspension (8/25/2026).",
+  "kind": "official-action",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://sr36.senate.ca.gov/news",
+   "title": "Senator Tony Strickland - Press Releases and Op-Eds",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 2 (Los Angeles Community College District)",
+  "optionId": "robert-payne",
+  "candidate": "Robert Payne",
+  "index": 3,
+  "text": "Says corporations give trustees many thousands of dollars at election time; proposes such money go to language-acquisition software and tutorials instead of campaign mailings.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://payneforlaccd.info/future/future_index.html",
+   "title": "PayneforLACCD.info - The Future (may predate 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-20",
+  "contest": "State Senator, District 20 (California State Senate District 20)",
+  "optionId": "caroline-menjivar",
+  "candidate": "Caroline Menjivar",
+  "index": 10,
+  "text": "Menjivar voted Aye on SB 101, the Budget Act of 2025, Senate concurrence, 6/13/2025.",
+  "kind": "voting-record",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
+   "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-26",
+  "contest": "United States Representative, District 26 (California's 26 Congressional District)",
+  "optionId": "jacqui-irwin",
+  "candidate": "Jacqui Irwin",
+  "index": 6,
+  "text": "Joined 21 Assembly members in March 2022 proposing a $400 tax rebate in response to rising gas prices and consumer inflation.",
+  "kind": "official-action",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://irwin.asmdc.org/press-releases/20220317-asm-irwin-joins-legislators-calling-tax-rebate-rising-gas-prices-and",
+   "title": "Irwin joins legislators calling for tax rebate (Mar 17, 2022)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-20",
+  "contest": "State Senator, District 20 (California State Senate District 20)",
+  "optionId": "tony-rodriguez",
+  "candidate": "Tony Rodriguez",
+  "index": 2,
+  "text": "Would protect small businesses by eliminating overregulation and protecting them from crime.",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://www.ballotready.org/people/tony-rodriguez-2c99acce-992c-413e-ae9d-f85c95104d9e",
+   "title": "Tony Rodriguez - BallotReady",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-26",
+  "contest": "State Senator, District 26 (California State Senate District 26)",
+  "optionId": "sarah-rascon",
+  "candidate": "Sarah Rascón",
+  "index": 6,
+  "text": "Supports \"public investment in workforce development, education, and community economic opportunity\" and tax credits for California's entertainment sector.",
+  "kind": "own-statement",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://electionscali.com/candidates/sarah-rascn",
+   "title": "Sarah Rascón - Election Scali",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-27",
+  "contest": "United States Representative, District 27 (California's 27 Congressional District)",
+  "optionId": "jason-gibbs",
+  "candidate": "Jason Gibbs",
+  "index": 2,
+  "text": "Campaign site: \"supports securing the border, cracking down on fentanyl trafficking, and ending policies that reward illegal entry\"; believes in legal immigration.",
+  "kind": "own-statement",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://www.jasongibbsforcongress.com/",
+   "title": "Jason Gibbs for Congress (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-santa-clarita-member-of-the-city-council-4th-district",
+  "contest": "City of Santa Clarita — Member of the City Council, 4th District (City of Santa Clarita)",
+  "optionId": "laurene-weste",
+  "candidate": "Laurene Weste",
+  "index": 2,
+  "text": "Says she has grown the City's budget reserves to $27 million and delivered a balanced, on-time city budget every year.",
+  "kind": "official-action",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://www.laureneweste.com",
+   "title": "Laurene Weste for City Council (campaign site)",
+   "retrieved": "2026-10-01"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-6",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 6 (Los Angeles Community College District)",
+  "optionId": "randall-winston",
+  "candidate": "Randall Winston",
+  "index": 1,
+  "text": "Pledges to expand support services and financial aid that keep students enrolled, focusing on veterans, first-generation, low-income and working students.",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://www.randalljwinston.com/issues",
+   "title": "Randall Winston for LACCD - Issues",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-46",
+  "contest": "Member of the State Assembly, District 46 (California State Assembly District 46)",
+  "optionId": "tracey-schroeder",
+  "candidate": "Tracey Schroeder",
+  "index": 6,
+  "text": "Opposes the state's road-mileage tracking and taxing idea: \"STOP the track & tax our miles agenda.\"",
+  "kind": "own-statement",
+  "dimension": "transportation",
+  "source": {
+   "url": "https://traceyschroeder.com/",
+   "title": "Tracey Schroeder for Assembly 46 (home page)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-culver-city-member-of-the-city-council",
+  "contest": "City of Culver City — Member of the City Council (City of Culver City)",
+  "optionId": "jeannine-wisnosky-stehlin",
+  "candidate": "Jeannine Wisnosky Stehlin",
+  "index": 2,
+  "text": "On wages, called for bringing stakeholders to the table for dialogue.",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://culvercitycrossroads.com/2026/09/24/candidate-forum-hears-from-all-five-running-housing-and-wages-get-center-stage/",
+   "title": "Culver City Crossroads: Candidate Forum Hears from All Five Running (2026-09-24)",
+   "retrieved": "2026-10-01"
+  },
+  "dimension": "labor-business"
+ }
+]

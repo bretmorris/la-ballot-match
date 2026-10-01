@@ -74,7 +74,7 @@ export default function AddressStep({ onBack, onDone }: Props) {
       <div className="bar">Where are you registered to vote?</div>
       <div className="body">
         <p className="meta">
-          Your ballot depends on your address. It&apos;s used only to find your districts. It isn&apos;t stored.
+          Your ballot depends on your address. It&apos;s used only to find your districts, isn&apos;t stored on any server, and is saved only in this browser.
         </p>
         <form
           onSubmit={(e) => {

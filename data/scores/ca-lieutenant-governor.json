@@ -2,13 +2,13 @@
  "contestId": "ca-lieutenant-governor",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:41:36.036Z",
+ "scoredAt": "2026-10-01T05:18:29.840Z",
  "options": {
   "fiona-ma": {
    "taxes-spending": {
-    "position": -0.565,
+    "position": -0.57,
     "evidence": 0.95,
-    "confidence": 0.82,
+    "confidence": 0.81,
     "probabilities": {
      "0": 0.18,
      "1": 0.78,
@@ -18,60 +18,60 @@
     }
    },
    "housing-growth": {
-    "position": 0.68,
-    "evidence": 0.94,
-    "confidence": 0.58,
+    "position": 0.57,
+    "evidence": 0.86,
+    "confidence": 0.68,
     "probabilities": {
      "0": 0,
      "1": 0,
-     "2": 0.07,
-     "3": 0.5,
-     "4": 0.43
+     "2": 0.12,
+     "3": 0.61,
+     "4": 0.27
     }
    },
    "renters-landlords": {
-    "position": -0.26,
-    "evidence": 0.17,
-    "confidence": 0.54,
+    "position": -0.21,
+    "evidence": 0.13,
+    "confidence": 0.61,
     "probabilities": {
-     "0": 0.03,
-     "1": 0.48,
-     "2": 0.48,
-     "3": 0.01,
+     "0": 0.02,
+     "1": 0.41,
+     "2": 0.55,
+     "3": 0.02,
      "4": 0
     }
    },
    "policing-justice": {
-    "position": -0.045,
+    "position": -0.04,
     "evidence": 0.02,
-    "confidence": 0.92,
+    "confidence": 0.93,
     "probabilities": {
-     "0": 0.01,
+     "0": 0,
      "1": 0.08,
-     "2": 0.91,
+     "2": 0.92,
      "3": 0,
      "4": 0
     }
    },
    "homelessness": {
-    "position": -0.57,
-    "evidence": 0.34,
-    "confidence": 0.75,
+    "position": -0.515,
+    "evidence": 0.17,
+    "confidence": 0.78,
     "probabilities": {
-     "0": 0.22,
-     "1": 0.7,
-     "2": 0.08,
+     "0": 0.15,
+     "1": 0.73,
+     "2": 0.12,
      "3": 0,
      "4": 0
     }
    },
    "climate-energy": {
-    "position": -0.63,
-    "evidence": 0.9,
-    "confidence": 0.73,
+    "position": -0.615,
+    "evidence": 0.89,
+    "confidence": 0.75,
     "probabilities": {
-     "0": 0.29,
-     "1": 0.68,
+     "0": 0.26,
+     "1": 0.71,
      "2": 0.03,
      "3": 0,
      "4": 0
@@ -79,8 +79,8 @@
    },
    "labor-business": {
     "position": -0.72,
-    "evidence": 0.91,
-    "confidence": 0.62,
+    "evidence": 0.89,
+    "confidence": 0.61,
     "probabilities": {
      "0": 0.45,
      "1": 0.54,
@@ -90,45 +90,45 @@
     }
    },
    "immigration": {
-    "position": -0.1,
+    "position": -0.105,
     "evidence": 0.02,
     "confidence": 0.82,
     "probabilities": {
-     "0": 0.01,
+     "0": 0.02,
      "1": 0.18,
-     "2": 0.81,
+     "2": 0.8,
      "3": 0,
      "4": 0
     }
    },
    "education": {
-    "position": -0.535,
-    "evidence": 0.9,
+    "position": -0.59,
+    "evidence": 0.88,
     "confidence": 0.59,
     "probabilities": {
-     "0": 0.28,
-     "1": 0.52,
-     "2": 0.2,
+     "0": 0.34,
+     "1": 0.51,
+     "2": 0.15,
      "3": 0,
      "4": 0
     }
    },
    "social-issues": {
-    "position": -0.45,
+    "position": -0.435,
     "evidence": 0.02,
-    "confidence": 0.54,
+    "confidence": 0.53,
     "probabilities": {
-     "0": 0.22,
-     "1": 0.46,
-     "2": 0.32,
+     "0": 0.21,
+     "1": 0.45,
+     "2": 0.34,
      "3": 0,
      "4": 0
     }
    },
    "guns": {
-    "position": -0.13,
-    "evidence": 0.02,
-    "confidence": 0.78,
+    "position": -0.125,
+    "evidence": 0.01,
+    "confidence": 0.79,
     "probabilities": {
      "0": 0.03,
      "1": 0.2,
@@ -138,37 +138,37 @@
     }
    },
    "health-care": {
-    "position": -0.12,
+    "position": -0.13,
     "evidence": 0.02,
-    "confidence": 0.79,
+    "confidence": 0.77,
     "probabilities": {
      "0": 0.02,
-     "1": 0.22,
-     "2": 0.76,
+     "1": 0.24,
+     "2": 0.74,
      "3": 0,
      "4": 0
     }
    },
    "transportation": {
-    "position": -0.04,
-    "evidence": 0.05,
-    "confidence": 0.92,
+    "position": -0.035,
+    "evidence": 0.06,
+    "confidence": 0.93,
     "probabilities": {
      "0": 0,
-     "1": 0.08,
-     "2": 0.92,
+     "1": 0.07,
+     "2": 0.93,
      "3": 0,
      "4": 0
     }
    },
    "elections-voting": {
-    "position": -0.09,
-    "evidence": 0.47,
-    "confidence": 0.83,
+    "position": -0.095,
+    "evidence": 0.48,
+    "confidence": 0.81,
     "probabilities": {
      "0": 0.01,
-     "1": 0.17,
-     "2": 0.81,
+     "1": 0.19,
+     "2": 0.79,
      "3": 0.01,
      "4": 0
     }

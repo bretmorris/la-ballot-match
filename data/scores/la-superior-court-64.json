@@ -2,174 +2,174 @@
  "contestId": "la-superior-court-64",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:41:35.272Z",
+ "scoredAt": "2026-10-01T05:18:29.628Z",
  "options": {
   "maria-ghobadi": {
    "taxes-spending": {
-    "position": -0.02,
-    "evidence": 0.01,
-    "confidence": 0.95,
+    "position": -0.045,
+    "evidence": 0.02,
+    "confidence": 0.9,
     "probabilities": {
      "0": 0,
-     "1": 0.05,
-     "2": 0.95,
-     "3": 0,
+     "1": 0.1,
+     "2": 0.89,
+     "3": 0.01,
      "4": 0
     }
    },
    "housing-growth": {
-    "position": 0,
+    "position": 0.015,
     "evidence": 0.02,
-    "confidence": 0.98,
+    "confidence": 0.96,
     "probabilities": {
      "0": 0,
      "1": 0.01,
-     "2": 0.98,
-     "3": 0.01,
+     "2": 0.96,
+     "3": 0.03,
      "4": 0
     }
    },
    "renters-landlords": {
-    "position": -0.07,
+    "position": -0.1,
     "evidence": 0.01,
-    "confidence": 0.87,
+    "confidence": 0.83,
     "probabilities": {
      "0": 0.01,
-     "1": 0.13,
-     "2": 0.85,
-     "3": 0.01,
+     "1": 0.18,
+     "2": 0.81,
+     "3": 0,
      "4": 0
     }
    },
    "policing-justice": {
-    "position": 0.085,
-    "evidence": 0.77,
-    "confidence": 0.86,
+    "position": 0.065,
+    "evidence": 0.74,
+    "confidence": 0.87,
     "probabilities": {
      "0": 0,
-     "1": 0,
-     "2": 0.84,
-     "3": 0.14,
-     "4": 0.02
+     "1": 0.01,
+     "2": 0.86,
+     "3": 0.12,
+     "4": 0.01
     }
    },
    "homelessness": {
     "position": 0.04,
     "evidence": 0.02,
-    "confidence": 0.93,
+    "confidence": 0.92,
     "probabilities": {
      "0": 0,
-     "1": 0,
-     "2": 0.93,
+     "1": 0.01,
+     "2": 0.91,
      "3": 0.07,
-     "4": 0
+     "4": 0.01
     }
    },
    "climate-energy": {
     "position": 0,
     "evidence": 0.01,
-    "confidence": 0.99,
+    "confidence": 0.97,
     "probabilities": {
      "0": 0,
      "1": 0.01,
-     "2": 0.99,
+     "2": 0.98,
      "3": 0,
-     "4": 0
+     "4": 0.01
     }
    },
    "labor-business": {
-    "position": -0.515,
-    "evidence": 0.07,
-    "confidence": 0.7,
+    "position": -0.56,
+    "evidence": 0.06,
+    "confidence": 0.71,
     "probabilities": {
-     "0": 0.2,
-     "1": 0.65,
-     "2": 0.15,
+     "0": 0.23,
+     "1": 0.67,
+     "2": 0.1,
      "3": 0,
      "4": 0
     }
    },
    "immigration": {
-    "position": -0.05,
+    "position": -0.08,
     "evidence": 0.02,
-    "confidence": 0.88,
+    "confidence": 0.83,
     "probabilities": {
      "0": 0.01,
-     "1": 0.11,
-     "2": 0.86,
+     "1": 0.17,
+     "2": 0.8,
      "3": 0.02,
      "4": 0
     }
    },
    "education": {
-    "position": -0.21,
+    "position": -0.245,
     "evidence": 0.02,
-    "confidence": 0.64,
+    "confidence": 0.58,
     "probabilities": {
-     "0": 0.11,
-     "1": 0.22,
-     "2": 0.67,
+     "0": 0.12,
+     "1": 0.26,
+     "2": 0.62,
      "3": 0,
      "4": 0
     }
    },
    "social-issues": {
-    "position": -0.265,
+    "position": -0.31,
     "evidence": 0.02,
-    "confidence": 0.55,
+    "confidence": 0.59,
     "probabilities": {
-     "0": 0.04,
-     "1": 0.45,
-     "2": 0.51,
+     "0": 0.06,
+     "1": 0.51,
+     "2": 0.43,
      "3": 0,
      "4": 0
     }
    },
    "guns": {
-    "position": -0.045,
+    "position": -0.09,
     "evidence": 0.02,
-    "confidence": 0.87,
+    "confidence": 0.78,
     "probabilities": {
-     "0": 0.01,
-     "1": 0.11,
-     "2": 0.85,
+     "0": 0.02,
+     "1": 0.19,
+     "2": 0.76,
      "3": 0.03,
      "4": 0
     }
    },
    "health-care": {
-    "position": -0.05,
+    "position": -0.095,
     "evidence": 0.02,
-    "confidence": 0.91,
+    "confidence": 0.83,
     "probabilities": {
      "0": 0.01,
-     "1": 0.1,
-     "2": 0.89,
+     "1": 0.17,
+     "2": 0.81,
      "3": 0,
      "4": 0
     }
    },
    "transportation": {
-    "position": 0.005,
+    "position": -0.005,
     "evidence": 0.02,
-    "confidence": 0.98,
+    "confidence": 0.96,
     "probabilities": {
      "0": 0,
-     "1": 0.01,
-     "2": 0.98,
+     "1": 0.02,
+     "2": 0.97,
      "3": 0.01,
      "4": 0
     }
    },
    "elections-voting": {
-    "position": -0.08,
+    "position": -0.14,
     "evidence": 0.02,
-    "confidence": 0.85,
+    "confidence": 0.75,
     "probabilities": {
-     "0": 0.02,
-     "1": 0.13,
-     "2": 0.85,
-     "3": 0,
+     "0": 0.04,
+     "1": 0.21,
+     "2": 0.74,
+     "3": 0.01,
      "4": 0
     }
    }

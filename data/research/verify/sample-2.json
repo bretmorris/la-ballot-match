@@ -1,0 +1,375 @@
+[
+ {
+  "contestId": "la-superior-court-65",
+  "contest": "Judge of the Superior Court, Office No. 65 (Los Angeles County Superior Court)",
+  "optionId": "justin-allen-clayton",
+  "candidate": "Justin Allen Clayton",
+  "index": 0,
+  "text": "Campaign frames his candidacy around \"accountability, passion and shared responsibility to keep Los Angeles courts fair and accessible for every resident.\"",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://claytonforjudge2026.com",
+   "title": "Clayton for Judge 2026 (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-28",
+  "contest": "State Senator, District 28 (California State Senate District 28)",
+  "optionId": "lola-smallwood-cuevas",
+  "candidate": "Lola Smallwood-Cuevas",
+  "index": 1,
+  "text": "Smallwood-Cuevas voted Aye on AB 1127 (firearms: converter pistols), Senate floor, 9/12/2025.",
+  "kind": "voting-record",
+  "dimension": "guns",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+   "title": "Bill Votes - AB-1127 Firearms: converter pistols (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-46",
+  "contest": "Member of the State Assembly, District 46 (California State Assembly District 46)",
+  "optionId": "jesse-gabriel",
+  "candidate": "Jesse Gabriel",
+  "index": 5,
+  "text": "Voted AYE on AB 1127 (firearms: converter pistols), a bill listed under his name, on the Assembly floor in June and Sept 2025.",
+  "kind": "voting-record",
+  "dimension": "guns",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+   "title": "AB 1127 Bill Votes (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-culver-city-member-of-the-city-council",
+  "contest": "City of Culver City — Member of the City Council (City of Culver City)",
+  "optionId": "freddy-puza",
+  "candidate": "Freddy Puza",
+  "index": 0,
+  "text": "Defended municipal loans for Jubilo Village housing; said drawing from reserves 'was a complex decision meant to tackle an urgent housing shortage.'",
+  "kind": "voting-record",
+  "source": {
+   "url": "https://culvercitycrossroads.com/2026/08/20/candidates-discuss-housing-transportation-policies-at-council-forum/",
+   "title": "Culver City Crossroads: Candidates Discuss Housing, Transportation Policies at Council Forum (2026-08-20)",
+   "retrieved": "2026-10-01"
+  },
+  "dimension": "housing-growth"
+ },
+ {
+  "contestId": "ca-assembly-39",
+  "contest": "Member of the State Assembly, District 39 (California State Assembly District 39)",
+  "optionId": "paul-andre-marsh",
+  "candidate": "Paul Andre Marsh",
+  "index": 1,
+  "text": "\"Parents have a strong say in their children's education, healthcare, and well-being, without bureaucratic interference.\"",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://www.ballotready.org/people/paul-marsh",
+   "title": "BallotReady - Paul Andre Marsh",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-26",
+  "contest": "United States Representative, District 26 (California's 26 Congressional District)",
+  "optionId": "sam-gallucci",
+  "candidate": "Sam Gallucci",
+  "index": 6,
+  "text": "2021 recall campaign: said his business experience would 'help create jobs, lower taxes, and roll back regulations that hurt job growth.'",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://patch.com/california/los-angeles/ca-recall-candidate-profile-meet-sam-galluci",
+   "title": "CA Recall Candidate Profile: Meet Sam Gallucci (Patch)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-42",
+  "contest": "Member of the State Assembly, District 42 (California State Assembly District 42)",
+  "optionId": "ted-nordblum",
+  "candidate": "Ted Nordblum",
+  "index": 2,
+  "text": "Supports efforts to \"empower parents in shaping their kids' education.\"",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://tednordblum.substack.com/p/ted-nordblum-for-state-assembly",
+   "title": "Ted Nordblum For State Assembly",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-governor",
+  "contest": "Governor (California)",
+  "optionId": "xavier-becerra",
+  "candidate": "Xavier Becerra",
+  "index": 7,
+  "text": "Voted for Proposition 36 (2024 tougher-on-crime measure); supports court-mandated drug treatment to avoid jail; opposes longer, stricter sentences generally.",
+  "kind": "voting-record",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+   "title": "CalMatters 2026 California Voter Guide: Governor",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-county-sheriff",
+  "contest": "Sheriff (Los Angeles County)",
+  "optionId": "robert-g-luna",
+  "candidate": "Robert G. Luna",
+  "index": 3,
+  "text": "As Long Beach police chief (2020), his department banned sleeper holds after George Floyd protests, calling it the \"first of many steps\" in community trust-building.",
+  "kind": "official-action",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://en.wikipedia.org/wiki/Robert_Luna",
+   "title": "Robert Luna (Wikipedia)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 2 (Los Angeles Community College District)",
+  "optionId": "adriana-cabrera",
+  "candidate": "Adriana Cabrera",
+  "index": 5,
+  "text": "Proposes using Measure LA funds to replace asphalt with tree canopy on campuses, a Healthy Green Campuses Initiative, and workforce certificates in solar operations and stormwater management.",
+  "kind": "own-statement",
+  "dimension": "climate-energy",
+  "source": {
+   "url": "https://adrianaforlaccd.com/platform",
+   "title": "Adriana Cabrera for LACCD - Priorities",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "la-superior-court-64",
+  "contest": "Judge of the Superior Court, Office No. 64 (Los Angeles County Superior Court)",
+  "optionId": "maria-ghobadi",
+  "candidate": "Maria Ghobadi",
+  "index": 0,
+  "text": "Campaign themes are \"Public Safety. Equal Justice\": says she understands the balance between protecting the public and upholding the constitutional rights of the accused, and pursued \"justice, not simply convictions.\"",
+  "kind": "own-statement",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://mariaghobadi4judge.com",
+   "title": "Maria Ghobadi for Judge (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-west-hollywood-member-of-the-city-council",
+  "contest": "City of West Hollywood — Member of the City Council (City of West Hollywood)",
+  "optionId": "stephen-j-post",
+  "candidate": "Stephen J. Post",
+  "index": 0,
+  "text": "Defended billboard revenue while calling for restrictions such as lower brightness (Streets for All debate).",
+  "kind": "own-statement",
+  "source": {
+   "url": "https://wehoonline.com/west-hollywood-billboard-pac-byers-krieger-cottrell-billboard-money/",
+   "title": "WEHO Online: Billboard money pours into new PAC backing Byers, Cottrell and Krieger (Sept 22, 2026)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "city-of-santa-clarita-member-of-the-city-council-4th-district",
+  "contest": "City of Santa Clarita — Member of the City Council, 4th District (City of Santa Clarita)",
+  "optionId": "nick-somers",
+  "candidate": "Nick Somers",
+  "index": 0,
+  "text": "\"I believe our city deserves thoughtful leadership, responsible growth, and a City Hall that listens.\" His site lists no detailed issue positions.",
+  "kind": "own-statement",
+  "dimension": "housing-growth",
+  "source": {
+   "url": "https://www.nicksomers.com",
+   "title": "Nick Somers for Santa Clarita City Council 2026 (campaign site)",
+   "retrieved": "2026-10-01"
+  }
+ },
+ {
+  "contestId": "la-city-member-of-the-city-council-9th-district",
+  "contest": "City of Los Angeles — Member of the City Council, 9th District (City of Los Angeles)",
+  "optionId": "estuardo-mazariegos",
+  "candidate": "Estuardo Mazariegos",
+  "index": 7,
+  "text": "Endorsed by United Teachers Los Angeles, SEIU 1000, SEIU USWW, SEIU 2015, DSA-LA and Sen. Bernie Sanders.",
+  "kind": "endorsement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://www.estuardo4la.com",
+   "title": "Estuardo Mazariegos for City Council (campaign site)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-24",
+  "contest": "State Senator, District 24 (California State Senate District 24)",
+  "optionId": "john-m-erickson",
+  "candidate": "John M. Erickson",
+  "index": 4,
+  "text": "On homelessness: wants \"proven care-first approaches\" and investment in mental health and behavioral services, not \"sweeping people away.\"",
+  "kind": "own-statement",
+  "dimension": "homelessness",
+  "source": {
+   "url": "https://beverlypress.com/2026/04/wehos-john-erickson-outlines-his-vision-for-the-24th-district/",
+   "title": "WeHo's John Erickson outlines his vision for the 24th District (Beverly Press)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-43",
+  "contest": "Member of the State Assembly, District 43 (California State Assembly District 43)",
+  "optionId": "celeste-rodriguez",
+  "candidate": "Celeste Rodriguez",
+  "index": 5,
+  "text": "Authored AB 495 (Family Preparedness Plan Act of 2025, chaptered): broadens caregiver authorizations and guardianship options when parents face immigration-related action, and limits schools and child care facilities from collecting immigration status information.",
+  "kind": "official-action",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB495",
+   "title": "AB 495 - California Legislative Information",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-assembly-34",
+  "contest": "Member of the State Assembly, District 34 (California State Assembly District 34)",
+  "optionId": "randall-putz",
+  "candidate": "Randall Putz",
+  "index": 8,
+  "text": "Public safety plan supports infrastructure upgrades such as better street lighting and widened roads that prevent accidents and crimes; highlights highway safety on Routes 138 and US 395.",
+  "kind": "own-statement",
+  "dimension": "transportation",
+  "source": {
+   "url": "https://www.putzforassembly.com/public-safety",
+   "title": "Randall Putz for Assembly - public-safety",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-6",
+  "contest": "Los Angeles Community College District — Member of the Board of Trustees, Seat 6 (Los Angeles Community College District)",
+  "optionId": "gabriel-buelna",
+  "candidate": "Gabriel Buelna",
+  "index": 1,
+  "text": "Says community colleges \"should be engines of economic opportunity and success\" and recalls that LACCD courses helped his immigrant parents become citizens.",
+  "kind": "own-statement",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://www.buelna4laccd.com/message_from_gabriel",
+   "title": "Buelna for College Board 2026 - A Message from Dr. Buelna",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-30",
+  "contest": "State Senator, District 30 (California State Senate District 30)",
+  "optionId": "bob-j-archuleta",
+  "candidate": "Bob J. Archuleta",
+  "index": 5,
+  "text": "Archuleta voted Aye on SB 63 (Bay Area local revenue measure for public transit funding), Senate concurrence, 9/13/2025.",
+  "kind": "voting-record",
+  "dimension": "transportation",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63",
+   "title": "Bill Votes - SB-63 San Francisco Bay area: local revenue measure: public transit funding (leginfo.legislature.ca.gov)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "pasadena-unified-school-district-board-of-education-district-no-7",
+  "contest": "Pasadena Unified School District — Board of Education, District No. 7 (Pasadena Unified School District)",
+  "optionId": "dennis-j-mcnamara",
+  "candidate": "Dennis J. McNamara",
+  "index": 1,
+  "text": "McNamara chairs the Citizens' Oversight Committee monitoring the district's $1.4 billion school modernization programs and is a former Western Asset Management executive (budgeting, staffing, information systems).",
+  "kind": "official-action",
+  "dimension": "taxes-spending",
+  "source": {
+   "url": "https://pasadenanow.com/main/mcnamara-hopes-to-win-school-board-district-7-seat",
+   "title": "Pasadena Now: McNamara Hopes to Win School Board District 7 Seat",
+   "retrieved": "2026-10-01"
+  }
+ },
+ {
+  "contestId": "ca-assembly-55",
+  "contest": "Member of the State Assembly, District 55 (California State Assembly District 55)",
+  "optionId": "isaac-g-bryan",
+  "candidate": "Isaac G. Bryan",
+  "index": 0,
+  "text": "Authored AB 247 (signed Oct 13, 2025): incarcerated hand-crew firefighters must be paid $7.25 per hour while assigned to an active fire incident, with annual rate review, while keeping existing sentence-credit benefits.",
+  "kind": "official-action",
+  "dimension": "policing-justice",
+  "source": {
+   "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB247",
+   "title": "AB-247 Incarcerated individual hand crew members: wages (leginfo)",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-34",
+  "contest": "State Senator, District 34 (California State Senate District 34)",
+  "optionId": "rhonda-shader",
+  "candidate": "Rhonda Shader",
+  "index": 2,
+  "text": "Supports \"education funding follow the student, giving parents more options, including charter schools.\"",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://www.ballotready.org/people/rhonda-shader",
+   "title": "Rhonda Shader - BallotReady",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-senate-28",
+  "contest": "State Senator, District 28 (California State Senate District 28)",
+  "optionId": "joe-lisuzzo",
+  "candidate": "Joe Lisuzzo",
+  "index": 3,
+  "text": "Calls LA school underperformance \"a management problem\" despite about $19 billion annual LAUSD funding; calls for reform and alternative educational opportunities.",
+  "kind": "own-statement",
+  "dimension": "education",
+  "source": {
+   "url": "https://www.ballotready.org/people/joe-lisuzzo",
+   "title": "Joe Lisuzzo - BallotReady",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "ca-governor",
+  "contest": "Governor (California)",
+  "optionId": "steve-hilton",
+  "candidate": "Steve Hilton",
+  "index": 9,
+  "text": "Would curb labor laws used to sue businesses and cut business registration fees.",
+  "kind": "own-statement",
+  "dimension": "labor-business",
+  "source": {
+   "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+   "title": "CalMatters 2026 California Voter Guide: Governor",
+   "retrieved": "2026-09-30"
+  }
+ },
+ {
+  "contestId": "us-house-ca-45",
+  "contest": "United States Representative, District 45 (California's 45 Congressional District)",
+  "optionId": "chuong-v-vo",
+  "candidate": "Chuong V. Vo",
+  "index": 5,
+  "text": "Wants to 'secure the border and restore order, then modernize legal immigration,' with faster asylum and visa processing and 'professional enforcement without racial profiling.'",
+  "kind": "questionnaire",
+  "dimension": "immigration",
+  "source": {
+   "url": "https://smarter.vote/races/ca-45-house-2026/chuong-vo/",
+   "title": "Chuong Vo - 2026 candidate profile (smarter.vote)",
+   "retrieved": "2026-09-30"
+  }
+ }
+]

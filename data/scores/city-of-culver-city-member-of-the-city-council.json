@@ -2,7 +2,7 @@
  "contestId": "city-of-culver-city-member-of-the-city-council",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T05:07:14.482Z",
+ "scoredAt": "2026-10-01T05:18:29.660Z",
  "options": {
   "jeannine-wisnosky-stehlin": {
    "taxes-spending": {
@@ -346,69 +346,93 @@
   },
   "freddy-puza": {
    "taxes-spending": {
-    "position": -0.025,
-    "evidence": 0.81,
-    "confidence": 0.82,
+    "position": -0.055,
+    "evidence": 0.84,
+    "confidence": 0.77,
     "probabilities": {
      "0": 0,
-     "1": 0.13,
-     "2": 0.79,
+     "1": 0.19,
+     "2": 0.73,
      "3": 0.08,
      "4": 0
     }
    },
    "housing-growth": {
-    "position": 0.55,
-    "evidence": 0.95,
-    "confidence": 0.78,
+    "position": 0.42,
+    "evidence": 0.93,
+    "confidence": 0.68,
     "probabilities": {
      "0": 0,
-     "1": 0,
-     "2": 0.07,
-     "3": 0.75,
-     "4": 0.18
+     "1": 0.01,
+     "2": 0.25,
+     "3": 0.63,
+     "4": 0.11
     }
    },
    "renters-landlords": {
-    "position": -0.015,
-    "evidence": 0.07,
-    "confidence": 0.87,
+    "position": -0.14,
+    "evidence": 0.06,
+    "confidence": 0.75,
     "probabilities": {
-     "0": 0,
-     "1": 0.08,
-     "2": 0.86,
-     "3": 0.05,
-     "4": 0.01
+     "0": 0.01,
+     "1": 0.27,
+     "2": 0.71,
+     "3": 0.01,
+     "4": 0
     }
    },
    "policing-justice": {
-    "position": -0.04,
-    "evidence": 0.03,
-    "confidence": 0.92,
+    "position": -0.06,
+    "evidence": 0.04,
+    "confidence": 0.89,
     "probabilities": {
      "0": 0.01,
-     "1": 0.07,
-     "2": 0.92,
+     "1": 0.11,
+     "2": 0.88,
      "3": 0,
      "4": 0
     }
    },
    "homelessness": {
-    "position": -0.56,
-    "evidence": 0.88,
-    "confidence": 0.82,
+    "position": -0.535,
+    "evidence": 0.89,
+    "confidence": 0.8,
     "probabilities": {
-     "0": 0.17,
-     "1": 0.78,
-     "2": 0.05,
+     "0": 0.16,
+     "1": 0.76,
+     "2": 0.08,
      "3": 0,
      "4": 0
     }
    },
    "climate-energy": {
-    "position": 0,
+    "position": -0.005,
     "evidence": 0.03,
-    "confidence": 0.98,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.98,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.035,
+    "evidence": 0.39,
+    "confidence": 0.93,
+    "probabilities": {
+     "0": 0,
+     "1": 0.08,
+     "2": 0.92,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
     "probabilities": {
      "0": 0,
      "1": 0.01,
@@ -417,50 +441,26 @@
      "4": 0
     }
    },
-   "labor-business": {
-    "position": -0.025,
-    "evidence": 0.37,
-    "confidence": 0.94,
-    "probabilities": {
-     "0": 0,
-     "1": 0.05,
-     "2": 0.94,
-     "3": 0.01,
-     "4": 0
-    }
-   },
-   "immigration": {
-    "position": 0,
-    "evidence": 0.02,
-    "confidence": 0.99,
-    "probabilities": {
-     "0": 0,
-     "1": 0,
-     "2": 1,
-     "3": 0,
-     "4": 0
-    }
-   },
    "education": {
     "position": -0.01,
     "evidence": 0.06,
-    "confidence": 0.96,
+    "confidence": 0.97,
     "probabilities": {
-     "0": 0.01,
+     "0": 0,
      "1": 0.02,
-     "2": 0.97,
+     "2": 0.98,
      "3": 0,
      "4": 0
     }
    },
    "social-issues": {
-    "position": -0.015,
+    "position": -0.01,
     "evidence": 0.02,
-    "confidence": 0.97,
+    "confidence": 0.98,
     "probabilities": {
      "0": 0,
-     "1": 0.03,
-     "2": 0.97,
+     "1": 0.02,
+     "2": 0.98,
      "3": 0,
      "4": 0
     }
@@ -480,7 +480,7 @@
    "health-care": {
     "position": 0.005,
     "evidence": 0.02,
-    "confidence": 0.99,
+    "confidence": 0.98,
     "probabilities": {
      "0": 0,
      "1": 0,
@@ -490,25 +490,25 @@
     }
    },
    "transportation": {
-    "position": -0.425,
-    "evidence": 0.89,
-    "confidence": 0.83,
+    "position": -0.445,
+    "evidence": 0.88,
+    "confidence": 0.87,
     "probabilities": {
      "0": 0.02,
-     "1": 0.8,
-     "2": 0.17,
+     "1": 0.85,
+     "2": 0.13,
      "3": 0,
      "4": 0
     }
    },
    "elections-voting": {
-    "position": 0,
+    "position": -0.005,
     "evidence": 0.03,
     "confidence": 0.99,
     "probabilities": {
      "0": 0,
-     "1": 0,
-     "2": 1,
+     "1": 0.01,
+     "2": 0.99,
      "3": 0,
      "4": 0
     }
@@ -686,57 +686,57 @@
   },
   "kimberley-kim-griffin": {
    "taxes-spending": {
-    "position": 0.53,
-    "evidence": 0.81,
-    "confidence": 0.87,
+    "position": 0.43,
+    "evidence": 0.72,
+    "confidence": 0.79,
     "probabilities": {
      "0": 0,
      "1": 0,
-     "2": 0.05,
-     "3": 0.84,
-     "4": 0.11
+     "2": 0.19,
+     "3": 0.76,
+     "4": 0.05
     }
    },
    "housing-growth": {
-    "position": -0.4,
-    "evidence": 0.39,
-    "confidence": 0.59,
+    "position": -0.325,
+    "evidence": 0.4,
+    "confidence": 0.45,
     "probabilities": {
-     "0": 0.14,
-     "1": 0.52,
-     "2": 0.34,
+     "0": 0.11,
+     "1": 0.44,
+     "2": 0.45,
      "3": 0,
      "4": 0
     }
    },
    "renters-landlords": {
-    "position": 0.03,
-    "evidence": 0.03,
-    "confidence": 0.92,
+    "position": 0.05,
+    "evidence": 0.04,
+    "confidence": 0.9,
     "probabilities": {
      "0": 0,
      "1": 0.01,
-     "2": 0.92,
-     "3": 0.06,
+     "2": 0.88,
+     "3": 0.1,
      "4": 0.01
     }
    },
    "policing-justice": {
     "position": 0,
-    "evidence": 0.02,
+    "evidence": 0.03,
     "confidence": 0.99,
     "probabilities": {
      "0": 0,
-     "1": 0.01,
-     "2": 0.99,
+     "1": 0,
+     "2": 1,
      "3": 0,
      "4": 0
     }
    },
    "homelessness": {
-    "position": -0.01,
-    "evidence": 0.03,
-    "confidence": 0.97,
+    "position": -0.005,
+    "evidence": 0.02,
+    "confidence": 0.98,
     "probabilities": {
      "0": 0,
      "1": 0.02,
@@ -758,15 +758,15 @@
     }
    },
    "labor-business": {
-    "position": 0.47,
-    "evidence": 0.88,
-    "confidence": 0.84,
+    "position": 0.43,
+    "evidence": 0.92,
+    "confidence": 0.71,
     "probabilities": {
-     "0": 0,
-     "1": 0,
+     "0": 0.01,
+     "1": 0.05,
      "2": 0.13,
-     "3": 0.8,
-     "4": 0.07
+     "3": 0.7,
+     "4": 0.11
     }
    },
    "immigration": {
@@ -806,30 +806,6 @@
     }
    },
    "guns": {
-    "position": -0.005,
-    "evidence": 0.01,
-    "confidence": 0.99,
-    "probabilities": {
-     "0": 0,
-     "1": 0.01,
-     "2": 0.99,
-     "3": 0,
-     "4": 0
-    }
-   },
-   "health-care": {
-    "position": 0.045,
-    "evidence": 0.02,
-    "confidence": 0.92,
-    "probabilities": {
-     "0": 0,
-     "1": 0,
-     "2": 0.92,
-     "3": 0.07,
-     "4": 0.01
-    }
-   },
-   "transportation": {
     "position": 0,
     "evidence": 0.02,
     "confidence": 0.99,
@@ -841,16 +817,40 @@
      "4": 0
     }
    },
-   "elections-voting": {
-    "position": -0.05,
-    "evidence": 0.75,
-    "confidence": 0.84,
+   "health-care": {
+    "position": 0.05,
+    "evidence": 0.02,
+    "confidence": 0.92,
     "probabilities": {
-     "0": 0.01,
-     "1": 0.13,
-     "2": 0.82,
-     "3": 0.03,
+     "0": 0,
+     "1": 0,
+     "2": 0.91,
+     "3": 0.08,
      "4": 0.01
+    }
+   },
+   "transportation": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 1,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.045,
+    "evidence": 0.68,
+    "confidence": 0.87,
+    "probabilities": {
+     "0": 0,
+     "1": 0.11,
+     "2": 0.86,
+     "3": 0.03,
+     "4": 0
     }
    }
   }

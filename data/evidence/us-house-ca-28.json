@@ -1,219 +1,219 @@
 {
- "contestId": "us-house-ca-28",
- "options": {
-  "judy-chu": [
-   {
-    "text": "Voted No on H.R. 1, the One Big Beautiful Bill Act (motion to concur in Senate amendment), July 3, 2025; the bill passed 218-214.",
-    "kind": "voting-record",
-    "dimension": "taxes-spending",
-    "source": {
-     "url": "https://clerk.house.gov/Votes/2025190",
-     "title": "House Roll Call 190, 2025 – H.R. 1",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Voted Nay on H.R. 28, the Protection of Women and Girls in Sports Act, January 14, 2025; the bill passed 218-206.",
-    "kind": "voting-record",
-    "dimension": "social-issues",
-    "source": {
-     "url": "https://clerk.house.gov/Votes/202512",
-     "title": "House Roll Call 12, 2025 – H.R. 28",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Voted Nay on H. Res. 53, the rule providing for consideration of the Laken Riley Act (S. 5) and the Fix Our Forests Act, January 22, 2025.",
-    "kind": "voting-record",
-    "dimension": "immigration",
-    "source": {
-     "url": "https://clerk.house.gov/Votes/202520",
-     "title": "House Roll Call 20, 2025 – H. Res. 53",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Voted Nay on H.R. 1526, the No Rogue Rulings Act, April 9, 2025; the bill passed 219-213.",
-    "kind": "voting-record",
-    "source": {
-     "url": "https://clerk.house.gov/Votes/202598",
-     "title": "House Roll Call 98, 2025 – H.R. 1526",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "\"I am committed to taking aggressive action to halt and reverse the effects of climate change.\" Her issues page also stresses ending fossil fuel reliance and investing in clean energy.",
-    "kind": "own-statement",
-    "dimension": "climate-energy",
-    "source": {
-     "url": "https://chu.house.gov/issues",
-     "title": "Rep. Judy Chu – Issues",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Voted against several 2025 measures the League of Conservation Voters scored as anti-environment, including rolling back the methane polluter fee and undermining Endangered Species Act protections. LCV gives her a 97% score for 2025.",
-    "kind": "voting-record",
-    "dimension": "climate-energy",
-    "source": {
-     "url": "https://www.lcv.org/moc/judy-m-chu/",
-     "title": "League of Conservation Voters – Judy M. Chu scorecard",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "\"Immigration is core to America's strength and has been since our founding.\" She advocates reforming the broken system and creating pathways for undocumented immigrants.",
-    "kind": "own-statement",
-    "dimension": "immigration",
-    "source": {
-     "url": "https://chu.house.gov/issues",
-     "title": "Rep. Judy Chu – Issues",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Her campaign press page opposes Republican Medicaid and ACA cuts, with the headline \"GOP's $1.5 Trillion Healthcare Cuts Put Millions at Risk.\"",
-    "kind": "own-statement",
-    "dimension": "health-care",
-    "source": {
-     "url": "https://www.judychu.org/press",
-     "title": "Press – Judy Chu for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Her issues page says she champions heat safety standards for workers and opposes union-busting tax deductions (campaign press page). She also names protecting Social Security as a priority.",
-    "kind": "own-statement",
-    "dimension": "labor-business",
-    "source": {
-     "url": "https://www.judychu.org/press",
-     "title": "Press – Judy Chu for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Co-introduced the Language Access to Gun Violence Prevention Strategies Act after the Monterey Park shooting.",
-    "kind": "official-action",
-    "dimension": "guns",
-    "source": {
-     "url": "https://www.judychu.org/press",
-     "title": "Press – Judy Chu for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Co-introduced the PRIDE Act to eliminate gendered language in the tax code; her campaign also highlights her fight to restore reproductive freedoms.",
-    "kind": "official-action",
-    "dimension": "social-issues",
-    "source": {
-     "url": "https://www.judychu.org/press",
-     "title": "Press – Judy Chu for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Says she prioritizes \"a transportation system that will ease our impact on the environment\" and improved regional mobility options.",
-    "kind": "own-statement",
-    "dimension": "transportation",
-    "source": {
-     "url": "https://chu.house.gov/issues",
-     "title": "Rep. Judy Chu – Issues",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Says she works to \"end all forms of government-sanctioned discrimination\" and to protect civil and voting rights.",
-    "kind": "own-statement",
-    "dimension": "elections-voting",
-    "source": {
-     "url": "https://chu.house.gov/issues",
-     "title": "Rep. Judy Chu – Issues",
-     "retrieved": "2026-09-30"
-    }
-   }
-  ],
-  "april-a-verlato": [
-   {
-    "text": "Says she supports \"legislation aimed at controlling mandatory spending and opposing tax increases\" and backs Prop 13 provisions; describes herself as a proponent of the Taxpayer Protection Pledge.",
-    "kind": "own-statement",
-    "dimension": "taxes-spending",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Wants \"an economy that thrives on innovation and hard work, not on burdensome regulations that stifle growth.\"",
-    "kind": "own-statement",
-    "dimension": "labor-business",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "On homelessness, pursues \"strategies that address both its symptoms and root causes,\" including mental health and substance abuse treatment facilities, reduced bureaucratic delays, and local housing solutions.",
-    "kind": "own-statement",
-    "dimension": "homelessness",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Supports stronger border security, calling it \"the government's duty to protect its citizens from various threats, including illegal drug trafficking and terrorism.\"",
-    "kind": "own-statement",
-    "dimension": "immigration",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "As an Arcadia council member she voted each year to support the Police Chief's plans and budget requests, and helped organize support for a lawsuit against zero-bail policy.",
-    "kind": "official-action",
-    "dimension": "policing-justice",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Campaign platform lists \"unwavering support for law enforcement\" and \"championing market-driven healthcare solutions\" among its pillars.",
-    "kind": "own-statement",
-    "dimension": "health-care",
-    "source": {
-     "url": "https://verlatoforcongress.com/",
-     "title": "April Verlato for Congress – Home",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Supports \"enhancing America's military strength and ensuring energy independence\" and more veterans' care, including more veteran clinics and a major medical center in the San Gabriel Valley.",
-    "kind": "own-statement",
-    "dimension": "climate-energy",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   },
-   {
-    "text": "Advocates \"responsible budgeting, targeted spending reviews, and bipartisan collaboration\" on the national debt, citing a cut in Arcadia's pension liability from $150 million to under $30 million.",
-    "kind": "own-statement",
-    "dimension": "taxes-spending",
-    "source": {
-     "url": "https://verlatoforcongress.com/?page_id=120",
-     "title": "Issues – April Verlato for Congress",
-     "retrieved": "2026-09-30"
-    }
-   }
-  ]
- },
- "notes": "Chu: 2025 House roll-call votes read from clerk.house.gov plus campaign/issues pages; no endorsements recorded (Verlato's site endorsements page was not retrievable, and congress.gov/govtrack/Ballotpedia fetches failed). Verlato has no federal voting record; evidence is her campaign issues page and Arcadia council actions. Her housing, renters, education, guns, social-issues and elections positions were not found."
+  "contestId": "us-house-ca-28",
+  "options": {
+    "judy-chu": [
+      {
+        "text": "Voted No on H.R. 1, the One Big Beautiful Bill Act (motion to concur in Senate amendment), July 3, 2025; the bill passed 218-214.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/2025190",
+          "title": "House Roll Call 190, 2025 – H.R. 1",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.R. 28, the Protection of Women and Girls in Sports Act, January 14, 2025; the bill passed 218-206.",
+        "kind": "voting-record",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/202512",
+          "title": "House Roll Call 12, 2025 – H.R. 28",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H. Res. 53, the rule providing for consideration of the Laken Riley Act (S. 5) and the Fix Our Forests Act, January 22, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/202520",
+          "title": "House Roll Call 20, 2025 – H. Res. 53",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.R. 1526, the No Rogue Rulings Act, April 9, 2025; the bill passed 219-213.",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/202598",
+          "title": "House Roll Call 98, 2025 – H.R. 1526",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I am committed to taking aggressive action to halt and reverse the effects of climate change.\" Her issues page also stresses ending fossil fuel reliance and investing in clean energy.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://chu.house.gov/issues",
+          "title": "Rep. Judy Chu – Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted against several 2025 measures the League of Conservation Voters scored as anti-environment, including rolling back the methane polluter fee and undermining Endangered Species Act protections. LCV gives her a 97% score for 2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.lcv.org/moc/judy-m-chu/",
+          "title": "League of Conservation Voters – Judy M. Chu scorecard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Immigration is core to America's strength and has been since our founding.\" She advocates reforming the broken system and creating pathways for undocumented immigrants.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://chu.house.gov/issues",
+          "title": "Rep. Judy Chu – Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Her campaign press page opposes Republican Medicaid and ACA cuts, with the headline \"GOP's $1.5 Trillion Healthcare Cuts Put Millions at Risk.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.judychu.org/press",
+          "title": "Press – Judy Chu for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Her issues page says she champions heat safety standards for workers and opposes union-busting tax deductions (campaign press page). She also names protecting Social Security as a priority.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.judychu.org/press",
+          "title": "Press – Judy Chu for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-introduced the Language Access to Gun Violence Prevention Strategies Act after the Monterey Park shooting.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.judychu.org/press",
+          "title": "Press – Judy Chu for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Led the PRIDE Act (2024, with Rep. Becca Balint) to remove gendered language from the tax code and let pre-Windsor same-sex couples claim refunds; lead sponsor of the Women's Health Protection Act to codify abortion rights.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.judychu.org/press",
+          "title": "Press – Judy Chu for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she prioritizes \"a transportation system that will ease our impact on the environment\" and improved regional mobility options.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://chu.house.gov/issues",
+          "title": "Rep. Judy Chu – Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she works to \"end all forms of government-sanctioned discrimination\" and to protect civil and voting rights.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://chu.house.gov/issues",
+          "title": "Rep. Judy Chu – Issues",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "april-a-verlato": [
+      {
+        "text": "Says she supports \"legislation aimed at controlling mandatory spending and opposing tax increases\" and backs Prop 13 provisions; describes herself as a proponent of the Taxpayer Protection Pledge.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants \"an economy that thrives on innovation and hard work, not on burdensome regulations that stifle growth.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness, pursues \"strategies that address both its symptoms and root causes,\" including mental health and substance abuse treatment facilities, reduced bureaucratic delays, and local housing solutions.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports stronger border security, calling it \"the government's duty to protect its citizens from various threats, including illegal drug trafficking and terrorism.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As an Arcadia council member she voted each year to support the Police Chief's plans and budget requests, and helped organize support for a lawsuit against zero-bail policy.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform lists \"unwavering support for law enforcement\" and \"championing market-driven healthcare solutions\" among its pillars.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://verlatoforcongress.com/",
+          "title": "April Verlato for Congress – Home",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"enhancing America's military strength and ensuring energy independence\" and more veterans' care, including more veteran clinics and a major medical center in the San Gabriel Valley.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates \"responsible budgeting, targeted spending reviews, and bipartisan collaboration\" on the national debt, citing a cut in Arcadia's pension liability from $150 million to under $30 million.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://verlatoforcongress.com/?page_id=120",
+          "title": "Issues – April Verlato for Congress",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Chu: 2025 House roll-call votes read from clerk.house.gov plus campaign/issues pages; no endorsements recorded (Verlato's site endorsements page was not retrievable, and congress.gov/govtrack/Ballotpedia fetches failed). Verlato has no federal voting record; evidence is her campaign issues page and Arcadia council actions. Her housing, renters, education, guns, social-issues and elections positions were not found."
 }
