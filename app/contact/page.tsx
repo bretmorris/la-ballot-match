@@ -20,7 +20,7 @@ export default async function ContactPage({ searchParams }: { searchParams: Prom
           <p>
             This is a new, independent project, and with hundreds of contests across LA County some things will be wrong
             or missing. If your address doesn&apos;t work, a contest is missing or wrong, or a candidate&apos;s positions
-            look off, please send a note. Every message is read by a person.
+            look off, please send a note. I&apos;ll do my best to read and respond to everything.
           </p>
         </div>
         <ContactForm contestId={contest?.slice(0, 200)} />

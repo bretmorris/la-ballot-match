@@ -214,7 +214,7 @@ export default function HowItWorks() {
           <p>
             This is a brand-new, independent project, and some things will be wrong. Please{" "}
             <Link href="/contact">report anything that looks off</Link>, whether it&apos;s a broken address, a missing
-            contest, or a candidate placed in the wrong spot. Every message is read by a person.
+            contest, or a candidate placed in the wrong spot. Icontest, or a candidate placed in the wrong spot. Every message is read by a person.apos;ll do my best to read and respond to everything.
           </p>
         </div>
       </section>
