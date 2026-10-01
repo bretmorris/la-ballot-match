@@ -3847,8 +3847,7 @@
       {
         "id": "jeanevra-calhoun",
         "name": "Jeanevra Calhoun",
-        "party": null,
-        "ballotDesignation": "ROLLING HILLS, CA  90274"
+        "party": null
       },
       {
         "id": "james-black",
@@ -4584,8 +4583,7 @@
       {
         "id": "alan-garcia",
         "name": "Alan Garcia",
-        "party": null,
-        "ballotDesignation": "SOUTH GATE, CA  90280"
+        "party": null
       }
     ],
     "notes": "Candidates per RR/CC Final List of Qualified Candidates dated 9/2/2026 (names and ballot designations as certified; incumbent flag from the list's asterisk or an 'Incumbent' designation).",
@@ -5033,8 +5031,8 @@
     ]
   },
   {
-    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-002",
-    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 002",
+    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-2",
+    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5072,8 +5070,8 @@
     ]
   },
   {
-    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-004",
-    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 004",
+    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-4",
+    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5112,8 +5110,8 @@
     ]
   },
   {
-    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-005",
-    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 005",
+    "id": "antelope-valley-community-college-district-governing-board-member-trustee-area-no-5",
+    "title": "Antelope Valley Community College District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5152,8 +5150,8 @@
     ]
   },
   {
-    "id": "cerritos-community-college-district-governing-board-member-trustee-area-no-003",
-    "title": "Cerritos Community College District — Governing Board Member, Trustee Area No. 003",
+    "id": "cerritos-community-college-district-governing-board-member-trustee-area-no-3",
+    "title": "Cerritos Community College District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5192,8 +5190,8 @@
     ]
   },
   {
-    "id": "compton-community-college-district-governing-board-member-trustee-area-no-001",
-    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 001",
+    "id": "compton-community-college-district-governing-board-member-trustee-area-no-1",
+    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5232,8 +5230,8 @@
     ]
   },
   {
-    "id": "compton-community-college-district-governing-board-member-trustee-area-no-004",
-    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 004",
+    "id": "compton-community-college-district-governing-board-member-trustee-area-no-4",
+    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5272,8 +5270,8 @@
     ]
   },
   {
-    "id": "compton-community-college-district-governing-board-member-trustee-area-no-005",
-    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 005",
+    "id": "compton-community-college-district-governing-board-member-trustee-area-no-5",
+    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5312,8 +5310,8 @@
     ]
   },
   {
-    "id": "compton-community-college-district-governing-board-member-trustee-area-no-002-unexpired-term-ending-december-8-2028",
-    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 002 (Unexpired term ending December 8, 2028)",
+    "id": "compton-community-college-district-governing-board-member-trustee-area-no-2-unexpired-term-ending-december-8-2028",
+    "title": "Compton Community College District — Governing Board Member, Trustee Area No. 2 (Unexpired term ending December 8, 2028)",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5352,8 +5350,8 @@
     ]
   },
   {
-    "id": "el-camino-community-college-district-governing-board-member-trustee-area-no-005",
-    "title": "El Camino Community College District — Governing Board Member, Trustee Area No. 005",
+    "id": "el-camino-community-college-district-governing-board-member-trustee-area-no-5",
+    "title": "El Camino Community College District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5392,8 +5390,8 @@
     ]
   },
   {
-    "id": "long-beach-community-college-district-governing-board-member-trustee-area-no-005",
-    "title": "Long Beach Community College District — Governing Board Member, Trustee Area No. 005",
+    "id": "long-beach-community-college-district-governing-board-member-trustee-area-no-5",
+    "title": "Long Beach Community College District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5431,8 +5429,8 @@
     ]
   },
   {
-    "id": "mt-san-antonio-community-college-district-governing-board-member-trustee-area-no-003",
-    "title": "Mt. San Antonio Community College District — Governing Board Member, Trustee Area No. 003",
+    "id": "mt-san-antonio-community-college-district-governing-board-member-trustee-area-no-3",
+    "title": "Mt. San Antonio Community College District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5471,8 +5469,8 @@
     ]
   },
   {
-    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-001",
-    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 001",
+    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-1",
+    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5510,8 +5508,8 @@
     ]
   },
   {
-    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-003",
-    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 003",
+    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-3",
+    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5550,8 +5548,8 @@
     ]
   },
   {
-    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-005",
-    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 005",
+    "id": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-5",
+    "title": "Pasadena Area Community College District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5590,8 +5588,8 @@
     ]
   },
   {
-    "id": "rio-hondo-community-college-district-governing-board-member-trustee-area-no-001",
-    "title": "Rio Hondo Community College District — Governing Board Member, Trustee Area No. 001",
+    "id": "rio-hondo-community-college-district-governing-board-member-trustee-area-no-1",
+    "title": "Rio Hondo Community College District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5630,8 +5628,8 @@
     ]
   },
   {
-    "id": "rio-hondo-community-college-district-governing-board-member-trustee-area-no-003",
-    "title": "Rio Hondo Community College District — Governing Board Member, Trustee Area No. 003",
+    "id": "rio-hondo-community-college-district-governing-board-member-trustee-area-no-3",
+    "title": "Rio Hondo Community College District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5670,8 +5668,8 @@
     ]
   },
   {
-    "id": "santa-clarita-community-college-district-member-of-the-board-of-trustees-trustee-area-001",
-    "title": "Santa Clarita Community College District — Member of the Board of Trustees, Trustee Area 001",
+    "id": "santa-clarita-community-college-district-member-of-the-board-of-trustees-trustee-area-1",
+    "title": "Santa Clarita Community College District — Member of the Board of Trustees, Trustee Area 1",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -5767,8 +5765,8 @@
     ]
   },
   {
-    "id": "abc-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "ABC Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "abc-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "ABC Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -5807,8 +5805,8 @@
     ]
   },
   {
-    "id": "abc-unified-school-district-governing-board-member-trustee-area-no-005-unexpired-term-ending-december-8-2028",
-    "title": "ABC Unified School District — Governing Board Member, Trustee Area No. 005 (Unexpired term ending December 8, 2028)",
+    "id": "abc-unified-school-district-governing-board-member-trustee-area-no-5-unexpired-term-ending-december-8-2028",
+    "title": "ABC Unified School District — Governing Board Member, Trustee Area No. 5 (Unexpired term ending December 8, 2028)",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -5847,8 +5845,8 @@
     ]
   },
   {
-    "id": "acton-agua-dulce-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Acton-Agua Dulce Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "acton-agua-dulce-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Acton-Agua Dulce Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -5886,8 +5884,8 @@
     ]
   },
   {
-    "id": "azusa-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Azusa Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "azusa-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Azusa Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6045,8 +6043,8 @@
     ]
   },
   {
-    "id": "bellflower-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Bellflower Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "bellflower-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Bellflower Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6085,8 +6083,8 @@
     ]
   },
   {
-    "id": "bellflower-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Bellflower Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "bellflower-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Bellflower Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6183,8 +6181,8 @@
     ]
   },
   {
-    "id": "burbank-unified-school-district-governing-board-member-trustee-area-no-003",
-    "title": "Burbank Unified School District — Governing Board Member, Trustee Area No. 003",
+    "id": "burbank-unified-school-district-governing-board-member-trustee-area-no-3",
+    "title": "Burbank Unified School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6239,8 +6237,8 @@
     ]
   },
   {
-    "id": "claremont-unified-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Claremont Unified School District — Governing Board Member, Trustee Area No. 001",
+    "id": "claremont-unified-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Claremont Unified School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6280,8 +6278,8 @@
     ]
   },
   {
-    "id": "covina-valley-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Covina-Valley Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "covina-valley-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Covina-Valley Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6374,8 +6372,8 @@
     ]
   },
   {
-    "id": "downey-unified-school-district-governing-board-member-trustee-area-no-007",
-    "title": "Downey Unified School District — Governing Board Member, Trustee Area No. 007",
+    "id": "downey-unified-school-district-governing-board-member-trustee-area-no-7",
+    "title": "Downey Unified School District — Governing Board Member, Trustee Area No. 7",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6414,8 +6412,8 @@
     ]
   },
   {
-    "id": "duarte-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Duarte Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "duarte-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Duarte Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6454,8 +6452,8 @@
     ]
   },
   {
-    "id": "glendora-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Glendora Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "glendora-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Glendora Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6494,8 +6492,8 @@
     ]
   },
   {
-    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6545,8 +6543,8 @@
     ]
   },
   {
-    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6591,8 +6589,8 @@
     ]
   },
   {
-    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "hacienda-la-puente-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Hacienda La Puente Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6643,8 +6641,8 @@
     ]
   },
   {
-    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-001",
-    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 001",
+    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-1",
+    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6682,8 +6680,8 @@
     ]
   },
   {
-    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-002",
-    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 002",
+    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-2",
+    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6721,8 +6719,8 @@
     ]
   },
   {
-    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-003",
-    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 003",
+    "id": "inglewood-unified-school-district-member-board-of-education-trustee-area-3",
+    "title": "Inglewood Unified School District — Member, Board of Education, Trustee Area 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6937,8 +6935,8 @@
     ]
   },
   {
-    "id": "monrovia-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Monrovia Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "monrovia-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Monrovia Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -6977,8 +6975,8 @@
     ]
   },
   {
-    "id": "montebello-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Montebello Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "montebello-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Montebello Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7022,8 +7020,8 @@
     ]
   },
   {
-    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 002",
+    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7062,8 +7060,8 @@
     ]
   },
   {
-    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7101,8 +7099,8 @@
     ]
   },
   {
-    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-006",
-    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 006",
+    "id": "norwalk-la-mirada-unified-school-district-governing-board-member-trustee-area-no-6",
+    "title": "Norwalk-La Mirada Unified School District — Governing Board Member, Trustee Area No. 6",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7197,8 +7195,8 @@
     ]
   },
   {
-    "id": "paramount-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Paramount Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "paramount-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Paramount Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7238,8 +7236,8 @@
     ]
   },
   {
-    "id": "pasadena-unified-school-district-board-of-education-district-no-001",
-    "title": "Pasadena Unified School District — Board of Education, District No. 001",
+    "id": "pasadena-unified-school-district-board-of-education-district-no-1",
+    "title": "Pasadena Unified School District — Board of Education, District No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7277,8 +7275,8 @@
     ]
   },
   {
-    "id": "pasadena-unified-school-district-board-of-education-district-no-003",
-    "title": "Pasadena Unified School District — Board of Education, District No. 003",
+    "id": "pasadena-unified-school-district-board-of-education-district-no-3",
+    "title": "Pasadena Unified School District — Board of Education, District No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7316,8 +7314,8 @@
     ]
   },
   {
-    "id": "pasadena-unified-school-district-board-of-education-district-no-007",
-    "title": "Pasadena Unified School District — Board of Education, District No. 007",
+    "id": "pasadena-unified-school-district-board-of-education-district-no-7",
+    "title": "Pasadena Unified School District — Board of Education, District No. 7",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7355,8 +7353,8 @@
     ]
   },
   {
-    "id": "pomona-unified-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Pomona Unified School District — Governing Board Member, Trustee Area No. 001",
+    "id": "pomona-unified-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Pomona Unified School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7401,8 +7399,8 @@
     ]
   },
   {
-    "id": "pomona-unified-school-district-governing-board-member-trustee-area-no-004",
-    "title": "Pomona Unified School District — Governing Board Member, Trustee Area No. 004",
+    "id": "pomona-unified-school-district-governing-board-member-trustee-area-no-4",
+    "title": "Pomona Unified School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7441,8 +7439,8 @@
     ]
   },
   {
-    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 001",
+    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7481,8 +7479,8 @@
     ]
   },
   {
-    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-003",
-    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 003",
+    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-3",
+    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7527,8 +7525,8 @@
     ]
   },
   {
-    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 005",
+    "id": "rowland-unified-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Rowland Unified School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7789,8 +7787,8 @@
     ]
   },
   {
-    "id": "antelope-valley-joint-union-high-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Antelope Valley Joint Union High School District — Governing Board Member, Trustee Area No. 001",
+    "id": "antelope-valley-joint-union-high-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Antelope Valley Joint Union High School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7828,8 +7826,8 @@
     ]
   },
   {
-    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-003",
-    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 003",
+    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-3",
+    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7868,8 +7866,8 @@
     ]
   },
   {
-    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-004",
-    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 004",
+    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-4",
+    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7908,8 +7906,8 @@
     ]
   },
   {
-    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-005",
-    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 005",
+    "id": "el-monte-union-high-school-district-governing-board-member-trustee-area-no-5",
+    "title": "El Monte Union High School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7948,8 +7946,8 @@
     ]
   },
   {
-    "id": "fullerton-joint-union-high-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Fullerton Joint Union High School District — Governing Board Member, Trustee Area No. 001",
+    "id": "fullerton-joint-union-high-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Fullerton Joint Union High School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -7987,8 +7985,8 @@
     ]
   },
   {
-    "id": "fullerton-joint-union-high-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Fullerton Joint Union High School District — Governing Board Member, Trustee Area No. 005",
+    "id": "fullerton-joint-union-high-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Fullerton Joint Union High School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8027,8 +8025,8 @@
     ]
   },
   {
-    "id": "whittier-union-high-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Whittier Union High School District — Governing Board Member, Trustee Area No. 005",
+    "id": "whittier-union-high-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Whittier Union High School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8067,8 +8065,8 @@
     ]
   },
   {
-    "id": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-002",
-    "title": "William S. Hart Union High School District — Governing Board Member, Trustee Area No. 002",
+    "id": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-2",
+    "title": "William S. Hart Union High School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8106,8 +8104,8 @@
     ]
   },
   {
-    "id": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-005",
-    "title": "William S. Hart Union High School District — Governing Board Member, Trustee Area No. 005",
+    "id": "william-s-hart-union-high-school-district-governing-board-member-trustee-area-no-5",
+    "title": "William S. Hart Union High School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8146,8 +8144,8 @@
     ]
   },
   {
-    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-001",
-    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 001",
+    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-1",
+    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8186,8 +8184,8 @@
     ]
   },
   {
-    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-003",
-    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 003",
+    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-3",
+    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8225,8 +8223,8 @@
     ]
   },
   {
-    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-004",
-    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 004",
+    "id": "east-whittier-city-school-district-governing-board-member-trustee-area-no-4",
+    "title": "East Whittier City School District — Governing Board Member, Trustee Area No. 4",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8265,8 +8263,8 @@
     ]
   },
   {
-    "id": "eastside-union-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Eastside Union School District — Governing Board Member, Trustee Area No. 001",
+    "id": "eastside-union-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Eastside Union School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8311,8 +8309,8 @@
     ]
   },
   {
-    "id": "eastside-union-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Eastside Union School District — Governing Board Member, Trustee Area No. 005",
+    "id": "eastside-union-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Eastside Union School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8351,8 +8349,8 @@
     ]
   },
   {
-    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 001",
+    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8390,8 +8388,8 @@
     ]
   },
   {
-    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 002",
+    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8430,8 +8428,8 @@
     ]
   },
   {
-    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-003",
-    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 003",
+    "id": "keppel-union-school-district-governing-board-member-trustee-area-no-3",
+    "title": "Keppel Union School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8469,8 +8467,8 @@
     ]
   },
   {
-    "id": "lancaster-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Lancaster School District — Governing Board Member, Trustee Area No. 002",
+    "id": "lancaster-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Lancaster School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8509,8 +8507,8 @@
     ]
   },
   {
-    "id": "lancaster-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Lancaster School District — Governing Board Member, Trustee Area No. 005",
+    "id": "lancaster-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Lancaster School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8524,7 +8522,6 @@
         "id": "pamela-starlson",
         "name": "Pamela Starlson",
         "party": null,
-        "ballotDesignation": "LANCASTER, CA  93535",
         "incumbent": true
       },
       {
@@ -8549,8 +8546,8 @@
     ]
   },
   {
-    "id": "lawndale-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Lawndale School District — Governing Board Member, Trustee Area No. 001",
+    "id": "lawndale-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Lawndale School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8589,8 +8586,8 @@
     ]
   },
   {
-    "id": "lawndale-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Lawndale School District — Governing Board Member, Trustee Area No. 002",
+    "id": "lawndale-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Lawndale School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8682,8 +8679,8 @@
     ]
   },
   {
-    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 001",
+    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8720,8 +8717,8 @@
     ]
   },
   {
-    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 002",
+    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8759,8 +8756,8 @@
     ]
   },
   {
-    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-005-unexpired-term-ending-december-12-2028",
-    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 005 (Unexpired term ending December 12, 2028)",
+    "id": "little-lake-city-school-district-governing-board-member-trustee-area-no-5-unexpired-term-ending-december-12-2028",
+    "title": "Little Lake City School District — Governing Board Member, Trustee Area No. 5 (Unexpired term ending December 12, 2028)",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8798,8 +8795,8 @@
     ]
   },
   {
-    "id": "los-nietos-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Los Nietos School District — Governing Board Member, Trustee Area No. 002",
+    "id": "los-nietos-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Los Nietos School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8898,8 +8895,8 @@
     ]
   },
   {
-    "id": "palmdale-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 001",
+    "id": "palmdale-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8939,8 +8936,8 @@
     ]
   },
   {
-    "id": "palmdale-school-district-governing-board-member-trustee-area-no-003",
-    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 003",
+    "id": "palmdale-school-district-governing-board-member-trustee-area-no-3",
+    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -8978,8 +8975,8 @@
     ]
   },
   {
-    "id": "palmdale-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 005",
+    "id": "palmdale-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Palmdale School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9018,8 +9015,8 @@
     ]
   },
   {
-    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-001",
-    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 001",
+    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-1",
+    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 1",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9063,8 +9060,8 @@
     ]
   },
   {
-    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-002",
-    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 002",
+    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-2",
+    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 2",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9103,8 +9100,8 @@
     ]
   },
   {
-    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 005",
+    "id": "saugus-union-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Saugus Union School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9143,8 +9140,8 @@
     ]
   },
   {
-    "id": "south-whittier-school-district-governing-board-member-trustee-area-no-005",
-    "title": "South Whittier School District — Governing Board Member, Trustee Area No. 005",
+    "id": "south-whittier-school-district-governing-board-member-trustee-area-no-5",
+    "title": "South Whittier School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9290,8 +9287,8 @@
     ]
   },
   {
-    "id": "whittier-city-school-district-governing-board-member-trustee-area-no-003",
-    "title": "Whittier City School District — Governing Board Member, Trustee Area No. 003",
+    "id": "whittier-city-school-district-governing-board-member-trustee-area-no-3",
+    "title": "Whittier City School District — Governing Board Member, Trustee Area No. 3",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9330,8 +9327,8 @@
     ]
   },
   {
-    "id": "whittier-city-school-district-governing-board-member-trustee-area-no-005",
-    "title": "Whittier City School District — Governing Board Member, Trustee Area No. 005",
+    "id": "whittier-city-school-district-governing-board-member-trustee-area-no-5",
+    "title": "Whittier City School District — Governing Board Member, Trustee Area No. 5",
     "level": "school",
     "jurisdiction": {
       "type": "school",
@@ -9370,8 +9367,8 @@
     ]
   },
   {
-    "id": "foothill-municipal-water-district-member-board-of-directors-division-002",
-    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 002",
+    "id": "foothill-municipal-water-district-member-board-of-directors-division-2",
+    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 2",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9410,8 +9407,8 @@
     ]
   },
   {
-    "id": "foothill-municipal-water-district-member-board-of-directors-division-004",
-    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 004",
+    "id": "foothill-municipal-water-district-member-board-of-directors-division-4",
+    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 4",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9450,8 +9447,8 @@
     ]
   },
   {
-    "id": "foothill-municipal-water-district-member-board-of-directors-division-005",
-    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 005",
+    "id": "foothill-municipal-water-district-member-board-of-directors-division-5",
+    "title": "Foothill Municipal Water District — Member, Board of Directors, Division 5",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9489,8 +9486,8 @@
     ]
   },
   {
-    "id": "las-virgenes-municipal-water-district-member-board-of-directors-division-002",
-    "title": "Las Virgenes Municipal Water District — Member, Board of Directors, Division 002",
+    "id": "las-virgenes-municipal-water-district-member-board-of-directors-division-2",
+    "title": "Las Virgenes Municipal Water District — Member, Board of Directors, Division 2",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9529,8 +9526,8 @@
     ]
   },
   {
-    "id": "san-gabriel-valley-municipal-water-district-member-board-of-directors-division-005",
-    "title": "San Gabriel Valley Municipal Water District — Member, Board of Directors, Division 005",
+    "id": "san-gabriel-valley-municipal-water-district-member-board-of-directors-division-5",
+    "title": "San Gabriel Valley Municipal Water District — Member, Board of Directors, Division 5",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9568,8 +9565,8 @@
     ]
   },
   {
-    "id": "three-valleys-municipal-water-district-member-board-of-directors-division-003",
-    "title": "Three Valleys Municipal Water District — Member, Board of Directors, Division 003",
+    "id": "three-valleys-municipal-water-district-member-board-of-directors-division-3",
+    "title": "Three Valleys Municipal Water District — Member, Board of Directors, Division 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9613,8 +9610,8 @@
     ]
   },
   {
-    "id": "west-basin-municipal-water-district-member-board-of-directors-division-001",
-    "title": "West Basin Municipal Water District — Member, Board of Directors, Division 001",
+    "id": "west-basin-municipal-water-district-member-board-of-directors-division-1",
+    "title": "West Basin Municipal Water District — Member, Board of Directors, Division 1",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9665,8 +9662,8 @@
     ]
   },
   {
-    "id": "west-basin-municipal-water-district-member-board-of-directors-division-002",
-    "title": "West Basin Municipal Water District — Member, Board of Directors, Division 002",
+    "id": "west-basin-municipal-water-district-member-board-of-directors-division-2",
+    "title": "West Basin Municipal Water District — Member, Board of Directors, Division 2",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9711,8 +9708,8 @@
     ]
   },
   {
-    "id": "water-replenishment-district-of-southern-california-member-board-of-directors-division-003",
-    "title": "Water Replenishment District of Southern California — Member, Board of Directors, Division 003",
+    "id": "water-replenishment-district-of-southern-california-member-board-of-directors-division-3",
+    "title": "Water Replenishment District of Southern California — Member, Board of Directors, Division 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9762,8 +9759,8 @@
     ]
   },
   {
-    "id": "water-replenishment-district-of-southern-california-member-board-of-directors-division-004",
-    "title": "Water Replenishment District of Southern California — Member, Board of Directors, Division 004",
+    "id": "water-replenishment-district-of-southern-california-member-board-of-directors-division-4",
+    "title": "Water Replenishment District of Southern California — Member, Board of Directors, Division 4",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9808,8 +9805,8 @@
     ]
   },
   {
-    "id": "antelope-valley-east-kern-water-agency-member-board-of-directors-division-001",
-    "title": "Antelope Valley-East Kern Water Agency — Member, Board of Directors, Division 001",
+    "id": "antelope-valley-east-kern-water-agency-member-board-of-directors-division-1",
+    "title": "Antelope Valley-East Kern Water Agency — Member, Board of Directors, Division 1",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9823,7 +9820,6 @@
         "id": "drew-mercy",
         "name": "Drew Mercy",
         "party": null,
-        "ballotDesignation": "Director, Antelope Valley-East Kern Water Agency, Division 1 LANCASTER, CA  93534",
         "incumbent": true
       },
       {
@@ -9847,8 +9843,8 @@
     ]
   },
   {
-    "id": "antelope-valley-east-kern-water-agency-member-board-of-directors-division-003",
-    "title": "Antelope Valley-East Kern Water Agency — Member, Board of Directors, Division 003",
+    "id": "antelope-valley-east-kern-water-agency-member-board-of-directors-division-3",
+    "title": "Antelope Valley-East Kern Water Agency — Member, Board of Directors, Division 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9886,8 +9882,8 @@
     ]
   },
   {
-    "id": "santa-clarita-valley-water-agency-member-board-of-directors-division-001",
-    "title": "Santa Clarita Valley Water Agency — Member, Board of Directors, Division 001",
+    "id": "santa-clarita-valley-water-agency-member-board-of-directors-division-1",
+    "title": "Santa Clarita Valley Water Agency — Member, Board of Directors, Division 1",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -9926,8 +9922,8 @@
     ]
   },
   {
-    "id": "santa-clarita-valley-water-agency-member-board-of-directors-division-003",
-    "title": "Santa Clarita Valley Water Agency — Member, Board of Directors, Division 003",
+    "id": "santa-clarita-valley-water-agency-member-board-of-directors-division-3",
+    "title": "Santa Clarita Valley Water Agency — Member, Board of Directors, Division 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10149,8 +10145,8 @@
     ]
   },
   {
-    "id": "la-canada-irrigation-district-member-board-of-directors-division-004",
-    "title": "La Cañada Irrigation District — Member, Board of Directors, Division 004",
+    "id": "la-canada-irrigation-district-member-board-of-directors-division-4",
+    "title": "La Cañada Irrigation District — Member, Board of Directors, Division 4",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10189,8 +10185,8 @@
     ]
   },
   {
-    "id": "palmdale-water-district-member-board-of-directors-division-002",
-    "title": "Palmdale Water District — Member, Board of Directors, Division 002",
+    "id": "palmdale-water-district-member-board-of-directors-division-2",
+    "title": "Palmdale Water District — Member, Board of Directors, Division 2",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10228,8 +10224,8 @@
     ]
   },
   {
-    "id": "altadena-library-district-member-board-of-trustees-trustee-area-no-003",
-    "title": "Altadena Library District — Member, Board of Trustees, Trustee Area No. 003",
+    "id": "altadena-library-district-member-board-of-trustees-trustee-area-no-3",
+    "title": "Altadena Library District — Member, Board of Trustees, Trustee Area No. 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10336,8 +10332,8 @@
     ]
   },
   {
-    "id": "walnut-valley-water-district-member-board-of-directors-division-002",
-    "title": "Walnut Valley Water District — Member, Board of Directors, Division 002",
+    "id": "walnut-valley-water-district-member-board-of-directors-division-2",
+    "title": "Walnut Valley Water District — Member, Board of Directors, Division 2",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10375,8 +10371,8 @@
     ]
   },
   {
-    "id": "walnut-valley-water-district-member-board-of-directors-division-003",
-    "title": "Walnut Valley Water District — Member, Board of Directors, Division 003",
+    "id": "walnut-valley-water-district-member-board-of-directors-division-3",
+    "title": "Walnut Valley Water District — Member, Board of Directors, Division 3",
     "level": "special",
     "jurisdiction": {
       "type": "special",
@@ -10415,8 +10411,8 @@
     ]
   },
   {
-    "id": "walnut-valley-water-district-member-board-of-directors-division-005-unexpired-term-ending-december-1-2028",
-    "title": "Walnut Valley Water District — Member, Board of Directors, Division 005 (Unexpired term ending December 1, 2028)",
+    "id": "walnut-valley-water-district-member-board-of-directors-division-5-unexpired-term-ending-december-1-2028",
+    "title": "Walnut Valley Water District — Member, Board of Directors, Division 5 (Unexpired term ending December 1, 2028)",
     "level": "special",
     "jurisdiction": {
       "type": "special",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "city-of-los-angeles-city-attorney",
+    "id": "la-city-city-attorney",
     "title": "City of Los Angeles — City Attorney",
     "level": "city",
     "jurisdiction": {
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-member-of-the-city-council-3rd-district",
+    "id": "la-city-member-of-the-city-council-3rd-district",
     "title": "City of Los Angeles — Member of the City Council, 3rd District",
     "level": "city",
     "jurisdiction": {
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-member-of-the-city-council-9th-district",
+    "id": "la-city-member-of-the-city-council-9th-district",
     "title": "City of Los Angeles — Member of the City Council, 9th District",
     "level": "city",
     "jurisdiction": {
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-mayor",
+    "id": "la-city-mayor",
     "title": "City of Los Angeles — Mayor",
     "level": "city",
     "jurisdiction": {
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-te",
+    "id": "la-city-measure-te",
     "title": "City of Los Angeles — Measure TE: Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster",
     "level": "city",
     "jurisdiction": {
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-la",
+    "id": "la-city-measure-la",
     "title": "City of Los Angeles — Measure LA: City Infrastructure, Budget, Finance, and Contracting. Charter Amendment LA",
     "level": "city",
     "jurisdiction": {
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-pl",
+    "id": "la-city-measure-pl",
     "title": "City of Los Angeles — Measure PL: City Planning Department. Charter Amendment PL",
     "level": "city",
     "jurisdiction": {
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-ee",
+    "id": "la-city-measure-ee",
     "title": "City of Los Angeles — Measure EE: City Ethics, Elections, and Governance. Charter Amendment EE",
     "level": "city",
     "jurisdiction": {
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-prk",
+    "id": "la-city-measure-prk",
     "title": "City of Los Angeles — Measure PRK: City Department of Recreation and Parks Budget. Charter Amendment PRK",
     "level": "city",
     "jurisdiction": {
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-prt",
+    "id": "la-city-measure-prt",
     "title": "City of Los Angeles — Measure PRT: City Airports, Harbor, and Water and Power Departments. Charter Amendment PRT",
     "level": "city",
     "jurisdiction": {
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-fd",
+    "id": "la-city-measure-fd",
     "title": "City of Los Angeles — Measure FD: Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax. Initiative Ordinance FD",
     "level": "city",
     "jurisdiction": {
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "id": "city-of-los-angeles-measure-sc",
+    "id": "la-city-measure-sc",
     "title": "City of Los Angeles — Measure SC: Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections. Charter Amendment SC",
     "level": "city",
     "jurisdiction": {

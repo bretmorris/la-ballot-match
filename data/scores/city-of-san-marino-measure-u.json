@@ -1,0 +1,176 @@
+{
+ "contestId": "city-of-san-marino-measure-u",
+ "kind": "measure",
+ "model": "jev-1.13.0",
+ "scoredAt": "2026-10-01T04:31:49.817Z",
+ "measure": {
+  "taxes-spending": {
+   "direction": -0.04,
+   "relevance": 0.75,
+   "confidence": 0.55,
+   "probabilities": {
+    "0": 0.07,
+    "1": 0.16,
+    "2": 0.56,
+    "3": 0.18,
+    "4": 0.03
+   }
+  },
+  "housing-growth": {
+   "direction": -0.005,
+   "relevance": 0.03,
+   "confidence": 0.99,
+   "probabilities": {
+    "0": 0,
+    "1": 0.01,
+    "2": 0.99,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "renters-landlords": {
+   "direction": 0,
+   "relevance": 0.03,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "policing-justice": {
+   "direction": 0.415,
+   "relevance": 0.26,
+   "confidence": 0.79,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.21,
+    "3": 0.75,
+    "4": 0.04
+   }
+  },
+  "homelessness": {
+   "direction": 0.03,
+   "relevance": 0.04,
+   "confidence": 0.95,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.94,
+    "3": 0.05,
+    "4": 0.01
+   }
+  },
+  "climate-energy": {
+   "direction": 0.005,
+   "relevance": 0.04,
+   "confidence": 0.99,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.99,
+    "3": 0.01,
+    "4": 0
+   }
+  },
+  "labor-business": {
+   "direction": 0.015,
+   "relevance": 0.07,
+   "confidence": 0.97,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.98,
+    "3": 0.02,
+    "4": 0
+   }
+  },
+  "immigration": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "education": {
+   "direction": 0,
+   "relevance": 0.03,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "social-issues": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "guns": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "health-care": {
+   "direction": 0,
+   "relevance": 0.03,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "transportation": {
+   "direction": 0.295,
+   "relevance": 0.07,
+   "confidence": 0.56,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.47,
+    "3": 0.47,
+    "4": 0.06
+   }
+  },
+  "elections-voting": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  }
+ }
+}

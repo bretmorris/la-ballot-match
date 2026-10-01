@@ -1,0 +1,176 @@
+{
+ "contestId": "city-of-monterey-park-measure-hom",
+ "kind": "measure",
+ "model": "jev-1.13.0",
+ "scoredAt": "2026-10-01T04:31:49.416Z",
+ "measure": {
+  "taxes-spending": {
+   "direction": 0.005,
+   "relevance": 0.04,
+   "confidence": 0.98,
+   "probabilities": {
+    "0": 0,
+    "1": 0.01,
+    "2": 0.97,
+    "3": 0.02,
+    "4": 0
+   }
+  },
+  "housing-growth": {
+   "direction": 0.13,
+   "relevance": 0.91,
+   "confidence": 0.36,
+   "probabilities": {
+    "0": 0.02,
+    "1": 0.33,
+    "2": 0.03,
+    "3": 0.6,
+    "4": 0.02
+   }
+  },
+  "renters-landlords": {
+   "direction": 0.015,
+   "relevance": 0.05,
+   "confidence": 0.97,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.97,
+    "3": 0.03,
+    "4": 0
+   }
+  },
+  "policing-justice": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "homelessness": {
+   "direction": -0.4,
+   "relevance": 0.08,
+   "confidence": 0.6,
+   "probabilities": {
+    "0": 0.14,
+    "1": 0.53,
+    "2": 0.33,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "climate-energy": {
+   "direction": -0.03,
+   "relevance": 0.12,
+   "confidence": 0.89,
+   "probabilities": {
+    "0": 0,
+    "1": 0.09,
+    "2": 0.88,
+    "3": 0.03,
+    "4": 0
+   }
+  },
+  "labor-business": {
+   "direction": 0.09,
+   "relevance": 0.06,
+   "confidence": 0.85,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 0.84,
+    "3": 0.15,
+    "4": 0.01
+   }
+  },
+  "immigration": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "education": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "social-issues": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "guns": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "health-care": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "transportation": {
+   "direction": -0.005,
+   "relevance": 0.05,
+   "confidence": 0.98,
+   "probabilities": {
+    "0": 0,
+    "1": 0.02,
+    "2": 0.98,
+    "3": 0,
+    "4": 0
+   }
+  },
+  "elections-voting": {
+   "direction": 0,
+   "relevance": 0.02,
+   "confidence": 1,
+   "probabilities": {
+    "0": 0,
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0
+   }
+  }
+ }
+}

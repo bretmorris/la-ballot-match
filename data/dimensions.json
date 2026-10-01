@@ -76,5 +76,11 @@
     "label": "Transportation",
     "minus": "Prioritize transit, bike, and pedestrian infrastructure, even at the cost of car lanes and parking",
     "plus": "Prioritize roads, driving, and parking; skeptical of reallocating street space"
+  },
+  {
+    "id": "elections-voting",
+    "label": "Elections & voting",
+    "minus": "Make voting easier and expand participation: universal mail ballots, fewer ID requirements, public campaign financing",
+    "plus": "Tighten election rules: stricter voter ID and verification, fewer mail-ballot accommodations"
   }
 ]

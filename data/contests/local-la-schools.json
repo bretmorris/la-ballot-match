@@ -1,7 +1,7 @@
 [
   {
-    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-002",
-    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 002",
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 2",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -58,8 +58,8 @@
     ]
   },
   {
-    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-004",
-    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 004",
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-4",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 4",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
@@ -84,8 +84,7 @@
       {
         "id": "adam-bruno",
         "name": "Adam Bruno",
-        "party": null,
-        "ballotDesignation": "SHERMAN OAKS, CA  91413"
+        "party": null
       },
       {
         "id": "elaine-alaniz",
@@ -127,8 +126,8 @@
     ]
   },
   {
-    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-006",
-    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 006",
+    "id": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-6",
+    "title": "Los Angeles Community College District — Member of the Board of Trustees, Seat 6",
     "level": "school",
     "jurisdiction": {
       "type": "community-college",
