@@ -1,0 +1,202 @@
+{
+ "contestId": "city-of-inglewood-member-of-the-city-council-1st-district",
+ "options": {
+  "keokia-childress": [
+   {
+    "text": "Told the LA Local guide that, drawing on eight years as a Housing Commissioner, she would preserve affordable housing, strengthen protections against displacement, and connect renters and homeowners with assistance.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would advocate for local hiring, job training and opportunities for small businesses to benefit from investment coming into the city.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Supports better enforcement of neighborhood parking protections, more convenient public transportation, shuttle-served parking outside neighborhoods, and designated rideshare zones; says venue operators should help cover event costs.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would hold community roundtables, share plain-language explanations before important votes and explain her vote afterward.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "leonard-redway": [
+   {
+    "text": "Told the LA Local guide he backs a 'Residents First' approach to development: local hiring and apprenticeships, protecting existing affordable housing, and programs to help seniors and longtime homeowners stay.",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said a blanket citywide permit parking requirement 'was not the right thing to do. Residents should NOT have to pay to park in front of their home.'",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would extend public speaking time from one to three minutes, hold evening district meetings, and put contracts, major expenditures and development agreements online.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists priorities including improving public safety, reducing neighborhood crime, and addressing the impact of excessive digital billboards.",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "yolanda-davidson": [
+   {
+    "text": "Told the LA Local guide she would 'streamline our renter protections,' saying the fluctuating allowable rent increase makes it hard for landlords and tenants; 'Clear, consistent rules protect everyone.'",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would 'champion bringing outsourced union city jobs back in-house' as union positions with fair wages and benefits.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says she was the only candidate to publicly oppose the Market Street/Florence ITC mobility hub, calling it a '$386 million displacement project,' and will stand against future eminent domain actions.",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would request a professional event-day traffic study, push local-access-only restrictions with barricades in Morningside Park, add traffic enforcement, and revisit the $100 extra resident parking permit fee.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would push to establish neighborhood councils; per her guide bio, has advocated for local control of Inglewood Unified School District.",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "william-perez": [
+   {
+    "text": "Told the LA Local guide he would push for a locally funded emergency rental assistance fund seeded with venue community-benefit dollars and negotiate Inglewood into LA County's Tenant Right to Counsel program.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would enforce existing rent caps (3.7% for 5+ units, 8.7% for 4 or fewer) with a bilingual 'Know Your Rent Cap' campaign and a staffed tenant hotline.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants every major project to carry enforceable local hiring, small-business set-asides and affordable-unit commitments, with a public compliance dashboard.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Proposes a stadium mitigation fund paid by venues 'not the taxpayers,' free resident permit zones, and an ITC that serves residents with resident fares and first/last-mile shuttles.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would push a senior property-tax and utility hardship track and a low-income assistance program for the city-run water utility.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Promises to cut 'the cost of doing business' with a small-business ombudsman at City Hall and faster permit turnarounds.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Open seat (Gray running for mayor). Primary nominating election. All four candidates answered The LA Local questionnaire; no other issue statements or notable endorsements found. Searches used: 13"
+}

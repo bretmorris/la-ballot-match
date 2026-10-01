@@ -2,6 +2,177 @@
  "contestId": "city-of-downey-member-of-the-city-council-2nd-district",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:48.139Z",
- "options": {}
+ "scoredAt": "2026-10-01T05:45:57.257Z",
+ "options": {
+  "hector-sosa": {
+   "taxes-spending": {
+    "position": 0.78,
+    "evidence": 0.98,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.44,
+     "4": 0.56
+    }
+   },
+   "housing-growth": {
+    "position": -0.165,
+    "evidence": 0.33,
+    "confidence": 0.55,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.38,
+     "2": 0.49,
+     "3": 0.1,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.17,
+    "evidence": 0.02,
+    "confidence": 0.72,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.68,
+     "3": 0.3,
+     "4": 0.02
+    }
+   },
+   "policing-justice": {
+    "position": 0.58,
+    "evidence": 0.98,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.04,
+     "3": 0.76,
+     "4": 0.2
+    }
+   },
+   "homelessness": {
+    "position": 0.575,
+    "evidence": 0.98,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.04,
+     "3": 0.77,
+     "4": 0.19
+    }
+   },
+   "climate-energy": {
+    "position": 0.11,
+    "evidence": 0.83,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.75,
+     "3": 0.23,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": 0.625,
+    "evidence": 0.97,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.01,
+     "3": 0.73,
+     "4": 0.26
+    }
+   },
+   "immigration": {
+    "position": 0.12,
+    "evidence": 0.99,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.7,
+     "3": 0.26,
+     "4": 0.01
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.03,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.94,
+     "3": 0.05,
+     "4": 0.01
+    }
+   },
+   "health-care": {
+    "position": 0.47,
+    "evidence": 0.76,
+    "confidence": 0.83,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.13,
+     "3": 0.8,
+     "4": 0.07
+    }
+   },
+   "transportation": {
+    "position": -0.26,
+    "evidence": 0.95,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0,
+     "1": 0.54,
+     "2": 0.44,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": 0.01,
+    "evidence": 0.79,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.97,
+     "3": 0.02,
+     "4": 0
+    }
+   }
+  }
+ }
 }

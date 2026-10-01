@@ -1,0 +1,139 @@
+{
+  "contestId": "city-of-alhambra-member-of-the-city-council-first-district",
+  "options": {
+    "amy-j-wong": [
+      {
+        "text": "\"Everyone deserves access to safe and stable housing. We need more housing choices at every income level so residents can afford to stay in Alhambra.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.amyforalhambra.com/issues",
+          "title": "Amy's Priorities - Amy Wong for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Whether you're driving, walking, biking, or taking transit, our streets should be safe for all.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.amyforalhambra.com/issues",
+          "title": "Amy's Priorities - Amy Wong for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Alhambra must be prepared for the challenges of extreme heat, poor air quality, drought, and climate emergencies, like the 2025 Eaton Fire.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.amyforalhambra.com/issues",
+          "title": "Amy's Priorities - Amy Wong for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, Wong helped lead a campaign to prohibit data centers in Monterey Park and co-founded SGV Progressive Action.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/amy-j-wong-announces-run-for-alhambra-city-council-district-1/",
+          "title": "Amy J. Wong Announces Run for Alhambra City Council District 1 - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party - Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ron-sahu": [
+      {
+        "text": "\"Growth should strengthen Alhambra, not diminish the character of the neighborhoods we call home. I'll advocate for responsible development that considers traffic, infrastructure, environmental safety, housing needs, and quality of life.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.ronsahu.com/vision",
+          "title": "VISION - Dr. Ron Sahu for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I'll work to ensure public funds are spent responsibly, projects move forward as promised, and residents receive clear answers about progress and results.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.ronsahu.com/vision",
+          "title": "VISION - Dr. Ron Sahu for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says as an environmental engineer he understands \"the importance of addressing contamination, pollution, sustainability, and environmental risks before they become tomorrow's problems.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.ronsahu.com/vision",
+          "title": "VISION - Dr. Ron Sahu for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Alhambra Police Officers' Association.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ronsahu.com/endorsements",
+          "title": "ENDORSEMENTS - Dr. Ron Sahu for Alhambra City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the Alhambra council (Feb. 9, 2026), speaking for Grassroots Alhambra, that Measure R 710-stub projects have \"accomplished so little\" while consultants spent about $2 million: \"We are spending a lot of money and sitting in the same place.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/grassroots-alhambra-alleges-coverup-at-alhambra-city-hall/",
+          "title": "Grassroots Alhambra alleges coverup at Alhambra City Hall - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At a May 26, 2026 town hall, asked council members to agree that \"Measure R money should be spent benefiting Alhambra's residents and not spent on freeway projects unless the projects can demonstrate a benefit to citizens.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/the-decades-long-fight-over-the-710-stub-and-where-the-money-went/",
+          "title": "The decades-long fight over the 710 stub and where the money went - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) As a former planning commissioner, objected to the draft Housing Element eliminating the Residential Planned Development process: \"The record simply does not at all justify the elimination of the RPD, period.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/alhambras-city-staff-in-the-hot-seat-over-the-housing-element/",
+          "title": "Alhambra's City Staff in the Hot Seat Over the Housing Element - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, his campaign cites organizing opposition to a proposed development at Story Park and advocating delays to development proposals on contaminated land near Fremont Avenue.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/ron-sahu-announces-candidacy-for-alhambra-city-council-district-1/",
+          "title": "Ron Sahu Announces Candidacy for Alhambra City Council District 1 - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No positions beyond campaign sites, LACDP endorsement list, and local news coverage. Amy Wong's issues page is brief; Ron Sahu's record includes 2026 Measure R/710 public comments. Wong is LACDP-endorsed; Sahu is endorsed by the Alhambra POA. Searches used: 12."
+}

@@ -1,0 +1,100 @@
+{
+  "contestId": "city-of-alhambra-member-of-the-city-council-fifth-district",
+  "options": {
+    "adele-andrade-stadler": [
+      {
+        "text": "Lists \"Advocating for a no-fault eviction policy\" among her council accomplishments.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.adeleforalhambra.com/accomplishments",
+          "title": "Accomplishments - Adele Andrade Stadler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists \"Establishing an Inclusionary Housing Ordinance\" and \"Expanding financial assistance for low-income housing\" among her accomplishments.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.adeleforalhambra.com/accomplishments",
+          "title": "Accomplishments - Adele Andrade Stadler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists \"Establishing a Community Workforce Agreement with local-hire provisions\" among her accomplishments.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.adeleforalhambra.com/accomplishments",
+          "title": "Accomplishments - Adele Andrade Stadler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, she has championed the city's transition to 100% renewable energy.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/alhambra-councilwoman-adele-andrade-stadler-announces-re-election-campaign/",
+          "title": "Alhambra Councilwoman Adele Andrade-Stadler Announces Re-election Campaign - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sits on the Alhambra City Council, which unanimously approved a March 23, 2026 resolution designating city property ICE-free zones and directing police not to interfere with people observing or recording law enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/alhambra-strengthens-its-stance-against-ice/",
+          "title": "Alhambra Strengthens Its Stance Against ICE - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party - Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alejandro-covarrubias": [],
+    "melissa-michelson": [
+      {
+        "text": "Per Colorado Boulevard, Michelson said City Hall should take a more proactive approach to tree preservation, tenant protections, infrastructure, and government spending.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/melissa-michelson-announces-run-for-alhambra-city-council-district-5/",
+          "title": "Melissa Michelson Announces Run for Alhambra City Council District 5 - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, her advocacy has included opposing a proposed 1,068-unit luxury housing development on polluted land and preserving Alhambra's last urban forest.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/melissa-michelson-announces-run-for-alhambra-city-council-district-5/",
+          "title": "Melissa Michelson Announces Run for Alhambra City Council District 5 - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, her campaign says it will not accept donations from developers, contractors, political action committees, or corporations; her advocacy has included campaign finance reform.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/melissa-michelson-announces-run-for-alhambra-city-council-district-5/",
+          "title": "Melissa Michelson Announces Run for Alhambra City Council District 5 - Colorado Boulevard",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No public positions found for alejandro-covarrubias (no campaign site or coverage beyond his candidacy). Melissa Michelson items are reporter paraphrases from her announcement; no campaign site found. Andrade-Stadler is LACDP-endorsed. Searches used: 12."
+}

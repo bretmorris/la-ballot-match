@@ -1,0 +1,170 @@
+{
+  "contestId": "city-of-west-covina-member-of-the-city-council-2nd-district",
+  "options": {
+    "leslie-h-garcia": [
+      {
+        "text": "Campaign site pledges to \"Advance renter friendly protections for residents.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to end the city's Flock surveillance (license-plate camera) contract.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to \"Direct funds to legal aid and emergency services to our vulnerable communities.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to \"Develop a pathway to permanently ban data centers\" in West Covina.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes West Covina's \"costly departure from LA County Public Health.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to \"Oppose predatory working-class fees like street-sweeping tickets\" and streamline small-business permitting.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party and the California Working Families Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by 3.14 Action Fund, which backs scientist candidates.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.leslieforwestcovina.com/",
+          "title": "Leslie for West Covina City Council - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "letty-lopez": [
+      {
+        "text": "Campaign site: \"Continue to support the strengthening of our public safety departments to ensure our neighborhoods are safe.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://lettylopez.com/",
+          "title": "Letty Lopez for City Council District 2 - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to partner with LACADA and the Hope Team on homelessness.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://lettylopez.com/",
+          "title": "Letty Lopez for City Council District 2 - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"Continue to build West Covina's financial standing by effectively increasing revenue\" and support local business development.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://lettylopez.com/",
+          "title": "Letty Lopez for City Council District 2 - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2021) Voted with the 4-1 council majority on Feb. 23, 2021 to create a city health department separate from LA County Public Health, saying the county had not provided \"services of the caliber that everybody would like.\"",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.sandimascommunitypost.com/san-dimas-considers-following-west-covinas-lead-to-leave-la-county-public-health/",
+          "title": "San Dimas Community Post - San Dimas Considers Following West Covina's Lead to Leave LA County Public Health (May 6, 2021)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "carlos-yado": [
+      {
+        "text": "Priorities: \"Spend smarter. Eliminate waste. Protect taxpayer dollars.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://carlosyado.com/priorities",
+          "title": "Carlos Yado for West Covina City Council District 2 - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: \"Public Safety Without Costly Bureaucracy\" — put resources on the front lines of police, fire and emergency response rather than expanding government layers.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://carlosyado.com/priorities",
+          "title": "Carlos Yado for West Covina City Council District 2 - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: \"Keep our streets clean. Maintain our parks. Enforce the law,\" including consistent enforcement against illegal encampments.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://carlosyado.com/priorities",
+          "title": "Carlos Yado for West Covina City Council District 2 - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: \"Cut the red tape. Attract investment. Support local businesses,\" with streamlined permitting.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://carlosyado.com/priorities",
+          "title": "Carlos Yado for West Covina City Council District 2 - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Lopez (Letty Lopez-Viado) is an incumbent; a 2025 unanimous council vote demanding Measure A homelessness funds be sent directly to the city was seen in search results but the city press release URL returned 404, so it was not included. No campaign endorsements listed on Lopez or Yado sites. Searches used: 13"
+}

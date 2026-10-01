@@ -1,0 +1,124 @@
+{
+  "contestId": "city-of-norwalk-member-of-the-city-council",
+  "options": {
+    "tony-ayala": [
+      {
+        "text": "(2025) With Ayala as mayor, the council voted unanimously to lift Norwalk's moratorium on emergency shelters and transitional housing amid the state's lawsuit. Ayala: \"Norwalk is opening the door to housing that works. We are seeking solutions that are well-planned, well-placed, and supported by the community it serves.\"",
+        "kind": "voting-record",
+        "dimension": "homelessness",
+        "source": {
+          "url": "http://www.thenorwalkpatriot.com/news/2025/8/7/norwalk-lifts-moratorium-on-emergency-shelters-as-part-of-settlement-discussions-with-state",
+          "title": "Norwalk lifts moratorium on emergency shelters as part of settlement discussions with state - The Norwalk Patriot (2025-08-07)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) The Norwalk City Council, of which Ayala was a member, voted unanimously on Sept. 17, 2024 to extend its ban on new homeless shelters and transitional housing into 2025 despite the state's threatened lawsuit.",
+        "kind": "voting-record",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.foxla.com/news/norwalk-residents-react-city-extending-ban-homeless-shelters",
+          "title": "Norwalk residents react to city extending ban on homeless shelters - FOX 11 Los Angeles (2024-09)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2026) Asked staff whether unhoused Norwalk veterans would get preference for 18 new HUD-VASH housing vouchers; the council then unanimously approved $174,700 more for the city's homelessness prevention and rapid rehousing program.",
+        "kind": "voting-record",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.loscerritosnews.net/2026/08/21/norwalk-expands-housing-assistance-for-veterans-homeless-residents-and-families/",
+          "title": "Norwalk Expands Housing Assistance for Veterans, Homeless Residents, and Families - Los Cerritos Community News (2026-08-21)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) In a campaign op-ed, cited his record approving a $3.9 million plan adding city public safety officers, a second homeless-response team and a second Norwalk Enforcement Team of Sheriff's deputies for special enforcement.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "http://www.thenorwalkpatriot.com/news/2022/10/27/tony-ayala-lets-keep-moving-norwalk-forward",
+          "title": "Tony Ayala: Let's keep moving Norwalk forward - The Norwalk Patriot (2022-10-27)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Pledged \"to lead the effort to establish a new culture of ensuring that Norwalk money supports Norwalk businesses,\" citing job creation and \"a robust tax base that will help fund vital city services.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "http://www.thenorwalkpatriot.com/news/2022/10/27/tony-ayala-lets-keep-moving-norwalk-forward",
+          "title": "Tony Ayala: Let's keep moving Norwalk forward - The Norwalk Patriot (2022-10-27)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "richard-legaspi": [
+      {
+        "text": "As Public Safety Commission chair, prioritizes \"full funding and close coordination\" between the L.A. County Sheriff's Norwalk Station and the city's Public Safety Officer program to prevent and respond to gang activity, describing his approach as \"vigilance, not overreaction.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to expand after-school programs and youth sports in every neighborhood, strengthen the Public Safety Cadet Program and expand Neighborhood Watch: \"A youth with somewhere to be and someone paying attention is harder for a gang to reach.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On development: decisions \"need real community input before they're approved,\" and \"growth for growth's sake isn't the goal. Norwalk doesn't need more housing that Norwalk families can't afford.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says every development \"should set aside non-market-rate units for seniors and first-time homebuyer families,\" and wants Norwalk to build senior housing and connect families to state and county down-payment assistance.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On budgets: \"His approach to closing budget gaps starts with efficiency, not new taxes or fees,\" pursuing grants, sponsorships and nonprofit partnerships before city dollars.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a small business incubator with Cerritos College, strengthening the \"Keepin' It Norwalk\" buy-local program, and job-training partnerships so Norwalk residents benefit first from growth.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.richardlegaspi.com/platform",
+          "title": "Platform - Rich LeGaspi for Norwalk City Council",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "daniel-moreno": [],
+    "leonard-shryock": [],
+    "nikolas-woods": [],
+    "rachell-jaimes": []
+  },
+  "notes": "Tony Ayala (incumbent since 2017, mayor 2024-25) has recorded votes on Norwalk's homeless-shelter moratorium and housing programs; individual roll calls weren't published, so the votes are cited as the council's unanimous actions (Ayala's council service since 2017 is from his city bio). Richard Legaspi has a detailed campaign platform. No public positions found for daniel-moreno, leonard-shryock, nikolas-woods, or rachell-jaimes: no campaign sites at guessed domains, and no coverage in The Norwalk Patriot, Downey Patriot, or Los Cerritos News; Ballotpedia has no pages for them, and the city's qualified-candidate list wasn't reachable. Searches used: 13"
+}

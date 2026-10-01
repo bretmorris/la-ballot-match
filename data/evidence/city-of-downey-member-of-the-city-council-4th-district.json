@@ -1,0 +1,219 @@
+{
+  "contestId": "city-of-downey-member-of-the-city-council-4th-district",
+  "options": {
+    "martha-camacho-rodriguez": [
+      {
+        "text": "Housing priority: \"Support thoughtful housing solutions while considering affordability, neighborhood needs, infrastructure, and quality of life.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.marthacamachorodriguez.com/",
+          "title": "Martha Camacho Rodriguez for Downey City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On growth: \"Approach development with attention to residents, traffic, infrastructure, local businesses, and neighborhood impacts.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.marthacamachorodriguez.com/",
+          "title": "Martha Camacho Rodriguez for Downey City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: \"Support practical, coordinated approaches that connect outreach, prevention, services, and housing stability.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.marthacamachorodriguez.com/",
+          "title": "Martha Camacho Rodriguez for Downey City Council District 4 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) In a Ballotpedia survey as a Central Basin water board candidate: \"We must continue to educate ourselves on environmental injustices so that we can bring justice to our communities of color,\" describing living in a \"corridor of contamination\" where she breathes air, drinks water and plants in soil with \"multiple cancer-causing contaminants\".",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ballotpedia.org/Martha_Camacho_Rodriguez_(Central_Basin_Municipal_Water_District_Board_Division_1,_California,_candidate_2024)",
+          "title": "Martha Camacho Rodriguez - Ballotpedia Candidate Connection survey (Central Basin MWD, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Said she wants to ensure communities are not unaware of \"intentions to privatize water,\" to \"add teeth to the Human Right to Water,\" and to support policies giving ratepayers consumer protections and financial options.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://ballotpedia.org/Martha_Camacho_Rodriguez_(Central_Basin_Municipal_Water_District_Board_Division_1,_California,_candidate_2024)",
+          "title": "Martha Camacho Rodriguez - Ballotpedia Candidate Connection survey (Central Basin MWD, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Named Paul Krugman's \"The Conscience of a Liberal\" as a book explaining her political philosophy, summarizing it as advocating \"progressive policies\" and arguing a strong middle class and economic equality are essential to democracy.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Martha_Camacho_Rodriguez_(Central_Basin_Municipal_Water_District_Board_Division_1,_California,_candidate_2024)",
+          "title": "Martha Camacho Rodriguez - Ballotpedia Candidate Connection survey (Central Basin MWD, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lissette-rivera": [
+      {
+        "text": "Five-point plan includes keeping neighborhoods safe \"by supporting police, firefighters, crime prevention, and traffic safety.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.lissetterivera.com/",
+          "title": "Lissette Rivera for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Plans to support small businesses \"by reducing red tape, fostering entrepreneurship, attracting STEM and tech industries to create high-paying jobs.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.lissetterivera.com/",
+          "title": "Lissette Rivera for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"Bring Transparency & Accountability to City Hall... Through open government, fiscal responsibility, and greater community engagement,\" and to expand community programs for youth, working families, seniors and veterans.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.lissetterivera.com/",
+          "title": "Lissette Rivera for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-founder and president of WOLF (War On Lethal Fentanyl), which partnered with Downey Unified on fentanyl prevention education reaching more than 23,000 student families, per her campaign announcement.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.loscerritosnews.net/2026/07/04/lissette-rivera-announces-candidacy-for-downey-city-council-district-4/",
+          "title": "Lissette Rivera Announces Candidacy for Downey City Council District 4 - Los Cerritos Community News (2026-07-04)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "carrie-uva": [
+      {
+        "text": "Committed to \"fully equipping our police, strengthening recruitment, and taking aggressive action against crime, homelessness, and the fentanyl crisis to keep families safe.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/",
+          "title": "Carrie Uva for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to increase \"the transition of homeless individuals from our streets to long-term support programs\" by enhancing city collaboration with community organizations like CityNet.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/priorities",
+          "title": "Priorities - Carrie Uva for Downey City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As chair of the Measure S and D oversight committees, says she prioritized police and fire \"as essential services\" and pledges \"fiscal responsibility and a balanced budget.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/priorities",
+          "title": "Priorities - Carrie Uva for Downey City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"cultivate a more business-friendly atmosphere at City Hall by streamlining processes\" for permits.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/priorities",
+          "title": "Priorities - Carrie Uva for Downey City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Promises \"enforcing high community standards on new developments, traffic-calming measures and parking regulation in our neighborhoods.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/",
+          "title": "Carrie Uva for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2026) As planning commissioner, seconded the motion to deny a 145-townhome project at the former Honda World service center (rejected 5-0 amid traffic and safety concerns), then voted with the commission 3-0 to reconsider it after developer litigation threats.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/planning-commission-agrees-to-reconsider-controversial-housing-project",
+          "title": "Planning Commission agrees to reconsider controversial housing project - The Downey Patriot (2026-08-20)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Greater Downey Association of Realtors. Uva: \"I believe local government should respect private property rights, protect homeownership and make sure residents have a meaningful voice in decisions that affect their property.\"",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/post/carrie-uva-earns-endorsement-from-greater-downey-association-of-realtors",
+          "title": "Carrie Uva Earns Endorsement from Greater Downey Association of Realtors (campaign site, 2026-09-23)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lobbied legislators at Realtors Legislative Day to oppose AB 1406 (raising new-condo deposits from 3% to 6%) and support SB 1238 (HOA manager fiduciary duty): \"we should be making homeownership easier, not more expensive.\"",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/post/carrie-uva-takes-downey-s-fight-to-sacramento",
+          "title": "Carrie Uva Takes Downey's Fight to Sacramento (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Taxpayers Association.",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/",
+          "title": "Carrie Uva for Downey City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Western States Regional Council of Carpenters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/carpenters-union-endorses-carrie-uva-for-city-council",
+          "title": "Carpenters union endorses Carrie Uva for city council - The Downey Patriot (2026-09-03)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a neighborhood traffic-calming program: speed cushions, raised crosswalks, curb extensions and design that visually narrows wide streets \"while preserving neighborhood access and as much parking as possible,\" plus evaluating lower speed limits and focused police enforcement.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.carrieuvafordowney.com/post/carrie-uva-proposes-neighborhood-traffic-safety-plan",
+          "title": "Carrie Uva Proposes Neighborhood Traffic Safety Plan (campaign site, 2026-09-09)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Open seat (Mayor Claudia Frometa termed out). Carrie Uva (planning commission chair) has the most material: campaign site plus Downey Patriot coverage of her commission votes. Lissette Rivera's campaign site gives only a general five-point plan; her opponent's attack page was not used. Martha Camacho Rodriguez has a general campaign site plus a 2024 Ballotpedia survey from her Central Basin water board race. Rivera's endorsements by Democratic officeholders (Sen. Lena Gonzalez, Treasurer Fiona Ma, Rep. Linda Sanchez) were left out as not issue-specific. Searches used: 13"
+}

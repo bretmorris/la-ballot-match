@@ -1,0 +1,113 @@
+{
+  "contestId": "saugus-union-school-district-governing-board-member-trustee-area-no-2",
+  "options": {
+    "anna-griese": [
+      {
+        "text": "\"My top priority continues to be improving student behavior\" through \"a clear, consistent approach to student behavior, timely interventions, meaningful support for students and staff.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://signalscv.com/2026/07/anna-griese-listening-follow-through-and-results/",
+          "title": "The Signal: Anna Griese | Listening, Follow-Through and Results (letter, 2026-07-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Great schools start with great people\"; wants to keep supporting teachers and staff, listen to their perspectives, and build a culture where educators choose to join and stay in the district.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://signalscv.com/2026/07/anna-griese-listening-follow-through-and-results/",
+          "title": "The Signal: Anna Griese | Listening, Follow-Through and Results (letter, 2026-07-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"It's not enough to launch new programs and initiatives — we need clear goals, measurable outcomes, regular evaluation,\" and timely fixes when something isn't working.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://signalscv.com/2026/07/anna-griese-listening-follow-through-and-results/",
+          "title": "The Signal: Anna Griese | Listening, Follow-Through and Results (letter, 2026-07-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pulled a Conscious Discipline training contract from the consent calendar, saying the behavior council should be more involved and classified employees added to it; voted no as it passed 4-1.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://signalscv.com/2025/04/saugus-district-board-approves-behavior-consulting-workshop/",
+          "title": "The Signal: Saugus district board approves behavior consulting workshop (2025-04)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "After losing a 4-1 vote for board president (Dec. 2025): \"I'm not going to stop advocating for parents, not going to stop advocating for teachers…and anybody else that comes forward with what's happening in this district.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://signalscv.com/2025/12/saugus-board-chooses-watson-as-president-4-1-passing-over-griese/",
+          "title": "The Signal: Saugus board chooses Watson as president, 4-1, passing over Griese (2025-12-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site priority: \"The community deserves open, honest communication\"; promises accessible, responsive leadership and two-way dialogue with families and employees.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://electannagriese.com/",
+          "title": "Re-Elect Anna Griese, Saugus Union School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alisa-gentry": [
+      {
+        "text": "\"I am a committed advocate for students of all abilities\"; as the parent of two special-needs students, wants to \"preserve and strengthen\" the support system she experienced.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://alisagentry.com/priorities/",
+          "title": "Alisa Gentry 4 Saugus Union School Board: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Inclusion priority: \"Schools should foster environments where students can express themselves without fear of retaliation, judgment, or exclusion.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://alisagentry.com/priorities/",
+          "title": "Alisa Gentry 4 Saugus Union School Board: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Supporting teachers means giving them the tools, resources, and backing they need to manage classroom challenges while maintaining a safe and productive learning environment.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://alisagentry.com/priorities/",
+          "title": "Alisa Gentry 4 Saugus Union School Board: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Clarita Valley Democrats.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.santaclaritavalleydemocrats.com/endorsements",
+          "title": "Santa Clarita Valley Democrats: November 2026 Candidate Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rebuilt this run (prior file was empty). Griese: campaign site, her July 2026 Signal letter, and 2025 Signal board coverage (via r.jina.ai). A Dec. 2025 public commenter called Griese hostile to LGBTQ families; that is a third party's description, so it was not recorded. Gentry: campaign site plus Democratic Party endorsement lists; no Ballotpedia survey or Signal letter found. Searches used: 10."
+}

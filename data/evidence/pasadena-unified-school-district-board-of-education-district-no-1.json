@@ -1,0 +1,100 @@
+{
+  "contestId": "pasadena-unified-school-district-board-of-education-district-no-1",
+  "options": {
+    "kimberly-kenne": [
+      {
+        "text": "In a June 2026 guest column, Kenne wrote that it is hard to tell how the district's $300+ million general fund is used and urged a revised 3-year LCAP that \"can clearly show our community what actions are being planned to help our students and how those actions are being funded.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-kimberly-kenne-pasadena-unified-needs-spending-plans-that-the-public-can-understand-and-believe",
+          "title": "Pasadena Now: Guest Opinion: Kimberly Kenne, Pasadena Unified Needs Spending Plans That the Public Can Understand and Believe (June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Kenne wrote that LCAP expenditures not matching the budget \"has happened for several years in Pasadena Unified\" and is \"misleading the public,\" and that the plan should let the community hold the district \"accountable for increasing student achievement.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-kimberly-kenne-pasadena-unified-needs-spending-plans-that-the-public-can-understand-and-believe",
+          "title": "Pasadena Now: Guest Opinion: Kimberly Kenne, Pasadena Unified Needs Spending Plans That the Public Can Understand and Believe (June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In May 2026 Kenne seconded Richardson Bailey's motion rejecting the consultant's school-consolidation equity analysis, which passed; Kenne said the board was \"stopping the AB 1912 process.\"",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/pusd-board-halts-school-closure-plan-two-trustees-served-with-recalls",
+          "title": "Pasadena Now: PUSD Board Halts School Closure Plan, Two Trustees Served With Recall Notices (May 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Sept. 2026 Kenne was in the 4-3 majority that rejected tabling, then approved, a webpage posting data on possible school consolidations.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/pasadena-unified-board-hears-debate-over-school-closures-campus-maintenance-and-data-webpage",
+          "title": "Colorado Boulevard: Pasadena Unified Board hears debate over school closures, campus maintenance and data webpage (Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2019) Per Patch, citing the Star-News, Kenne voted against closing three elementary schools, backing a failed option that would also have closed Don Benito; she warned, \"We will probably be back here in two to three years, closing elementary schools again.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://patch.com/california/pasadena-ca/pasadena-unified-close-3-schools-despite-objections",
+          "title": "Patch: Pasadena Unified to close 3 schools despite objections (Sept. 2019)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: says she worked to keep funding in the classroom, is \"a strong supporter of neighborhood schools,\" and pushed for transparency on district finances \"with a focus on legal and consultancy expenditures.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.kenneforpusd.com",
+          "title": "Kim Kenne for PUSD and Altadena (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "felita-kealing": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party (District 1). Per the party's release, Kealing said the endorsement reflects her values of bringing people together, supporting families and strengthening public schools.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/la-county-democrats-endorse-4-pasadena-unified-board-candidates",
+          "title": "Pasadena Now: LA County Democrats Endorse 4 Pasadena Unified Board Candidates",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per the party's release, her campaign focuses on building strong community schools, putting families at the center of decision-making, expanding student opportunities, and supporting educators and school employees.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/la-county-democrats-endorse-4-pasadena-unified-board-candidates",
+          "title": "Pasadena Now: LA County Democrats Endorse 4 Pasadena Unified Board Candidates",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per Colorado Boulevard, Kealing said losing her family's Altadena home in the Eaton Fire reinforced her belief in schools as community hubs; her campaign priorities include school-community partnerships and supporting educators and staff.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/felita-kealing-announces-bid-for-pasadena-unified-board-district-1/",
+          "title": "Colorado Boulevard: Felita Kealing announces bid for Pasadena Unified Board, District 1 (Aug. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Kealing: only general priorities found (party release and Colorado Boulevard announcement); her campaign domain from the City Clerk list (healingforkealing.com) did not resolve on http/https/www. Kenne: added recorded board votes on school consolidation (2019, 2026) and her campaign site. Existing Kealing item re-attributed (the party release paraphrases, not quotes, her). Searches used: 10"
+}

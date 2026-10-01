@@ -1,0 +1,58 @@
+{
+ "contestId": "city-of-carson-member-of-the-city-council-2nd-district",
+ "options": {
+  "jim-dear": [
+   {
+    "text": "Sits on the council that voted unanimously (Apr 2026) to adopt the development agreement for a 1,115-unit mixed-use project (764 apartments, 351 townhomes) on the former Imperial Avalon mobilehome park site.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.carsoncat.org/post/city-council-meeting-highlights-april-7-2026",
+     "title": "Carson Accountability & Transparency: City Council Meeting Highlights, April 7, 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Part of the unanimous vote (Mar 2026) extending Carson's drive-through restaurant moratorium to January 2027; said 'We have so many fast food restaurants in Carson right now... It really discourages the type of restaurants' the city wants to attract.",
+    "kind": "voting-record",
+    "source": {
+     "url": "https://www.carsoncat.org/post/city-council-meeting-highlights-march-3-2026",
+     "title": "Carson Accountability & Transparency: City Council Meeting Highlights, March 3, 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2020) Told CAT's candidate Q&A: 'We should not spend any more money than the revenue that we receive,' criticizing budgets balanced by transfers from the Reserve Fund as a structural deficit.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.carsoncat.org/candidateqa2020",
+     "title": "Carson Accountability & Transparency: 2020 City Candidates Q&A",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2020) Said he would vote no on Measure K, Carson's 3/4-cent sales tax, preferring a 'blocking measure' to keep revenue from going to the county if it raised taxes.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.carsoncat.org/candidateqa2020",
+     "title": "Carson Accountability & Transparency: 2020 City Candidates Q&A",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2020) Said new businesses Carson attracts 'should bring Carson residents jobs in high tech clean industries.'",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.carsoncat.org/candidateqa2020",
+     "title": "Carson Accountability & Transparency: 2020 City Candidates Q&A",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "derek-haskell-jr": []
+ },
+ "notes": "No campaign website, questionnaire or news coverage found for derek-haskell-jr (search turned up only business records naming him executive director of a nonprofit). Dear's older items are from his 2020 mayoral run. Searches used: 13"
+}

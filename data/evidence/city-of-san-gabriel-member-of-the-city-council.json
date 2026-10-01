@@ -1,0 +1,235 @@
+{
+  "contestId": "city-of-san-gabriel-member-of-the-city-council",
+  "options": {
+    "wendy-wang": [
+      {
+        "text": "Calls to \"Address the 11% sales tax burden\" through \"responsible budgeting, clear public reporting, and careful review of City spending.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wendywangsg.com/",
+          "title": "Wendy Wang | San Gabriel City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Criticizes trash rate increases of \"close to 60%\" for some accounts and backs \"a more open, transparent, and competitive process for waste-service contracts.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wendywangsg.com/",
+          "title": "Wendy Wang | San Gabriel City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to support \"first responders, strengthening emergency preparedness and crisis response.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://wendywangsg.com/",
+          "title": "Wendy Wang | San Gabriel City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LIUNA Local 300.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://wendywangsg.com/",
+          "title": "Wendy Wang | San Gabriel City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "john-wu": [
+      {
+        "text": "On ICE activity: \"we try to follow whatever the state mandate says — we are not assisting them... at least we will not be part of the whole action.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/im-a-public-servant-not-a-politician-san-gabriel-councilmember-john-wu/",
+          "title": "'I'm a public servant, not a politician' - San Gabriel Councilmember John Wu - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the council brought police compensation \"to market rate,\" and that new development means \"We will need at least 20 more people in our police station.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/im-a-public-servant-not-a-politician-san-gabriel-councilmember-john-wu/",
+          "title": "'I'm a public servant, not a politician' - San Gabriel Councilmember John Wu - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites about 15% affordable housing in new projects and the city's first affordable senior rental (about 72 units), saying the city will amend industrial zoning for it.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/im-a-public-servant-not-a-politician-san-gabriel-councilmember-john-wu/",
+          "title": "'I'm a public servant, not a politician' - San Gabriel Councilmember John Wu - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Moved the motion; voted yes (July 21, 2026; 5-0) to place a 1% transactions-and-use (sales) tax measure on the November 2026 ballot.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted yes (July 21, 2026; 4-0-1) to adopt new Athens Services solid waste rates and a rate adjustment formula after residents spoke against the increase.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "denise-menchaca": [
+      {
+        "text": "Seconded the motion; voted yes (July 21, 2026; 5-0) to place a 1% transactions-and-use (sales) tax measure on the November 2026 ballot.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Made the motion and voted yes (July 21, 2026; 4-0-1) to adopt new Athens Services solid waste rates and a rate adjustment formula after residents spoke against the increase.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party - Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "eric-l-chan": [
+      {
+        "text": "On state housing mandates: \"I've always been a strong proponent of local control... I don't like the state's one-size-fits-all approach for all cities.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/city-council-by-day-open-mic-by-night-eric-chans-tightest-five-minutes/",
+          "title": "'City Council by day, open mic by night' - Eric Chan - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports mixed-use on Valley, Las Tunas and San Gabriel corridors but: \"You don't want a big, monstrous condo building in a small, quiet neighborhood.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/city-council-by-day-open-mic-by-night-eric-chans-tightest-five-minutes/",
+          "title": "'City Council by day, open mic by night' - Eric Chan - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Our city can enforce certain anti-camping ordinances... the most compassionate thing to do is not leave people out on the street to die,\" citing the police Mental Evaluation Team.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/city-council-by-day-open-mic-by-night-eric-chans-tightest-five-minutes/",
+          "title": "'City Council by day, open mic by night' - Eric Chan - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls public safety \"number one, always\" and says he voted to authorize five extra police positions beyond full staffing.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/city-council-by-day-open-mic-by-night-eric-chans-tightest-five-minutes/",
+          "title": "'City Council by day, open mic by night' - Eric Chan - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted yes (July 21, 2026; 5-0) to place a 1% transactions-and-use (sales) tax measure on the November 2026 ballot.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted yes (July 21, 2026; 4-0-1) to adopt new Athens Services solid waste rates and a rate adjustment formula after residents spoke against the increase.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Minutes/_07212026-1463",
+          "title": "San Gabriel City Council Regular Meeting Minutes, July 21, 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jordan-guzman": [
+      {
+        "text": "\"Prioritize resident safety through evidence-based policing strategies, tools and programs.\" Wants to restore a police vacation house-check program.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://goldenguzman.com/",
+          "title": "Jordan Guzman for San Gabriel City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On transit: \"Realistically, our best bet is working with Metro to make San Gabriel's public transit more efficient,\" along with investing in buses and staying pedestrian-friendly.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/the-golden-guzman-a-gen-z-jazz-musicians-bid-to-reshape-san-gabriel-city-council/",
+          "title": "The Golden Guzman: A Gen Z Jazz Musician's Bid to Reshape San Gabriel City Council - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"If I get elected, I wouldn't use city funds to travel to other places, even for enrichment. I'd invest that money back into San Gabriel.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/the-golden-guzman-a-gen-z-jazz-musicians-bid-to-reshape-san-gabriel-city-council/",
+          "title": "The Golden Guzman: A Gen Z Jazz Musician's Bid to Reshape San Gabriel City Council - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants \"lit street signs in strategic places\" on busy arterials and \"strategic speed bumps\" to slow cut-through drivers.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://localnewspasadena.com/2026/the-golden-guzman-a-gen-z-jazz-musicians-bid-to-reshape-san-gabriel-city-council/",
+          "title": "The Golden Guzman: A Gen Z Jazz Musician's Bid to Reshape San Gabriel City Council - Local News Pasadena",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Menchaca's campaign priorities page lists headings only; her items are council votes and the LACDP endorsement (LACDP gave one endorsement in this race). Chan and Wu items come from Local News Pasadena interviews (direct quotes) and the July 21, 2026 minutes. Searches used: 12."
+}

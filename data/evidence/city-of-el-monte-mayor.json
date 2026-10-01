@@ -1,0 +1,130 @@
+{
+  "contestId": "city-of-el-monte-mayor",
+  "options": {
+    "jessica-ancona": [
+      {
+        "text": "Voted with a 7-0 council on Jan. 28, 2026 to accept a federal COPS hiring grant and raise Police Department staffing from 132 to 137 sworn officers ($1.03M total cost).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_01282026-1346",
+          "title": "El Monte City Council Minutes, Jan. 28, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for Urgency Ordinance No. 3062 restricting use of city-owned or city-controlled property (7-0, Mar. 18, 2026); Ancona moved to open the public hearing; a public commenter addressed it as the urgency ordinance regarding immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_03182026-1362",
+          "title": "El Monte City Council Adjourned Meeting Minutes, Mar. 18, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"Safe Neighborhoods\" — strong police and fire services, homelessness outreach, illegal dumping/graffiti and code enforcement.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://jessicaancona.com/platform",
+          "title": "Re-Elect Mayor Ancona - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"City Hall has a responsibility to manage taxpayer dollars carefully\"; pledges responsible budgeting, protecting reserves and opposing wasteful spending.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://jessicaancona.com/platform",
+          "title": "Re-Elect Mayor Ancona - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform commits to good-paying jobs and union job support, plus small-business assistance and workforce development.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jessicaancona.com/platform",
+          "title": "Re-Elect Mayor Ancona - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform includes support for immigrant families under \"Standing Up for El Monte Families.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://jessicaancona.com/platform",
+          "title": "Re-Elect Mayor Ancona - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA/Orange Counties Building and Construction Trades Council, SEIU Local 721, IBEW Local 11, Laborers Local 300, several Teamsters locals and SEIU 121RN.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jessicaancona.com/endorsements-1-1",
+          "title": "Re-Elect Mayor Ancona - Endorsements 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://jessicaancona.com/endorsements-1-1",
+          "title": "Re-Elect Mayor Ancona - Endorsements 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "City bio says she \"supports smart conscious development and welcomes progress that considers community first.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/599/Jessica-Ancona",
+          "title": "City of El Monte - Mayor Jessica Ancona",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "viviana-longoria": [
+      {
+        "text": "Voted with a 7-0 council on Jan. 28, 2026 to accept a federal COPS hiring grant and raise Police Department staffing from 132 to 137 sworn officers ($1.03M total cost); Longoria seconded the motion.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_01282026-1346",
+          "title": "El Monte City Council Minutes, Jan. 28, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for Urgency Ordinance No. 3062 restricting use of city-owned or city-controlled property (7-0, Mar. 18, 2026); a public commenter addressed it as the urgency ordinance regarding immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_03182026-1362",
+          "title": "El Monte City Council Adjourned Meeting Minutes, Mar. 18, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted to approve School Resource Officer agreement amendments with three local school districts for FY2024-25 and 2025-26 (5-0, May 28, 2025).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_05282025-1277",
+          "title": "El Monte City Council Minutes, May 28, 2025",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "christine-sarmiento": []
+  },
+  "notes": "Ancona and Longoria are sitting councilmembers; their items include recorded council votes (most El Monte votes are unanimous, so they do not distinguish the two). Longoria's city bio page lists no positions and no campaign site was found. No public positions found for christine-sarmiento (christinesarmiento.com is a 'Coming Soon' placeholder). Searches used: 13"
+}

@@ -1,0 +1,353 @@
+{
+  "contestId": "city-of-santa-monica-member-of-the-rent-control-board",
+  "options": {
+    "sue-himmelrich": [
+      {
+        "text": "Running because she is 'disturbed by recent attacks on the very existence of rent control from not only landlords and developers, but also from allegedly pro-housing political actors who value quantity of housing over the safety and security of tenants.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 before rent-control protections were added: 'tenants should never be displaced from their homes unless absolutely necessary for public safety reasons.' Says there is room for market-rate development along the boulevards and downtown.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Agrees with LA County's rule raising the eviction threshold for unpaid rent to two months of HUD fair market rent; supports tenants adding family members without facing eviction.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports changes to Costa-Hawkins and the Ellis Act, but says a more practical near-term approach is state money for renter income assistance, a right to counsel, and exemptions from state upzoning for rent-controlled housing.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed and funded the 2016 Measure GS-GSH and 2022 Measure GS transfer taxes; supports the California Billionaire Tax because 'wealth inequality is eroding the quality of life'; supports the $495 SMMUSD parcel tax; opposes the state taxpayer initiative.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure because 'it will suppress legitimate voter participation in our elections.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Says she voted as a councilmember to place Measure RC on the ballot, which lowered the cap on annual rent increases for rent-controlled units from 6% to 3%.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports some below-market-rate housing on a small portion of the airport site alongside a Great Park.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sue-Himmelrich-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Sue Himmelrich",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "kurt-gonska": [
+      {
+        "text": "'Santa Monica should enact law prohibiting eviction for small rental debt, and the city should provide additional funding to financially assist those facing eviction due to financial hardship.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 before protections were added 'because of the potential to displace large numbers of tenants'; says the final version still falls short because buildings with two controlled units are not protected.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Continued attempts to reform' Costa-Hawkins and the Ellis Act 'should be pursued.' Opposed the 2022 attempt to 'essentially means test rent control.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the Billionaire Tax Act: 'This type of tax works only if implemented at the federal level'; the ultra-rich can relocate. Opposes the state taxpayer initiative and supports the SMMUSD parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'It's a solution in search of a problem, and it will disenfranchise hundreds of thousands if not millions of eligible voters.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Measure GS should be assessed continuously and adjusted if it measurably decreases new housing development, 'but only if it can be shown to actually have this negative impact.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kurt-Gonska-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Kurt Gonska",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As a commissioner, co-developed (with Vice Chair Ambriz) the four rent-control charter amendments the board voted unanimously in April 2026 to advance toward a public hearing, aiming to place them before voters in November.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smdp.com/santa-monica-rent-control-board-eyes-ballot-measures-on-tenant-protections-fees/",
+          "title": "SMDP - Santa Monica Rent Control Board Advances 4 Charter Amendments (Apr 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "soledad-marcial": [
+      {
+        "text": "Supports 'prohibiting evictions based on non-payment of rent when less than 150% of rent is owed' to prevent homelessness after a short-term loss of income.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Soledad-Marcial-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Soledad Marcial",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 before protections were added 'because it threatened the demolition of existing affordable housing apartments.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Soledad-Marcial-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Soledad Marcial",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Definitely further attempts to repeal/reform' Costa-Hawkins and the Ellis Act 'should be pursued.' Supports tenants in special circumstances adding family members without eviction.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Soledad-Marcial-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Soledad Marcial",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the California Billionaire Tax Act and the SMMUSD parcel tax; opposes the state taxpayer initiative.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Soledad-Marcial-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Soledad Marcial",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'It's already hard enough to get people out to the polling place' and it 'would only add an unnecessary layer.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Soledad-Marcial-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Soledad Marcial",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "heather-thomason": [
+      {
+        "text": "Opposed SB 79 'strongly and repeatedly,' calling its original form 'a destructive recipe for the demolition of rent controlled units' that 'took local control away from Santa Monica.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says state legislation that incentivizes market-rate housing 'without fully protecting rent controlled units is a direct threat'; concerned about 'the potential loss of Santa Monica's historic housing stock.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports modest Costa-Hawkins updates (narrower exemptions) as more realistic than full repeal. Santa Monica should subsidize small rental debt to prevent evictions, and press for local or state law changes protecting renters.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax 'with caveats,' fearing people will leave the state; suggests more progressive parcel taxes. Opposes the state taxpayer initiative and supports the SMMUSD parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: it 'leaves too many people who may not have government IDs... vulnerable to disenfranchisement.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes using 25% of the airport for housing: 'we must find other land to build affordable housing on'; the airport is a once-in-a-generation Great Park opportunity.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Heather-Thomason-Rent-Control-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 Rent Control Board Candidate Questionnaire - Heather Thomason",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "zo-muntaner": [
+      {
+        "text": "Candidate statement: rent control 'needs proactive leadership that is responsive to the renters of the city and fights the increasing tenant harassment strategies property owners use to force renters out.'",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.santamonica.gov/elections/2026-11-03/candidates/zoe-muntaner",
+          "title": "City of Santa Monica - General Election 2026 candidate statement: Zoë Muntaner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: an Ethics Commission for Rent Control staff oversight, more protections for disabled and roommate renters, coordination of Code Enforcement with the City Attorney's Consumer Protection Division, and legal clinics in parks.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.santamonica.gov/elections/2026-11-03/candidates/zoe-muntaner",
+          "title": "City of Santa Monica - General Election 2026 candidate statement: Zoë Muntaner",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Most items come from the Santa Monica Democratic Club 2026 Rent Control Board questionnaires. Zoë Muntaner did not answer the questionnaire; her two items come from her city candidate statement, which addresses renter issues only. No positions found for her on taxes, voting or SB 79. Incumbent Kurt Gonska's board record covers co-developing the 2026 charter amendments. No individual roll-call votes were found beyond unanimous board actions. Searches used: 6"
+}

@@ -1,0 +1,264 @@
+{
+  "contestId": "city-of-santa-clarita-member-of-the-city-council-2nd-district",
+  "options": {
+    "brett-haddoak": [
+      {
+        "text": "Campaign site: \"California's housing shortage is real, and Santa Clarita needs to be part of the solution.\" Will champion mixed-use, transit-adjacent development building on Old Town Newhall, while \"pushing back on reactive, developer-driven approvals that don't serve residents.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/",
+          "title": "Brett Haddoak for Santa Clarita City Council, District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he will push to \"build the kind of diverse housing stock that gives every resident the freedom to choose where and how they live, whether that's an apartment, a condo, or a single-family home.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/",
+          "title": "Brett Haddoak for Santa Clarita City Council, District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Ballotpedia survey: local control \"became an excuse to opt out — of regional transit, of housing solutions, of healthcare infrastructure\"; wants a council willing to engage with the region rather than treat partnerships as threats.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://ballotpedia.org/Brett_Haddoak",
+          "title": "Ballotpedia: Brett Haddoak (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites 1,000+ volunteer hours at Bridge to Home, service on the city's Homelessness Task Force, and building the software for the Shared Housing Pilot; says \"We need a homelessness strategy that treats the problem as infrastructure, not optics.\"",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://ballotpedia.org/Brett_Haddoak",
+          "title": "Ballotpedia: Brett Haddoak (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Building more lanes has never solved congestion permanently.\" Will advocate improved Metrolink connections and long-term light rail, starting with transit-oriented development nodes in Old Town Newhall, the Valencia mall site and the Bermite property.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/",
+          "title": "Brett Haddoak for Santa Clarita City Council, District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On Flock license-plate cameras: \"We should cancel all contracts and remove the cameras, permanently,\" arguing warrantless access to citywide location data raises Fourth Amendment problems and invites abuse.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/flock-cameras",
+          "title": "Haddoak campaign: Get the Flock Out of Santa Clarita",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign FAQ says he would require recycled water for landscape irrigation in new residential and commercial construction where recycled water infrastructure exists or is being extended.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/flock-cameras",
+          "title": "Haddoak campaign: Get the Flock Out of Santa Clarita",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will \"advocate for recycled water expansion, groundwater banking, and long-term supply resilience\" with SCV Water Agency and regional partners.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/",
+          "title": "Brett Haddoak for Santa Clarita City Council, District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would pursue an emergency stabilization facility on the east side with Henry Mayo and a long-term path to a second full-service hospital with trauma capability.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://haddoak4santaclarita.com/",
+          "title": "Brett Haddoak for Santa Clarita City Council, District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA/OC Building and Construction Trades Council, IBEW Locals 11 and 40, Plumbers and Pipefitters Local 761, Iron Workers Locals 416 and 433, and SEIU Local 721.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.hometownstation.com/santa-clarita-news/politics/meet-the-santa-clarita-city-council-candidates-ahead-of-november-election-609641",
+          "title": "KHTS: Meet The Santa Clarita City Council Candidates Ahead Of November Election (2026-09-14)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party and the Santa Clarita Valley Democrats.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ballotpedia.org/Brett_Haddoak",
+          "title": "Ballotpedia: Brett Haddoak (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "denise-lite": [
+      {
+        "text": "In a Signal column, argued Sacramento is \"systematically dismantling\" local control, saying SB 9 \"effectively ended single-family zoning\" and criticizing SB 423, SB 79 and the Builder's Remedy: \"stripping cities of their planning authority ... doesn't solve the housing crisis.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://signalscv.com/2026/06/denise-lite-our-community-and-local-control/",
+          "title": "The Signal: Denise Lite | Our Community and Local Control (column, 2026-06-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged serious discussion of Santa Clarita becoming a charter city, citing charter cities' court win against SB 9, so the city could gain authority over municipal affairs including zoning.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://signalscv.com/2026/06/denise-lite-our-community-and-local-control/",
+          "title": "The Signal: Denise Lite | Our Community and Local Control (column, 2026-06-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she \"opposed publicly and loudly\" the state Judicial Council's proposed eight-story regional courthouse at McBean Parkway and Valencia Boulevard and will continue to oppose it.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://signalscv.com/2026/06/denise-lite-our-community-and-local-control/",
+          "title": "The Signal: Denise Lite | Our Community and Local Control (column, 2026-06-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Santa Clarita must grow responsibly, with development that reflects the needs and priorities of our community. Residents deserve a clear voice in how our city evolves.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.electdeniselite.com/priorities/",
+          "title": "Elect Denise Lite: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"We must fully support the LA Sheriff's Department, address rising crime, and invest in maintaining roads, sewers, and water systems.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.electdeniselite.com/priorities/",
+          "title": "Elect Denise Lite: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I support efforts like permanent homeless shelters and transitional housing\" and will strengthen city partnerships with local nonprofits.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.electdeniselite.com/priorities/",
+          "title": "Elect Denise Lite: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per her campaign site, as a planning commissioner she questioned the Hartwell project's mitigation fee negotiation and a $325,000 developer donation before being removed from the commission in a 3-2 council vote (2025).",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.electdeniselite.com/news/",
+          "title": "Elect Denise Lite: News (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Supervisor Kathryn Barger, State Sen. Suzette Martinez Valladares and Santa Clarita Councilmember Jason Gibbs.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.electdeniselite.com/endorsements/",
+          "title": "Elect Denise Lite: Endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "gloria-mercado-fortine": [
+      {
+        "text": "\"We need to strengthen our partnerships between law enforcement, schools, businesses and the community to ensure crime prevention, fire prevention and traffic safety.\" Cites her service as past president of the SCV Sheriff's Foundation.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/",
+          "title": "Gloria Mercado-Fortine for Santa Clarita City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priority: \"Prioritize the protection of natural resources which include using renewal energy, efficient water management, maintaining green spaces and parks\"; says she advocated solar panels over parking lots at Hart district schools.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/",
+          "title": "Gloria Mercado-Fortine for Santa Clarita City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls for \"a thriving diverse economy that supports small local businesses, attracts diverse industries that bring high paying jobs, invests in infrastructure and transportation systems.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/",
+          "title": "Gloria Mercado-Fortine for Santa Clarita City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Fiscal stewardship: \"Modernizing operations, protecting reserves, and ensuring transparent budgeting for a financially stable and accountable government.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/",
+          "title": "Gloria Mercado-Fortine for Santa Clarita City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to deepen partnerships with the Hart District and College of the Canyons to expand Career Technical Education and support after-school programs.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/",
+          "title": "Gloria Mercado-Fortine for Santa Clarita City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(Pre-2025, Hart board) Per her campaign site, as a 16-year Hart district trustee she helped pass the Measure V and Measure SA school bonds, funding six new schools and the district's largest modernization plan.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.gloriaforsantaclarita.com/about",
+          "title": "Gloria Mercado-Fortine campaign: About",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "After the August 2026 Old Town Newhall fire: \"As a candidate for City Council, I will support incentives and access to resources to help our businesses affected by the fire get back on their feet.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://signalscv.com/2026/08/gloria-mercado-fortine-heartbreaking-and-devastating/",
+          "title": "The Signal: Gloria Mercado-Fortine | Heartbreaking and Devastating (letter, 2026-08-27)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rebuilt this run (prior file was empty). The Signal (signalscv.com) blocks curl with Cloudflare but is readable via r.jina.ai; Lite's June 2026 column and Mercado-Fortine's letter came from there. Main sources: campaign sites, KHTS forum profiles (2026-09-14), Ballotpedia survey (Haddoak only), SCV Democrats / LA County Democratic Party endorsement lists. The SCV Voter Guide's party labels (Haddoak D; Lite and Mercado-Fortine R) were not recorded as evidence. Mercado-Fortine's listed endorsers are local individuals, so none recorded. Searches used: 10."
+}

@@ -1,0 +1,416 @@
+{
+  "contestId": "santa-monica-community-college-district-member-of-the-board-of-trustees",
+  "options": {
+    "tom-peters": [
+      {
+        "text": "Voted for the February 2026 layoffs of about 70 classified and management staff, with amendments to spread the impact: 'Management has to look at the possibility of losing their jobs too.'",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.smdp.com/a-divided-smc-board-approves-layoffs-after-hearing-hours-of-criticism-over-their-leadership/",
+          "title": "SMDP - A divided SMC board approves layoffs after hours of criticism (Feb 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the board's February 2026 budget action came 'a year or two late'; enrollment fell from 33,000 to about 26,000, and the Trump deportation push cost SMC international-student revenue.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Tom-Peters-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Tom Peters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Skeptical of the Billionaire Tax Act; opposes it unless reworked to put funds directly into K-14, since he understands most funds go to backfill federal health care cuts.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Tom-Peters-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Tom Peters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state taxpayer initiative: 'Let local governments make their own decisions.' Criticizes SB 79 for overriding local zoning to force high-density housing near transit.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Tom-Peters-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Tom Peters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'I view this as a form of voter suppression.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Tom-Peters-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Tom Peters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Has pushed staff to set aside rooms for students 'desperately needing housing' in SMC's student housing plan; supports the Dem Club's artificial turf ban.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Tom-Peters-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Tom Peters",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "oscar-de-la-torre": [
+      {
+        "text": "Priorities include fiscal stability and 'Diversity, Equity and Inclusion,' plus support for formerly incarcerated, foster, homeless and disabled students.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Oscar-de-la-Torre-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Oscar de la Torre",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the board 'failed to make budget adjustments in a timely manner, which caused larger budget cuts than expected'; would use 'equity as a compass' in budgeting.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Oscar-de-la-Torre-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Oscar de la Torre",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Unhoused SMC students should get priority in city housing initiatives; wants SMC, SMMUSD and the city to develop workforce and student housing.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Oscar-de-la-Torre-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Oscar de la Torre",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax: billionaires 'got rich from the infrastructure, workers, consumers, public systems and taxes we all help pay for.' Opposes the state taxpayer initiative: 'Local control is vital.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Oscar-de-la-Torre-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Oscar de la Torre",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID laws 'that create unnecessary barriers to voting. We should be expanding access to democracy.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Oscar-de-la-Torre-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Oscar de la Torre",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "luis-barrera-castanon": [
+      {
+        "text": "Top priorities: 'fiscal stability, revenue growth, alignment with the state funding formula'; SMC must stop using one-time funds for recurring expenses.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Luis-Barerra-Castanon-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Luis Barrera Castañón",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the 2026 layoffs: 'Layoffs are serious,' but the college's financial reality was apparent once personnel costs climbed beyond 85% of the budget.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Luis-Barerra-Castanon-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Luis Barrera Castañón",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the February 2026 layoff vote: 'We need to start this process... figure out how do we move forward as a college and how are we going to survive for the next 100 years.'",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.smdp.com/a-divided-smc-board-approves-layoffs-after-hearing-hours-of-criticism-over-their-leadership/",
+          "title": "SMDP - A divided SMC board approves layoffs after hours of criticism (Feb 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax Act; opposes the state taxpayer initiative: 'Local control needs to remain.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Luis-Barerra-Castanon-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Luis Barrera Castañón",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'We have not had voter fraud issues in the past. These are all scare tactics.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Luis-Barerra-Castanon-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Luis Barrera Castañón",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the 25%-housing airport measure because voters want a park, but would pursue local zoning changes in surrounding areas; says AB 648 gives SMC more room to use its land for housing.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Luis-Barerra-Castanon-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Luis Barrera Castañón",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "kera-blades-snell": [
+      {
+        "text": "Priorities: student success and completion, workforce development, mental health resources, and 'responsible fiscal stewardship.' Wants expanded apprenticeship programs with trade unions.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kera-Blades-Snell-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Kera Blades-Snell",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax: 'I have no sympathy for those billionaires who cry poverty in their private jets.' Opposes the state taxpayer initiative.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kera-Blades-Snell-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Kera Blades-Snell",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'We have the safest elections in the world.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kera-Blades-Snell-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Kera Blades-Snell",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On campus speech: 'We must not allow fear of fascists to dictate our policies. The constitution is clear on freedom of speech.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kera-Blades-Snell-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Kera Blades-Snell",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Student housing insecurity should be addressed through on-campus housing and partnerships with affordable housing providers such as Community Corporation of Santa Monica.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Kera-Blades-Snell-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Kera Blades-Snell",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sion-roy": [
+      {
+        "text": "As board chair, voted for the February 2026 layoffs of about 70 staff: 'These aren't numbers on a piece of paper. These are people.'",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.smdp.com/a-divided-smc-board-approves-layoffs-after-hearing-hours-of-criticism-over-their-leadership/",
+          "title": "SMDP - A divided SMC board approves layoffs after hours of criticism (Feb 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted in favor of all three personnel resolutions as the board voted 6-2 to finalize the termination of 45 classified employees amid a projected $14.7 million deficit.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.smdp.com/college-board-erupts-over-layoffs-as-financial-crisis-deepens/",
+          "title": "SMDP - College board erupts over layoffs as financial crisis deepens (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the layoffs were 'necessary at this time because of our fiscal situation'; wants Sacramento to make 'a bigger budgetary commitment towards community colleges.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sion-Roy-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Sion Roy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Has 'long been advocating for campus housing'; will focus on affordable student housing at the Bundy campus: 'When students are sleeping in their cars... we have failed.'",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sion-Roy-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Sion Roy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the one-time Billionaire Tax Act as volatile; favors a permanent tax that 'could not be dodged.' Opposes the state taxpayer initiative.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sion-Roy-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Sion Roy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'These voter-ID laws are a way to make it harder to vote and do not make voting any more secure.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sion-Roy-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Sion Roy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says SMC handled 2025 Gaza protests with no arrests while letting students express their views.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Sion-Roy-College-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMC College Board Candidate Questionnaire - Sion Roy",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS).",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Replaces the earlier empty file. All five candidates answered the Santa Monica Democratic Club 2026 College Board questionnaire. Incumbent votes come from SMDP coverage of the 2026 layoff votes: Roy and Peters voted yes. For Barrera Castañón, only his floor statement was found, not an explicit roll call. The Dem Club, SMRR and CEPS all endorsed Roy, Peters, Barrera Castañón and Blades-Snell. Oscar de la Torre has no 2026 issue-signaling endorsements on record. Searches used: 6"
+}

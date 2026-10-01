@@ -1,0 +1,149 @@
+{
+  "contestId": "city-of-arcadia-member-of-the-city-council-2nd-district",
+  "options": {
+    "burton-brink": [
+      {
+        "text": "Pledges to \"Support a strong Arcadia Police Department, Arcadia Fire Department, and all first responders\" and \"Invest in crime prevention and community policing.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://burtonbrink.com/issues",
+          "title": "Issues - Burton Brink for Arcadia City Council District 2",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I will fight Sacramento's overreach, protect our property values, support our businesses, and deliver common-sense conservative leadership on the City Council.\" Also pledges to \"Encourage responsible development that respects our character.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://burtonbrink.com/issues",
+          "title": "Issues - Burton Brink for Arcadia City Council District 2",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"Protect taxpayer dollars,\" \"Prioritize essential services,\" and \"Carefully review all spending and obligations.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://burtonbrink.com/issues",
+          "title": "Issues - Burton Brink for Arcadia City Council District 2",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Arcadia Police Officers' Association and the Arcadia Firefighters Association, IAFF Local 3440.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://burtonbrink.com/news",
+          "title": "News - Burton Brink for Arcadia City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Crime Survivors PAC.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://burtonbrink.com/view-endorsements",
+          "title": "Endorsements - Burton Brink for Arcadia City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told the council (Sept. 15, 2026) of his police and fire union endorsements: \"Some people call those groups 'special interests.'... I will always stand with the men and women who protect this city.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://burtonbrink.com/news",
+          "title": "News - Burton Brink for Arcadia City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I am not accepting any campaign contributions. This campaign is funded entirely with my own personal money. I will not be bought or influenced by special interests.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://burtonbrink.com/",
+          "title": "Burton Brink for City Council, Arcadia District 2",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sharon-kwan": [
+      {
+        "text": "Cast the lone vote against the FY2026-27 budget (June 16, 2026, 4-1). \"I voted against the budget because I am concerned about the City's long-term fiscal sustainability.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said General Fund \"spending is growing more than three times faster than revenue\" and that reserves \"should be treated as a safeguard for emergencies... not as a substitute for maintaining long-term structural balance.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://heysocal.com/2026/06/23/kwan-explains-lone-vote-against-arcadia-budget/",
+          "title": "Kwan explains lone vote against Arcadia budget - HeySoCal",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On seven vacant police officer positions saving over $2 million: \"public safety should not be used as a hidden balancing tool.\" Says she has repeatedly asked about a police drone program.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://heysocal.com/2026/06/27/kwan-arcadia-budget-doesnt-show-full-picture-of-citys-finances/",
+          "title": "Kwan: Arcadia budget doesn't show 'full picture' of city's finances - HeySoCal",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"The city approved significant employee compensation increases in 2024, including raises of more than 18% for employee groups... Those decisions create long-term costs.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://heysocal.com/2026/06/27/kwan-arcadia-budget-doesnt-show-full-picture-of-citys-finances/",
+          "title": "Kwan: Arcadia budget doesn't show 'full picture' of city's finances - HeySoCal",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cast the lone no vote (June 16, 2026) against overturning the Planning Commission's denial of a 30-unit SB 330 condominium project at 514 Fairview Avenue.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposed a council appointment to the vacant District 3 seat in favor of letting voters decide: \"I do not believe four councilmembers should make that decision for them.\"",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://heysocal.com/2026/06/03/deadlocked-arcadia-council-delays-appointment-to-seat-vacated-by-admitted-spy/",
+          "title": "Deadlocked Arcadia council delays appointment to seat vacated by admitted spy - HeySoCal",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) \"My priorities as a City Council member will be public safety and maintaining our strong property values... I know the importance of keeping a balanced budget and being fiscally responsible.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://kwanforarcadia.com/",
+          "title": "Sharon Kwan for Arcadia City Council (2022 campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Kwan has no 2026 campaign site found (kwanforarcadia.com is her 2022 site); her 2026 items come from council votes and statements to HeySoCal. Brink's items come from his campaign site. Searches used: 12."
+}

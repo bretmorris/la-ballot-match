@@ -1,0 +1,129 @@
+{
+  "contestId": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-1",
+  "options": {
+    "geoff-baum": [
+      {
+        "text": "Wants PCC to train more electricians, plumbers, framers and inspectors for Eaton Fire rebuilding, \"faster, alongside the contractors and agencies doing the rebuilding,\" and to build apprenticeship partnerships with the trades.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.geoffreybaum.com/issues",
+          "title": "ISSUES | Geoffrey Baum for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says PCC's real costs are textbooks, transportation, childcare and rent; says he \"spent a decade pushing for free textbooks in California\" and wants zero-textbook-cost degree pathways at PCC.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.geoffreybaum.com/issues",
+          "title": "ISSUES | Geoffrey Baum for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants dual enrollment at every high school in the district and says he advocated for the transfer degrees that guarantee Cal State admission.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.geoffreybaum.com/issues",
+          "title": "ISSUES | Geoffrey Baum for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On PCC's facilities bond: \"Every dollar of it should go to the buildings and equipment students use\"; wants a plain-English summary of every bond spending item published before the board votes.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.geoffreybaum.com/issues",
+          "title": "ISSUES | Geoffrey Baum for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he \"has stood with immigrant and undocumented students throughout his career, including support for covering DACA renewal fees for California community college students.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.geoffreybaum.com/issues",
+          "title": "ISSUES | Geoffrey Baum for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(Pre-2025) Per Pasadena Now, on the state community college Board of Governors Baum supported implementing SB 1440 transfer degrees and advocated Zero Textbook Cost degree programs.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/former-pcc-board-president-geoffrey-baum-launches-bid-for-board-of-trustees-seat",
+          "title": "Pasadena Now: Former PCC Board President Geoffrey Baum launches bid for Board of Trustees seat (June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(Pre-2025) Per Pasadena Now, Baum was involved in community efforts opposing the proposed SR-710 freeway extension through Pasadena.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://pasadenanow.com/main/former-pcc-board-president-geoffrey-baum-launches-bid-for-board-of-trustees-seat",
+          "title": "Pasadena Now: Former PCC Board President Geoffrey Baum launches bid for Board of Trustees seat (June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "francis-pollara": [
+      {
+        "text": "Per Pasadena Now, Pollara has framed his priorities as strengthening PCC's workforce and career pathways for an AI-driven economy, expanding paths from education to good jobs, and building partnerships across education, industry and community, grounded in fiscal oversight.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/pollara-enters-pasadena-city-college-trustee-race-setting-up-contest-in-area-1",
+          "title": "Pasadena Now: Pollara enters PCC trustee race, setting up contest in Area 1 (June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: \"Responsible budgeting and fiscal sustainability,\" modernizing operations \"to improve efficiency and reduce costs,\" and \"Ensuring resources are directed toward student success rather than unnecessary bureaucracy.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.francispollara.com/priorities",
+          "title": "Priorities | Francis Pollara for PCC Trustee (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants expanded dual enrollment, stronger UC/CSU transfer pathways, employer partnerships, stackable credentials, and implementing state credit for prior learning for veterans and workers.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.francispollara.com/priorities",
+          "title": "Priorities | Francis Pollara for PCC Trustee (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants flexible online, hybrid and asynchronous programs, competency-based learning, and use of emerging technology for advising and student support.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.francispollara.com/priorities",
+          "title": "Priorities | Francis Pollara for PCC Trustee (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes designating PCC as a Community Resilience Center to access state resources for building improvements.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.francispollara.com/priorities",
+          "title": "Priorities | Francis Pollara for PCC Trustee (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Geoff Baum: campaign issues page plus Pasadena Now launch coverage; endorsements are elected officials and education leaders (no issue-signaling organizations), so none recorded. Francis Pollara: kept the existing Pasadena Now item (re-attributed as reporter paraphrase) and added his campaign priorities page; his endorsers are also individual officials. Neither candidate has prior board votes from 2025-26 on record. LA County sample-ballot candidate statements were not available to review (only the lavote candidate list, checked for websites). Searches used: 10"
+}

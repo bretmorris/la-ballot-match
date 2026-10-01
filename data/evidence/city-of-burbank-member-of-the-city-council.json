@@ -1,0 +1,832 @@
+{
+  "contestId": "city-of-burbank-member-of-the-city-council",
+  "options": {
+    "jackie-waltman": [
+      {
+        "text": "Candidate statement: as a council member she will focus on \"maintaining safe neighborhoods, supporting our police, fire, and emergency services, practicing responsible fiscal stewardship, improving infrastructure, protecting local businesses.\" Cites 30 years in law enforcement.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://burbankvotes.com/statements/jackie-waltman-2026.pdf",
+          "title": "Jackie Waltman candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Names affordable housing and rent stabilization her lead priority: a housing strategy that \"protects renters, supports responsible housing providers, and helps build more affordable homes,\" noting she has been both a renter and a landlord. Previously served on Burbank's Tenant-Landlord Commission.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://jackiewaltmanburbank.com/platform-key-issues/",
+          "title": "Platform & Key Issues - Jackie Waltman (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: prioritize \"responsible development\" and preserving each neighborhood's character; \"Growth should strengthen communities, not come at their expense.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://jackiewaltmanburbank.com/platform-key-issues/",
+          "title": "Platform & Key Issues - Jackie Waltman (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to support the entertainment industry by \"pursuing tax credits, streamlining regulations, and fostering a business environment\" that keeps production and creative jobs in Burbank.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jackiewaltmanburbank.com/platform-key-issues/",
+          "title": "Platform & Key Issues - Jackie Waltman (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "samantha-wick": [
+      {
+        "text": "Housing: \"Utilize smart targeted growth to meet our state housing mandate of homes 8772 by 2029, not blanket density that disrupts neighborhoods\"; complete neighborhood-specific plans; expand homeownership, \"not just rentals.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.samanthawick.com/",
+          "title": "Samantha Wick for Burbank City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"tenant protections under AB 1482 while expanding housing voucher programs\" and \"continuing the conversation our current council has started. Housing is a human right.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.samanthawick.com/",
+          "title": "Samantha Wick for Burbank City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"a mixed-flow approach\" to the Olive Avenue Bus Rapid Transit project \"rather than a permanent single dedicated lane,\" to maintain parking and visibility for local businesses.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.samanthawick.com/",
+          "title": "Samantha Wick for Burbank City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Wick, a Burbank planning commissioner, backed mixed-flow traffic for the Olive Avenue BRT, citing Public Works concerns about waste collection.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Our police and fire departments should always be fully staffed and fully equipped... Public safety is not negotiable - no exceptions.\" Also wants expanded mental health and crisis response partnerships.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.samanthawick.com/",
+          "title": "Samantha Wick for Burbank City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to \"strengthen partnerships with our studio partners to create jobs and keep our entertainment industry union members working\" and support local businesses.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.samanthawick.com/",
+          "title": "Samantha Wick for Burbank City Council 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "eddy-polon": [
+      {
+        "text": "Housing plan: small-lot ownership and mixed-use housing on city-owned land; promote \"missing middle\" duplexes and triplexes; require a portion of new housing near transit to be affordable to middle-income (80-120% AMI) households; update codes, including single-staircase reform.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.eddypolon.com/issues/",
+          "title": "Eddy Polon's Vision for Burbank (campaign issues page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls for \"stronger tenant protections to prevent displacement and stabilize rents for long-time residents.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.eddypolon.com/issues/",
+          "title": "Eddy Polon's Vision for Burbank (campaign issues page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Transportation: complete the city's master bike plan, slow local streets, expand bike share and walkable corridors, and reimagine BurbankBus with better service. His posted research found G Line BRT did not harm nearby property values.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.eddypolon.com/issues/",
+          "title": "Eddy Polon's Vision for Burbank (campaign issues page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Polon proposed part-time dedicated bus lanes on Olive Avenue using parking lanes during rush hour, noting three of the four cities on the route found a compromise.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Climate: expand tree canopy; incentivize solar, water conservation and drought-tolerant landscaping; invest in electric buses, EV charging and clean fleet transitions.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.eddypolon.com/issues/",
+          "title": "Eddy Polon's Vision for Burbank (campaign issues page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"full staffing and modern equipment for first responders\" and a city government \"welcoming of community oversight.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.eddypolon.com/issues/",
+          "title": "Eddy Polon's Vision for Burbank (campaign issues page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign announced endorsements from labor unions, including a statement of support from IATSE Local 33's business representative.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://myburbank.com/eddy-polon-launches-campaign-for-burbank-city-council/",
+          "title": "myBurbank: Eddy Polon launches campaign for Burbank City Council (Aug. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jt-parr": [
+      {
+        "text": "Candidate statement: \"I want to build more housing, expand and improve public transportation, and create more places where people can hang out without spending money.\" Says he is not seeking endorsements.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://burbankvotes.com/statements/jt-parr-2026.pdf",
+          "title": "JT Parr candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Parr said he initially favored restrictive rent control but came to see it as \"more of a supply issue,\" calling for cutting red tape and upzoning.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement lists expanding and improving public transportation as one of his three goals.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://burbankvotes.com/statements/jt-parr-2026.pdf",
+          "title": "JT Parr candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "nikki-perez": [
+      {
+        "text": "Says she put forward the city's first tenant protection and rent control ordinance; pledges to \"continue my work to pass meaningful protections for Burbank renters.\"",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Perez said she put forward rent control and tenant protections at her second meeting, proposing a 4% rent cap.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists among first-term actions: \"Put forward a ban on ALPR technology, including FLOCK, in order to eliminate their use in the city.\"",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she \"passed a landmark sanctuary city ordinance prohibiting City employees, facilities, and resources from being used for federal immigration enforcement\" and established a fund for families hit by ICE raids; pledges to expand those protections.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As mayor in Feb. 2025, Perez was part of the five-member council that passed a motion directing staff to develop a resolution extending the California Values Act (SB 54) to all city employee practices, per myBurbank.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://myburbank.com/burbank-city-council-sanctuary-city-status-for-media-capital-of-the-world/",
+          "title": "myBurbank: Burbank City Council: Sanctuary City Status for Media Capital of the World? (Feb. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she put forward the city's first project labor agreement requiring skilled union labor on city projects and requested a study of Burbank's minimum wage; pledges to \"promote fair wages and strong workplace protections.\"",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she secured $3.5 million for a permanent homeless solutions center and approved more than 2,000 housing units; pledges to expand outreach and mental health programs and \"require transparency and measurable results from homelessness spending.\"",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she approved restrictions on single-use plastics and the transition away from gas leaf blowers; pledges to increase clean energy and expand transit and bike infrastructure.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"defend the dignity and rights of transgender and LGBTQIA+ residents.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://nikkiperez.com/issues",
+          "title": "Campaign Issues | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per myBurbank, after Metro sued over Olive Avenue bus lanes, Perez and Mayor Takahashi suggested exploring a peak-hour dedicated bus lane compromise, saying losing the suit would mean losing local control over transit and SB 79 housing density.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://myburbank.com/metro-sues-the-city-of-burbank-over-bus-rapid-transit-project-on-olive-avenue/",
+          "title": "myBurbank: Metro sues the City of Burbank over Bus Rapid Transit project on Olive Avenue (May 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Sierra Club Angeles Chapter and Los Angeles League of Conservation Voters.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://nikkiperez.com/endorsements",
+          "title": "Endorsements | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA-OC Building & Construction Trades Council, Southwest Regional Council of Carpenters and AFM Local 47.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://nikkiperez.com/endorsements",
+          "title": "Endorsements | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Housing Action Coalition and Stonewall Democratic Club.",
+        "kind": "endorsement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://nikkiperez.com/endorsements",
+          "title": "Endorsements | Nikki Perez for Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jonathan-ontiveros": [
+      {
+        "text": "Candidate statement: priorities include \"modernizing our housing approach to keep Burbank accessible while preserving neighborhood character.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://burbankvotes.com/statements/jonathan-ontiveros-2026.pdf",
+          "title": "Jonathan Ontiveros candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Ontiveros pointed to four specific plans, some not updated since the 1990s, that could bring close to 16,000 housing units.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement: \"As a labor union director, I fight for a better quality of life for members and their families\"; pledges to strengthen relationships with businesses \"to protect local jobs.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://burbankvotes.com/statements/jonathan-ontiveros-2026.pdf",
+          "title": "Jonathan Ontiveros candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "david-phillip-donahue": [
+      {
+        "text": "Candidate statement: it is \"important to push back against government overreach when it comes to removing 2 lanes of traffic on Olive Ave.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://burbankvotes.com/statements/david-donahue-2026.pdf",
+          "title": "David Donahue candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement: \"I am fighting for your property rights and against multistory apartments without required parking.\" Serves on the Burbank Association of Realtors Legislative Committee.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://burbankvotes.com/statements/david-donahue-2026.pdf",
+          "title": "David Donahue candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement: will advocate \"increased incentives for local production, reducing the hoops required for tax credits, and reducing permit fees.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://burbankvotes.com/statements/david-donahue-2026.pdf",
+          "title": "David Donahue candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Donahue defended Flock license plate readers as cost effective, while acknowledging hacking reports and saying alternatives should be considered if problems persist.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "nolan-southerland": [
+      {
+        "text": "\"I will pass a rent stabilization ordinance with a rent cap of 3% or 60% of CPI, whichever is lower.\" Also wants to explore public housing options.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I am in favor of shutting down Flock and all ALPR mass surveillance\"; wants to audit police military-grade equipment and invest in crime-prevention programs.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants \"stronger restrictions on ICE's presence in Burbank\"; says ICE should never have staged on city property or intercepted people released from Burbank jail; protect neighbors \"regardless of immigration status.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports Metro's NoHo-Pasadena BRT and protected bike lanes: \"We need to reduce car dependency.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports workers' right to unionize, mandated community benefit agreements on new developments, and \"raising the minimum wage in Burbank.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Global warming is an existential threat\"; supports a moratorium and ban on data centers in the city.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports increasing school funding \"by closing corporate loopholes and passing new tax legislation.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://nolanforburbank.com/issues/",
+          "title": "Nolan Southerland - the issues for Burbank (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement: says he does not take money \"from landlords, corporations, fossil fuel companies, or law enforcement\"; member of the Burbank Tenants Union.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://burbankvotes.com/statements/nolan-southerland-2026.pdf",
+          "title": "Nolan Southerland candidate statement, Burbank City Council 2026 (City Clerk statement, mirrored by BurbankVotes.com)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Los Angeles County Federation of Labor, IATSE Local 33, Los Angeles League of Conservation Voters and California Democratic Renters Council.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://nolanforburbank.com/endorsements/",
+          "title": "Nolan Southerland endorsements (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "robbie-brody": [
+      {
+        "text": "\"Preserve the character of the Rancho, Magnolia Park, and our hillside neighborhoods while supporting sensible housing that young families can actually afford.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.robbieforburbank.com/",
+          "title": "Robbie Brody for Burbank City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal's forum report, Brody described Flock license plate readers as \"a warrantless search of people who have not done anything wrong.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Cut red tape for Magnolia and Downtown businesses, support local hiring, and keep good-paying entertainment and studio jobs here.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.robbieforburbank.com/",
+          "title": "Robbie Brody for Burbank City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "chris-yoosefi": [
+      {
+        "text": "Says Burbank only requires 15% of new high-rise units to be affordable; will \"fight to raise that percentage,\" lower barriers to home ownership and \"regulate the purchasing of single-family homes from big developers.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://yoosefiserves.com/on-the-issues/",
+          "title": "On the Issues - Yoosefi Serves (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Supports fully funding Burbank's police and fire departments\" and \"exploring mental health co-responder models for appropriate calls.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://yoosefiserves.com/on-the-issues/",
+          "title": "On the Issues - Yoosefi Serves (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to remove parking meters in downtown Burbank (\"punishing people for going out is not smart\") and design quick pick-up/drop-off locations to ease parking.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://yoosefiserves.com/on-the-issues/",
+          "title": "On the Issues - Yoosefi Serves (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Plans to \"reduce red tape, cut unnecessary permitting\" and create a city-run jobs portal with incentives for small businesses that hire locally; wants Starlight Bowl repairs done by local unions.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://yoosefiserves.com/on-the-issues/",
+          "title": "On the Issues - Yoosefi Serves (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he has a plan to \"inject money into the school system, hire more teachers, increase afterschool programming.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://yoosefiserves.com/on-the-issues/",
+          "title": "On the Issues - Yoosefi Serves (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "mike-van-gorder": [
+      {
+        "text": "Platform: expand rent stabilization to keep up with inflation, strengthen Just Cause eviction enforcement, create a rental registry, and enact a Tenant Opportunity to Purchase Act.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: ADU separate-sale ordinance, co-op/courtyard/cottage redevelopment, \"3-story commercial corridor reform and single stair reform,\" and pursuing Pro-Housing status for the next Housing Element.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Remove privacy-flouting Flock cameras and cancel the Flock contract\"; audit police use of military gear; fully fund the Mental Health Evaluation Team.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Stand strong against ICE in our neighborhoods; instruct local PD to investigate federal immigration agents for misconduct, document findings, and refer cases for criminal prosecution under state law.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Champion unions and amplify worker power\"; promote Community Workforce Agreements in city contracts; commission a study for a public Bank of Burbank.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports public campaign finance, ranked choice voting, and lowering the voting age to 16 for local elections.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Finalize Bus Rapid Transit (BRT) line Dedicated Lane\"; develop a protected cycling network; extend BurbankBus hours.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Expand tree canopy and green spaces; oppose data centers \"driving up our energy bills\"; reduce vehicle miles traveled through targeted housing.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/vision",
+          "title": "VISION | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls himself \"a fierce ally to the queer community\" who will call out the culture war over LGBTQIA issues and public education as \"hateful, counterproductive theater.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.vangorderforburbank.com/meet-mike",
+          "title": "Meet Mike | Mike Van Gorder for City Council",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "hovanes-hov-tonoyan": [
+      {
+        "text": "(2024, prior council run) At a candidate forum: \"I support a dedicated lane\" for the NoHo-Pasadena BRT, while insisting it serve Burbank residents and businesses.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://hovanestonoyan.substack.com/p/burbank-city-council-election-candidate",
+          "title": "Tonoyan's Substack: transcript of his answers at Oct. 13, 2024 Burbank council candidate forum (Masonic Lodge)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) On school safety: \"We have to support SROs... we shouldn't be so afraid of having armed police officers,\" adding that trained, responsible gun-owning communities \"do feel safer.\"",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://hovanestonoyan.substack.com/p/burbank-city-council-election-candidate",
+          "title": "Tonoyan's Substack: transcript of his answers at Oct. 13, 2024 Burbank council candidate forum (Masonic Lodge)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) On library security: \"we can't be using our City facilities as makeshift shelters\"; wants city departments to ban violators and seek workplace violence restraining orders.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://hovanestonoyan.substack.com/p/burbank-city-council-election-candidate",
+          "title": "Tonoyan's Substack: transcript of his answers at Oct. 13, 2024 Burbank council candidate forum (Masonic Lodge)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Said prosecutions stall at the District Attorney level and courts have \"policies in place that are very soft on crime.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://hovanestonoyan.substack.com/p/burbank-city-council-election-candidate",
+          "title": "Tonoyan's Substack: transcript of his answers at Oct. 13, 2024 Burbank council candidate forum (Masonic Lodge)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Called himself \"the poster child for capitalism in Burbank\" and campaigned on making Burbank \"the next mecca of entrepreneurship and innovation.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://hovanestonoyan.substack.com/p/burbank-city-council-election-candidate",
+          "title": "Tonoyan's Substack: transcript of his answers at Oct. 13, 2024 Burbank council candidate forum (Masonic Lodge)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tamala-takahashi": [
+      {
+        "text": "In Feb. 2025, as vice mayor, Takahashi was among the five council members who passed a motion directing staff to develop a resolution extending the California Values Act (SB 54) to all city practices; she said she hopes Burbank airport becomes a sanctuary airport.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://myburbank.com/burbank-city-council-sanctuary-city-status-for-media-capital-of-the-world/",
+          "title": "myBurbank: Burbank City Council: Sanctuary City Status for Media Capital of the World? (Feb. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she led the gas-powered leaf blower ban, advocated the plastics ordinance and airport solar, and is \"against and will continue advocating against data centers in our city.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://tamala4burbank.com/issues/",
+          "title": "Issues - Tamala Takahashi For Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As mayor in Dec. 2025 she said the leaf blower ordinance \"reflects the City Council's goal of a cleaner, healthier, more sustainable community for everyone.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://myburbank.com/burbank-city-council-adopts-ordinance-prohibiting-gas-powered-leaf-blowers/",
+          "title": "myBurbank: Burbank City Council adopts ordinance prohibiting gas-powered leaf blowers (Dec. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Increasing housing supply for both cost and access to our local jobs is crucial\"; supports large projects in job centers and transit hubs and \"gentle density\" in mixed-use corridors like Magnolia Park and Olive Ave.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://tamala4burbank.com/issues/",
+          "title": "Issues - Tamala Takahashi For Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants stronger protections for renters \"especially against predatory evictions and displacement,\" with \"smart local policies for both tenants and responsible landlords\"; backed the city's Housing Enforcement Unit.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://tamala4burbank.com/issues/",
+          "title": "Issues - Tamala Takahashi For Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Home Again LA homelessness resource center and tiny home facility, wraparound case management, and expanding permanent supportive housing.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://tamala4burbank.com/issues/",
+          "title": "Issues - Tamala Takahashi For Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per HeySoCal, at the forum she said of the budget gap: \"It's not about cutting programs to save money. It's about making sure we have consistent, knowable and higher income into the budget.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://heysocal.com/2026/09/24/burbank-council-candidates-clash-on-housing-surveillance/",
+          "title": "HeySoCal: Burbank council candidates clash on housing, surveillance (LWV forum, Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per myBurbank, after Metro sued over Olive Avenue bus lanes, Takahashi and Perez suggested exploring a peak-hour dedicated bus lane compromise, saying losing the suit would mean losing local control over transit and SB 79 housing density.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://myburbank.com/metro-sues-the-city-of-burbank-over-bus-rapid-transit-project-on-olive-avenue/",
+          "title": "myBurbank: Metro sues the City of Burbank over Bus Rapid Transit project on Olive Avenue (May 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Burbank Firefighters Local 778, Burbank Teachers Association, Los Angeles League of Conservation Voters, and several building trades unions (Ironworkers, Painters, Carpenters).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://tamala4burbank.com/endorsements/",
+          "title": "Endorsements - Tamala Takahashi For Burbank City Council",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "All 13 candidates have at least some findable positions. Sources: City Clerk candidate statements (city site 403s; statements fetched from the BurbankVotes.com mirror for Waltman, Parr, Ontiveros, Donahue, Southerland, Brody), campaign sites, myBurbank, and HeySoCal's report on the Sept. 2026 League of Women Voters forum. Thinnest: Parr, Ontiveros and Donahue (statement plus forum remarks only; no campaign site found). Tonoyan's items are all from his 2024 council run (his 2026 site has no issue content). Letters to the editor characterizing candidates (e.g. on Wick's or Donahue's Flock/BRT stances) were not used. Retrieved 2026-09-30. Searches used: 10"
+}

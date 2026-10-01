@@ -1,0 +1,59 @@
+{
+ "contestId": "city-of-inglewood-member-of-the-city-council-2nd-district",
+ "options": {
+  "alex-padilla": [
+   {
+    "text": "On the ITC downtown mobility-hub contract (Aug 2026): 'Downtown Inglewood is the heart of this City, and this vote is an investment in it... New sidewalks, lighting and mobility hubs will give our small businesses the foot traffic... they deserve.'",
+    "kind": "own-statement",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://2urbangirls.com/2026/08/inglewood-council-approves-partnership-to-rebuild-historic-downtown-and-improve-citywide-mobility/",
+     "title": "2UrbanGirls: Inglewood council approves partnership to rebuild historic downtown and improve citywide mobility (Aug 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Part of the 4-0 council vote (Morales absent) approving the FY2026-27 budget with a projected $30.8M general fund deficit to be covered by reserves.",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/inglewood-projected-budget-deficit-ballot-measure-at/",
+     "title": "The LA Local: Inglewood projected budget deficit and Measure AT (2026-09-29)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "subrina-miller": [
+   {
+    "text": "Told the LA Local guide: 'My goal is to make Inglewood affordable by Stabilizing Control, building affordable housing Taxes Low.'",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On event traffic, would meet with all involved agencies, keep meeting with the community, and send alerts two to three days before events.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would keep in communication through workshops, community meetings and newsletters; promises 'accountability, responsibility, transparency, and honesty.'",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-inglewood-city-council-voter-guide/",
+     "title": "The LA Local: Your Inglewood City Council Voter Guide (updated 2026-09-21)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Incumbent Padilla did not respond to The LA Local questionnaire; his items are his ITC statement and the recorded 4-0 budget vote. Miller's questionnaire answers were brief. Searches used: 13"
+}

@@ -1,0 +1,101 @@
+{
+  "contestId": "city-of-palmdale-member-of-the-city-council-3rd-district",
+  "options": {
+    "laura-bettencourt": [
+      {
+        "text": "(2023) As mayor, cast the lone vote against further talks on Santa Monica's proposal to shift some of its state-required housing to Palmdale: \"I am wholeheartedly, 100% against this,\" citing fears of unhoused transfers, traffic and congestion.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.avpress.com/news/palmdale-santa-monica-talk-housing/article_41407140-ae75-11ed-92f0-73dad0356de7.html",
+          "title": "Antelope Valley Press: Palmdale, Santa Monica talk housing (2023-02-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) On a resolution opposing outside jurisdictions sending unhoused people to Palmdale: \"We are going to defend our city, we're going to protect our residents, we're going to protect our quality of life.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.avpress.com/news/city-sharpens-resolution-on-homeless-issue/article_2e0f8d98-93c4-11ed-becc-17d0b7a1e801.html",
+          "title": "Antelope Valley Press: City sharpens resolution on homeless issue (2023-01)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voiced support for keeping Palmdale's rotating-mayor system, noting every mayor elected during her lifetime before it was a white man, but voted with the 4-1 majority to put a directly elected mayor measure on the ballot: \"Let them decide.\"",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/palmdale-eyes-at-large-vote-to-elect-mayor/article_75bbf68f-5375-43fe-851e-922d950de978.html",
+          "title": "Antelope Valley Press: Palmdale eyes at-large vote to elect mayor (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "carlos-d-cordero": [],
+    "jeremiah-farrell": [],
+    "franzelle-louis-johnson-jr": [
+      {
+        "text": "Proposes a just-cause eviction ordinance and capping annual rent increases at CPI + 3% for pre-1995 housing in District 3, which he says is 33% renters.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.votezelle.com/",
+          "title": "VoteZelle: Franzelle Johnson Jr. for Palmdale City Council District 3 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes moving $1.5–2 million (10%) of LASD public-safety overtime into a District 3 Youth Opportunity Fund for summer jobs, after-school programs and a civilian mental-health crisis response team.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.votezelle.com/",
+          "title": "VoteZelle: Franzelle Johnson Jr. for Palmdale City Council District 3 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Palmdale Jobs First Ordinance\": developers receiving city subsidies or tax breaks must hire Palmdale residents for at least 30% of construction and permanent jobs, plus a 48-hour small-business permit guarantee.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.votezelle.com/",
+          "title": "VoteZelle: Franzelle Johnson Jr. for Palmdale City Council District 3 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Criticizes Palmdale's sales tax as among the highest in the nation and wants every sales-tax dollar tracked; questions a ~$1.3 million-a-year communications contract and $2.5 million plus an additional $7.5 million for the Parris Center in Lancaster.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.votezelle.com/",
+          "title": "VoteZelle: Franzelle Johnson Jr. for Palmdale City Council District 3 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes an Open Government Accountability Act banning closed-session removal of elected officials without a public hearing and publishing every council vote within 24 hours.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.votezelle.com/",
+          "title": "VoteZelle: Franzelle Johnson Jr. for Palmdale City Council District 3 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "anain-robles": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No findable positions for carlos-d-cordero or jeremiah-farrell (no campaign site; the city candidate list gives only contact info; no AV Press coverage found). Robles has only the LACDP endorsement. Bettencourt (incumbent since 2009) has no current campaign site or survey; evidence is from AV Press council coverage, fetched directly. A Palmdale Freedom Coalition substack attacking Bettencourt and Ohlsen was not used because it is an opponent's characterization. Searches used: 10."
+}

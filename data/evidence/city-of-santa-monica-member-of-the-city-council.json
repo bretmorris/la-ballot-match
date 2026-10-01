@@ -1,0 +1,1038 @@
+{
+  "contestId": "city-of-santa-monica-member-of-the-city-council",
+  "options": {
+    "wade-kelley": [
+      {
+        "text": "'I want to stand up for the right of human beings to be poor and homeless without being criminalized!' Wants police to stop enforcing the no-sitting/no-lying law and similar laws against homeless people.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Housing is a human right!' Supports the Great Park and Community Housing Initiative to put 3,000 affordable units on 25% of the airport land; would back SB 79 and wants stronger protections for rent-controlled units.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'I wholeheartedly endorse THE BILLIONAIRE TAX ACT OF 2026'; would tax vacant and speculative buildings.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: as a former poll inspector, says 'for poor people, it is hard to keep up with current ID.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sees rent control 'as a way to lower rents'; supports financial assistance for rent-burdened households up to 80% of median income.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On immigration enforcement: 'Demand that everyone has due process' and pass a comprehensive immigration bill with 'a pathway to citizenship.'",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Wade-Kelley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Wade Kelley",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ashley-oelsen": [
+      {
+        "text": "On the Billionaire Tax: 'I would need to review the final language and fiscal analysis before taking a definitive position,' though those who benefited most 'should contribute their fair share.' Support for the SMMUSD parcel tax 'would depend on the measure's final language' and oversight.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure: voter ID 'can create unnecessary barriers to participation for eligible voters.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79: it 'emphasized housing production without providing sufficient protections for existing rent-controlled housing'; says the adopted protections still fall short. Cites Santa Monica's 'finite land, aging infrastructure' and says the goal should be affordability rather than supply alone.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports tenant protections and housing stability, but says housing policy 'should recognize that many Santa Monica landlords are not large corporations.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants 'adequate police staffing and response times,' expanded unarmed response 'where appropriate,' and better coordination with mental health services.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'I do not support reducing street parking as an end in itself'; transportation policy should not force 'people out of their preferred mode of transportation.'",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the 25%-housing airport measure: does not support 'predetermining the future of this once-in-a-generation public asset' before planning; strongly supports a Great Park.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ashley-Oelsen-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ashley Oelsen",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Conservation biologist; chairs the Clean Oceans and Beaches Measure V oversight committee and founded the Coastal Alliance to protect beaches and ocean health; pledges to 'follow the science.'",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://santamonicanext.org/2026/06/why-are-these-11-people-running-for-city-council/",
+          "title": "Santa Monica Next - Why Are These 11 People Running for City Council? (June 17, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Police Officers Association and Santa Monica Firefighters Local 1109.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/public-safety-unions-widen-council-endorsements-snub-brock-lesley-and-torosis/",
+          "title": "Santa Monica Next - Public Safety Unions Widen Council Endorsements (Sept 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Coalition for a Livable City, a slow-growth group, which credited her with opposing AB 1740.",
+        "kind": "endorsement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/smclc-endorses-negrete-and-oelsen-drops-longtime-ally-phil-brock/",
+          "title": "Santa Monica Next - SMCLC Endorses Negrete and Oelsen (Sept 3, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ericka-lesley": [
+      {
+        "text": "Supports 'the intent' of the Billionaire Tax Act but has 'reservations' about how it would be structured; opposes the state initiative limiting local governments' ability to raise revenue; supports the SMMUSD parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure: 'this ballot measure takes our country back to the Jim Crow era.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 in its original form because 'it lacked sufficient protections against displacement,' particularly in the Pico neighborhood. New housing should go near commercial corridors, transit and underutilized land, but 'cannot be indefinitely delayed in the face of a regional crisis.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Tenant protections should be understood as a core component of any effective housing strategy'; 'strongly support[s]' expanding the city's right to counsel program.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "The city should prohibit 'the use of City personnel, funds, or resources to assist with immigration enforcement operations' and restrict enforcement on city property 'to the fullest extent permitted by law.'",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes reducing street parking: it 'does not reflect the accessibility needs of the disabled community or the needs of families with young children.'",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports single-payer health care and AB 1900.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says union workers should trust her 'as I have marched with them on the picket lines.'",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Ericka-Lesley-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Ericka Lesley",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lana-negrete": [
+      {
+        "text": "Supports the state voter ID measure 'provided that implementation is accompanied by significant efforts to ensure accessibility'; says voter ID 'can help strengthen public confidence in elections.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the Billionaire Tax: those with the greatest resources 'should contribute fairly,' but she has 'not studied the full details of this proposal sufficiently to take a firm position.' On the state taxpayer initiative, generally favors local revenue control but would evaluate it.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 in its original form, citing impact on existing residents and 'the continued erosion of local decision-making authority'; believes local governments should be able to adopt stronger protections.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'thoughtful housing growth' that prioritizes affordability, protects residents from displacement and 'preserves neighborhood character where appropriate'; local governments should keep 'meaningful input' on neighborhood compatibility and infrastructure.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls rent control 'one of the most important tools' for keeping working families and seniors in Santa Monica; a renter in a rent-controlled apartment. Would evaluate shifting Measure GS emphasis toward preserving existing affordable housing and helping responsible owners with rehabilitation.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety priorities: 'maintaining adequate police staffing, supporting the Downtown Substation, expanding technology investments such as the Real Time Crime Center,' plus behavioral health response and homelessness outreach.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On immigration: the city 'should continue following state law, protecting due process rights,' and partnering with community groups to provide legal resources so residents can access services without fear.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'the goal of Medicare For All'; access to affordable care should not depend on income, employment or pre-existing conditions.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Does not support reducing street parking as a standalone policy: 'Transportation planning should focus on expanding choices rather than reducing options'; many residents and small businesses rely on vehicles.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Lana-Negrete-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Lana Negrete",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 4-3 council majority in 2025 to ratify the new police contract.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/public-safety-unions-widen-council-endorsements-snub-brock-lesley-and-torosis/",
+          "title": "Santa Monica Next - Public Safety Unions Widen Council Endorsements (Sept 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Police Officers Association and Santa Monica Firefighters Local 1109.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/public-safety-unions-widen-council-endorsements-snub-brock-lesley-and-torosis/",
+          "title": "Santa Monica Next - Public Safety Unions Widen Council Endorsements (Sept 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Coalition for a Livable City (slow-growth group), which says that 'every councilmember except Lana voted to support SB 79.'",
+        "kind": "endorsement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/smclc-endorses-negrete-and-oelsen-drops-longtime-ally-phil-brock/",
+          "title": "Santa Monica Next - SMCLC Endorses Negrete and Oelsen (Sept 3, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "phil-brock": [
+      {
+        "text": "Candidate statement: 'I consistently fought to expand our police force and provide real safety for our residents and visitors.'",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.santamonica.gov/elections/2026-11-02/candidates/phil-brock",
+          "title": "City of Santa Monica - General Election 2026 candidate statement: Phil Brock",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'We will go toe-to-toe with Sacramento to regain our right to determine our own zoning while adding the affordable housing our longtime senior and low-income residents must have.'",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.santamonica.gov/elections/2026-11-02/candidates/phil-brock",
+          "title": "City of Santa Monica - General Election 2026 candidate statement: Phil Brock",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'I Support Slow Growth... Big developers and the State want to replace that with dense buildings and traffic jams.' Lists 'reducing the state's constant refrain for more housing' among top 2026 priorities.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.brockthevote.org/",
+          "title": "Phil Brock for Santa Monica City Council - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'A substantial increase in public safety personnel and equipment is still required. I will be a Council member with a backbone.'",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.brockthevote.org/",
+          "title": "Phil Brock for Santa Monica City Council - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Told The Lookout that although SMPD is staffed at its 228 budgeted officers, an additional 50 officers are still needed; said homelessness and Pier pollution must be tackled at regional, state and national levels: 'These are not Santa Monica problems.'",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2026/June-2026/06_02_2026_Former_Mayor_Seeks_to_Regain_Seat.html",
+          "title": "The Lookout - Former Mayor Seeks to Regain Seat (June 2, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Rent Control is sacrosanct in our city. This election isn't about rent control. It's about regaining control of our city from outside interests, from developers.' Wants 'firm zoning laws in Santa Monica that cannot be bent or broken' and no 'towers of condos.'",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.votebrock.org/issues",
+          "title": "Phil Brock for Santa Monica City Council - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questions traffic-reduction efforts: 'Are our efforts to force a reduction in traffic misguided? Why haven't we improved congestion downtown, on Lincoln Blvd...'",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.votebrock.org/issues",
+          "title": "Phil Brock for Santa Monica City Council - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Our green spaces are the lungs of Santa Monica — we will protect them always.'",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.santamonica.gov/elections/2026-11-02/candidates/phil-brock",
+          "title": "City of Santa Monica - General Election 2026 candidate statement: Phil Brock",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "daniel-ivanov": [
+      {
+        "text": "Opposes the Billionaire Tax Act: 'this policy could have the unintended consequence of hollowing out our tax base'; a wealth tax should be done at the federal level.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure: 'It's a solution in search of a problem and would only create barriers making it harder to vote.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state taxpayer initiative as 'a cynical backdoor attempt to overturn Measure GS'; supports the SMMUSD parcel tax and has endorsed it as Rent Control Board chair.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 before amendments: it lacked 'sufficient anti-displacement protections.' Wants new housing focused 'in our downtown and along our commercial corridors.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports expanding Santa Monica's Right to Counsel program for tenants, funded with Measure GS dollars; would amend Measure GS only if an alternative dedicated affordable-housing funding stream is found.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "When ICE engages in 'unconstitutional violations' targeting immigrants, the city 'must fight back with litigation in the Courts,' as it did in Vasquez Perdomo v. Noem.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants SMPD 'fully funded so that SMPD is able to be fully staffed,' as part of a 'holistic approach to public safety.'",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports reducing street parking: 'Getting people out of cars and reducing vehicle use needs to be a focus'; backs Vision Zero and bike safety investment.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports universal coverage under a Medicare for All single-payer approach, phased in by lowering the Medicare eligibility age.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Danny-Ivanov-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Danny Ivanov",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by UNITE HERE Local 11.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/unite-here-endorses-torosis-ivanov-morrow-and-trussler-four-for-three-city-council-positions/",
+          "title": "Santa Monica Next - Unite Here! Endorses Torosis, Ivanov, Morrow, and Trussler (Sept 11, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "eli-gill": [
+      {
+        "text": "Supports the Billionaire Tax Act ('a reasonable and targeted measure'); opposes the state taxpayer initiative; has publicly endorsed the SMMUSD parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: such requirements 'suppress turnout' and 'the evidence for the problem these measures claim to solve is essentially nonexistent.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supported SB 79 even before rent-control protections were added. 'The state has a legitimate and necessary role in overriding local exclusionary zoning'; local control 'cannot be used as a veto on growth.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'I strongly support the right to counsel program for tenants facing eviction'; calls tenant protections 'essential complements to rent control and housing production.'",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Santa Monica 'should maintain and strengthen its sanctuary policies' so staff and police do not assist federal immigration enforcement absent a judicial warrant.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants 'a clear and enforced baseline of public order... public drug use is not acceptable,' alongside more investment in unarmed mental health response teams.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports gradually right-sizing parking in transit-rich areas and reallocating it to protected bike lanes, sidewalks and transit amenities.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports Medicare for All and AB 1900 as 'an important step toward building the policy framework for single-payer.'",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'strong labor standards, the right to organize, and responsible contractor requirements on city-funded projects.'",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Eli-Gill-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Eli Gill",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "brett-morrow": [
+      {
+        "text": "'I strongly support asking the wealthiest individuals to contribute more'; supports the Billionaire Tax Act. Opposes the state taxpayer initiative and supports the SMMUSD parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: it 'would create unnecessary barriers to voting' for low-income residents, students, seniors and communities of color.",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Santa Monica should accommodate substantially more housing growth over the next decade,' focused downtown, on major boulevards and transit corridors; was concerned early that SB 79 threatened rent-controlled housing.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'strong eviction protections, anti-harassment enforcement, right-to-counsel programs'; does not support changes to Measure GS at this time.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: 'maintaining an effective Police Department, expanding proven prevention and behavioral health programs.'",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls ICE raids illegal; the city should protect resident privacy where legally permitted and provide legal resources and know-your-rights information.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports single-payer approaches; 'healthcare should be treated as a right rather than a privilege.'",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would convert parking to protected bike lanes, transit or pedestrian safety infrastructure 'in some locations' when data-driven. Supports a park-only future for the airport site.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Grew up in a union household; says he worked for members of Congress fighting to raise the minimum wage and protect collective bargaining.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Brett-Morrow-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Brett Morrow",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backed by Santa Monicans for Renters' Rights (added by SMRR's Steering Committee).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/unite-here-and-smrr-begin-joint-campaign-unite-heres-fourth-candidate-not-mentioned/",
+          "title": "Santa Monica Next - Unite Here! and SMRR Begin Joint Campaign (Sept 15, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by UNITE HERE Local 11.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/unite-here-endorses-torosis-ivanov-morrow-and-trussler-four-for-three-city-council-positions/",
+          "title": "Santa Monica Next - Unite Here! Endorses Torosis, Ivanov, Morrow, and Trussler (Sept 11, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "derrick-townsend": [],
+    "caroline-m-torosis": [
+      {
+        "text": "Supports the California Billionaire Tax Act: 'I am supportive of asking those with the greatest wealth to contribute more, particularly when working families are being squeezed and public services are under strain.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state voter ID measure: voter ID requirements 'disproportionately burden low-income voters, voters of color, elderly voters'; 'we should be expanding access to the ballot, not erecting new barriers to it.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state taxpayer initiative limiting local taxes as 'a direct threat to local democracy'; supports the SMMUSD parcel tax and does not support amending Measure GS, the transfer tax funding affordable housing, homelessness prevention and schools.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Did not support SB 79 as introduced 'because it did not adequately protect our rent-controlled housing or the tenants who live in it'; says the city pushed for amendments. Believes in 'housing near transit, jobs, and services, paired with open space and the tenant protections that make growth work for renters.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Tenant protections are central to our housing strategy, not an add-on.' Says she championed Santa Monica's right to counsel program and paired it with resources to help people before they reach eviction.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says SMPD does not participate in federal immigration enforcement or detain anyone for ICE without a judicial warrant, and that she is 'committed to doing more' to protect immigrant residents.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would 'expand unarmed and behavioral health response so trained professionals, not armed officers, handle non-emergency mental health and homelessness calls, while police focus on genuine emergencies and serious crime.'",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports single-payer: 'Healthcare is a human right, not a privilege tied to your job, your income, or your immigration status.'",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports exploring a more permanent car-free or car-light Main Street; would reallocate some street parking for protected bike lanes and bus priority corridor by corridor, and reform parking minimums for new development.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Dem Club's ban on artificial turf on public land ('I have publicly voted as such'); supports closing Santa Monica Airport as scheduled in 2028 and delivering a Great Park; wants to 're-commit to our sustainability goals.'",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the 4-3 council majority in 2025 to ratify the new police contract (4% to 5% annual raises; the 'number two' pay clause suspended).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/public-safety-unions-widen-council-endorsements-snub-brock-lesley-and-torosis/",
+          "title": "Santa Monica Next - Public Safety Unions Widen Council Endorsements (Sept 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by UNITE HERE Local 11 (hospitality workers union).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/unite-here-endorses-torosis-ivanov-morrow-and-trussler-four-for-three-city-council-positions/",
+          "title": "Santa Monica Next - Unite Here! Endorses Torosis, Ivanov, Morrow, and Trussler (Sept 11, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she is endorsed by the Building Trades, IBEW and the Operating Engineers, and has 'stood with our hospitality workers in the fight for fair contracts.'",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Caroline-Torosis-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Caroline Torosis",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "doug-trussler": [
+      {
+        "text": "On the Billionaire Tax: 'I don't love the concept; however, the math is compelling,' noting wealthy taxpayers pay little income tax annually.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure: 'There is no evidence of material ballot fraud' and voter ID requirements disproportionately burden low-income, elderly and minority voters.",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state taxpayer initiative: local revenue-raising is 'a fundamental requirement for functional government,' though he is 'a strong proponent of sunset provision[s]' on taxes. Says the city is in financial distress and must be honest about its deficit.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'For the next 12 to 24 months, I believe expanded policing is necessary,' noting Beverly Hills has about twice the officers per 1,000 residents; would add more officers.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "New housing should be concentrated downtown and along commercial corridors; believes '3,000 to 5,000 new units are achievable in the downtown area and a similar number along corridors,' mixing affordable, market-rate and ownership units.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Favors expanding the right to counsel program, committing $500,000 to $1,000,000 a year from the General Fund; wants mandatory payment-plan negotiation, rental assistance and mediation before nonpayment evictions. Opposes gutting Measure GS but open to narrow amendments.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports strengthening non-cooperation policies, legal aid and community education for immigrant residents.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Believes 'deeply in the principle of single-payer healthcare' (grew up in Canada) but says AB 1900 has 'no realistic path to passage in its current form.'",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Not convinced by the 'remove parking and they won't come by car' theory applied universally; wants evidence-based parking policy by corridor.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes setting aside 25% of the airport for housing: the land is 'a once-in-a-generation opportunity to build a world-class park.'",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Doug-Trussler-City-Council.pdf",
+          "title": "Santa Monica Democratic Club 2026 City Council Candidate Questionnaire - Doug Trussler",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by UNITE HERE Local 11, which said he has a 'pro-union vision in which business and labor can succeed together.'",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/unite-here-endorses-torosis-ivanov-morrow-and-trussler-four-for-three-city-council-positions/",
+          "title": "Santa Monica Next - Unite Here! Endorses Torosis, Ivanov, Morrow, and Trussler (Sept 11, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Police Officers Association and Santa Monica Firefighters Local 1109.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicanext.org/2026/09/public-safety-unions-widen-council-endorsements-snub-brock-lesley-and-torosis/",
+          "title": "Santa Monica Next - Public Safety Unions Widen Council Endorsements (Sept 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "lindsay-davis": []
+  },
+  "notes": "Most 2026 positions come from the Santa Monica Democratic Club 2026 candidate questionnaires (PDFs linked from Santa Monica Next). The club made no council endorsement. Phil Brock did not answer the questionnaire; his items come from his city candidate statement, campaign site and The Lookout. No findable policy positions for Derrick Townsend: he filed no city candidate statement, and his campaign site (dt4sm.com) only says he would 'restore safety' and break 'ineffective bureaucracy'. None for Lindsay Davis either: her candidate statement is about community healing and biodiversity, with no policy stances. Negative 'vote no' campaigns (UNITE HERE vs Negrete/Brock) are omitted as opponent characterizations. Searches used: 6"
+}

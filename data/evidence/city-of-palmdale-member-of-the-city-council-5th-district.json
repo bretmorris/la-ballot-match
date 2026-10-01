@@ -1,0 +1,49 @@
+{
+  "contestId": "city-of-palmdale-member-of-the-city-council-5th-district",
+  "options": {
+    "raycine-ector": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "cynthia-cyndi-d-garcia": [],
+    "v-jesse-smith": [
+      {
+        "text": "(2022) At a chamber forum during a previous council run: \"I believe in transformative change, I believe in transformative justice.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.avpress.com/news/council-hopefuls-outline-positions/article_115b830a-4a9f-11ed-9d8f-ebf2a5a66680.html",
+          "title": "Antelope Valley Press: Council hopefuls outline positions (2022-10-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Said local law enforcement and its leadership should know and represent the community they serve: \"When I go into the Palmdale station, all I see is white males.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.avpress.com/news/council-hopefuls-outline-positions/article_115b830a-4a9f-11ed-9d8f-ebf2a5a66680.html",
+          "title": "Antelope Valley Press: Council hopefuls outline positions (2022-10-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Urged developing the Palmdale airport to attract businesses and said the city should do more to bring local firms into bidding for government contracts.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.avpress.com/news/council-hopefuls-outline-positions/article_115b830a-4a9f-11ed-9d8f-ebf2a5a66680.html",
+          "title": "Antelope Valley Press: Council hopefuls outline positions (2022-10-13)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Open seat (incumbent Andrea Alarcón did not file). No findable positions for cynthia-cyndi-d-garcia (no campaign site or coverage). Ector has only the LACDP endorsement. Smith has no 2026 platform online; his items come from his 2022 run. Searches used: 10."
+}

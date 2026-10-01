@@ -1,0 +1,60 @@
+{
+  "contestId": "city-of-arcadia-member-of-the-city-council-3rd-district",
+  "options": {
+    "john-han": [
+      {
+        "text": "Voted yes on the FY2026-27 budget (June 16, 2026; passed 4-1).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted yes (June 16, 2026) to grant the appeal and approve a 30-unit SB 330 condominium project at 514 Fairview Avenue that the Planning Commission had denied.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Supporting first responders. Public safety is our top priority.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.han4arcadia.com/",
+          "title": "Han 4 Arcadia City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Managing tax dollars wisely with discipline and transparency.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.han4arcadia.com/",
+          "title": "Han 4 Arcadia City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Arcadia Police Officers' Association and the Arcadia Firefighters' Association.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.han4arcadia.com/",
+          "title": "Han 4 Arcadia City Council 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "cynthia-ng-monje": [],
+    "grace-arabella-lee": []
+  },
+  "notes": "No public positions found for cynthia-ng-monje (applied for the June 2026 appointment; no campaign site or coverage of her positions found) or grace-arabella-lee (graceleeforarcadia.com is a parked domain). Han was appointed June 16, 2026; his votes are from that meeting's minutes. Searches used: 12."
+}

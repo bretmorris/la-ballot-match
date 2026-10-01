@@ -2,6 +2,347 @@
  "contestId": "city-of-santa-clarita-member-of-the-city-council-5th-district",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:48.145Z",
- "options": {}
+ "scoredAt": "2026-10-01T05:45:58.789Z",
+ "options": {
+  "kelvin-driscoll": {
+   "taxes-spending": {
+    "position": 0.21,
+    "evidence": 0.5,
+    "confidence": 0.63,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.56,
+     "3": 0.43,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": -0.43,
+    "evidence": 0.89,
+    "confidence": 0.84,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.81,
+     "2": 0.16,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": -0.025,
+    "evidence": 0.02,
+    "confidence": 0.95,
+    "probabilities": {
+     "0": 0,
+     "1": 0.06,
+     "2": 0.94,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "policing-justice": {
+    "position": -0.175,
+    "evidence": 0.73,
+    "confidence": 0.6,
+    "probabilities": {
+     "0": 0,
+     "1": 0.41,
+     "2": 0.53,
+     "3": 0.06,
+     "4": 0
+    }
+   },
+   "homelessness": {
+    "position": -0.02,
+    "evidence": 0.02,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.04,
+     "2": 0.96,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "climate-energy": {
+    "position": -0.305,
+    "evidence": 0.37,
+    "confidence": 0.65,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.6,
+     "2": 0.39,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.725,
+    "evidence": 0.88,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.46,
+     "1": 0.53,
+     "2": 0.01,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.065,
+    "evidence": 0.01,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.87,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.305,
+    "evidence": 0.04,
+    "confidence": 0.48,
+    "probabilities": {
+     "0": 0.11,
+     "1": 0.4,
+     "2": 0.49,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.325,
+    "evidence": 0.02,
+    "confidence": 0.58,
+    "probabilities": {
+     "0": 0.08,
+     "1": 0.5,
+     "2": 0.42,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.18,
+    "evidence": 0.02,
+    "confidence": 0.69,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.33,
+     "2": 0.65,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.055,
+    "evidence": 0.02,
+    "confidence": 0.89,
+    "probabilities": {
+     "0": 0,
+     "1": 0.11,
+     "2": 0.89,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": -0.175,
+    "evidence": 0.94,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0,
+     "1": 0.36,
+     "2": 0.62,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "elections-voting": {
+    "position": -0.135,
+    "evidence": 0.03,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.25,
+     "2": 0.73,
+     "3": 0,
+     "4": 0
+    }
+   }
+  },
+  "bob-khalsa": {
+   "taxes-spending": {
+    "position": 0.785,
+    "evidence": 0.71,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.43,
+     "4": 0.57
+    }
+   },
+   "housing-growth": {
+    "position": -0.55,
+    "evidence": 0.91,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0.16,
+     "1": 0.78,
+     "2": 0.06,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.645,
+    "evidence": 0.03,
+    "confidence": 0.69,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.04,
+     "3": 0.63,
+     "4": 0.33
+    }
+   },
+   "policing-justice": {
+    "position": 0.655,
+    "evidence": 0.92,
+    "confidence": 0.72,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.01,
+     "3": 0.67,
+     "4": 0.32
+    }
+   },
+   "homelessness": {
+    "position": 0.19,
+    "evidence": 0.02,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.64,
+     "3": 0.33,
+     "4": 0.03
+    }
+   },
+   "climate-energy": {
+    "position": 0.29,
+    "evidence": 0.02,
+    "confidence": 0.52,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.48,
+     "3": 0.45,
+     "4": 0.07
+    }
+   },
+   "labor-business": {
+    "position": 0.895,
+    "evidence": 0.84,
+    "confidence": 0.83,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.2,
+     "4": 0.8
+    }
+   },
+   "immigration": {
+    "position": 0.06,
+    "evidence": 0.02,
+    "confidence": 0.9,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.89,
+     "3": 0.1,
+     "4": 0.01
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.05,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.015,
+    "evidence": 0.01,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.075,
+    "evidence": 0.02,
+    "confidence": 0.87,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.85,
+     "3": 0.14,
+     "4": 0.01
+    }
+   },
+   "health-care": {
+    "position": 0.285,
+    "evidence": 0.02,
+    "confidence": 0.53,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.49,
+     "3": 0.45,
+     "4": 0.06
+    }
+   },
+   "transportation": {
+    "position": 0.745,
+    "evidence": 0.96,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.51,
+     "4": 0.49
+    }
+   },
+   "elections-voting": {
+    "position": 0.005,
+    "evidence": 0.03,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   }
+  }
+ }
 }

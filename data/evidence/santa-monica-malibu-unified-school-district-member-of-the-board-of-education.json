@@ -1,0 +1,429 @@
+{
+  "contestId": "santa-monica-malibu-unified-school-district-member-of-the-board-of-education",
+  "options": {
+    "laurie-lieberman": [
+      {
+        "text": "Priorities include closing the achievement/opportunity gap, including 'promoting culturally relevant and inquiry-based curriculum, implementing the social justice standards,' and a research-based approach to AI and screens in schools.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On political pressure: 'the overwhelming majority of people continue to support diversity, equity and inclusion,' and SMMUSD curriculum decisions 'continue to consider those values.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Weapons, including guns, do not ever belong on school campuses. The only true solution to gun violence is to have serious gun control.'",
+        "kind": "questionnaire",
+        "dimension": "guns",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports taxing billionaires but opposes the Billionaire Tax Act as a one-time tax that doesn't stabilize the budget. Opposes the state taxpayer initiative: 'the threshold for raising taxes and fees should be lower, not higher.'",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the voter ID measure as 'unnecessary and anti-democratic,' aimed at a 'hypothetical problem of voter fraud.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'Strongly support[s]' the parcel tax as a guaranteed, stable funding source for the district.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Laurie-Lieberman-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Laurie Lieberman",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the August 2026 board vote on supporting the parcel tax, warned that if it fails, 'we're in a much, much deeper hole.'",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.smdp.com/school-board-backs-november-parcel-tax-adopts-budget-revision-and-tax-collection-deal/",
+          "title": "SMDP - Santa Monica Schools Back November Parcel Tax, Adopt Budget (Aug 18, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the unanimous board in August 2026 for Resolution 26-04, supporting the $495 'Excellent Santa Monica Public Schools Parcel Tax' on the November ballot.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.smdp.com/school-board-backs-november-parcel-tax-adopts-budget-revision-and-tax-collection-deal/",
+          "title": "SMDP - Santa Monica Schools Back November Parcel Tax, Adopt Budget (Aug 18, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS), a pro-public-school coalition of parents, teachers and education activists.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "harry-leshner": [
+      {
+        "text": "Priorities: better public engagement and transparency, banning plastic turf with organic field management, and a district-wide policy on screen limits.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Intends to vote for the parcel tax, but says it 'does not provide net new funding for SMMUSD'; it is a response to the risk that the City Council takes away about $12M a year of city funding.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax: billionaires 'do not pay their fair share in taxes.' Opposes the Howard Jarvis-backed state taxpayer initiative, which would limit local governments' ability to raise funds for schools.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'Absolutely not, this is a Republican-led initiative intended to disenfranchise voters.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports 'a balanced, data-driven policy regarding technology use in school' that protects students' wellbeing while giving teachers autonomy and flexibility.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Takes a 'holistic' approach to school safety; wants visitor sign-in policies tightened and better enforced.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Harry-Leshner-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Harry Leshner",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "robbie-staenberg": [
+      {
+        "text": "'SMMUSD should not allow political pressure to impact decisions around curriculum, instruction, and inclusive learning... I would rather lose my seat than allow our students' education to be impacted.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Robbie-Staenberg-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Robbie Staenberg",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: transparency, academic excellence, and 'decreasing the gap in outcomes between our students with the lowest and highest academic performance'; cites the 2016 Noguera Report on persistent disparities.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Robbie-Staenberg-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Robbie Staenberg",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports a 'bell-to-bell' student cellphone ban where administratively possible; wants expanded early childhood education with city, county and state funding.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Robbie-Staenberg-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Robbie Staenberg",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Billionaires 'can and should pay more in taxes' but he is unsure about the one-time Billionaire Tax Act. Opposes the state taxpayer initiative and supports the parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Robbie-Staenberg-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Robbie Staenberg",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID: 'I do not support measures designed to restrict the number of voters in our elections.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Robbie-Staenberg-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Robbie Staenberg",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS), a pro-public-school coalition of parents, teachers and education activists.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "stacy-rouse": [
+      {
+        "text": "On curriculum and political pressure: 'continue to put our kids first, stay to data, and acknowledge people are different and give room to have input and to opt in and out of programming.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Stacy-Rouse-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Stacy Rouse",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Law enforcement on campus needs 'clear guidelines for why they are there'; officers 'should not be in charge of discipline, that is solely a school issue.'",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Stacy-Rouse-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Stacy Rouse",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports the Billionaire Tax: a modest rate on the highest brackets 'is not an undue or unpayable burden.' Opposes the state taxpayer initiative as written, though open to a two-thirds threshold for all measures.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Stacy-Rouse-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Stacy Rouse",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes voter ID as 'an unnecessary hurdle for citizens to participate.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Stacy-Rouse-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Stacy Rouse",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At the August 2026 board vote, a Malibu resident, said 'losing the master facilities use agreement would be catastrophic' and voted yes on supporting the parcel tax.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.smdp.com/school-board-backs-november-parcel-tax-adopts-budget-revision-and-tax-collection-deal/",
+          "title": "SMDP - Santa Monica Schools Back November Parcel Tax, Adopt Budget (Aug 18, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS), a pro-public-school coalition of parents, teachers and education activists.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alicia-mignano": [
+      {
+        "text": "Priorities: student well-being, maintaining staffing, improving outcomes for multilingual learners, and expanding evidence-based interventions.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On political pressure: SMMUSD 'should continue following California law and state guidance,' creating schools 'where every student feels they belong.'",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "'I believe there is a place for law enforcement in our schools'; calls the assigned School Resource Officer a trusted part of the school community.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the Billionaire Tax Act 'because it bypasses Proposition 98 and fails to provide dedicated funding for public schools.' Opposes the state taxpayer initiative; supports the parcel tax.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Does not support voter ID requirements: 'voting should be as accessible as possible for eligible voters.'",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports natural grass for elementary fields going forward, citing health and environmental questions about artificial turf.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://santamonicademocrats.com/wp-content/uploads/2026/06/Alicia-Mignano-School-Board.pdf",
+          "title": "Santa Monica Democratic Club 2026 SMMUSD School Board Candidate Questionnaire - Alicia Mignano",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted with the unanimous board in August 2026 for Resolution 26-04, supporting the $495 'Excellent Santa Monica Public Schools Parcel Tax' on the November ballot.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.smdp.com/school-board-backs-november-parcel-tax-adopts-budget-revision-and-tax-collection-deal/",
+          "title": "SMDP - Santa Monica Schools Back November Parcel Tax, Adopt Budget (Aug 18, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Santa Monicans for Renters' Rights (SMRR).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.smrr.org/2026smrrconvention/",
+          "title": "SMRR - 2026 Annual Membership Convention endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Santa Monica Democratic Club.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://santamonicademocrats.com/local-endorsement-results/",
+          "title": "Santa Monica Democratic Club - Local Endorsement Results (July 16, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Communities for Excellent Public Schools (CEPS), a pro-public-school coalition of parents, teachers and education activists.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://santamonicanext.org/2026/08/communities-for-excellent-public-schools-endorses-incumbents-negrete-and-torosis-in-city-council-race/",
+          "title": "Santa Monica Next - CEPS Endorses Incumbents Negrete and Torosis (Aug 26, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "All five candidates answered the Santa Monica Democratic Club 2026 questionnaire. The club endorsed Mignano, Rouse and Staenberg, with no consensus on Lieberman or Leshner. Incumbent board votes come from SMDP coverage of the August 2026 parcel-tax resolution. Harry Leshner has no organizational endorsements on record. Searches used: 6"
+}

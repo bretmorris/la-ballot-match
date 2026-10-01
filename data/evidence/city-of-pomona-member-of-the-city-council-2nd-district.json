@@ -1,0 +1,138 @@
+{
+  "contestId": "city-of-pomona-member-of-the-city-council-2nd-district",
+  "options": {
+    "victor-preciado": [
+      {
+        "text": "Campaign site lists, as a 2026 goal, expanding inclusionary housing and first-time homebuyer programs.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://victorforpomona.com/",
+          "title": "Victor Preciado for Pomona - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per The Pomonan, Preciado said he would continue focusing on transportation and infrastructure and \"expand housing opportunities—including affordable and inclusionary housing.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.thepomonan.com/pomona-politics-1/2026/9/1/who-speaks-for-district-2",
+          "title": "The Pomonan - Who Speaks for District 2? (Sept. 1, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to expand affordable transit routes through his seat on the Foothill Transit board.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://victorforpomona.com/",
+          "title": "Victor Preciado for Pomona - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Teamsters Local 1932.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://victorforpomona.com/endorsements.html",
+          "title": "Victor Preciado for Pomona - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per The Pomonan's review of filings, the Pomona Police Officers Association PAC reported a $2,250 independent expenditure benefiting him; his largest direct contributor was Laborers Local 300.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.thepomonan.com/pomona-politics-1/2026/9/6/who-is-funding-pomonas-district-2-council-race",
+          "title": "The Pomonan - Who Is Funding Pomona's District 2 Council Race? (Sept. 6, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jacky-elizalde": [
+      {
+        "text": "Platform: \"Tax dollars should be allocated wisely and transparently, with clear priorities, measurable results, and efforts to generate additional revenue as an alternative to raising taxes.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.jacky4pomona.com/platform",
+          "title": "Jacky Elizalde for Pomona City Council - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"Pomona deserves a strong emergency response, smart prevention, and safer neighborhoods.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.jacky4pomona.com/platform",
+          "title": "Jacky Elizalde for Pomona City Council - Platform",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site pledges to elevate unions and create opportunities \"that strengthen careers, support families.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.jacky4pomona.com/home",
+          "title": "Jacky Elizalde for Pomona City Council - Home",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, SEIU 2015, SEIU 121RN, United Auto Workers, Machinists, IBEW 47 and multiple building-trades unions.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.jacky4pomona.com/endorsements",
+          "title": "Jacky Elizalde for Pomona City Council - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.jacky4pomona.com/endorsements",
+          "title": "Jacky Elizalde for Pomona City Council - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by BizFed Los Angeles County, a business federation.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.jacky4pomona.com/endorsements",
+          "title": "Jacky Elizalde for Pomona City Council - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Firefighters Local 1014.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.jacky4pomona.com/endorsements",
+          "title": "Jacky Elizalde for Pomona City Council - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per The Pomonan's review of filings, her committee received $2,950 from the Apartment Association of Greater Los Angeles PAC.",
+        "kind": "endorsement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.thepomonan.com/pomona-politics-1/2026/9/6/who-is-funding-pomonas-district-2-council-race",
+          "title": "The Pomonan - Who Is Funding Pomona's District 2 Council Race? (Sept. 6, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both candidates' positions are mostly broad themes (safety, services, housing affordability, youth); neither campaign site addresses rent control, immigration or homelessness approach specifically. No Preciado council roll-call votes were found in fetched sources. Vote411 race page returned 404. Searches used: 13"
+}

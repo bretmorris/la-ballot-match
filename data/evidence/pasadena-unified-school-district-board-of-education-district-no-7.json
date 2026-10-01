@@ -1,0 +1,80 @@
+{
+  "contestId": "pasadena-unified-school-district-board-of-education-district-no-7",
+  "options": {
+    "cynthia-torres": [
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party for PUSD District 7.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/la-county-democrats-endorse-4-pasadena-unified-board-candidates",
+          "title": "Pasadena Now: LA County Democrats Endorse 4 Pasadena Unified Board Candidates",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says PUSD needs \"a long-term financial strategy that reflects the realities of enrollment, expenses, and available resources\"; cites 11 years on Santa Monica-Malibu USD's Financial Oversight Committee, including as chair.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.torres4pusd.com/my-vision",
+          "title": "MY VISION | Cynthia Torres for PUSD School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"PUSD should not limit its thinking to the revenue it receives today\"; will pursue strategic fundraising, corporate and philanthropic partnerships, asset management and outside investment.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.torres4pusd.com/my-vision",
+          "title": "MY VISION | Cynthia Torres for PUSD School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants rigorous math access for every student, expanded vocational training and credentialing pathways, and \"expanded college and career counseling for every student.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.torres4pusd.com/my-vision",
+          "title": "MY VISION | Cynthia Torres for PUSD School Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In the party's release Torres said, \"I come from a labor family,\" and that her experiences taught her the importance of standing up for working families.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/la-county-democrats-endorse-4-pasadena-unified-board-candidates",
+          "title": "Pasadena Now: LA County Democrats Endorse 4 Pasadena Unified Board Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dennis-j-mcnamara": [
+      {
+        "text": "McNamara said he wants to \"channel that energy into strengthening classroom instruction, expanding opportunities for every student,\" citing dual-language immersion, International Baccalaureate and the partnership with Pasadena City College as district strengths.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/mcnamara-hopes-to-win-school-board-district-7-seat",
+          "title": "Pasadena Now: McNamara Hopes to Win School Board District 7 Seat (July 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "McNamara chairs the Citizens' Oversight Committee monitoring the district's $1.4 billion Measures O and R school modernization program and is a former Western Asset Management executive (budgeting, staffing, information systems).",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pasadenanow.com/main/mcnamara-hopes-to-win-school-board-district-7-seat",
+          "title": "Pasadena Now: McNamara Hopes to Win School Board District 7 Seat (July 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Torres: added campaign-site positions (torres4pusd.com). McNamara: no campaign site found (mcnamaraforpusd.com did not resolve) and no further statements located beyond the Pasadena Now announcement. Searches used: 10"
+}

@@ -1,0 +1,110 @@
+{
+  "contestId": "pasadena-unified-school-district-board-of-education-district-no-3",
+  "options": {
+    "michelle-richardson-bailey": [
+      {
+        "text": "Re-election platform: elevate student voices, strengthen accountability, prioritize classrooms, support educators and staff, expand career opportunities, and align district spending with student and family needs.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/richardson-bailey-lays-out-her-case-for-re-election-to-pasadena-unified-board-where-she-faces-challenger-veronica-elias-in-district-3",
+          "title": "Pasadena Now: Richardson Bailey Lays Out Her Case for Re-Election (Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Richardson Bailey said the board advanced school modernization plans and \"secured significant increases in employee compensation\" during her tenure; she cited the 2023 five-year strategic plan and her support for ethnic studies and commitments to Black and Latinx students.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/richardson-bailey-lays-out-her-case-for-re-election-to-pasadena-unified-board-where-she-faces-challenger-veronica-elias-in-district-3",
+          "title": "Pasadena Now: Richardson Bailey Lays Out Her Case for Re-Election (Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2020) In a guest opinion she urged support for Measure O, a $516.3 million PUSD bond, arguing it was kept \"far below the amount allowable under state law\" and would give all schools internet access and technology.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-michelle-richardson-bailey-now-is-the-time-to-support-measure-o",
+          "title": "Pasadena Now: Guest Opinion | Michelle Richardson Bailey: Now Is the Time to Support Measure O",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party. Per the party's release, she said the endorsement reflects a shared commitment to strong public schools, opportunity for every student and support for families and educators.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/la-county-democrats-endorse-4-pasadena-unified-board-candidates",
+          "title": "Pasadena Now: LA County Democrats Endorse 4 Pasadena Unified Board Candidates",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In May 2026 she introduced the substitute motion rejecting the consultant's school-consolidation equity analysis, which passed, halting the closure process: \"This whole process has been compromised... We need to start over.\"",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/pusd-board-halts-school-closure-plan-two-trustees-served-with-recalls",
+          "title": "Pasadena Now: PUSD Board Halts School Closure Plan, Two Trustees Served With Recall Notices (May 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2019) Per Patch, citing the Star-News, she voted against closing three elementary schools and feared the district's finances could worsen after the closures.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://patch.com/california/pasadena-ca/pasadena-unified-close-3-schools-despite-objections",
+          "title": "Patch: Pasadena Unified to close 3 schools despite objections (Sept. 2019)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "At a Sept. 2026 board meeting she criticized the consolidation process: \"We continue to bulldoze our way through this topic ... without thoughtful conversation.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.coloradoboulevard.net/pasadena-unified-board-hears-debate-over-school-closures-campus-maintenance-and-data-webpage",
+          "title": "Colorado Boulevard: Pasadena Unified Board hears debate over school closures, campus maintenance and data webpage (Sept. 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "veronica-elias": [
+      {
+        "text": "\"Before any further cuts to classrooms are considered, I will push for an independent, board-commissioned audit of district administrative spending\", separate from school consolidation planning.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.eliasforpusd.com/my-priorities",
+          "title": "My Priorities | Veronica Elias for PUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants major school decisions made \"in the open, in full compliance with the law, with families, educators, and staff genuinely part of the conversation from the start.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.eliasforpusd.com/my-priorities",
+          "title": "My Priorities | Veronica Elias for PUSD Board (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will support strategies to strengthen enrollment and improve attendance; a former teacher and principal, she cites declining enrollment and persistent absenteeism as key PUSD challenges.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.eliasforpusd.com/meet-veronica",
+          "title": "Meet Veronica | Veronica Elias for PUSD Board",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Elias: positions from her campaign site (eliasforpusd.com); no endorsements or forum coverage found yet (UTP forum Oct. 3, LWV forum Oct. 5 are after retrieval). Richardson Bailey: her campaign site michelleforpusd.com still shows only 2022 biographical content; existing items kept (2020 item year-prefixed; endorsement re-attributed as release paraphrase) plus recorded consolidation votes. Searches used: 10"
+}

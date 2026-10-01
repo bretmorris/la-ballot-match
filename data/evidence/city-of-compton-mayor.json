@@ -1,0 +1,164 @@
+{
+ "contestId": "city-of-compton-mayor",
+ "options": {
+  "andre-spicer": [
+   {
+    "text": "(2021) Campaign platform pledged to improve community policing and gang intervention and to 'activate a community led oversight committee made up of residents and legal advisors' to handle citizen complaints.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/platform",
+     "title": "Andre Spicer for Mayor: Accomplishments / platform page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "His campaign site says he led efforts to shut down over 25 illegal marijuana dispensaries and initiated seizure of nuisance houses that had become havens for illegal activity.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/platform",
+     "title": "Andre Spicer for Mayor: Accomplishments / platform page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "His campaign site lists 'Prioritized the removal of homeless encampments outside of schools' among his accomplishments, alongside connecting 142 residents with housing resources.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/platform",
+     "title": "Andre Spicer for Mayor: Accomplishments / platform page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2021) Proposed a Garage Conversion Assistance Program: city loans up to $50,000 to convert garages into units housing homeless or low-income residents, with homeowners collecting up to $1,000 monthly rent.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/platform",
+     "title": "Andre Spicer for Mayor: Accomplishments / platform page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign touts partnering with expungement clinics that helped over 600 residents clear criminal records for employment and housing.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/platform",
+     "title": "Andre Spicer for Mayor: Accomplishments / platform page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Backed raised Botts' Dots at street-takeover intersections, saying the fix should be 'a combination of that and the proper response from law enforcement.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://andrespicer4mayor.com",
+     "title": "Andre Spicer for Mayor: home page (candidate statement)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Opposed a proposed $85,000 city payment to the Compton Chamber of Commerce, saying giving it to organizations recently evicted from city facilities 'sounds like a political favor.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://2urbangirls.com/2026/09/after-lengthy-discussion-compton-city-council-delays-decision-on-85000-chamber-of-commerce-payout/",
+     "title": "2UrbanGirls: Compton City Council delays decision on $85,000 Chamber of Commerce payout (Sep 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says his 2021 recount and lawsuit exposed voter fraud in his council race and pledges to 'continue fighting to make sure your vote is always protected.'",
+    "kind": "own-statement",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.andrespicer4mayor.com/general-1",
+     "title": "Andre Spicer for Mayor: One Vote page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Called for pausing action against the city manager until the full council receives formal legal guidance and the matter is properly agendized.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://thecomptonbulletin.news4usonline.com/2026/04/13/spicer-condemns-actions-against-city-manager/",
+     "title": "The Compton Bulletin: Spicer condemns actions against city manager (2026-04-13)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Censured 4-0 by the council in May 2026 over Cal-Card misuse; called it a 'political attack' and had earlier offered a reimbursement of about $600 for some charges.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wavepublication.com/council-censures-colleague-over-credit-card-allegations/",
+     "title": "Wave Newspapers: Council censures colleague over credit card allegations (May 2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "emma-sharif": [
+   {
+    "text": "After the June 2026 primary, told the Wave her priorities through November are infrastructure improvements, addressing deficiencies outlined in city audits, and continued transparency for residents.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://wavepublication.com/sharif-headed-to-runoff-in-compton-mayors-race/",
+     "title": "Wave Newspapers: Sharif headed to runoff in Compton mayor's race (2026-06-03)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Co-placed, with Councilman Bowers, a resolution censuring Councilman Spicer for Cal-Card misuse, revoking his card and referring findings to law enforcement; passed 4-0 in May 2026.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://wavepublication.com/council-censures-colleague-over-credit-card-allegations/",
+     "title": "Wave Newspapers: Council censures colleague over credit card allegations (May 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Told The Bulletin the city has 'invested a lot of money into our infrastructure' to fix potholes, estimating fixing all streets would cost 'about one hundred million, plus.'",
+    "kind": "own-statement",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thecomptonbulletin.news4usonline.com/2026/05/31/is-this-the-last-stand-for-mayor-emma-sharif/",
+     "title": "The Compton Bulletin: Is this the last stand for Mayor Emma Sharif? (2026-05-31)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Told The Bulletin her main focus areas have been infrastructure, economic development and updating city parks.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://thecomptonbulletin.news4usonline.com/2026/05/31/is-this-the-last-stand-for-mayor-emma-sharif/",
+     "title": "The Compton Bulletin: Is this the last stand for Mayor Emma Sharif? (2026-05-31)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(Jul 2025) At a city expungement fair: 'resources and second chances are life-changing,' opening residents to employment, housing and education opportunities.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thecomptonbulletin.news4usonline.com/2025/07/16/mayor-emma-sharif-and-compton-host-expungement-fair/",
+     "title": "The Compton Bulletin: Mayor Emma Sharif and Compton host expungement fair (2025-07-16)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Announced the council placed City Manager Willie Hopkins on administrative leave pending an investigation (3-0 vote), declining details as a personnel matter.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://2urbangirls.com/2026/04/compton-mayor-issues-statement-on-city-manager-admin-leave/",
+     "title": "2UrbanGirls: Compton mayor issues statement on city manager being placed on leave (Apr 2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Runoff from the June 2 primary (Sharif ~42%, Spicer ~17%). No candidate questionnaires found; Sharif has no campaign website found, so her items are thinner on policy. Spicer platform items marked (2021) come from his original council platform reposted on his campaign site. Searches used: 13"
+}

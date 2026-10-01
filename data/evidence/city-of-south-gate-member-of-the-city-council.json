@@ -1,0 +1,111 @@
+{
+  "contestId": "city-of-south-gate-member-of-the-city-council",
+  "options": {
+    "joshua-barron": [
+      {
+        "text": "(2023) Voted with the council to extend for a third time a $200,000 contract with Northgate Gonzalez Markets providing groceries to low-income residents, funded with federal pandemic relief.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wavepublication.com/south-gate-extends-food-insecurity-program-again/",
+          "title": "South Gate extends food insecurity program again - Wave Newspapers (2023-07-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his City of South Gate bio, his mission focuses on improving infrastructure, \"fostering business growth to create local jobs,\" revitalizing business districts, restoring arts programs with schools and nonprofits, and collaborating with law enforcement on resident concerns.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.cityofsouthgate.org/Government/City-Council/Meet-the-City-Council/Mayor-Joshua-Barron",
+          "title": "Joshua Barron - Meet the City Council, City of South Gate",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "al-rios": [
+      {
+        "text": "(2023) Backed extending South Gate's $200,000 Northgate grocery program for low-income residents: \"I know a lot of families have benefited from this program, and we are going to continue to provide food for those needy families.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wavepublication.com/south-gate-extends-food-insecurity-program-again/",
+          "title": "South Gate extends food insecurity program again - Wave Newspapers (2023-07-13)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his City of South Gate bio, opposed alcohol sales in public parks to promote youth and family safety, and is an advocate for environmental justice.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.cityofsouthgate.org/Government/City-Council/Meet-the-City-Council/Vice-Mayor-Council-Member-Al-Rios",
+          "title": "Al Rios - Meet the City Council, City of South Gate",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "edgar-pelayo": [
+      {
+        "text": "\"I will fight for proper use of public funds, budget oversight, and financial clarity so you know how your money is being spent,\" pledging to prioritize infrastructure projects and maximize \"the taxpayer's return on investment.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pelayoforsouthgate.com/",
+          "title": "Edgar Pelayo for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jimmy-ozaeta": [
+      {
+        "text": "Says the council majority mismanaged finances into a projected $9.4 million deficit and residents are now asked to pay more through \"unnecessary tax increases such as the Utility Users Tax (UUT)\": \"I will end wasteful spending, reject unnecessary tax increases, and direct every dollar toward real community needs.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ozaetaforsouthgate.com/",
+          "title": "Jimmy Ozaeta for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On immigration enforcement: \"The ongoing ICE raids tearing through our community are separating families, traumatizing children... As your city leader, I will continue advocate for the dignity and safety of every South Gate resident regardless of where they were born.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ozaetaforsouthgate.com/",
+          "title": "Jimmy Ozaeta for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Started a grassroots effort with Mario Valenzuela delivering free food and essentials to immigrant families afraid to leave home amid ICE raids.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ozaetaforsouthgate.com/",
+          "title": "Jimmy Ozaeta for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says elected officials should answer to residents, \"not special interests (lobbyist, political action committees (PACs), labor unions, corporate businesses) that contribute to their re-election campaigns in return for disproportionate political power.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://ozaetaforsouthgate.com/",
+          "title": "Jimmy Ozaeta for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to \"demand a full infrastructure audit,\" prioritize repairs affecting daily life, and pursue every available state and federal funding source for streets, sidewalks, parks and trees.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://ozaetaforsouthgate.com/",
+          "title": "Jimmy Ozaeta for South Gate City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alan-garcia": []
+  },
+  "notes": "Incumbents Joshua Barron (mayor) and Al Rios have little recent issue coverage. Their city bios were read through a summarizing fetch tool, since the city site blocks direct downloads. A July 2025 unanimous South Gate resolution opposing immigration enforcement tactics was found only in an AI-generated Citizen Portal summary that does not name who was present, so it was not used. Edgar Pelayo's site is mostly about fiscal transparency. No public positions found for alan-garcia (also a 2024 candidate, no survey or site); Ballotpedia has no pages for Pelayo or Ozaeta. A UUT measure Ozaeta criticizes may involve an incumbent vote, but no roll call was found. Searches used: 13"
+}

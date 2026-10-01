@@ -1,0 +1,120 @@
+{
+  "contestId": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-3",
+  "options": {
+    "steve-gibson": [
+      {
+        "text": "Gibson (board president, elected 2022) said: \"My goal is to make sure PCC works for everyone: the recent graduate, the working parent, the neighbor retraining for a new career.\" Per his campaign, his record includes PCC Northwest at John Muir High School, expanded workforce training and accessibility.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/steve-gibson-seeks-second-term-on-pasadena-city-college-board",
+          "title": "Pasadena Now: Steve Gibson seeks second term on Pasadena City College board (July 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his campaign, as a trustee Gibson supported fire-recovery training programs, including a new construction trades lab and expanded fire academy, electrical technology, welding and construction inspection programs.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/steve-gibson-seeks-second-term-on-pasadena-city-college-board",
+          "title": "Pasadena Now: Steve Gibson seeks second term on Pasadena City College board (July 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the PCC Faculty Association, per his campaign announcement.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/steve-gibson-seeks-second-term-on-pasadena-city-college-board",
+          "title": "Pasadena Now: Steve Gibson seeks second term on Pasadena City College board (July 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2024) Gibson wrote that a trustee's role is to \"ask tough questions and ensure accountability to our communities, especially our communities of color,\" and that graduation rates for Latino and Black students remain stagnant.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-steve-gibson-pcc-trustee-why-i-support-james-aragon-for-pcc-trustee",
+          "title": "Pasadena Now: Guest Opinion: Steve Gibson, Why I support James Aragon for PCC Trustee (Mar 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: on the board, Gibson \"introduced and championed a policy to decarbonize Pasadena City College.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.stevegibson4pcc.com/",
+          "title": "Steve Gibson for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In an Aug. 2025 column after losing his Altadena home in the Eaton Fire, Gibson urged the EPA to \"uphold the Endangerment Finding\" and called proposed climate rollbacks \"a catastrophic step backward.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-pcc-trustree-steve-gibson-from-altadena-to-washington-when-climate-change-hits-home-we-must-act",
+          "title": "Pasadena Now: Guest Opinion: PCC Trustee Steve Gibson, From Altadena to Washington: When Climate Change Hits Home, We Must Act (Aug. 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Wrote that PCC part-time faculty \"deserve more respect and equity,\" backing their calls for health insurance, job security and equal pay for equal work.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-dr-steve-gibson-we-must-support-part-time-faculty-at-pcc",
+          "title": "Pasadena Now: Guest Opinion: Dr. Steve Gibson, We Must Support Part-Time Faculty at PCC (2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, Los Angeles County Democratic Party and Los Angeles League of Conservation Voters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.stevegibson4pcc.com/",
+          "title": "Steve Gibson for Pasadena City College (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "david-coher": [
+      {
+        "text": "(2020) Opposed PUSD's $500 million Measure O facilities bond, citing failed oversight of the earlier Measure TT bond and calling Measure O \"a blank check for a School District in need of reform.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-david-coher-no-oversight-means-no-on-o",
+          "title": "Pasadena Now: Guest Opinion | David Coher: No Oversight Means No on O (Oct. 2020)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2020) As a Pasadena planning commissioner, wrote that \"The Pasadena Way requires us to establish a civilian oversight commission for our Police Department.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-david-coher-civilian-oversight-is-the-pasadena-way",
+          "title": "Pasadena Now: Guest Opinion | David Coher: Civilian Oversight is the Pasadena Way (June 2020)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Urged the City Council to keep Pasadena Water and Power's reference resource plan and reject eliminating greenhouse emissions by 2030, calling it infeasible and saying it would cost at least $1.35 billion more.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://pasadenanow.com/main/guest-opinion-david-b-coher-climate-change-requires-climate-responsibility",
+          "title": "Pasadena Now: Guest Opinion | David B. Coher: Climate Change Requires Climate Responsibility (2023)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Steve Gibson: existing items kept (re-attributed where they paraphrase his campaign; 2024 item year-prefixed) plus his campaign site and op-eds. David Coher: no PCC campaign site, statement or coverage of his trustee platform found (lavote lists no website); items are his own older Pasadena Now op-eds from his city commission years (2020, 2023). He was appointed to Pasadena's Rental Housing Board in 2026, but that coverage contains no policy position. LA County sample-ballot candidate statements were not available to review (only the lavote candidate list, checked for websites). Searches used: 10"
+}

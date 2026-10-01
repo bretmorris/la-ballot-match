@@ -1,0 +1,197 @@
+{
+  "contestId": "city-of-lynwood-member-of-the-city-council",
+  "options": {
+    "mishaun-watkins": [
+      {
+        "text": "Says homeless programs she managed for Santa Ana (outreach, shelter, rapid rehousing) helped cut the local homeless count: \"The through-line was stability over punishment. This is proof that thoughtful, well-funded programs work.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-mishaun",
+          "title": "About Mishaun Watkins - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As planning commissioner, says she pushed the city to modernize outdated income limits for rent and utility assistance; priorities include \"increasing access to affordable housing\" while spending taxpayer dollars responsibly.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-mishaun",
+          "title": "About Mishaun Watkins - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Federation of Labor, SEIU-UHW, NUHW, AFT Local 1521, and the Los Angeles League of Conservation Voters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-mishaun",
+          "title": "About Mishaun Watkins - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "gabriela-camacho": [
+      {
+        "text": "(2023) Voted for Lynwood's ordinance raising the minimum wage for certain health care workers to $25 an hour (passed 4-1), backed by SEIU-UHW and opposed by the Hospital Association of Southern California.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://wavepublication.com/lynwood-city-council-gives-health-workers-25-an-hour/",
+          "title": "Lynwood City Council gives health workers $25 an hour - Wave Newspapers (2023-03-02)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Part of the Lynwood council's unanimous July 15, 2025 votes to back SB 627 and SB 805 on immigration-enforcement identification, fund legal aid for immigrants facing deportation, and form a Gateway Cities JPA to monitor unlawful federal immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://lynwoodca.gov/DocumentCenter/View/1779/Lynwood-City-Council-Approves-Key-Immigration-and-Justice-Initiatives---Press-Release?bidId=",
+          "title": "Lynwood City Council Approves Key Immigration and Justice Initiatives - City of Lynwood press release (2025-07-16)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "juan-munoz-guevara": [
+      {
+        "text": "(2023) Voted for Lynwood's ordinance raising the minimum wage for certain health care workers to $25 an hour (passed 4-1), backed by SEIU-UHW.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://wavepublication.com/lynwood-city-council-gives-health-workers-25-an-hour/",
+          "title": "Lynwood City Council gives health workers $25 an hour - Wave Newspapers (2023-03-02)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he co-authored and led passage of the Lynwood Values Act, \"the city's sanctuary ordinance protecting residents from ICE collaboration,\" and pledges to \"defend and strengthen\" it.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.juanforlynwood.com/issues/issue-2",
+          "title": "Issues - Juan Munoz-Guevara for Lynwood City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Part of the Lynwood council's unanimous July 15, 2025 votes to back SB 627 and SB 805 on immigration-enforcement identification, fund legal aid for immigrants facing deportation, and form a Gateway Cities JPA to monitor unlawful federal immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://lynwoodca.gov/DocumentCenter/View/1779/Lynwood-City-Council-Approves-Key-Immigration-and-Justice-Initiatives---Press-Release?bidId=",
+          "title": "Lynwood City Council Approves Key Immigration and Justice Initiatives - City of Lynwood press release (2025-07-16)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports affordable housing \"paired with real tenant protections, including rent stabilization and just-cause eviction rules, so growth doesn't mean displacement.\" Says he delivered nearly 200 new homes, including a 66-unit 100% affordable complex.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.juanforlynwood.com/issues/issue-2",
+          "title": "Issues - Juan Munoz-Guevara for Lynwood City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On public safety: \"Invest in non-police emergency response systems so mental health and community crises are met with the right kind of help.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.juanforlynwood.com/issues/issue-2",
+          "title": "Issues - Juan Munoz-Guevara for Lynwood City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he led Lynwood to join the Clean Power Alliance \"while divesting city holdings from fossil fuels,\" and proposes a tree canopy ordinance with coverage goals.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.juanforlynwood.com/issues/issue-2",
+          "title": "Issues - Juan Munoz-Guevara for Lynwood City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes introducing council districts \"so representation reflects every neighborhood\" and establishing an Ethics Commission to \"end nepotism.\"",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.juanforlynwood.com/issues/issue-2",
+          "title": "Issues - Juan Munoz-Guevara for Lynwood City Council",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "A UNITE HERE Local 11 member and leader; says he \"fought for and passed a $25 Healthcare Living Wage and strong worker protections for city contractors.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio",
+          "title": "About Juan Munoz-Guevara - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "emiliano-arellano": [
+      {
+        "text": "Running to focus on \"strengthening public safety, protecting immigrant families, expanding access to city resources, and making City Hall more responsive and transparent.\" Worked with survivors of violence navigating the immigration system during \"intense ICE enforcement.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-emiliano",
+          "title": "About Emiliano Arellano - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Remains active with East Yard Communities for Environmental Justice and says he is committed to \"fighting for clean, healthy neighborhoods.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-emiliano",
+          "title": "About Emiliano Arellano - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Federation of Labor, SEIU-UHW, NUHW, AFT Local 1521, and the Los Angeles League of Conservation Voters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.juanforlynwood.com/bio-emiliano",
+          "title": "About Emiliano Arellano - Lynwood City Council campaign",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "luis-gerardo-cuellar": [
+      {
+        "text": "(2025) Proposed that Lynwood and neighboring Gateway cities form a JPA to audit federal immigration raids and sue over violations, committing $100,000 to a regional fund: \"Our communities deserve to know that every action taken by the federal government within our city boundaries is lawful.\"",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://larchmontchronicle.com/breaking-news-lynwood-councilmember-luis-cuellar-proposed-a-regional-effort-to-monitor-federal-immigration-enforcement/",
+          "title": "Lynwood Councilmember Luis Cuellar Proposed a Regional Effort to Monitor Federal Immigration Enforcement - Larchmont Chronicle (2025-07)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Part of the Lynwood council's unanimous July 15, 2025 votes to back SB 627 and SB 805 on immigration-enforcement identification, fund legal aid for immigrants facing deportation, and form a Gateway Cities JPA to monitor unlawful federal immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://lynwoodca.gov/DocumentCenter/View/1779/Lynwood-City-Council-Approves-Key-Immigration-and-Justice-Initiatives---Press-Release?bidId=",
+          "title": "Lynwood City Council Approves Key Immigration and Justice Initiatives - City of Lynwood press release (2025-07-16)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alfonso-morales": []
+  },
+  "notes": "Juan Munoz-Guevara, Mishaun Watkins and Emiliano Arellano run as a slate with a shared campaign site and shared endorsements. Gabriela Camacho (mayor) and Luis Gerardo Cuellar have no campaign sites; their evidence is council votes. The July 2025 immigration votes are cited from a city press release that says the council acted unanimously but does not list roll-call names. No public positions found for alfonso-morales (Lynwood USD board member): his Ballotpedia page and news quotes are only biographical or ceremonial. The city's qualified-candidate list (8/14/2026) has no candidate websites. Searches used: 13"
+}

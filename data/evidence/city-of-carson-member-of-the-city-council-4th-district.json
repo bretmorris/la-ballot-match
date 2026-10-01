@@ -1,0 +1,88 @@
+{
+ "contestId": "city-of-carson-member-of-the-city-council-4th-district",
+ "options": {
+  "arleen-bocatija-rojas": [
+   {
+    "text": "Sits on the council that voted unanimously (Apr 2026) to adopt the development agreement for a 1,115-unit mixed-use project (764 apartments, 351 townhomes) on the former Imperial Avalon mobilehome park site.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.carsoncat.org/post/city-council-meeting-highlights-april-7-2026",
+     "title": "Carson Accountability & Transparency: City Council Meeting Highlights, April 7, 2026",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Her city council page lists achievements including creating a Public Safety Task Force and re-activating the Safety First Act Now (S.F.A.N.) program.",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://carsonca.gov/government/elected_officials/district_4.php",
+     "title": "City of Carson: District 4 Arleen Bocatija Rojas",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2021) Per the Asian Journal on her swearing-in, the then-LAPD officer planned to use her 31 years in public safety 'to bridge the gap between law enforcement and the diverse communities' she serves.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://asianjournal.com/usa/southerncalifornia/arleen-bocatija-rojas-sworn-in-as-the-newly-elected-councilmember-in-city-of-carson/",
+     "title": "Asian Journal: Arleen Bocatija Rojas sworn in as newly elected councilmember in City of Carson (Dec 2021)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "john-hollaway": [
+   {
+    "text": "Campaign issues page: work with residents, law enforcement and community partners to create safer neighborhoods and improve emergency preparedness.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.jh4carson.com/issues",
+     "title": "John Hollaway for Carson City Council District 4: On the Issues",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign issues page: 'Advocate for housing stability, responsible development, and practical solutions that help residents manage the rising cost of living.'",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.jh4carson.com/issues",
+     "title": "John Hollaway for Carson City Council District 4: On the Issues",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign issues page: support small businesses, attract responsible investment, 'reduce barriers to growth,' and create more local jobs.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.jh4carson.com/issues",
+     "title": "John Hollaway for Carson City Council District 4: On the Issues",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign issues page: protect existing senior programs and funding while expanding activities, resources and transportation for seniors.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.jh4carson.com/issues",
+     "title": "John Hollaway for Carson City Council District 4: On the Issues",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Per his campaign bio, as a Public Works Commissioner he has advocated for stronger infrastructure, improved streets and a city government that listens to residents.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.jh4carson.com/meet_john",
+     "title": "John Hollaway for Carson City Council District 4: Meet John",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Few public positions for either candidate. Rojas: no campaign site found; items are a recorded unanimous vote and her city page. Hollaway's site issues are general. Searches used: 13"
+}

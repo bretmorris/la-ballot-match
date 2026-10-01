@@ -1,0 +1,150 @@
+{
+ "contestId": "city-of-compton-member-of-the-city-council-2nd-district",
+ "options": {
+  "bennie-tinson": [
+   {
+    "text": "Platform: transform Long Beach Boulevard by eradicating sex trafficking and attracting new dining, shopping and 'attainable mixed-use housing developments.'",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.einpresswire.com/article/912580711/bennie-tinson-candidate-for-compton-city-council-district-2",
+     "title": "EIN Presswire: Bennie Tinson Candidate for Compton City Council, District 2 (2026-05-13)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Platform: remove commercial trucks and RVs from residential streets, stop industrial pollution, and eliminate graffiti within 24 hours.",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://bennietinson.com",
+     "title": "Bennie Tinson for Compton City Council District 2: home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Platform: speed bumps to protect children, street repairs, tree trimming and modernized drainage to prevent flooding.",
+    "kind": "own-statement",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://bennietinson.com",
+     "title": "Bennie Tinson for Compton City Council District 2: home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the California Rifle & Pistol Association PAC; Tinson said he will be 'a voice that respects the constitutional rights of our residents.'",
+    "kind": "endorsement",
+    "dimension": "guns",
+    "source": {
+     "url": "https://bennietinson.com/bennie-tinson-secures-endorsement-from-california-rifle-pistol-association-pac/",
+     "title": "Tinson campaign: Bennie Tinson Secures Endorsement from California Rifle & Pistol Association PAC",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by SEIU Local 721; pledged to 'champion improved public services, secure adequate funding for essential programs' alongside public-service workers.",
+    "kind": "endorsement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://bennietinson.com/seiu-local-721-endorses-bennie-tinson-in-race-for-compton-city-council/",
+     "title": "Tinson campaign: SEIU Local 721 Endorses Bennie Tinson",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs (ALADS); said 'I am focused on public safety.'",
+    "kind": "endorsement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://bennietinson.com/association-for-los-angeles-deputy-sheriffs-endorse-bennie-tinson-for-compton-city-council/",
+     "title": "Tinson campaign: Association for Los Angeles Deputy Sheriffs Endorse Bennie Tinson",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Los Angeles League of Conservation Voters; said 'environmental justice isn't just a policy goal—it's a necessity' and pledged clean air and water and more green space.",
+    "kind": "endorsement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://bennietinson.com/bennie-tinson-receives-endorsement-from-los-angeles-league-of-conservation-voters-for-compton-city-council-district-2/",
+     "title": "Tinson campaign: Bennie Tinson Receives Endorsement from LA League of Conservation Voters",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "anthony-perry": [
+   {
+    "text": "Campaign site: promote neighborhood safety 'through enhanced policing and community engagement programs.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://perryforcompton.com/",
+     "title": "Anthony Perry for Compton Council 2026: campaign site",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign site: advocate 'for affordable housing policies to ensure every family in Compton has access to safe and stable living conditions.'",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://perryforcompton.com/",
+     "title": "Anthony Perry for Compton Council 2026: campaign site",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign site: fight for workforce training in emerging fields like green technology, business incubators, fair lending, and support for local businesses and new investment.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://perryforcompton.com/",
+     "title": "Anthony Perry for Compton Council 2026: campaign site",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2020) In Ballotpedia's survey as a State Senate candidate, listed key messages: 'End homelessness, Jobs for all, Quality education.'",
+    "kind": "questionnaire",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://ballotpedia.org/Anthony_Perry_(California)",
+     "title": "Ballotpedia: Anthony Perry (California)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2019) In Ballotpedia's survey, listed key messages 'People over party, Pro- Choice, Pro- Taxpayer.'",
+    "kind": "questionnaire",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://ballotpedia.org/Anthony_Perry_(California)",
+     "title": "Ballotpedia: Anthony Perry (California)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2017) As a school board candidate told Ballotpedia new charter schools should not be approved in his district and the state should not fund private schools through vouchers.",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://ballotpedia.org/Anthony_Perry_(California)",
+     "title": "Ballotpedia: Anthony Perry (California)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "(2017) Told Ballotpedia teachers should receive merit pay for exceeding goals.",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://ballotpedia.org/Anthony_Perry_(California)",
+     "title": "Ballotpedia: Anthony Perry (California)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Open seat (Spicer running for mayor); runoff between June primary top two. Perry's older Ballotpedia survey answers are prefixed with year; per Ballotpedia he ran for State Senate in 2020 as an American Independent Party candidate. Searches used: 13"
+}

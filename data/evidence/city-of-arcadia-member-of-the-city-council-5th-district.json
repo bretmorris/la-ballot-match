@@ -1,0 +1,69 @@
+{
+  "contestId": "city-of-arcadia-member-of-the-city-council-5th-district",
+  "options": {
+    "michael-cao": [
+      {
+        "text": "Moved and voted for the FY2026-27 budget (June 16, 2026; passed 4-1, Kwan dissenting).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Seconded and voted for (June 16, 2026) approving a 30-unit SB 330 condominium project at 514 Fairview Avenue that the Planning Commission had denied.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laserfiche.arcadiaca.gov/WebLink/DocView.aspx?id=881334&dbid=0&repo=CityofArcadia",
+          "title": "Arcadia City Council Regular Meeting Minutes, June 16, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his official city biography, as 2024-25 mayor he made public safety his top priority and \"actively supported Proposition 36\"; he serves on the Arcadia Police Foundation board.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.arcadiaca.gov/government/city_council/council_member_michael_cao_md.php",
+          "title": "Council Member Michael Cao, M.D. - City of Arcadia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "steve-rhee": [
+      {
+        "text": "\"I'll support policies and plans designed to fight crime, stop external influence, and make our neighborhoods and businesses safer.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://rhee4arcadia.com/",
+          "title": "Steve Rhee 4 Arcadia",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I will support efforts that protect our residents and businesses while addressing crime, homelessness, and the issues affecting the safety and quality of life in our community.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://rhee4arcadia.com/",
+          "title": "Steve Rhee 4 Arcadia",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I'm self-funding my campaign and not accepting financial donations because I want residents to know that when I make a decision, my responsibility is to our community, not donors.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://rhee4arcadia.com/",
+          "title": "Steve Rhee 4 Arcadia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Cao has no campaign site found; his items are council votes and his city biography. Rhee's site gives general positions only (endorsements page 404). An independent committee opposing Cao is registered. Searches used: 12."
+}

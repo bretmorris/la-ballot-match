@@ -1,0 +1,118 @@
+{
+  "contestId": "city-of-palmdale-member-of-the-city-council-4th-district",
+  "options": {
+    "getro-elize": [
+      {
+        "text": "Signature proposal: a 110-acre mixed-use Palmdale City Walk & Convention Center with 2,000 residential units, entertainment and dining, convention space and a sports club.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://getroelize4citycouncil.com/initiaves/",
+          "title": "Getro Elize campaign: Getro's Vision for Palmdale",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Vice Chair of the Palmdale Planning Commission, says \"I have supported housing opportunities, economic development, infrastructure investment\"; wants to \"create more housing options\" and offer affordable housing.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://getroelize4citycouncil.com/about/",
+          "title": "Getro Elize campaign: About",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety plank: \"Strengthening partnerships between law enforcement and community organizations.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://getroelize4citycouncil.com/about/",
+          "title": "Getro Elize campaign: About",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU-United Healthcare Workers West (SEIU-UHW).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://getroelize4citycouncil.com/",
+          "title": "Getro Elize For City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "mark-maldonado": [],
+    "eric-ohlsen": [
+      {
+        "text": "(2023) Per AV Press coverage, on Santa Monica's housing-transfer idea he was open to exploring it only if it meant workforce housing, not moving Santa Monica's unhoused population, noting Palmdale has land but lacks development funding.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.avpress.com/news/palmdale-santa-monica-talk-housing/article_41407140-ae75-11ed-92f0-73dad0356de7.html",
+          "title": "Antelope Valley Press: Palmdale, Santa Monica talk housing (2023-02-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2023) Urged removing references to LA Mayor Karen Bass from a resolution against relocating unhoused people to Palmdale: \"We need to find ways to work with her instead of against her.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.avpress.com/news/city-sharpens-resolution-on-homeless-issue/article_2e0f8d98-93c4-11ed-becc-17d0b7a1e801.html",
+          "title": "Antelope Valley Press: City sharpens resolution on homeless issue (2023-01)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As mayor, backed putting a directly elected mayor measure on the ballot despite an estimated $436,000 cost and possible legal challenges: \"Maybe that's the price you pay for democracy.\"",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.avpress.com/news/palmdale-eyes-at-large-vote-to-elect-mayor/article_75bbf68f-5375-43fe-851e-922d950de978.html",
+          "title": "Antelope Valley Press: Palmdale eyes at-large vote to elect mayor (2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Campaign platform: \"There has been a tendency to overlook the presence of illegal drugs, graffiti, street racing, and other criminal activity\"; pledged to draw on his law-enforcement experience.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ericforpalmdale.com/",
+          "title": "Eric for Palmdale (2022 campaign site, Ohlsen for Council 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Campaign platform pledged to tackle illegal dumping in the desert through city partnerships to \"remedy existing environmental harm and prevent future disasters.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://ericforpalmdale.com/",
+          "title": "Eric for Palmdale (2022 campaign site, Ohlsen for Council 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2020) Running for Assembly, described himself as \"a proud Progressive endorsed by Our Revolution, Blue America, and the California Progressive Alliance\"; priorities: ending corporate and political corruption, middle-class jobs and housing.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://ballotpedia.org/Eric_Andrew_Ohlsen",
+          "title": "Ballotpedia: Eric Andrew Ohlsen (2020 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "Los Angeles County Democratic Party: Endorsed Candidates (2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "francisco-sanchez": []
+  },
+  "notes": "No findable positions for mark-maldonado or francisco-sanchez (the sanchez4palmdale.com domain on the city candidate list is parked; no coverage found). Ohlsen has no 2026 campaign site; his 2022 site, 2020 Ballotpedia survey (identity confirmed via BallotReady) and AV Press council coverage were used. Elize's endorsers are mostly individuals; only the SEIU-UHW union endorsement was recorded. Searches used: 10."
+}

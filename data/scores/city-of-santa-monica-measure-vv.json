@@ -2,7 +2,7 @@
  "contestId": "city-of-santa-monica-measure-vv",
  "kind": "measure",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:49.935Z",
+ "scoredAt": "2026-10-01T05:46:00.647Z",
  "measure": {
   "taxes-spending": {
    "direction": 0.005,

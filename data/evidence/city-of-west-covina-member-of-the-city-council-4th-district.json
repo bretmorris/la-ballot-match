@@ -1,0 +1,59 @@
+{
+  "contestId": "city-of-west-covina-member-of-the-city-council-4th-district",
+  "options": {
+    "ollie-cantos": [
+      {
+        "text": "Campaign site lists among his accomplishments that he \"Opposed Housing First program (Pathway Home) in the city.\"",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://olliecantos.com/accomplishments",
+          "title": "Ollie Cantos for City Council - Accomplishments",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists partnering with law enforcement street outreach on homelessness and a Goodwill partnership supporting up to 20 homeless veterans.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://olliecantos.com/accomplishments",
+          "title": "Ollie Cantos for City Council - Accomplishments",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he \"Secured unanimous Council support to seek proposals to build a solar farm to create a brand new revenue stream.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://olliecantos.com/accomplishments",
+          "title": "Ollie Cantos for City Council - Accomplishments",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists increased law enforcement visibility at businesses, a neighborhood watch and modernized Fire Department equipment; campaign touts a \"Strong Police Department and Fire Department.\"",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://olliecantos.com/accomplishments",
+          "title": "Ollie Cantos for City Council - Accomplishments",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he \"Secured unanimous Council approval to retain a lobbying firm to foster greater support from the Federal Government.\"",
+        "kind": "official-action",
+        "source": {
+          "url": "https://olliecantos.com/accomplishments",
+          "title": "Ollie Cantos for City Council - Accomplishments",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "pauline-pezza": [],
+    "danny-roman": []
+  },
+  "notes": "Ollie Cantos items come from his own campaign accomplishments page (self-reported actions). No public positions found for pauline-pezza or danny-roman: no campaign sites found (dannyroman.com belongs to an unrelated entertainer) and searches returned nothing. Searches used: 13"
+}

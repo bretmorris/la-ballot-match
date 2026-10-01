@@ -2,6 +2,177 @@
  "contestId": "city-of-west-covina-member-of-the-city-council-4th-district",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:48.146Z",
- "options": {}
+ "scoredAt": "2026-10-01T05:45:59.337Z",
+ "options": {
+  "ollie-cantos": {
+   "taxes-spending": {
+    "position": 0.465,
+    "evidence": 0.51,
+    "confidence": 0.77,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.17,
+     "3": 0.73,
+     "4": 0.1
+    }
+   },
+   "housing-growth": {
+    "position": -0.605,
+    "evidence": 0.69,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0.28,
+     "1": 0.66,
+     "2": 0.06,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "renters-landlords": {
+    "position": 0.3,
+    "evidence": 0.04,
+    "confidence": 0.49,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.49,
+     "3": 0.42,
+     "4": 0.09
+    }
+   },
+   "policing-justice": {
+    "position": 0.765,
+    "evidence": 0.9,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.47,
+     "4": 0.53
+    }
+   },
+   "homelessness": {
+    "position": 0.53,
+    "evidence": 0.98,
+    "confidence": 0.79,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.1,
+     "3": 0.74,
+     "4": 0.16
+    }
+   },
+   "climate-energy": {
+    "position": 0.04,
+    "evidence": 0.86,
+    "confidence": 0.68,
+    "probabilities": {
+     "0": 0,
+     "1": 0.15,
+     "2": 0.62,
+     "3": 0.22,
+     "4": 0.01
+    }
+   },
+   "labor-business": {
+    "position": 0.305,
+    "evidence": 0.27,
+    "confidence": 0.59,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.44,
+     "3": 0.51,
+     "4": 0.05
+    }
+   },
+   "immigration": {
+    "position": 0.085,
+    "evidence": 0.02,
+    "confidence": 0.86,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.84,
+     "3": 0.14,
+     "4": 0.02
+    }
+   },
+   "education": {
+    "position": 0,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.99,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.015,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.98,
+     "3": 0.02,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.035,
+    "evidence": 0.02,
+    "confidence": 0.94,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.93,
+     "3": 0.06,
+     "4": 0.01
+    }
+   },
+   "health-care": {
+    "position": 0.09,
+    "evidence": 0.03,
+    "confidence": 0.85,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.84,
+     "3": 0.14,
+     "4": 0.02
+    }
+   },
+   "transportation": {
+    "position": 0.09,
+    "evidence": 0.02,
+    "confidence": 0.85,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.84,
+     "3": 0.14,
+     "4": 0.02
+    }
+   },
+   "elections-voting": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.99,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.99,
+     "3": 0.01,
+     "4": 0
+    }
+   }
+  }
+ }
 }

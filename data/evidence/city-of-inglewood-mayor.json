@@ -1,0 +1,304 @@
+{
+ "contestId": "city-of-inglewood-mayor",
+ "options": {
+  "fre-drisha-sha-dixion": [
+   {
+    "text": "Told the LA Local guide she would use a portion of new city revenue to send Inglewood homeowners a yearly check to help offset rising property taxes.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would require new developments to contribute to a city-founded community land trust creating a pathway to homeownership for Inglewood residents.",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said development must deliver local hiring, apprenticeships, infrastructure improvements and youth programming; would create a Small Business Hub for permits, grants and loans.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Pledged 'timely and transparent information regarding police officer misconduct, shootings, and killings, consistent with applicable law,' and said she will fight for 'accountable policing.'",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would route stadium traffic straight to the interstate, block West Blvd at Manchester during major events, ticket venue patrons parking in neighborhoods, and require an inconvenience fee paid to nearby residents, saying venues should bear mitigation costs.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would move council meetings to 6 p.m., extend public comment to two minutes, discuss every agenda item individually, and provide Spanish and sign-language interpretation at all public meetings.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants an Inglewood Unified School District that 'returns to strong local control'; per her guide bio, she founded the Inglewood Coalition for Educational Equity (@StopIUSDSchoolClosures).",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "james-t-butts-jr": [
+   {
+    "text": "Told the LA Local guide: 'I'm proud to have led and passed Inglewood's first rent control laws which protects existing renters from harassment and displacement,' calling it 'the strictest Rent Control measure (3% Cap) in California.'",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said he will use new development to deliver local hiring, workforce training and neighborhood investments, and strengthen partnerships with employers, unions and schools so residents get access to new careers.",
+    "kind": "questionnaire",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Cites securing millions for the Inglewood Transit Connector so residents and visitors have more ways to get around 'without adding more cars to our neighborhood streets,' working with Metro to expand transit.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On the council's approval of the ITC downtown mobility-hub contract (Aug 2026), said it 'caps our cost' and construction is funded by State and Metro grants, 'not a dime from the General Fund.'",
+    "kind": "own-statement",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://2urbangirls.com/2026/08/inglewood-council-approves-partnership-to-rebuild-historic-downtown-and-improve-citywide-mobility/",
+     "title": "2UrbanGirls: Inglewood council approves partnership to rebuild historic downtown and improve citywide mobility (Aug 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Part of the 4-0 council vote (Morales absent) approving the FY2026-27 budget with a projected $30.8M general fund deficit covered by reserves; per LA Local said residents have no reason to worry, adding 'We put the money there because we want the city to be rehabilitated.'",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/inglewood-projected-budget-deficit-ballot-measure-at/",
+     "title": "The LA Local: Inglewood projected budget deficit and Measure AT (2026-09-29)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "arturo-martinez": [
+   {
+    "text": "Would offer tax incentives for homeowners to build ADUs and fast-track permits for ADUs and residential housing projects: 'more housing, same neighbors.'",
+    "kind": "questionnaire",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would offer incentives and rebates to landlords who retain their properties and keep existing residents housed, plus tax-relief and estate-planning help so families can keep homes.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would reduce government waste, reopen insider contracts to competitive bidding, end automatic contract renewals, publish all contracts online and order an independent audit of city finances.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would require major venues to share the cost of event traffic management, sanitation and public safety, and explore an underground transit system with The Boring Company.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would seek new leadership in the Police Department and work toward full body-camera deployment for 'transparent, accountable policing.'",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Pledged to dedicate a portion of the mayoral salary to Inglewood Unified School District programs and to enforce anti-nepotism policies.",
+    "kind": "questionnaire",
+    "dimension": "education",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "gloria-d-gray": [
+   {
+    "text": "Told the LA Local guide she would preserve and create affordable housing, protect longtime families and renters from displacement, preserve existing affordable units, and support responsible development that includes affordable housing.",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said she supports community policing, that officers deserve resources and training, and supports body cameras with clear rules on activation, storage and access to footage.",
+    "kind": "questionnaire",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "At her July 2026 campaign launch, told the LA Local she supports proposed ballot initiatives to relaunch the city's Citizen Police Oversight Commission and implement a police body camera policy.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/inglewood-election-gloria-gray-mayor/",
+     "title": "The LA Local: Gloria Gray officially announces her run for Inglewood mayor (2026-07-15)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "After the in-custody death of Bryan Bostic, per 2UrbanGirls she reaffirmed support for police body cameras; she told his family, 'I stand with you in your call for transparency.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://2urbangirls.com/2026/03/inglewood-city-council-responds-to-death-of-bryan-bostic/",
+     "title": "2UrbanGirls: Inglewood City Council responds to death of Bryan Bostic (Mar 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Called for a comprehensive event-traffic strategy, protecting residents' parking, and 'better use of public transportation and other alternatives to driving.'",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On the ITC downtown contract (Aug 2026): 'This agreement requires a Community Workforce Agreement, apprenticeship readiness, and training pathways.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://2urbangirls.com/2026/08/inglewood-council-approves-partnership-to-rebuild-historic-downtown-and-improve-citywide-mobility/",
+     "title": "2UrbanGirls: Inglewood council approves partnership to rebuild historic downtown and improve citywide mobility (Aug 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would advocate evening City Council meetings and more time for discussion before votes; initiated District 1 town halls with city staff.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Part of the 4-0 council vote (Morales absent) approving the FY2026-27 budget with a projected $30.8M general fund deficit to be covered by reserves.",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/inglewood-projected-budget-deficit-ballot-measure-at/",
+     "title": "The LA Local: Inglewood projected budget deficit and Measure AT (2026-09-29)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "raina-carrillo": [
+   {
+    "text": "Told the LA Local guide she will fight for affordable and workforce housing, homeownership opportunities, good-paying jobs and protections against displacement: 'Inglewood can grow without losing its soul.'",
+    "kind": "questionnaire",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would hold evening town halls in every district, expand Spanish translation, and create a 'Residents' Voice' platform so residents are heard before major decisions.",
+    "kind": "questionnaire",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Would create a comprehensive event traffic plan with protected residential parking and designated event parking away from neighborhood streets.",
+    "kind": "questionnaire",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://thelalocal.org/neighborhoods/inglewood/your-la-local-voter-guide-inglewood-mayor/",
+     "title": "The LA Local: Your LA Local Voter Guide - Inglewood Mayor (2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "joe-soto": []
+ },
+ "notes": "Inglewood mayoral primary nominating election (Nov 3). Main source: The LA Local candidate questionnaires (guide notes Soto did not respond). Butts is the incumbent mayor; Gray is the sitting D1 councilmember. Budget vote per LA Local (4-0, Morales absent). No findable positions for joe-soto. Searches used: 13"
+}

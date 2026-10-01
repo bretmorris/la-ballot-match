@@ -1,0 +1,197 @@
+{
+  "contestId": "city-of-santa-clarita-member-of-the-city-council-5th-district",
+  "options": {
+    "liliia-chernova": [],
+    "kelvin-driscoll": [
+      {
+        "text": "Public safety plan: \"Support strong partnerships with the Sheriff's Department and Fire Department. Invest in prevention and neighborhood safety.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://kelvinforscv.com/priorities/",
+          "title": "Kelvin Driscoll for City Council District 5: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Traffic plan: support roadway improvements, improve neighborhood connectivity, and \"Prioritize pedestrian and bicycle safety.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://kelvinforscv.com/priorities/",
+          "title": "Kelvin Driscoll for City Council District 5: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On growth: \"Ensure new development benefits existing neighborhoods ... Protect neighborhood character while planning for the future\"; wants roads, parks and services to keep up as homes are built.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://kelvinforscv.com/priorities/",
+          "title": "Kelvin Driscoll for City Council District 5: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to make District 5 \"the heart of Santa Clarita's arts, culture, and entertainment\" by recruiting businesses, activating public spaces and investing in public art.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://kelvinforscv.com/priorities/",
+          "title": "Kelvin Driscoll for City Council District 5: Priorities (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On his SEIU 721 endorsement: \"On the City Council, I will listen to frontline employees, respect collective bargaining, protect good public-sector jobs.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://kelvinforscv.com/",
+          "title": "Kelvin Driscoll for City Council District 5 (campaign site, endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, SEIU Local 721, IBEW Locals 11 and 40, Sprinkler Fitters Local 709 and UA Local 250.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://kelvinforscv.com/",
+          "title": "Kelvin Driscoll for City Council District 5 (campaign site, endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA/OC Building and Construction Trades Council, Operating Engineers Local 12, Painters District Council 36 and Plumbers and Fitters Local 761.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Kelvin_Driscoll",
+          "title": "Ballotpedia: Kelvin Driscoll (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Sierra Club; says protecting \"open spaces, clean air, water, wildlife\" requires thoughtful decisions as the city grows.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://kelvinforscv.com/",
+          "title": "Kelvin Driscoll for City Council District 5 (campaign site, endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party and the California Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://kelvinforscv.com/",
+          "title": "Kelvin Driscoll for City Council District 5 (campaign site, endorsements)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Ballotpedia survey, says he is passionate about \"public safety, responsible growth, and fiscal responsibility\" and that a councilmember must manage \"taxpayer dollars responsibly.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Kelvin_Driscoll",
+          "title": "Ballotpedia: Kelvin Driscoll (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "bob-khalsa": [
+      {
+        "text": "Will \"give law enforcement and first responders the tools they need,\" supporting stronger neighborhood patrols, better lighting in public areas and traffic safety near schools.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://khalsaforsantaclarita.com/issues",
+          "title": "Bob Khalsa City Council 2026: The Issues (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says residents are concerned about \"overdevelopment\"; \"Bob believes growth should be carefully managed, not rushed,\" with major projects reviewed for effects on traffic, safety, infrastructure and quality of life.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://khalsaforsantaclarita.com/issues",
+          "title": "Bob Khalsa City Council 2026: The Issues (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Bob believes new development should be required to address its traffic impact before projects are approved, not after problems are already created\"; backs better signal timing and road repairs.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://khalsaforsantaclarita.com/issues",
+          "title": "Bob Khalsa City Council 2026: The Issues (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will support policies that \"reduce unnecessary red tape,\" encourage local hiring and support business-friendly development.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://khalsaforsantaclarita.com/issues",
+          "title": "Bob Khalsa City Council 2026: The Issues (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Ballotpedia survey: will \"reduce unnecessary regulatory and permitting delays, support local businesses, and protect taxpayers\"; lists \"protecting private property rights\" among the policies he is most passionate about.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Bob_Khalsa",
+          "title": "Ballotpedia: Bob Khalsa (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In Ballotpedia survey, says his frugal upbringing taught him to \"not spend money you do not have\" and that these principles are \"equally important in managing public funds.\"",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Bob_Khalsa",
+          "title": "Ballotpedia: Bob Khalsa (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Former president of the Southland Regional Association of REALTORS; says he has worked with officials on homeownership, private property rights and responsible development.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://ballotpedia.org/Bob_Khalsa",
+          "title": "Ballotpedia: Bob Khalsa (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by BizFed Los Angeles County.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Bob_Khalsa",
+          "title": "Ballotpedia: Bob Khalsa (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Supervisor Kathryn Barger, State Sen. Suzette Valladares and Councilmembers Jason Gibbs, Marsha McLean and Patsy Ayala.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ballotpedia.org/Bob_Khalsa",
+          "title": "Ballotpedia: Bob Khalsa (2026 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rebuilt this run (prior file was empty). No findable positions for liliia-chernova: no campaign site, no Ballotpedia survey, absent from the KHTS chamber forum write-up; The Signal (via r.jina.ai) only notes 'Lily Chernova' is an executive at Motivus with stock investments on her Form 700. Driscoll and Khalsa evidence from campaign sites and Ballotpedia surveys; KHTS forum profiles (2026-09-14) match the campaign sites. Searches used: 10."
+}

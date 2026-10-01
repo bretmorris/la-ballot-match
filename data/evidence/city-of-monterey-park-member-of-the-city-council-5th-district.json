@@ -1,0 +1,139 @@
+{
+  "contestId": "city-of-monterey-park-member-of-the-city-council-5th-district",
+  "options": {
+    "vinh-t-ngo": [
+      {
+        "text": "Requested the Jan. 21, 2026 special-meeting item to consider a data center moratorium and require an EIR for any data center: \"It provides an opportunity for the City Council to discuss environmental review requirements and next steps.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.montereypark.ca.gov/m/newsflash/home/detail/1285",
+          "title": "Special City Council Mtg. Scheduled for Jan. 21 to Consider Data Center Moratorium & EIR Requirement - City of Monterey Park",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "The council unanimously adopted a 45-day data center moratorium on Jan. 21, 2026, \"brought forward at the request of Council Member Vinh Ngo.\"",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.montereypark.ca.gov/CivicAlerts.aspx?AID=1295",
+          "title": "Monterey Park City Council Directs Staff to Explore Options for Permanent Data Center Ban - City of Monterey Park",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sits on the Monterey Park council, which per the city voted unanimously on July 2, 2025 to intervene in the federal suit challenging warrantless immigration arrests (Perdomo v. Noem).",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.montereypark.ca.gov/CivicAlerts.aspx?AID=1412",
+          "title": "City of Monterey Park Statement on Federal Court Order in Vasquez Perdomo v. Mullin",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Per his opponent's campaign site, Ngo attended a March 29, 2026 launch event to endorse Measure NDC, the citywide data center ban.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.kungformpk.com/en/data-center-fight",
+          "title": "Data Center Fight - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LA County Democratic Party - Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "steven-kung": [
+      {
+        "text": "\"Pass a city ordinance that closes loopholes in SB 54 to take a stronger position against ICE, and end MPK's contract with Flock.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.kungformpk.com/en/policy",
+          "title": "Policy Platform - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes to \"Update the Saturn Park Specific Plan based on community feedback and enable reputable developers who want to build what the community envisions.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.kungformpk.com/en/policy",
+          "title": "Policy Platform - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says winning the data center fight made him want to \"enhance the walkability of the city, build more housing, revitalize our downtown, and develop Saturn Park into the neighborhood hub we want it to be.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://nodatacentermpk.substack.com/p/co-founder-of-no-data-center-mpk",
+          "title": "Co-Founder of No Data Center MPK Steven Kung is Running for District 5 Council Seat",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes \"a mandatory Vacant Storefront Registry as a first step towards a commercial-only vacancy tax,\" with fees on storefronts left vacant.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.kungformpk.com/en/policy",
+          "title": "Policy Platform - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes downtown pedestrian upgrades: mid-block crossings, leading pedestrian intervals, and converting \"1-2 public parking spaces into a small seating deck.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.kungformpk.com/en/policy",
+          "title": "Policy Platform - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-founded No Data Center Monterey Park and helped run the Yes on Measure NDC campaign; the ban passed with 88% on June 2, 2026.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.kungformpk.com/en/data-center-fight",
+          "title": "Data Center Fight - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Pass a city ordinance to prohibit BESS [Battery Energy Storage System] within city limits.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.kungformpk.com/en/policy",
+          "title": "Policy Platform - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by No Data Center Monterey Park.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.kungformpk.com/en/endorsements",
+          "title": "Endorsements - Steven Kung for MPK",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Ngo has no campaign site found (vinhngo.com is parked); his items are city actions. The city's Sept 2026 resolution backing Measure HOM had no roll call on the page, so it is not included. Searches used: 12."
+}

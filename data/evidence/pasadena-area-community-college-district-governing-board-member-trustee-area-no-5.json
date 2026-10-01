@@ -1,0 +1,59 @@
+{
+  "contestId": "pasadena-area-community-college-district-governing-board-member-trustee-area-no-5",
+  "options": {
+    "kristine-e-kwong": [
+      {
+        "text": "(2022 campaign) Kwong said: \"We cannot allow apathy, dysfunction, or mismanagement to keep students from succeeding.\" She called PCC the primary, and sometimes only, gateway to higher education for local students.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://pasadenanow.com/main/kristine-kwong-announces-campaign-for-pcc-board-of-trustees",
+          "title": "Pasadena Now: Kristine Kwong announces campaign for PCC Board of Trustees (Feb 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) Endorsed by the PCC Faculty Association and Local 12, International Union of Operating Engineers.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pasadenanow.com/main/kristine-kwong-announces-campaign-for-pcc-board-of-trustees",
+          "title": "Pasadena Now: Kristine Kwong announces campaign for PCC Board of Trustees (Feb 2022)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: says she worked to implement the voter-approved Measure PCC facilities bond and \"strengthened responsible financial management to protect taxpayer investments while keeping Pasadena City College affordable.\"",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.kristineforpcc.com/",
+          "title": "Kristine Kwong for Pasadena City College Board of Trustees (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: supported expanding dual enrollment and helped launch San Marino High School's World of Medicine pathway with early college coursework.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.kristineforpcc.com/",
+          "title": "Kristine Kwong for Pasadena City College Board of Trustees (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed (2026) by the PCC Faculty Association, LA/OC Building and Construction Trades, Los Angeles League of Conservation Voters and Los Angeles County Democratic Party.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.kristineforpcc.com/endorsements",
+          "title": "Endorsements - Kristine Kwong for Pasadena City College Board of Trustees",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jennifer-thompson": []
+  },
+  "notes": "No public positions found for jennifer-thompson: lavote lists only an email (no website), and Pasadena Now, Colorado Boulevard and web searches turned up no campaign coverage. Kwong: 2022 items year-prefixed; added 2026 campaign site and endorsements; no individual recorded board votes found. LA County sample-ballot candidate statements were not available to review (only the lavote candidate list, checked for websites). Searches used: 10"
+}

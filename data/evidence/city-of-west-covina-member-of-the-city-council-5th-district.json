@@ -1,0 +1,99 @@
+{
+  "contestId": "city-of-west-covina-member-of-the-city-council-5th-district",
+  "options": {
+    "fredrick-fred-sykes": [
+      {
+        "text": "Campaign priority on public safety: \"Increasing patrols and law enforcement presence is key.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://fredricksykes.com/",
+          "title": "Fredrick Sykes - 2026 campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to expand county funding for mental health services and homelessness support.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://fredricksykes.com/",
+          "title": "Fredrick Sykes - 2026 campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to streamline business licensing and revitalize commercial corridors including Downtown, Azusa Ave and Plaza West Covina.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://fredricksykes.com/",
+          "title": "Fredrick Sykes - 2026 campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to secure state and federal grants for seniors' and veterans' transportation, healthcare access and housing.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://fredricksykes.com/",
+          "title": "Fredrick Sykes - 2026 campaign site",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tony-wu": [
+      {
+        "text": "Campaign site credits him with hiring 20 additional police officers (2022–2025) for 110 sworn officers, plus new fire equipment and ambulances.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://wuforwestcovina.com/",
+          "title": "Wu for West Covina - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"Increased city reserves from $9 million in 2019 to over $24 million today\" through balanced budgets and conservative spending.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://wuforwestcovina.com/",
+          "title": "Wu for West Covina - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site says he \"Supported major housing developments\" and attracted businesses including Tesla and Envision Toyota.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://wuforwestcovina.com/",
+          "title": "Wu for West Covina - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to work with LACADA and the Hope Team on homelessness and to keep strengthening public safety departments.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://wuforwestcovina.com/",
+          "title": "Wu for West Covina - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2021) Spearheaded and voted for West Covina's 4-1 decision (Feb. 23, 2021) to create its own health department, saying the city wanted to leave LA County Public Health because it was \"the worst county in America in terms of COVID-19 numbers.\"",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.sandimascommunitypost.com/san-dimas-considers-following-west-covinas-lead-to-leave-la-county-public-health/",
+          "title": "San Dimas Community Post - San Dimas Considers Following West Covina's Lead to Leave LA County Public Health (May 6, 2021)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Tony Wu is the incumbent; Fredrick Sykes is a former councilmember/mayor whose 2026 site lists priorities but no endorsements. A Philippine Daily Mirror column on Sykes's 'Covenant with the People' was not used (columnist characterization, not his own text). No endorsements found on either site. Searches used: 13"
+}

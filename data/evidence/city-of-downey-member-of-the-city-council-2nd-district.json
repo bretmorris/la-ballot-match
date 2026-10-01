@@ -1,0 +1,138 @@
+{
+  "contestId": "city-of-downey-member-of-the-city-council-2nd-district",
+  "options": {
+    "hector-sosa": [
+      {
+        "text": "(2025) As mayor, opposed a proposed ordinance barring all law enforcement, including federal immigration agents, from wearing masks: \"I think it's a serious enforceability issue... that would be a hindrance to Downey Police Department and I'm not in favor of that.\" The ordinance died without action.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/councilmembers-fail-to-pass-ordinance-banning-ice-agents-from-wearing-face-coverings",
+          "title": "Councilmembers fail to pass ordinance banning ICE agents from wearing face coverings - The Downey Patriot (2025-07-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Was part of the council's unanimous vote to add support for federal immigration reform with a path to citizenship to Downey's legislative platform.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/councilmembers-fail-to-pass-ordinance-banning-ice-agents-from-wearing-face-coverings",
+          "title": "Councilmembers fail to pass ordinance banning ICE agents from wearing face coverings - The Downey Patriot (2025-07-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Proposed cutting a planned $30,000 allocation to food pantries serving families affected by ICE raids to $15,000, citing the city's shrinking budget surplus; the council adopted that reduced plan, totaling $25,000 instead of $100,000.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/councilmembers-fail-to-pass-ordinance-banning-ice-agents-from-wearing-face-coverings",
+          "title": "Councilmembers fail to pass ordinance banning ICE agents from wearing face coverings - The Downey Patriot (2025-07-17)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2026) Cast the lone dissenting vote against placing a charter measure on the Nov. 2026 ballot allowing $1,000/month council compensation, saying \"there's a distinction between reimbursement and salary.\"",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/downey-council-advances-ballot-measure-to-provide-1000-monthly-compensation",
+          "title": "Downey council advances ballot measure to provide $1,000 monthly compensation - The Downey Patriot (2026-03-25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) Opposed extending council term limits: \"I believe that serving two four-year terms is sufficient for our positions as elected officials here in the city of Downey. I have no interest in an extension of term limits.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/term-limits-to-remain-unchanged-after-council-opts-against-ballot-measure",
+          "title": "Term limits to remain unchanged after council opts against ballot measure - The Downey Patriot (2025-12-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposed (Oct. 2025) replacing Downey's flat conditional use permit fee with a tiered structure letting qualifying small businesses bypass the Planning Commission; the council approved it unanimously. \"We can protect the community's interests without creating unnecessary barriers for entrepreneurs,\" he said.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/hector-sosa-earns-bizfed-pac-endorsement",
+          "title": "Hector Sosa earns BizFed PAC endorsement - The Downey Patriot (2026-09-11)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by BizFed PAC (Los Angeles County Business Federation).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/hector-sosa-earns-bizfed-pac-endorsement",
+          "title": "Hector Sosa earns BizFed PAC endorsement - The Downey Patriot (2026-09-11)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Taxpayers Association. Sosa: \"Residents work hard for their money, and they deserve a city government that treats every tax dollar with care.\"",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/hector-sosa-endorsed-by-los-angeles-county-taxpayers-association",
+          "title": "Hector Sosa endorsed by Los Angeles County Taxpayers Association - The Downey Patriot (2026-09-23)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Asked the city (July 2026) to develop an urban forestry plan to expand tree canopy, reduce heat and improve air quality, prioritizing underserved neighborhoods, while relying on state/federal grants: \"I'm big on fiscal stability and keeping a close eye and a tight purse.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/sosa-calls-for-comprehensive-tree-plan-in-downey",
+          "title": "Sosa calls for comprehensive tree plan in Downey - The Downey Patriot (2026-08-03)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) As a candidate, released a homelessness plan pledging to have Downey police enforce anti-camping laws in parks and sidewalks \"so we can prevent Downey from becoming the next Skid Row,\" connect people to services, and refuse to be a \"dumping ground\" for L.A. County.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/hector-sosa-releases-plan-to-reduce-homelessness-in-downey",
+          "title": "Hector Sosa releases plan to reduce homelessness in Downey - The Downey Patriot (2022-10-10)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2022) On a proposed $25 minimum wage for healthcare workers: \"I think we all want people to earn a fair wage, however I don't think that's something that should be decided by a local city government... it should be put on the ballot, and let the voters decide.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/do-the-candidates-support-raising-the-minimum-wage-for-healthcare-workers",
+          "title": "Do the candidates support raising the minimum wage for healthcare workers? - The Downey Patriot (2022-09-08)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "(2025) As mayor, joined a regional delegation lobbying state legislators in Sacramento for funding for the Southeast Gateway Line light-rail project, which would include a south Downey station.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.thedowneypatriot.com/articles/downey-mayor-hector-sosa-travels-to-sacramento-to-advocate-for-southeast-gateway-line",
+          "title": "Downey Mayor Hector Sosa travels to Sacramento to advocate for Southeast Gateway Line - The Downey Patriot (2025-02-05)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "His campaign site says he chaired the Budget Subcommittee during the city's 14th consecutive balanced budget and will prioritize \"fiscal transparency\" while \"strategically building up city reserves,\" and that he \"voted against City Council pay increases.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hectorsosafordowney.com/",
+          "title": "Re-Elect Hector Sosa for Downey City Council 2026 - District 2 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "maria-zaragoza": []
+  },
+  "notes": "Hector Sosa (incumbent, first elected 2022, mayor 2025) has recorded votes and statements via The Downey Patriot and his campaign site. No public positions found for maria-zaragoza: no Downey Patriot or Los Cerritos News coverage, no working campaign site (mariazaragoza.com returned an empty page), no Ballotpedia page, and searches returned nothing. Searches used: 13"
+}

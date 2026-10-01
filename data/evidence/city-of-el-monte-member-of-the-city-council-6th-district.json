@@ -1,0 +1,39 @@
+{
+  "contestId": "city-of-el-monte-member-of-the-city-council-6th-district",
+  "options": {
+    "marisol-cortez": [
+      {
+        "text": "Voted with a 7-0 council on Jan. 28, 2026 to accept a federal COPS hiring grant and raise Police Department staffing from 132 to 137 sworn officers ($1.03M total cost).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_01282026-1346",
+          "title": "El Monte City Council Minutes, Jan. 28, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for Urgency Ordinance No. 3062 restricting use of city-owned or city-controlled property (7-0, Mar. 18, 2026); a public commenter addressed it as the urgency ordinance regarding immigration enforcement.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_03182026-1362",
+          "title": "El Monte City Council Adjourned Meeting Minutes, Mar. 18, 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted to approve School Resource Officer agreement amendments with three local school districts for FY2024-25 and 2025-26 (5-0, May 28, 2025).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ci.el-monte.ca.us/AgendaCenter/ViewFile/Minutes/_05282025-1277",
+          "title": "El Monte City Council Minutes, May 28, 2025",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "ana-elsa-barcelo": []
+  },
+  "notes": "Marisol Cortez items are recorded council votes only; her city bio lists no positions and no campaign site was reachable (bluevoterguide endorsement page blocked fetching). No public positions found for ana-elsa-barcelo (anabarcelo.com is a parked domain). Searches used: 13"
+}
