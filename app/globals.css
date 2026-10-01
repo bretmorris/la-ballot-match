@@ -140,6 +140,8 @@ button.row:focus-visible { outline: 3px solid var(--accent); outline-offset: -3p
 }
 .oval.filled { background: var(--ink); }
 .oval.half { background: linear-gradient(90deg, var(--ink) 50%, transparent 50%); }
+/* Slight lean: a heavy ring, between empty and filled. Border-only so it prints. */
+.oval.lean { border-width: 5px; }
 
 .name { font-weight: 700; text-transform: uppercase; }
 .meta { font-size: 13px; color: var(--ink-soft); }
@@ -234,6 +236,7 @@ footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
 .print-sheet .oval { display: inline-block; width: 16px; height: 10px; margin: 0 3px 0 0; vertical-align: -1px; }
 .print-sheet .oval.filled { border-width: 5px; }
 .print-sheet .oval.half { border-left-width: 8px; }
+.print-sheet .oval.lean { border-width: 3px; }
 .print-head { border-bottom: 2px solid var(--rule); padding-bottom: 4px; margin-bottom: 6px; }
 .print-cols { columns: 2; column-gap: 18px; }
 .print-section {

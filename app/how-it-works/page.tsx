@@ -3,7 +3,14 @@ import Link from "next/link"
 import dimensions from "@/data/dimensions.json"
 import quiz from "@/data/quiz.json"
 import * as J from "@/lib/jev-questions"
-import { MIN_CANDIDATE_MARGIN, MIN_EVIDENCE_WEIGHT, MIN_MEASURE_LEAN, MIN_MEASURE_RELEVANCE } from "@/lib/match"
+import {
+  MIN_CANDIDATE_LEAN_MARGIN,
+  MIN_CANDIDATE_MARGIN,
+  MIN_EVIDENCE_WEIGHT,
+  MIN_MEASURE_LEAN,
+  MIN_MEASURE_RELEVANCE,
+  MIN_MEASURE_SLIGHT_LEAN,
+} from "@/lib/match"
 
 export const metadata: Metadata = { title: "How it works — LA Ballot Match" }
 
@@ -172,14 +179,17 @@ export default function HowItWorks() {
             <strong>Candidates.</strong>{" "}On each issue where a candidate has evidence, closeness is 1 − |your position −
             their position| ÷ 2, from 0 (opposite ends) to 1 (identical). A candidate&apos;s alignment is the average closeness,
             weighted by how much you care about each issue × how much evidence there is. The site only compares candidates
-            whose evidence adds up to at least {MIN_EVIDENCE_WEIGHT} (importance × evidence, about two issues you care
-            about). If the top two are within {Math.round(MIN_CANDIDATE_MARGIN * 100)} points, it calls it a toss-up.
+            whose evidence adds up to at least {MIN_EVIDENCE_WEIGHT} (importance × evidence, about one issue you care
+            about with solid evidence). If the top two are within {Math.round(MIN_CANDIDATE_LEAN_MARGIN * 100)} points, it
+            calls it a toss-up. Within {Math.round(MIN_CANDIDATE_MARGIN * 100)} points, it shows a slight lean rather than
+            a best match.
           </p>
           <p>
             <strong>Measures.</strong>{" "}For each issue, your position × the direction of a YES vote shows whether YES
             moves toward you or away, weighted by importance × relevance. If the measure barely touches the issues you
             care about (weight under {MIN_MEASURE_RELEVANCE}), or the overall lean is under{" "}
-            {Math.round(MIN_MEASURE_LEAN * 100)}%, it doesn&apos;t pick a side.
+            {Math.round(MIN_MEASURE_SLIGHT_LEAN * 100)}%, it doesn&apos;t pick a side. A lean under{" "}
+            {Math.round(MIN_MEASURE_LEAN * 100)}% is shown as a slight lean.
           </p>
           <p>
             <strong>Known limits.</strong>{" "}Two candidates can be compared on different sets of issues. An incumbent

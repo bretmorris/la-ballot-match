@@ -47,7 +47,7 @@ describe("candidates", () => {
   it("reports not-enough-info when evidence is thin", () => {
     const x = matchCandidate(profile, { a: { position: 1, evidence: 0.1 } }, "x")
     const y = matchCandidate(profile, {}, "y")
-    expect(x.evidenceWeight).toBeLessThan(4)
+    expect(x.evidenceWeight).toBeLessThan(2)
     expect(recommendCandidate([x, y])).toEqual({ kind: "not-enough-info", unscored: ["x", "y"] })
   })
 
@@ -74,6 +74,31 @@ describe("candidates", () => {
     expect(recommendCandidate([at(-1, "far"), at(1, "best"), at(0.4, "mid")], 2)).toEqual({ kind: "pick", optionIds: ["best", "mid"] })
   })
 
+  it("compares candidates with one well-evidenced issue", () => {
+    const x = matchCandidate(profile, { a: { position: 1, evidence: 1 } }, "x")
+    const y = matchCandidate(profile, { a: { position: -1, evidence: 1 } }, "y")
+    expect(recommendCandidate([x, y])).toEqual({ kind: "pick", optionIds: ["x"] })
+  })
+
+  it("calls a small gap a slight lean", () => {
+    // 0.1 apart on the weight-3 issue → 0.05 closeness × 3/4 ≈ 0.0375 alignment gap
+    const at = (a: number, id: string) => matchCandidate(profile, { a: { position: a, evidence: 1 }, b: { position: -1, evidence: 1 } }, id)
+    expect(recommendCandidate([at(0.4, "y"), at(0.5, "x")])).toEqual({ kind: "lean", optionIds: ["x"], alsoPick: [] })
+  })
+
+  it("doesn't call a narrow leader a best match when the last seat is tied", () => {
+    // best is ~0.0375 ahead of the tied pair: a slight-lean gap, so it joins the toss-up
+    const at = (a: number, id: string) => matchCandidate(profile, { a: { position: a, evidence: 1 }, b: { position: -1, evidence: 1 } }, id)
+    const r = recommendCandidate([at(0.1, "best"), at(0, "b"), at(-0.01, "c")], 2)
+    expect(r).toEqual({ kind: "toss-up", optionIds: ["best", "b", "c"], alsoPick: [] })
+  })
+
+  it("keeps a clear winner picked when the last seat is a slight lean", () => {
+    const at = (a: number, id: string) => matchCandidate(profile, { a: { position: a, evidence: 1 }, b: { position: -1, evidence: 1 } }, id)
+    const r = recommendCandidate([at(1, "best"), at(0, "b"), at(-0.1, "c")], 2)
+    expect(r).toEqual({ kind: "lean", optionIds: ["b"], alsoPick: ["best"] })
+  })
+
   it("calls near-identical candidates a toss-up", () => {
     const s = { a: { position: 0.5, evidence: 1 }, b: { position: 0, evidence: 1 } }
     expect(recommendCandidate([matchCandidate(profile, s, "x"), matchCandidate(profile, s, "y")]).kind).toBe("toss-up")
@@ -91,6 +116,13 @@ describe("measures", () => {
   it("recommends no when YES moves away", () => {
     const m = matchMeasure(profile, { b: { direction: 1, relevance: 1 } })
     expect(recommendMeasure(m)).toEqual({ kind: "pick", optionIds: ["no"] })
+  })
+
+  it("calls a small lean a slight lean, and a tiny one a toss-up", () => {
+    const one = { a: { position: 1, weight: 1 } }
+    expect(recommendMeasure(matchMeasure({ a: { position: 0.07, weight: 1 } }, { a: { direction: 1, relevance: 1 } }))).toEqual({ kind: "lean", optionIds: ["yes"] })
+    expect(recommendMeasure(matchMeasure({ a: { position: 0.03, weight: 1 } }, { a: { direction: 1, relevance: 1 } })).kind).toBe("toss-up")
+    expect(recommendMeasure(matchMeasure(one, { a: { direction: -1, relevance: 1 } }))).toEqual({ kind: "pick", optionIds: ["no"] })
   })
 
   it("skips measures irrelevant to the voter's priorities", () => {

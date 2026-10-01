@@ -65,6 +65,9 @@ export default function Results({ bundle, profile, precinct, onEditQuiz, onEditA
                 <span className="oval filled" /> best match for your answers
               </span>
               <span>
+                <span className="oval lean" /> slight lean
+              </span>
+              <span>
                 <span className="oval half" /> toss-up
               </span>
               <span>
@@ -127,7 +130,8 @@ function PrintSheet({
         <strong>LA Ballot Match · Nov 3, 2026</strong> · {precinct.address}
         {precinct.attrs.PRECINCT ? ` · precinct ${String(precinct.attrs.PRECINCT)}` : ""}
         <div>
-          <span className="oval filled" /> best match for your answers <span className="oval half" /> toss-up. Unofficial
+          <span className="oval filled" /> best match for your answers <span className="oval lean" /> slight lean{" "}
+          <span className="oval half" /> toss-up. Unofficial
           notes, not a ballot. Matches can be wrong; check your official sample ballot at lavote.gov.
         </div>
       </div>
@@ -157,7 +161,8 @@ const shortTitle = (t: string) => t.replace(/\.\s+(Legislative|Initiative)\b[^.]
 function PrintContest({ contest: c, profile }: { contest: Contest; profile: Profile }) {
   const { rec } = recommend(c, profile)
   const name = (id: string) => (c.kind === "measure" ? id.toUpperCase() : (c.options.find((o) => o.id === id)?.name ?? id))
-  const picked = rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" ? (rec.alsoPick ?? []) : []
+  const picked = rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" || rec.kind === "lean" ? (rec.alsoPick ?? []) : []
+  const leaned = rec.kind === "lean" ? rec.optionIds : []
   const tossed = rec.kind === "toss-up" ? rec.optionIds : []
   // Statewide and countywide jurisdictions just repeat what the contest title already says.
   const showJurisdiction = !["federal", "state", "county", "judicial"].includes(c.level) && !c.title.includes(c.jurisdiction.name)
@@ -172,6 +177,11 @@ function PrintContest({ contest: c, profile }: { contest: Contest; profile: Prof
       {picked.map((id) => (
         <div key={id} className="print-pick">
           <span className="oval filled" /> {name(id)}
+        </div>
+      ))}
+      {leaned.map((id) => (
+        <div key={id} className="print-pick">
+          <span className="oval lean" /> {name(id)} <span className="meta">(slight lean)</span>
         </div>
       ))}
       {tossed.length > 0 && (
@@ -228,7 +238,8 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
   const result = useMemo(() => recommend(c, profile), [c, profile])
 
   const rec = result.rec
-  const picked = new Set(rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" ? (rec.alsoPick ?? []) : [])
+  const picked = new Set(rec.kind === "pick" ? rec.optionIds : rec.kind === "toss-up" || rec.kind === "lean" ? (rec.alsoPick ?? []) : [])
+  const leaned = new Set(rec.kind === "lean" ? rec.optionIds : [])
   const tossed = new Set(rec.kind === "toss-up" ? rec.optionIds : [])
   const byId = Object.fromEntries((result.matches ?? []).map((m) => [m.optionId, m]))
   const name = (id: string) => c.options.find((o) => o.id === id)?.name ?? id
@@ -250,10 +261,11 @@ function ContestCard({ contest: c, profile, dims }: { contest: Contest; profile:
         const m = byId[o.id]
         return (
           <div key={o.id} className="row">
-            <span className={`oval${picked.has(o.id) ? " filled" : tossed.has(o.id) ? " half" : ""}`} aria-hidden />
+            <span className={`oval${picked.has(o.id) ? " filled" : leaned.has(o.id) ? " lean" : tossed.has(o.id) ? " half" : ""}`} aria-hidden />
             <span>
               <span className="name">{o.name}</span>
               {picked.has(o.id) && <span className="tag match">Best match</span>}
+              {leaned.has(o.id) && <span className="tag match">Slight lean</span>}
               {tossed.has(o.id) && <span className="tag">Toss-up</span>}
               <br />
               <span className="meta">
@@ -331,6 +343,25 @@ function Verdict({
       <div className="verdict">
         Best match for your answers: <strong>{label}</strong>
         {measure && <span className="meta"> · lean {Math.round(Math.abs(measure.lean) * 100)}%</span>}
+      </div>
+    )
+  }
+  if (rec.kind === "lean") {
+    const label = c.kind === "measure" ? rec.optionIds[0].toUpperCase() : list(rec.optionIds.map(name))
+    return (
+      <div className="verdict">
+        {rec.alsoPick?.length ? (
+          <>
+            Best match for your answers: <strong>{list(rec.alsoPick.map(name))}</strong>. For the remaining seat
+            {rec.optionIds.length > 1 ? "s" : ""}, a slight lean toward <strong>{label}</strong>.
+          </>
+        ) : (
+          <>
+            Slight lean for your answers: <strong>{label}</strong>
+          </>
+        )}
+        {measure && <span className="meta"> · lean {Math.round(Math.abs(measure.lean) * 100)}%</span>}
+        <span className="meta"> · It&apos;s close, so check the details.</span>
       </div>
     )
   }

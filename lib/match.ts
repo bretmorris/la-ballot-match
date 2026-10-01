@@ -25,14 +25,18 @@ export type MeasureScores = Record<string, { direction: number; relevance: numbe
 export const DEFAULT_IMPORTANCE = 2
 /**
  * Minimum evidence-weighted importance (sum of importance × evidence over a candidate's scored issues)
- * before we compare them. Importance is 0–3, so 4 ≈ two issues you care about with solid evidence.
+ * before we compare them. Importance is 0–3, so 2 ≈ one issue you care about with solid evidence.
  * Absolute rather than a share of all your issues: a Controller race never touches guns or immigration.
  */
-export const MIN_EVIDENCE_WEIGHT = 4
-/** Candidate alignment gap (0..1) below which the top two are called a toss-up. */
+export const MIN_EVIDENCE_WEIGHT = 2
+/** Candidate alignment gap (0..1) at or above which the top pick is a clear best match. */
 export const MIN_CANDIDATE_MARGIN = 0.05
-/** Measure lean (|score| on -1..1) below which we call it a toss-up. */
+/** Candidate alignment gap below which it's a toss-up. Between this and MIN_CANDIDATE_MARGIN it's a slight lean. */
+export const MIN_CANDIDATE_LEAN_MARGIN = 0.02
+/** Measure lean (|score| on -1..1) at or above which YES/NO is a clear best match. */
 export const MIN_MEASURE_LEAN = 0.1
+/** Measure lean below which it's a toss-up. Between this and MIN_MEASURE_LEAN it's a slight lean. */
+export const MIN_MEASURE_SLIGHT_LEAN = 0.05
 /** Measure must touch at least this much of your importance-weighted relevance. */
 export const MIN_MEASURE_RELEVANCE = 0.5
 /** Per-issue relevance below this is treated as "doesn't touch this issue" so small probabilities don't add up. */
@@ -93,6 +97,8 @@ export type Recommendation =
   | { kind: "pick"; optionIds: string[] }
   /** optionIds = the tied group at the last seat; alsoPick = clear winners above it (multi-seat only). */
   | { kind: "toss-up"; optionIds: string[]; alsoPick?: string[] }
+  /** optionIds = close-call picks for the last seat(s); alsoPick = clear winners above them (multi-seat only). */
+  | { kind: "lean"; optionIds: string[]; alsoPick?: string[] }
   /** unscored = candidates we couldn't place; when some were placed and some weren't, we don't compare. */
   | { kind: "not-enough-info"; unscored?: string[] }
   | { kind: "uncontested" }
@@ -108,12 +114,20 @@ export function recommendCandidate(matches: CandidateMatch[], voteFor = 1): Reco
   const ranked = [...matches].sort((a, b) => b.alignment - a.alignment)
   const last = ranked[voteFor - 1]
   const next = ranked[voteFor]
-  if (last.alignment - next.alignment < MIN_CANDIDATE_MARGIN) {
+  const gap = last.alignment - next.alignment
+  if (gap < MIN_CANDIDATE_LEAN_MARGIN) {
+    // Same bar as a clear pick, so nobody is a "best match" on a gap that would only be a slight lean elsewhere.
     const tied = ranked.filter((m) => Math.abs(last.alignment - m.alignment) < MIN_CANDIDATE_MARGIN)
     const clear = ranked.filter((m) => m.alignment - last.alignment >= MIN_CANDIDATE_MARGIN)
     return { kind: "toss-up", optionIds: tied.map((m) => m.optionId), alsoPick: clear.map((m) => m.optionId) }
   }
-  return { kind: "pick", optionIds: ranked.slice(0, voteFor).map((m) => m.optionId) }
+  const top = ranked.slice(0, voteFor)
+  if (gap < MIN_CANDIDATE_MARGIN) {
+    const clear = top.filter((m) => m.alignment - next.alignment >= MIN_CANDIDATE_MARGIN)
+    const leaned = top.filter((m) => m.alignment - next.alignment < MIN_CANDIDATE_MARGIN)
+    return { kind: "lean", optionIds: leaned.map((m) => m.optionId), alsoPick: clear.map((m) => m.optionId) }
+  }
+  return { kind: "pick", optionIds: top.map((m) => m.optionId) }
 }
 
 export type MeasureMatch = {
@@ -143,6 +157,7 @@ export function matchMeasure(profile: Profile, scores: MeasureScores): MeasureMa
 
 export function recommendMeasure(m: MeasureMatch): Recommendation {
   if (m.relevance < MIN_MEASURE_RELEVANCE) return { kind: "not-enough-info" }
-  if (Math.abs(m.lean) < MIN_MEASURE_LEAN) return { kind: "toss-up", optionIds: ["yes", "no"] }
-  return { kind: "pick", optionIds: [m.lean > 0 ? "yes" : "no"] }
+  if (Math.abs(m.lean) < MIN_MEASURE_SLIGHT_LEAN) return { kind: "toss-up", optionIds: ["yes", "no"] }
+  const side = m.lean > 0 ? "yes" : "no"
+  return { kind: Math.abs(m.lean) < MIN_MEASURE_LEAN ? "lean" : "pick", optionIds: [side] }
 }
