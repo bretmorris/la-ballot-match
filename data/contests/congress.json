@@ -1,0 +1,794 @@
+[
+  {
+    "id": "us-house-ca-23",
+    "title": "United States Representative, District 23",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "23",
+      "name": "California's 23 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "tessa-lynn-hodge",
+        "name": "Tessa Lynn Hodge",
+        "party": "Democratic",
+        "ballotDesignation": "Social Worker/Businesswoman"
+      },
+      {
+        "id": "jay-obernolte",
+        "name": "Jay Obernolte",
+        "party": "Republican",
+        "ballotDesignation": "Congressman/Business Owner"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-26",
+    "title": "United States Representative, District 26",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "26",
+      "name": "California's 26 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "jacqui-irwin",
+        "name": "Jacqui Irwin",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember"
+      },
+      {
+        "id": "sam-gallucci",
+        "name": "Sam Gallucci",
+        "party": "Republican",
+        "ballotDesignation": "Business Executive/Pastor"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-27",
+    "title": "United States Representative, District 27",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "27",
+      "name": "California's 27 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "george-whitesides",
+        "name": "George Whitesides",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Representative/Father"
+      },
+      {
+        "id": "jason-gibbs",
+        "name": "Jason Gibbs",
+        "party": "Republican",
+        "ballotDesignation": "City Councilmember/Engineer"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-28",
+    "title": "United States Representative, District 28",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "28",
+      "name": "California's 28 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "judy-chu",
+        "name": "Judy Chu",
+        "party": "Democratic",
+        "ballotDesignation": "United States Representative"
+      },
+      {
+        "id": "april-a-verlato",
+        "name": "April A. Verlato",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-29",
+    "title": "United States Representative, District 29",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "29",
+      "name": "California's 29 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "angelica-maria-duenas",
+        "name": "Angélica María Dueñas",
+        "party": "Democratic",
+        "ballotDesignation": "Mother/Community Organizer"
+      },
+      {
+        "id": "luz-maria-rivas",
+        "name": "Luz Maria Rivas",
+        "party": "Democratic",
+        "ballotDesignation": "Congresswoman"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-30",
+    "title": "United States Representative, District 30",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "30",
+      "name": "California's 30 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "laura-friedman",
+        "name": "Laura Friedman",
+        "party": "Democratic",
+        "ballotDesignation": "Member, United States House of Representatives"
+      },
+      {
+        "id": "scott-alan-meyers",
+        "name": "Scott Alan Meyers",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-31",
+    "title": "United States Representative, District 31",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "31",
+      "name": "California's 31 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "gil-cisneros",
+        "name": "Gil Cisneros",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Congressman"
+      },
+      {
+        "id": "eric-ching",
+        "name": "Eric Ching",
+        "party": "Republican",
+        "ballotDesignation": "Entrepreneur"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-32",
+    "title": "United States Representative, District 32",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "32",
+      "name": "California's 32 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "brad-sherman",
+        "name": "Brad Sherman",
+        "party": "Democratic",
+        "ballotDesignation": "United States Congressman/Dad"
+      },
+      {
+        "id": "larry-thompson",
+        "name": "Larry Thompson",
+        "party": "Republican",
+        "ballotDesignation": "Attorney/Film Producer"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-34",
+    "title": "United States Representative, District 34",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "34",
+      "name": "California's 34 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "jimmy-gomez",
+        "name": "Jimmy Gomez",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Representative/Parent"
+      },
+      {
+        "id": "angela-gonzales-torres",
+        "name": "Angela Gonzales-Torres",
+        "party": "Democratic",
+        "ballotDesignation": "Advocate For Justice"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-35",
+    "title": "United States Representative, District 35",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "35",
+      "name": "California's 35 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "norma-j-torres",
+        "name": "Norma J. Torres",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Representative"
+      },
+      {
+        "id": "mike-cargile",
+        "name": "Mike Cargile",
+        "party": "Republican",
+        "ballotDesignation": "Small Businessman"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-36",
+    "title": "United States Representative, District 36",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "36",
+      "name": "California's 36 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "ted-w-lieu",
+        "name": "Ted W. Lieu",
+        "party": "Democratic",
+        "ballotDesignation": "United States Representative, 36th District"
+      },
+      {
+        "id": "houston-brignano",
+        "name": "Houston Brignano",
+        "party": "Republican",
+        "ballotDesignation": "Technology Executive"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-37",
+    "title": "United States Representative, District 37",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "37",
+      "name": "California's 37 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "sydney-kamlager-dove",
+        "name": "Sydney Kamlager-Dove",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Representative, 37th District"
+      },
+      {
+        "id": "samantha-mota",
+        "name": "Samantha Mota",
+        "party": "Democratic",
+        "ballotDesignation": "Community Advocate"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-38",
+    "title": "United States Representative, District 38",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "38",
+      "name": "California's 38 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "hilda-solis",
+        "name": "Hilda Solis",
+        "party": "Democratic",
+        "ballotDesignation": "County Supervisor"
+      },
+      {
+        "id": "pedro-antonio-casas",
+        "name": "Pedro Antonio Casas",
+        "party": "Republican",
+        "ballotDesignation": "No Ballot Designation"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-41",
+    "title": "United States Representative, District 41",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "41",
+      "name": "California's 41 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "linda-sanchez",
+        "name": "Linda Sánchez",
+        "party": "Democratic",
+        "ballotDesignation": "Congresswoman/Mom"
+      },
+      {
+        "id": "mitch-clemmons",
+        "name": "Mitch Clemmons",
+        "party": "Republican",
+        "ballotDesignation": "Plumbing Contractor"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-42",
+    "title": "United States Representative, District 42",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "42",
+      "name": "California's 42 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "robert-garcia",
+        "name": "Robert Garcia",
+        "party": "Democratic",
+        "ballotDesignation": "United States Congressman"
+      },
+      {
+        "id": "brian-burley",
+        "name": "Brian Burley",
+        "party": "Republican",
+        "ballotDesignation": "Trustee, Huntington Beach City School District"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-43",
+    "title": "United States Representative, District 43",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "43",
+      "name": "California's 43 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "maxine-waters",
+        "name": "Maxine Waters",
+        "party": "Democratic",
+        "ballotDesignation": "United States Congresswoman"
+      },
+      {
+        "id": "cristian-morales",
+        "name": "Cristian Morales",
+        "party": "Republican",
+        "ballotDesignation": "Manufacturing Executive"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-44",
+    "title": "United States Representative, District 44",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "44",
+      "name": "California's 44 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "nanette-diaz-barragan",
+        "name": "Nanette Diaz Barragan",
+        "party": "Democratic",
+        "ballotDesignation": "U.S. Representative, 44th District"
+      },
+      {
+        "id": "genevieve-angel",
+        "name": "Genevieve Angel",
+        "party": "Republican",
+        "ballotDesignation": "Family Nurse Practitioner"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "us-house-ca-45",
+    "title": "United States Representative, District 45",
+    "level": "federal",
+    "jurisdiction": {
+      "type": "congressional",
+      "district": "45",
+      "name": "California's 45 Congressional District"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "derek-tran",
+        "name": "Derek Tran",
+        "party": "Democratic",
+        "ballotDesignation": "Representative/Business Owner"
+      },
+      {
+        "id": "chuong-v-vo",
+        "name": "Chuong V. Vo",
+        "party": "Republican",
+        "ballotDesignation": "Retired Police Officer"
+      }
+    ],
+    "notes": "Districts are the 2026 (Prop 50) congressional districts. Listed because the SOS Statement of Vote for the June 2, 2026 primary reports Los Angeles County votes in this district (cross-checked against the LA County RR/CC district list). Incumbent flag omitted: the certified list does not mark congressional incumbents and incumbency under the new maps was not independently verified; ballot designations are as printed.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/76-us-rep.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - United States Representative (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

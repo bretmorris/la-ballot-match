@@ -1,0 +1,370 @@
+[
+  {
+    "id": "ca-senate-20",
+    "title": "State Senator, District 20",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "20",
+      "name": "California State Senate District 20"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "caroline-menjivar",
+        "name": "Caroline Menjivar",
+        "party": "Democratic",
+        "ballotDesignation": "State Senator",
+        "incumbent": true
+      },
+      {
+        "id": "tony-rodriguez",
+        "name": "Tony Rodriguez",
+        "party": "Republican",
+        "ballotDesignation": "No Ballot Designation",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-22",
+    "title": "State Senator, District 22",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "22",
+      "name": "California State Senate District 22"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "susan-rubio",
+        "name": "Susan Rubio",
+        "party": "Democratic",
+        "ballotDesignation": "State Senator/Teacher",
+        "incumbent": true
+      },
+      {
+        "id": "mike-netter",
+        "name": "Mike Netter",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-24",
+    "title": "State Senator, District 24",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "24",
+      "name": "California State Senate District 24"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "john-m-erickson",
+        "name": "John M. Erickson",
+        "party": "Democratic",
+        "ballotDesignation": "Councilmember",
+        "incumbent": false
+      },
+      {
+        "id": "brian-goldsmith",
+        "name": "Brian Goldsmith",
+        "party": "Democratic",
+        "ballotDesignation": "Small Business Owner",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-26",
+    "title": "State Senator, District 26",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "26",
+      "name": "California State Senate District 26"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "sara-hernandez",
+        "name": "Sara Hernandez",
+        "party": "Democratic",
+        "ballotDesignation": "Affordable Housing Advocate",
+        "incumbent": false
+      },
+      {
+        "id": "sarah-rascon",
+        "name": "Sarah Rascón",
+        "party": "Democratic",
+        "ballotDesignation": "Environmental Protection Director",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-28",
+    "title": "State Senator, District 28",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "28",
+      "name": "California State Senate District 28"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "lola-smallwood-cuevas",
+        "name": "Lola Smallwood-Cuevas",
+        "party": "Democratic",
+        "ballotDesignation": "State Senator",
+        "incumbent": true
+      },
+      {
+        "id": "joe-lisuzzo",
+        "name": "Joe Lisuzzo",
+        "party": "Republican",
+        "ballotDesignation": "LA Neighborhood Councilmember",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-30",
+    "title": "State Senator, District 30",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "30",
+      "name": "California State Senate District 30"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "bob-j-archuleta",
+        "name": "Bob J. Archuleta",
+        "party": "Democratic",
+        "ballotDesignation": "State Senator",
+        "incumbent": true
+      },
+      {
+        "id": "araceli-martinez",
+        "name": "Araceli Martinez",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-34",
+    "title": "State Senator, District 34",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "34",
+      "name": "California State Senate District 34"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "avelino-valencia",
+        "name": "Avelino Valencia",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": false
+      },
+      {
+        "id": "rhonda-shader",
+        "name": "Rhonda Shader",
+        "party": "Republican",
+        "ballotDesignation": "Local Small Businesswoman",
+        "incumbent": false
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-senate-36",
+    "title": "State Senator, District 36",
+    "level": "state",
+    "jurisdiction": {
+      "type": "state-senate",
+      "district": "36",
+      "name": "California State Senate District 36"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "chris-duncan",
+        "name": "Chris Duncan",
+        "party": "Democratic",
+        "ballotDesignation": "Anti-Tariff Attorney",
+        "incumbent": false
+      },
+      {
+        "id": "tony-strickland",
+        "name": "Tony Strickland",
+        "party": "Republican",
+        "ballotDesignation": "State Senator/Businessman",
+        "incumbent": true
+      }
+    ],
+    "notes": "Even-numbered Senate districts are up in 2026. Only districts with Los Angeles County territory are listed (verified in the SOS Statement of Vote); districts 23, 25, 27, 33 and 35 also touch LA County but are not on the 2026 ballot. 4-year term.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/90-state-senator.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - State Senator (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]

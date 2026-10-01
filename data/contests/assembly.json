@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "ca-assembly-34",
+    "title": "Member of the State Assembly, District 34",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "34",
+      "name": "California State Assembly District 34"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "randall-putz",
+        "name": "Randall Putz",
+        "party": "Democratic",
+        "ballotDesignation": "Mayor/Business Owner",
+        "incumbent": false
+      },
+      {
+        "id": "charles-frederick-hughes",
+        "name": "Charles Frederick Hughes",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-39",
+    "title": "Member of the State Assembly, District 39",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "39",
+      "name": "California State Assembly District 39"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "juan-carrillo",
+        "name": "Juan Carrillo",
+        "party": "Democratic",
+        "ballotDesignation": "State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "paul-andre-marsh",
+        "name": "Paul Andre Marsh",
+        "party": "Republican",
+        "ballotDesignation": "Community Services Liaison",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-40",
+    "title": "Member of the State Assembly, District 40",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "40",
+      "name": "California State Assembly District 40"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "pilar-schiavo",
+        "name": "Pilar Schiavo",
+        "party": "Democratic",
+        "ballotDesignation": "Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "rickey-tracy-hayes-ii",
+        "name": "Rickey Tracy Hayes II",
+        "party": "Republican",
+        "ballotDesignation": "Lineman/Entrepreneur/Businessman",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-41",
+    "title": "Member of the State Assembly, District 41",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "41",
+      "name": "California State Assembly District 41"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "john-harabedian",
+        "name": "John Harabedian",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "adam-christopher-vena",
+        "name": "Adam Christopher Vena",
+        "party": "Republican",
+        "ballotDesignation": "Father/Sanitation Employee",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-42",
+    "title": "Member of the State Assembly, District 42",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "42",
+      "name": "California State Assembly District 42"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "deborah-klein-lopez",
+        "name": "Deborah Klein Lopez",
+        "party": "Democratic",
+        "ballotDesignation": "City Councilmember",
+        "incumbent": false
+      },
+      {
+        "id": "ted-nordblum",
+        "name": "Ted Nordblum",
+        "party": "Republican",
+        "ballotDesignation": "Small Business Owner",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-43",
+    "title": "Member of the State Assembly, District 43",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "43",
+      "name": "California State Assembly District 43"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "celeste-rodriguez",
+        "name": "Celeste Rodriguez",
+        "party": "Democratic",
+        "ballotDesignation": "Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "ricardo-benitez",
+        "name": "Ricardo Benitez",
+        "party": "Republican",
+        "ballotDesignation": "Plumber/Electrical Contractor",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-44",
+    "title": "Member of the State Assembly, District 44",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "44",
+      "name": "California State Assembly District 44"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "nicholas-nick-schultz",
+        "name": "Nicholas \"Nick\" Schultz",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "carolyn-daniels",
+        "name": "Carolyn Daniels",
+        "party": "Republican",
+        "ballotDesignation": "Independent Contractor/Mother",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-46",
+    "title": "Member of the State Assembly, District 46",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "46",
+      "name": "California State Assembly District 46"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "jesse-gabriel",
+        "name": "Jesse Gabriel",
+        "party": "Democratic",
+        "ballotDesignation": "Member of the State Assembly, 46th District",
+        "incumbent": true
+      },
+      {
+        "id": "tracey-schroeder",
+        "name": "Tracey Schroeder",
+        "party": "Republican",
+        "ballotDesignation": "Teacher",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-48",
+    "title": "Member of the State Assembly, District 48",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "48",
+      "name": "California State Assembly District 48"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "blanca-rubio",
+        "name": "Blanca Rubio",
+        "party": "Democratic",
+        "ballotDesignation": "State Assemblymember/Teacher",
+        "incumbent": true
+      },
+      {
+        "id": "dan-t-tran",
+        "name": "Dan T. Tran",
+        "party": "Republican",
+        "ballotDesignation": "Real Estate Businessman",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-49",
+    "title": "Member of the State Assembly, District 49",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "49",
+      "name": "California State Assembly District 49"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "mike-fong",
+        "name": "Mike Fong",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "long-david-liu",
+        "name": "Long David Liu",
+        "party": "Republican",
+        "ballotDesignation": "Attorney/Father",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-51",
+    "title": "Member of the State Assembly, District 51",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "51",
+      "name": "California State Assembly District 51"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "colin-d-hernandez",
+        "name": "Colin D. Hernandez",
+        "party": "Democratic",
+        "ballotDesignation": "Digital Communication Strategist",
+        "incumbent": false
+      },
+      {
+        "id": "rick-chavez-zbur",
+        "name": "Rick Chavez Zbur",
+        "party": "Democratic",
+        "ballotDesignation": "California Assemblymember",
+        "incumbent": true
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-52",
+    "title": "Member of the State Assembly, District 52",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "52",
+      "name": "California State Assembly District 52"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "jessica-caloza",
+        "name": "Jessica Caloza",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "andrea-lee-anderson",
+        "name": "Andrea Lee Anderson",
+        "party": "Republican",
+        "ballotDesignation": "No Ballot Designation",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-53",
+    "title": "Member of the State Assembly, District 53",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "53",
+      "name": "California State Assembly District 53"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "michelle-rodriguez",
+        "name": "Michelle Rodriguez",
+        "party": "Democratic",
+        "ballotDesignation": "Assemblymember/Mom",
+        "incumbent": true
+      },
+      {
+        "id": "rafaela-romero",
+        "name": "Rafaela Romero",
+        "party": "Republican",
+        "ballotDesignation": "Special Education Aide",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-54",
+    "title": "Member of the State Assembly, District 54",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "54",
+      "name": "California State Assembly District 54"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "mark-gonzalez",
+        "name": "Mark Gonzalez",
+        "party": "Democratic",
+        "ballotDesignation": "Member of the State Assembly",
+        "incumbent": true
+      },
+      {
+        "id": "alexandra-briseno",
+        "name": "Alexandra Briseno",
+        "party": "Republican",
+        "ballotDesignation": "No Ballot Designation",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-55",
+    "title": "Member of the State Assembly, District 55",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "55",
+      "name": "California State Assembly District 55"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "ashley-m-brown",
+        "name": "Ashley M. Brown",
+        "party": "Democratic",
+        "ballotDesignation": "School Social Worker",
+        "incumbent": false
+      },
+      {
+        "id": "isaac-g-bryan",
+        "name": "Isaac G. Bryan",
+        "party": "Democratic",
+        "ballotDesignation": "State Assemblymember",
+        "incumbent": true
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-56",
+    "title": "Member of the State Assembly, District 56",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "56",
+      "name": "California State Assembly District 56"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "lisa-calderon",
+        "name": "Lisa Calderon",
+        "party": "Democratic",
+        "ballotDesignation": "Assembly Member/Mom",
+        "incumbent": true
+      },
+      {
+        "id": "jessica-martinez",
+        "name": "Jessica Martinez",
+        "party": "Republican",
+        "ballotDesignation": "Retired Teacher",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-57",
+    "title": "Member of the State Assembly, District 57",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "57",
+      "name": "California State Assembly District 57"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "sade-elhawary",
+        "name": "Sade Elhawary",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "constance-jewel-menzies",
+        "name": "Constance Jewel Menzies",
+        "party": "Republican",
+        "ballotDesignation": "In-Home Care Provider",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-61",
+    "title": "Member of the State Assembly, District 61",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "61",
+      "name": "California State Assembly District 61"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "tina-simone-mckinnor",
+        "name": "Tina Simone McKinnor",
+        "party": "Democratic",
+        "ballotDesignation": "State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "brian-lockwood",
+        "name": "Brian Lockwood",
+        "party": "Republican",
+        "ballotDesignation": "No Ballot Designation",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-62",
+    "title": "Member of the State Assembly, District 62",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "62",
+      "name": "California State Assembly District 62"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "jose-luis-solache",
+        "name": "José Luis Solache",
+        "party": "Democratic",
+        "ballotDesignation": "California State Assemblymember",
+        "incumbent": true
+      },
+      {
+        "id": "paul-irving-jones",
+        "name": "Paul Irving Jones",
+        "party": "Republican",
+        "ballotDesignation": "Retired Combat Marine",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-64",
+    "title": "Member of the State Assembly, District 64",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "64",
+      "name": "California State Assembly District 64"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "blanca-pacheco",
+        "name": "Blanca Pacheco",
+        "party": "Democratic",
+        "ballotDesignation": "Assemblywoman",
+        "incumbent": true
+      },
+      {
+        "id": "raul-ortiz-jr",
+        "name": "Raul Ortiz Jr.",
+        "party": "Republican",
+        "ballotDesignation": "Pest Control Manager",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-65",
+    "title": "Member of the State Assembly, District 65",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "65",
+      "name": "California State Assembly District 65"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "ayanna-davis",
+        "name": "Ayanna Davis",
+        "party": "Democratic",
+        "ballotDesignation": "Educator/School Boardmember",
+        "incumbent": false
+      },
+      {
+        "id": "lydia-a-gutierrez",
+        "name": "Lydia A. Gutiérrez",
+        "party": "Republican",
+        "ballotDesignation": "Public School Teacher",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-66",
+    "title": "Member of the State Assembly, District 66",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "66",
+      "name": "California State Assembly District 66"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "sara-deen",
+        "name": "Sara Deen",
+        "party": "Democratic",
+        "ballotDesignation": "School Boardmember/Businesswoman",
+        "incumbent": false
+      },
+      {
+        "id": "paul-seo",
+        "name": "Paul Seo",
+        "party": "Democratic",
+        "ballotDesignation": "Mayor/Corruption Prosecutor",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-67",
+    "title": "Member of the State Assembly, District 67",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "67",
+      "name": "California State Assembly District 67"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "mark-pulido",
+        "name": "Mark Pulido",
+        "party": "Democratic",
+        "ballotDesignation": "City Councilmember",
+        "incumbent": false
+      },
+      {
+        "id": "paulo-morales",
+        "name": "Paulo Morales",
+        "party": "Republican",
+        "ballotDesignation": "Law Enforcement Officer",
+        "incumbent": false
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ca-assembly-69",
+    "title": "Member of the State Assembly, District 69",
+    "level": "state",
+    "jurisdiction": {
+      "type": "assembly",
+      "district": "69",
+      "name": "California State Assembly District 69"
+    },
+    "kind": "candidate",
+    "voteFor": 1,
+    "options": [
+      {
+        "id": "carolyn-j-essex",
+        "name": "Carolyn J. Essex",
+        "party": "Democratic",
+        "ballotDesignation": "Legislative Policy Analyst",
+        "incumbent": false
+      },
+      {
+        "id": "josh-lowenthal",
+        "name": "Josh Lowenthal",
+        "party": "Democratic",
+        "ballotDesignation": "Business Owner/Assemblymember",
+        "incumbent": true
+      }
+    ],
+    "notes": "Listed because the SOS Statement of Vote reports Los Angeles County votes in this district. Incumbent flags from the asterisk on the certified list.",
+    "sources": [
+      {
+        "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+        "title": "November 3, 2026 General Election - Official Certified List of Candidates (CA Secretary of State, certified Aug 27, 2026)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/95-state-assembly.pdf",
+        "title": "Statement of Vote, June 2, 2026 Primary - Member of the State Assembly (county breakdown by district)",
+        "retrieved": "2026-09-30"
+      },
+      {
+        "url": "https://content.lavote.gov/docs/rrcc/documents/media-kit_06022026_finalb7806a16-9cdc-4101-a191-395f5e91ff6b.pdf",
+        "title": "LAVOTE.GOV June 2, 2026 Statewide Direct Primary Media Kit (LA County districts)",
+        "retrieved": "2026-09-30"
+      }
+    ]
+  }
+]
