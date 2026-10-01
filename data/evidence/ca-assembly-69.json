@@ -1,0 +1,147 @@
+{
+ "contestId": "ca-assembly-69",
+ "options": {
+  "josh-lowenthal": [
+   {
+    "text": "Voted Aye on SB 79 (Wiener), the transit-oriented development housing bill, on the Assembly floor 9/11/2025 (passed 43-19).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+     "title": "SB 79 Housing development: transit-oriented development - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1340 (Wicks), transportation network company drivers: labor relations, on Assembly third reading 6/4/2025 (54-15) and on concurrence in Senate amendments 9/9/2025 (60-15).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "AB 1340 Transportation network company drivers: labor relations - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1127 (Gabriel), firearms: converter pistols, on Assembly third reading 6/3/2025 (58-17) and on concurrence in Senate amendments 9/13/2025 (54-16).",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+     "title": "AB 1127 Firearms: converter pistols - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 627 (Wiener), law enforcement: masks, on the Assembly floor 9/9/2025 (passed 45-23).",
+    "kind": "voting-record",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+     "title": "SB 627 Law enforcement: masks - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 237 (Grayson), the Kern County oil bill (gasoline specifications, CEQA exemptions, County of Kern, transportation fuels assessment), on the Assembly floor 9/13/2025 (passed 66-4).",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+     "title": "SB 237 Oil spill prevention: gasoline specifications ... County of Kern - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on ACA 8 (Rivas), congressional redistricting, on Assembly third reading 8/21/2025 (passed 57-20).",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+     "title": "ACA 8 Congressional redistricting - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 130 (Gabriel), the 2025 budget-trailer housing bill, on Assembly third reading 3/20/2025 (53-17) and on concurrence 6/30/2025 (62-3).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+     "title": "AB 130 Housing - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On the Governor's January 2023 budget: \"I am deeply concerned at the prospect of any reductions to funding for housing, when the homelessness crisis is at an all-time high... we need to be doing more and not less at both the State and local level.\"",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/press-releases/20230110-assemblymember-lowenthal-issues-statement-governor-newsoms-january-budget",
+     "title": "Assemblymember Lowenthal Issues Statement on Governor Newsom's January Budget Proposal (Jan 10, 2023)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 649, giving businesses that get a Certified Access Specialist inspection and fix violations a six-year window with a 120-day right to cure construction-related accessibility claims, aiming to balance disability protections with business protection from lawsuits.",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/2026-legislation",
+     "title": "2026 Legislation - Assemblymember Josh Lowenthal",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Author of AB 1709, which requires covered social media platforms to withhold addictive features from users under 16, verify ages, and creates an e-Safety Advisory Commission. Newsom signed it September 10, 2026; takes effect January 1, 2027.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/press-releases/20260910-california-establishes-landmark-protections-children-social-media",
+     "title": "California Establishes Landmark Protections for Children on Social Media (Sept 10, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Author of AB 2, which sets civil penalties on large social media companies for negligent harm to children; Newsom signed it September 10, 2026. Lowenthal said stronger accountability is needed because other platforms and features are not covered by the Meta settlement.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/press-releases/20260826-assemblymember-josh-lowenthal-pushes-historic-legislation-bolstering-meta",
+     "title": "Assemblymember Josh Lowenthal Pushes Historic Legislation Bolstering Meta Settlement (Aug 26, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Author of AB 1803, signed by Newsom September 28, 2026, requiring California businesses with 5 or more employees to include anti-hate speech training in their mandatory workplace harassment prevention training.",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/press-releases/20260928-newsom-signs-lowenthal-bill-combating-hate-speech-workplace",
+     "title": "Newsom Signs Lowenthal Bill Combating Hate Speech in the Workplace (Sept 28, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Author of AB 3216 limiting students' cellphone use in schools; the page notes it was expected to be signed by Newsom and would require school districts to limit student phone usage (2024).",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/news",
+     "title": "News - Assemblymember Josh Lowenthal",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 2223 to establish reporting standards for health care staffing contracts at the state corrections department, amid concern that private contractors often cost more than civil service employees. Backed by state worker unions.",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://lowenthal.asmdc.org/news",
+     "title": "News - Assemblymember Josh Lowenthal",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "carolyn-j-essex": []
+ },
+ "notes": "No public positions found for carolyn-j-essex: no campaign website located at guessed URLs; Ballotpedia, CalMatters Digital Democracy and Voter's Edge returned nothing usable; search budget unavailable. Lowenthal evidence skews to his authored bills and floor votes (leginfo); few explicit policy statements exist on taxes, immigration, abortion, or health care. Dimension tags on votes use only bill titles from leginfo, not summaries."
+}

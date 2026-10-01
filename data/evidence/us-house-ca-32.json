@@ -1,0 +1,236 @@
+{
+  "contestId": "us-house-ca-32",
+  "options": {
+    "brad-sherman": [
+      {
+        "text": "Cosponsored the Assault Weapons Ban, Bipartisan Background Checks Act, Enhanced Background Checks Act, Ethan's Law (safe storage) and the Federal Extreme Risk Protection Order Act; states a 100% Brady Campaign rating and an F from the NRA.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cosponsored the Green New Deal when introduced in 2019 and has helped reintroduce it each time; supports declaring a national climate emergency and the Energy Innovation and Carbon Dividend Act (a fee on the carbon content of fossil fuels).",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Helped introduce the West Coast Protection Act, which would ban new federal oil and gas leases off California, Oregon and Washington; also supports the Break Free from Plastic Pollution Act.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Member of the Congressional Equality Caucus; introduced the Equality Act with colleagues; signed an amicus brief in Skrmetti urging the Court to strike down Tennessee's ban on gender-affirming care for minors; says he has voted against Republican bills restricting gender-affirming care.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsored the Housing Unhoused Disabled Veterans Act (passed the House unanimously) to ease disabled veterans' access to VA supportive housing; helped pass the West LA VA Campus Improvement Act; secured $1.5 million in 2024 for supportive housing for homeless veterans.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.R. 2853, the Combating Organized Retail Crime Act of 2025, which passed the House 348-60 on May 12, 2026.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.govtrack.us/congress/members/brad_sherman/400371",
+          "title": "Rep. Brad Sherman - GovTrack.us (Key Votes)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.R. 6572, the Deploying American Blockchains Act of 2023 (passed 334-79, May 15, 2024).",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://www.govtrack.us/congress/members/brad_sherman/400371",
+          "title": "Rep. Brad Sherman - GovTrack.us (Key Votes)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Chairs the Congressional Israel Allies Caucus; worked to pass the 2024 national security supplemental with $14.1 billion in emergency defense aid for Israel; authored foundational Iran sanctions provisions.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://www.bradsherman.com/priorities",
+          "title": "Brad Sherman for Congress - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Federation of Labor Unions, LA County Federation of Labor, LA/Orange Counties Building and Construction Trades Council, SEIU, California Teachers Association and California Federation of Teachers.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.bradsherman.com/endorsements",
+          "title": "Brad Sherman for Congress - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Planned Parenthood Action Fund, Equality California, and National Organization for Women PAC.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.bradsherman.com/endorsements",
+          "title": "Brad Sherman for Congress - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs and the United Firefighters of Los Angeles City (IAFF Local 112).",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.bradsherman.com/endorsements",
+          "title": "Brad Sherman for Congress - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "larry-thompson": [
+      {
+        "text": "On abortion: \"As a Christian, I am personally against it. As your Congressman, I believe the law is clear. It's not an issue for the national government anymore.\" Says states will set policy and he does not believe in a federal law banning a woman's right to choose.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On guns: \"I will not disarm law-abiding citizens who have every right and increasing need to defend themselves.\" To curb gun violence, prosecute criminals who use guns: \"Use a Gun, Go to Prison.\"",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the border: \"Keep the damn thing closed. Deport those who are here illegally, and govern by the existing, long-standing immigration laws of our land.\" Also lists comprehensive immigration reform among his goals.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On crime: \"I am very tough on crime. We need to support our men and women in blue and prosecute criminals according to the letter and spirit of the law.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On taxes: \"Lower them all, and eliminate some. No taxes on Social Security and no taxes on tips and overtime.\" Also supports the argument that Measure ULA (the \"Mansion Tax\") is invalid and unconstitutional.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes the American Work Freedom Act of 2027: complete phase-out of federal income taxes over four years while protecting Social Security, Medicare, national defense, veterans benefits and federal law enforcement.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/legislative-initiatives",
+          "title": "Larry Thompson for U.S. Congress - Legislative Initiatives",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: house and treat people in existing closed mental institutions, drug addiction facilities and veteran homes, and encourage religious organizations to co-sponsor Good Samaritan efforts.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On climate: \"I am for allowing all alternate forms of energy and American oil to compete in a free market.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On education: schools must be \"assertively transparent\" with parents about what is taught in classrooms and which ideologies are government-funded.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the economy: stop printing money and lower the national debt by a minimum of 10% each year until paid off.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists among his goals to \"improve wages, health care, schools, and public transportation\" and to represent every person \"of every race, creed, color, and sexual preference.\" No specific policy mechanisms given.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/issues",
+          "title": "Larry Thompson for U.S. Congress - On the Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Ventura County Republican Party, San Fernando Valley Republican Assembly, West Los Angeles Republican Assembly, California Federation of Republican Women, and Stand With Crypto (rated \"A\").",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://larrythompsonforcongress.com/view-endorsements",
+          "title": "Larry Thompson for U.S. Congress - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Sherman evidence is limited to his campaign issues page (which covers guns, veterans, environment, animals, Israel, Armenia, LGBTQ+ only), endorsements, and GovTrack key votes; his site has no stated positions on taxes, housing, rent, immigration, education, health care or elections. Congress.gov, clerk.house.gov, sherman.house.gov and Ballotpedia were not fetchable (403/empty), and the web search quota was exhausted, so no news or questionnaire sources were used. Thompson's 32-point PDF could not be text-extracted and is not used. Thompson's site is campaign-authored; treat as self-reported."
+}

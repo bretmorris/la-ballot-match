@@ -1,0 +1,99 @@
+{
+  "contestId": "ca-controller",
+  "options": {
+    "malia-m-cohen": [
+      {
+        "text": "Says \"Californians deserve to know where their money is going\"; sped delivery of the state's Annual Comprehensive Financial Report from years to two months.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/politics/elections/2026/05/ca-election-2026-controller/",
+          "title": "A look at the top candidates vying to be California's controller (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Urged \"restraint\" in state spending during budget negotiations, saying higher-than-expected costs reinforce the need.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/politics/elections/2026/05/ca-election-2026-controller/",
+          "title": "A look at the top candidates vying to be California's controller (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Focusing on modernizing FI$Cal and state payment systems rather than duplicating state auditor reviews of agencies.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/politics/elections/2026/05/ca-election-2026-controller/",
+          "title": "A look at the top candidates vying to be California's controller (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party, California Labor Federation and Equality California.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/controller/",
+          "title": "CalMatters 2026 California Voter Guide: Controller",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "herb-w-morgan": [
+      {
+        "text": "Says California \"has never conducted a full, top-to-bottom audit of its social services system\" and commits to \"real audits, not excuses.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.herbmorgan.com/",
+          "title": "Herb Morgan for Controller",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes blockchain-backed ledgers and a database of state-funded nonprofit transactions monitored with AI to flag suspicious purchases.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/politics/elections/2026/05/ca-election-2026-controller/",
+          "title": "A look at the top candidates vying to be California's controller (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would \"carefully scrutinize the state's spending on homelessness\" if elected.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://calmatters.org/politics/elections/2026/05/ca-election-2026-controller/",
+          "title": "A look at the top candidates vying to be California's controller (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Argues California \"spends more than any state in the nation—and still can't explain where the money goes.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.herbmorgan.com/",
+          "title": "Herb Morgan for Controller",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party and California Republican Assembly.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/controller/",
+          "title": "CalMatters 2026 California Voter Guide: Controller",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Office is largely fiscal administration; little evidence on social-policy dimensions for either candidate."
+}

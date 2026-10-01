@@ -1,0 +1,200 @@
+{
+  "contestId": "ca-governor",
+  "options": {
+    "xavier-becerra": [
+      {
+        "text": "Would declare a state of emergency to fund 40,000 already-approved affordable housing units, push cities to zone more residential land for apartments, duplexes and condos, and crack down on cities that make building harder.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports expanding down payment assistance for homebuyers and policies to stop large corporations from buying homes en masse.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would create an ongoing state funding stream for rental assistance and other services and a public dashboard tracking state-funded units; says \"people should not be allowed to voluntarily stay on the street when offered shelter\" but stopped short of endorsing arrests.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports a progressive income tax and extending the higher rate on high earners to fund schools; opposes the billionaire wealth tax (Prop 40); has not ruled out raising taxes.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Open to revising state clean-energy goals \"if they make gas and energy unaffordable\"; has questioned the 2035 gas-car ban.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges California remains a sanctuary state, local police will not cooperate with immigration enforcement, and universal Medi-Cal for undocumented immigrants continues: \"As long as you work hard, obey the law, and pay your taxes in California, as governor, I want you here.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://timesofsandiego.com/politics/2026/05/29/xavier-becerra-california-governor-campaign/",
+          "title": "Democrat Xavier Becerra leverages experience, immigrant roots in bid for California governor (Times of San Diego)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Previously supported single-payer; now backs expanding state coverage, cutting insurers' administrative spending, requiring more telehealth coverage, and a state loan-repayment fund to recruit health care workers.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted for Proposition 36 (2024 tougher-on-crime measure); supports court-mandated drug treatment to avoid jail; opposes longer, stricter sentences generally.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Promises to freeze residential insurance rates and to take regulatory steps to lower electricity and gasoline costs.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://timesofsandiego.com/politics/2026/05/29/xavier-becerra-california-governor-campaign/",
+          "title": "Democrat Xavier Becerra leverages experience, immigrant roots in bid for California governor (Times of San Diego)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "steve-hilton": [
+      {
+        "text": "Proposes eliminating state income tax on the first $150,000 of income with a flat rate above that (8% per later reporting); \"The quickest, most direct way to get money in people's pockets is for the government to take less out in the first place.\" Would ask departments to save 5% and cancel high-speed rail.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.yahoo.com/news/politics/articles/steve-hilton-pitches-affordability-agenda-061601557.html",
+          "title": "Steve Hilton pitches affordability agenda as he tries to close gap in CA governor's race",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would cap government-imposed costs on new homes (average $30,000), cut fees and building regulations to \"bring back the starter home,\" and favors suburban single-family homes over dense apartments.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.yahoo.com/news/politics/articles/steve-hilton-pitches-affordability-agenda-061601557.html",
+          "title": "Steve Hilton pitches affordability agenda as he tries to close gap in CA governor's race",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to stop CEQA litigation from blocking construction; says construction costs are \"three or four times\" higher in California due to regulations and litigation risk.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.sfexaminer.com/news/politics/republican-steve-hilton-outlines-california-governor-plans/article_9d22eb1c-91a6-40b7-bbe7-0151f84fd392.html",
+          "title": "Republican Steve Hilton outlines California governor plans (SF Examiner)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says \"camping on the street...is categorically illegal\"; police should clear all encampments; would fund sober housing rather than low-barrier shelters.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would roll back clean-energy mandates, allow more natural gas and in-state oil production, targeting $3 gasoline; also proposes halving the gas tax and promises to \"cut your electric bills in half.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.yahoo.com/news/politics/articles/steve-hilton-pitches-affordability-agenda-061601557.html",
+          "title": "Steve Hilton pitches affordability agenda as he tries to close gap in CA governor's race",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would overturn California's sanctuary law limiting police cooperation with ICE; says \"when I'm governor, I will make sure that all laws are peacefully enforced.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.sfexaminer.com/news/politics/republican-steve-hilton-outlines-california-governor-plans/article_9d22eb1c-91a6-40b7-bbe7-0151f84fd392.html",
+          "title": "Republican Steve Hilton outlines California governor plans (SF Examiner)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would end state Medi-Cal coverage for undocumented immigrants and redirect the savings to lowering costs for legal residents; favors market competition and preventing provider consolidation.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports phonics instruction, making teacher firing easier, charter conversion petitions, public funds for private-school transfers, and bars transgender youth from girls' school sports.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports loosening restrictions on firearm ownership and use; opposes the Prop 40 billionaire wealth tax, calling it \"asset seizure.\"",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would curb labor laws used to sue businesses and cut business registration fees.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "title": "CalMatters 2026 California Voter Guide: Governor",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Campaign sites (xavierbecerra2026.com, Hilton) could not be fetched; items rest on CalMatters, Times of San Diego, SF Examiner and Yahoo reporting. No findable positions for Becerra on guns, abortion, or elections."
+}

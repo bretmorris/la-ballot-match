@@ -1,0 +1,249 @@
+{
+  "contestId": "ca-assembly-52",
+  "options": {
+    "jessica-caloza": [
+      {
+        "text": "Voted Aye on SB 79 (transit-oriented development housing), Assembly floor, Sept. 11, 2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "SB 79 Housing development: transit-oriented development - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 130 (Housing) on Assembly floor votes on Mar. 20, 2025 and June 30, 2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "AB 130 Housing - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1157 (just cause termination and rent increases) at Assembly Housing and Community Development, Apr. 24, 2025 (passed 7-5).",
+        "kind": "voting-record",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1157",
+          "title": "AB 1157 Tenancy: just cause termination: rent increases - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "2026 package includes AB 672 (extending property tax exemption for community land trusts during construction) and AB 2609 (bars landlords from charging additional rent for pets). Says bills strengthen renter protections and expand affordable housing.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "2026 bill AB 1899 would create an Office of Youth Homelessness Prevention to reduce youth homelessness to \"Functional Zero\"; AB 1880 creates a dedicated resource for pregnant women experiencing homelessness.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2530 (2026) strengthening Cal-WARN with 60 days' notice before mass layoffs, and AB 1630, the TRUE Act, on union communication in bargaining.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1340 (Wicks, transportation network company drivers: labor relations), Assembly floor, June 4, 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "AB 1340 Transportation network company drivers: labor relations - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1650, \"Slam the Brakes on ICE\" (2026): requires rented vehicles used to arrest, detain or transport people to carry specific identification characteristics.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 627 (Wiener, 'Law enforcement: masks'), Assembly floor, Sept. 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "SB 627 Law enforcement: masks - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1725 (2026) requiring disclosure of nearby uncapped oil wells for residential properties and functioning methane monitoring systems.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Recorded NVR (no vote) on SB 237 (Kern County oil/gasoline specifications, CEQA exemptions), Assembly floor, Sept. 13, 2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "SB 237 Oil spill prevention: gasoline specifications: Kern County - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored ACA 18 (2026), expanding the UC Board of Regents' voting membership with undergraduate and graduate student seats; AB 1750 gives K-12 employees full salary for five months after exhausting sick leave.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://caloza.asmdc.org/press-releases/20260220-assemblymember-jessica-caloza-announces-2026-bill-package-affordability-and",
+          "title": "Assemblymember Jessica Caloza Announces 2026 Bill Package (Feb. 20, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on ACA 8 (Rivas, congressional redistricting), Assembly floor, Aug. 21, 2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "ACA 8 Congressional redistricting - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she will continue to work on \"protecting reproductive freedom and access to healthcare,\" the housing and homelessness crisis, public education, the climate crisis, and addressing gun violence.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.jessicacaloza.com/",
+          "title": "Jessica Caloza for Assembly 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party, California Teachers Association, Los Angeles County Federation of Labor, California Professional Firefighters, California Nurses Association, Planned Parenthood Action Fund, Sierra Club California, and Brady: United Against Gun Violence.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.jessicacaloza.com/",
+          "title": "Jessica Caloza for Assembly 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "andrea-lee-anderson": [
+      {
+        "text": "\"Taxes high enough to drive businesses to move to Texas and other states. I would vote to lower taxes and promote a business friendly environment.\" Says the budget spends too much on things individuals can do.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she would \"legislate for fewer regulations,\" citing the truck-fleet mandate; wants more manufacturing and new enterprises.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs school choice: parental control of state education money so families can choose a school, home school, or form a pod; criticizes \"woke indoctrination and common core.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"It is the federal government's responsibility to deal with immigration, not the states... The least we can do is cooperate with them rather than threaten them.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to return to private health care: \"I am not in favor of government and healthcare in the same sentence.\" Would legislate for fewer regulations on medicine.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"If we want to end homelessness, we must not allow it.\" Says laws against urinating and defecating on sidewalks go unenforced and that homeless people should be told about aid organizations.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"The government needs to stay out of business - specifically the oil biz.\" Opposes ending California oil production and favors nuclear power: \"safe and cheap.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On Prop 36: favors \"punishing the crimes more,\" wants it repealed or amended to allow only one rehabilitation; says non-enforcement emboldens criminals.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes state involvement in gender-affirming care (\"it should be at their own risk and expense\") and says there are two biological sexes and not to discuss transgenderism with people under 18.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.andrealeeanderson.com/issues",
+          "title": "Issues - Andrea Anderson for California Assembly District 52",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Anderson has no legislative record and no listed endorsements; evidence is her campaign issues page (mirrored on BallotReady). Caloza evidence is votes, authored bills and her campaign site."
+}

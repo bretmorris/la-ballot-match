@@ -1,0 +1,169 @@
+{
+  "contestId": "us-house-ca-41",
+  "options": {
+    "linda-sanchez": [
+      {
+        "text": "Voted No on H.R. 1 (One Big Beautiful Bill Act), motion to concur in the Senate amendment, July 3, 2025; passed 218-214.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/2025190",
+          "title": "House Roll Call 190, H.R. 1, July 3, 2025 (Clerk of the House)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted against the November 12, 2025 Republican government funding bill because it failed to protect health care subsidies: \"I refused to gamble their family budgets on a flimsy promise by the Senate to address these issues later.\"",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://lindasanchez.house.gov/media-center/press-releases/sanchez-stands-working-families-votes-against-bill-spikes-health-care",
+          "title": "Sánchez stands up for working families, votes against bill that spikes health care premiums",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said she led Democrats in offering an amendment to block tariffs, citing constituents' \"rising health care premiums and grocery costs driven by Trump's reckless tariffs.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://lindasanchez.house.gov/media-center/press-releases/sanchez-stands-working-families-votes-against-bill-spikes-health-care",
+          "title": "Sánchez stands up for working families, votes against bill that spikes health care premiums",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign statement: \"Republicans in Congress have done nothing to address rising costs. ... I'm fighting to lower prices and stand up for the hardworking people who keep our communities running.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://news.ballotpedia.org/2026/07/15/u-s-rep-linda-sanchez-d-ca-38-and-mitch-clemmons-r-compete-for-californias-redrawn-41st-congressional-district/",
+          "title": "Ballotpedia News: Sánchez and Clemmons compete for CA-41",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the CHANGE Act (Alzheimer's assessment and diagnosis), which passed the Ways and Means Committee unanimously (September 2026).",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://lindasanchez.house.gov/",
+          "title": "Congresswoman Linda Sánchez - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Introduced the POWR Act (September 2026) to adjust Social Security survivor benefit calculations for widows and widowers.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://lindasanchez.house.gov/",
+          "title": "Congresswoman Linda Sánchez - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Co-sponsored with Rep. Nathaniel Moran (R-TX) a bipartisan act to revive U.S. film and television production (September 24, 2026).",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://lindasanchez.house.gov/",
+          "title": "Congresswoman Linda Sánchez - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Her campaign cites legislation preventing gender-based health insurance discrimination and efforts to improve childcare affordability; former Orange County AFL-CIO executive secretary and treasurer.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://news.ballotpedia.org/2026/06/03/incumbent-linda-sanchez-d-and-mitch-clemmons-r-advanced-from-the-top-two-primary-in-californias-41st-congressional-district-on-june-2-2026/",
+          "title": "Ballotpedia News: CA-41 top-two primary",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "mitch-clemmons": [
+      {
+        "text": "Campaign position: reduce unnecessary regulation and red tape and \"lower barriers that increase housing costs.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign position: reduce the tax burden on families and small businesses and cut unnecessary government spending.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes \"climate-focused carbon taxes\" and \"strict carbon-emissions caps\"; supports \"targeted, science-based pollution rules.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Emphasizes \"securing the U.S. border\" and immigration policies \"focused on protecting American workers.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says \"schools should educate rather than indoctrinate children\" and favors school choice.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs legislation \"strengthening the traditional family and protecting parents' rights.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed the SAVE America Act and supports federally mandated proof of citizenship for voting.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would support additional U.S. military funding if President Trump requested it, tied to clear national-security needs.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-41-2026/mitch-clemmons/",
+          "title": "Mitch Clemmons - 2026 CA-41 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Clemmons: no public positions found on health care, abortion, or firearms; his iVoterGuide questionnaire was left unanswered. Clemmons items rely on an aggregator (smarter.vote) summarizing his campaign site. Sánchez: house.gov roll-call/issue pages (clerk.house.gov, congress.gov, govtrack) were mostly blocked (403) for later fetches, so Sánchez items are thinner than ideal."
+}

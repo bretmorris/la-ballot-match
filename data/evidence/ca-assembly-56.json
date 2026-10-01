@@ -1,0 +1,229 @@
+{
+ "contestId": "ca-assembly-56",
+ "options": {
+  "lisa-calderon": [
+   {
+    "text": "Voted Aye on AB 1127 (Gabriel), which restricts firearms 'converter pistols', on Assembly third reading (6/3/25) and on the Senate-amendment concurrence vote (9/13/25).",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+     "title": "AB 1127 (converter pistols) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "In the Assembly Appropriations Committee (8/29/25) voted No on SB 79 (Wiener), the transit-oriented housing density bill; recorded NVR on the Assembly floor vote (9/11/25).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+     "title": "SB 79 (transit-oriented housing) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 71 (Wiener), a CEQA exemption for transit projects, on the Assembly floor (9/9/25).",
+    "kind": "voting-record",
+    "dimension": "transportation",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB71",
+     "title": "SB 71 (CEQA transit exemptions) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1340 (Wicks), which sets up labor relations and union bargaining for rideshare drivers (Assembly 6/4/25 and concurrence 9/9/25).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "AB 1340 (rideshare driver unions) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 288 (McKinnor), on employment, labor organizations and unfair practices (Assembly 6/2/25 and concurrence 9/10/25).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB288",
+     "title": "AB 288 (labor board jurisdiction) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 98 (Perez), requiring notification on schools and colleges about immigration enforcement, on the Assembly floor (9/2/25).",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+     "title": "SB 98 (immigration enforcement at schools) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 495 (Celeste Rodriguez), the Family Preparedness Plan Act of 2025, on Assembly third reading (6/3/25) and concurrence (9/11/25).",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB495",
+     "title": "AB 495 (Family Preparedness Plan Act) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 237 (Grayson), which covers gasoline specifications, a CEQA exemption for Kern County oil, and a transportation fuels assessment, on the Assembly floor (9/13/25).",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+     "title": "SB 237 (Kern oil/fuels) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 254 (Becker), an urgency energy bill, on the Assembly floor (9/13/25).",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB254",
+     "title": "SB 254 (energy) - Bill Votes (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 2647 to clarify that the state's ban on new nuclear plants does not apply to advanced reactors; says nuclear 'must be considered' for 90% clean electricity by 2035 and 100% by 2045.",
+    "kind": "official-action",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://calderon.asmdc.org/press-releases/20260223-calderon-legislation-seeks-modernize-californias-nuclear-moratorium",
+     "title": "Calderon Legislation Seeks to Modernize California's Nuclear Moratorium (Feb 23, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 2299, the CARET Act, a state-funded benefit to maintain food assistance for Californians who lose CalFresh after federal cuts (HR 1) that expand work requirements and remove eligibility for some lawfully present immigrants.",
+    "kind": "official-action",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://calderon.asmdc.org/press-releases/20260313-assemblymember-lisa-calderon-introduces-caret-act-hosts-press-conference",
+     "title": "Assemblymember Lisa Calderon Introduces CARET Act (Mar 13, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said the White House withholding $1.3 billion in Medicaid reimbursements from California 'is an attack on the most vulnerable people in our state.'",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://calderon.asmdc.org/press-releases/20260515-response-white-houses-decision-withhold-critical-funding-medicaid",
+     "title": "Response to White House's Decision to Withhold Critical Funding for Medicaid (May 15, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 1940 to add perimenopause, menopause and post-menopause to the definition of 'sex' in the Fair Employment and Housing Act, with updated workplace notices on employee rights.",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://calderon.asmdc.org/press-releases/20260213-assemblymember-lisa-calderon-introduces-ab-1940-protect-workers",
+     "title": "Assemblymember Lisa Calderon Introduces AB 1940 (Feb 13, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "As Chair of the Assembly Insurance Committee, introduced AB 1680 (Make It FAIR Act) to require the FAIR Plan to offer more comprehensive homeowners coverage, hire more staff and implement Department of Insurance audit recommendations.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://calderon.asmdc.org/press-releases/20260202-assemblymember-lisa-calderon-introduces-make-it-fair-act",
+     "title": "Assemblymember Lisa Calderon Introduces the Make It Fair Act (Feb 2, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "jessica-martinez": [
+   {
+    "text": "'I support charter schools, vouchers, and homeschooling options. Let's prioritize a strong curriculum that includes history, civics, and traditional values.' Favors empowering parents and local communities on education.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.martinezforassembly.org/",
+     "title": "Martinez For Assembly District 56 - home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "'I stand for free-market principles, lower taxes, and reduced regulation... Fiscal responsibility is key, and I'll work to balance budgets and reduce national debt.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.martinezforassembly.org/",
+     "title": "Martinez For Assembly District 56 - home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "'I'm committed to law and order, supporting our law enforcement and securing our borders... Your right to self-defense is essential, and I'll stand up for it.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.martinezforassembly.org/",
+     "title": "Martinez For Assembly District 56 - home page",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says 'The right to life and to bear arms are important values that guarantee all the rest.'",
+    "kind": "own-statement",
+    "dimension": "guns",
+    "source": {
+     "url": "https://www.martinezforassembly.org/about/",
+     "title": "About - Martinez For Assembly District 56",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "States 'I am pro-life and believe every life has purpose, is precious and must be protected.' Opposes requiring doctors, religious employers or churches to act against beliefs on abortion or same-sex marriage.",
+    "kind": "own-statement",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://www.martinezforassembly.org/2024/07/27/my-thoughts-on-religion-and-government/",
+     "title": "My Thoughts on Religion and Government (July 27, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Ballot statement says Sacramento legislation has driven up housing prices, regulations drive businesses out of state, the state is pushing EVs without grid capacity, and gas-vehicle owners pay $1.20 to $1.40 per gallon in taxes and fees.",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.martinezforassembly.org/2024/09/14/ballot-statement-english/",
+     "title": "Ballot Statement - English (Martinez For Assembly District 56)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Ballot statement: 'Our educational system needs an overhaul because, despite the large amount of money per student being poured into education, our students are failing.'",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.martinezforassembly.org/2024/09/14/ballot-statement-english/",
+     "title": "Ballot Statement - English (Martinez For Assembly District 56)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign pledge to 'Protect us from the march towards socialism'; says 'free enterprise liberates people and builds wealth for all.' Former Whittier City Council member and Mayor Pro-Tem.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.martinezforassembly.org/about/",
+     "title": "About - Martinez For Assembly District 56",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "WebSearch unavailable (quota exhausted), so Ballotpedia/Vote411/endorsement pages were not retrieved (Ballotpedia fetch returned nothing). No endorsements, housing, renters, homelessness, immigration, elections or transportation statements found for Martinez; her site is thin. Calderon items are mostly floor votes on 2025-26 bills, some on bills with broader contents than the label."
+}

@@ -1,0 +1,38 @@
+{
+  "contestId": "ca-boe-3",
+  "notes": "Thin evidence. No candidate platform pages, questionnaires or legislative vote records could be fetched for Gipson (campaign/Assembly sites, Ballotpedia, LA Sentinel failed or blocked). No public positions or endorsements found for Samuel P. Sukaton (CalMatters lists him as a labor union organizer; no statements available).",
+  "options": {
+    "mike-gipson": [
+      {
+        "text": "Endorsed by the California Labor Federation.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/board-of-equalization/",
+          "title": "Who's running for California Board of Equalization in 2026 election? (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Teachers Association.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/board-of-equalization/",
+          "title": "Who's running for California Board of Equalization in 2026 election? (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/board-of-equalization/",
+          "title": "Who's running for California Board of Equalization in 2026 election? (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "samuel-p-sukaton": []
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "contestId": "ca-senate-24",
+  "options": {
+    "john-m-erickson": [
+      {
+        "text": "Supports strong renter protections and says Ellis Act and Costa-Hawkins have been misused; backs streamlined multi-faceted homelessness programs combining mental health services, job training and permanent housing.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As West Hollywood councilmember and mayor, Erickson enacted a 3% annual rent increase cap, later adopted by Santa Monica.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.smdp.com/john-erickson-makes-his-case-for-state-senate-centering-housing-safety-and-californias-rebuilding-effort/",
+          "title": "West Hollywood Leader Erickson Runs for State Senate on Housing & Workers' Rights (Santa Monica Daily Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"We need to make it easier to build housing and affordable housing... if we don't build housing, we're never going to get ourselves out of this.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/wehos-john-erickson-outlines-his-vision-for-the-24th-district/",
+          "title": "WeHo's John Erickson outlines his vision for the 24th District (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"wealthy top 1% need to actually start paying their fair share of taxes\"; favors enforcing existing tax laws rather than new taxes.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/wehos-john-erickson-outlines-his-vision-for-the-24th-district/",
+          "title": "WeHo's John Erickson outlines his vision for the 24th District (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: wants \"proven care-first approaches\" and investment in mental health and behavioral services, not \"sweeping people away.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/wehos-john-erickson-outlines-his-vision-for-the-24th-district/",
+          "title": "WeHo's John Erickson outlines his vision for the 24th District (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform calls healthcare \"a fundamental right\" and supports \"Medicare-for-All/Single Payer\" models while protecting Medi-Cal and reproductive healthcare.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"21st-century public safety\" including gun control and crime prevention technology, in partnership with law enforcement; co-authored hate-crime ordinances.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes congestion pricing and addressing gas tax funding shortfalls to fund infrastructure.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to raise per-student school funding, vowing not to balance budgets \"on the back of students or teachers.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As a councilmember, Erickson co-authored what he describes as the highest county minimum wage; says the labor movement supports him \"because they know I fight for working people.\"",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.smdp.com/john-erickson-makes-his-case-for-state-senate-centering-housing-safety-and-californias-rebuilding-effort/",
+          "title": "West Hollywood Leader Erickson Runs for State Senate on Housing & Workers' Rights (Santa Monica Daily Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Teachers Association, California Nurses Association, AFL-CIO, Planned Parenthood, Sierra Club, Equality California and the California Democratic Party.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.johnerickson4senate.com/",
+          "title": "John Erickson for State Senate",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "brian-goldsmith": [
+      {
+        "text": "Supported Proposition 36 and would fully fund it with expanded addiction treatment and mental health programs; wants adequate law enforcement staffing plus community-based policing and early interventions.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Housing plan: streamline permitting, expand modular and manufactured housing, lease public land for mixed-income housing, and down payment assistance for new homebuyers.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports widening CARE Court eligibility and exploring \"involuntary treatment for people living on the streets with mental illness or addiction.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/goldsmith-says-incremental-progress-is-key-to-24th-state-senate-districts-growth/",
+          "title": "Goldsmith says incremental progress is key (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to ban weapons convertible to automatic fire, close gun show and private sale loopholes, expand background checks and red flag laws, and fund violence prevention programs.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Environment: $3,500/year EV tax credit for first-time buyers, protect coastal waters from offshore drilling, streamline permitting for renewable projects.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports dedicated funding for universal childcare starting at six months and tax credits for working people toward college and transportation costs.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On regulation: \"I want to keep important rules that protect our environment, protect the labor rights, protect public health\" while reviewing regulations to cut bureaucracy.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/goldsmith-says-incremental-progress-is-key-to-24th-state-senate-districts-growth/",
+          "title": "Goldsmith says incremental progress is key (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports expanding film and TV tax credits: \"The credit that was passed is a floor and not a ceiling.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://beverlypress.com/2026/04/goldsmith-says-incremental-progress-is-key-to-24th-state-senate-districts-growth/",
+          "title": "Goldsmith says incremental progress is key (Beverly Press)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he stands against ICE raids, and supports defending and funding AB 715, which addresses antisemitism in K-12 schools.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.briangoldsmith.com/issues",
+          "title": "Issues - Brian Goldsmith for CA State Senate",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Teamsters Joint Council 42, Everytown for Gun Safety, Giffords, Climate Action California, and LA County DA Nathan Hochman, per the Santa Monica Democratic Club coverage.",
+        "kind": "endorsement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://hoodline.com/2026/09/santa-monica-democrats-back-goldsmith-over-erickson-for-state-senate-seat/",
+          "title": "Santa Monica Dems Endorse Goldsmith for CA Senate District 24 (Hoodline)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

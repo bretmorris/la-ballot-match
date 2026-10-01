@@ -1,0 +1,240 @@
+{
+  "contestId": "ca-assembly-40",
+  "options": {
+    "pilar-schiavo": [
+      {
+        "text": "Did not record a vote (NVR) on SB 79, the transit-oriented housing bill; Assembly floor, 09/11/25.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "Assembly floor vote - SB 79 (09/11/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 130, the 2025 housing bill streamlining housing approvals; Assembly floor, 06/30/25, passed 62-3.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "Assembly floor vote - AB 130 (06/30/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 98 (immigration enforcement notification at schools and colleges); 09/02/25, passed 59-10.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Assembly floor vote - SB 98 (09/02/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 627 (law enforcement: masks); Assembly floor, 09/09/25, passed 45-23.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "Assembly floor vote - SB 627 (09/09/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1127 (firearms: converter pistols); 09/13/25, passed 54-16.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "Assembly floor vote - AB 1127 (09/13/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1207, extending California's cap-and-trade program; 09/13/25, passed 58-10.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+          "title": "Assembly floor vote - AB 1207 (09/13/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1340 (transportation network company drivers: labor relations); 06/04/25, passed 54-15.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "Assembly floor vote - AB 1340 (06/04/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on ACA 8 (congressional redistricting); 08/21/25, passed 57-20.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Assembly floor vote - ACA 8 (08/21/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 301 (signed 10/10/25): state agencies must review housing permits within 30 or 60 business days or the permit is deemed approved.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB301",
+          "title": "AB 301 - Housing permits",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1020: investor-owned utilities must report taxpayer funding (grants, loans, bonds over $1 million) and pass resulting financial benefits to ratepayers.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1020",
+          "title": "AB 1020 - Utilities taxpayer funding reporting",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1820 (approved 09/20/26): caps permit fees for EV charging stations at multifamily housing at $500 base plus per-kilowatt charges.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1820",
+          "title": "AB 1820 - EV charging station permit fees",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign: \"lower costs, cut waste, protect taxpayers\"; says she brought more than $106 million to the community \"all without raising taxes.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://pilar4ca.com/",
+          "title": "Pilar Schiavo for State Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Planned Parenthood Advocacy Project Los Angeles County Action Fund, Equality California and Reproductive Freedom for All CA.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://pilar4ca.com/endorsements/",
+          "title": "Pilar Schiavo - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Everytown for Gun Safety.",
+        "kind": "endorsement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://pilar4ca.com/endorsements/",
+          "title": "Pilar Schiavo - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Labor Federation, California Teachers Association, SEIU and the State Building and Construction Trades Council; also by the Sierra Club and California Environmental Voters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://pilar4ca.com/endorsements/",
+          "title": "Pilar Schiavo - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rickey-tracy-hayes-ii": [
+      {
+        "text": "Opposes the July 1, 2026 gas tax increase to 63.4 cents: \"Working people don't get an automatic pay raise every July - but the government gets one.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/news/2/",
+          "title": "Rickey Hayes for Assembly - News",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign commits to rebuilding California's energy grid and affordable energy.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/",
+          "title": "Rickey Hayes for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priorities include securing neighborhoods and improving public safety.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/news/2/",
+          "title": "Rickey Hayes for Assembly - News",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priorities: lowering cost of living and government accountability; says \"Sacramento has enough activists - it's time to send a builder.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/",
+          "title": "Rickey Hayes for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes his aim as restoring \"the California Dream for working families.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/",
+          "title": "Rickey Hayes for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Reform California, Log Cabin Republicans and the California Young Republicans (stated priorities: lower taxes, limited government).",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/endorsements",
+          "title": "Rickey Hayes for Assembly - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by IBEW Local 18.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/endorsements",
+          "title": "Rickey Hayes for Assembly - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by LA County Supervisor Kathryn Barger, who said \"Rickey understands the difference between making big promises and delivering real results.\"",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://rickeyhayesforassembly.com/news/",
+          "title": "Rickey Hayes for Assembly - News",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Hayes: campaign site is sparse on policy detail; positions are general."
+}

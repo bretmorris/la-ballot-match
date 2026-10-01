@@ -1,0 +1,196 @@
+{
+  "contestId": "ca-assembly-67",
+  "options": {
+    "mark-pulido": [
+      {
+        "text": "Campaign platform: \"Better schools, safer communities, more affordable housing, and policies that reduce the economic burden on working families.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says \"For too long our legislature has served the wealthy and connected at the expense of our families.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites reducing residential burglaries by 35% and keeping the lowest emergency response time in LA County (under 3 minutes) as a Cerritos councilmember.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the Cerritos council he supported leasing police vehicles with automatic license plate readers and, in 2016, opposed budget cuts that would have closed the Cerritos Sheriff's Station.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ocregister.com/2025/04/29/cerritos-councilmember-mark-pulido-is-running-for-the-67th-assembly-district/",
+          "title": "Cerritos Councilmember Mark Pulido is running for the 67th Assembly District - Orange County Register",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As an elected official says he \"modernized and improved schools\" and got funding for local education; served three terms on the ABC Unified School District board (2001-2011), including as president.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he approved Cerritos Auto Square renovations and new business developments, and funded street repair, sidewalks, parks and tree trimming.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by California Teachers Association, California School Employees Association and California Faculty Association.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by building-trades and labor unions including the LA/OC Building Trades Council, IBEW locals, LiUNA locals, AFSCME District Council 36 and United Domestic Workers.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association of Orange County Deputy Sheriffs.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by California Environmental Voters.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Medical Association and the Los Angeles County Medical Association PAC.",
+        "kind": "endorsement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.markpulido.com",
+          "title": "Mark Pulido for State Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign message centers on community investment, safety and economic development; has endorsements from AG Rob Bonta, Treasurer Fiona Ma and former Speaker Anthony Rendon.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.loscerritosnews.net/2025/07/03/mark-pulido-raises-nearly-300k-in-bid-for-state-assembly-lands-major-labor-and-political-endorsements/",
+          "title": "Mark Pulido Raises Nearly $300K in Bid for State Assembly - Los Cerritos Community News",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "paulo-morales": [
+      {
+        "text": "Says affordability is a top concern: \"I will work to lower burdensome taxes and fees, reduce wasteful spending, and support efforts that make life more affordable for working families.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.paulomoralesca.com/",
+          "title": "Paulo Morales for Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the state faces an $18 billion budget shortfall and \"we must reevaluate how the government spends money and stop funding programs that do not deliver results.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.paulomoralesca.com/",
+          "title": "Paulo Morales for Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On housing: cities need flexibility and tools to meet development goals, and state mandates won't succeed without real support; promises \"responsible development\" and empowering local governments.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.paulomoralesca.com/",
+          "title": "Paulo Morales for Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On education: will focus on fundamentals, real-world skills and transparency so parents know what children are learning; says families deserve meaningful choices.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.paulomoralesca.com/",
+          "title": "Paulo Morales for Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says his law enforcement career showed the importance of trust and accountability; will work for balanced policies that reduce crime and keep neighborhoods safe.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.paulomoralesca.com/",
+          "title": "Paulo Morales for Assembly (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said: \"Do I sometimes think the government as a whole has an overreach problem in controlling us and telling us what to do? Absolutely.\" He became a Republican in late 2025, after growing up a Democrat.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.ocregister.com/2025/12/06/former-cypress-mayor-paulo-morales-is-the-latest-to-jump-into-assembly-race/",
+          "title": "Former Cypress Mayor Paulo Morales is the latest to jump into Assembly race - Orange County Register",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Spent more than two decades with the Cypress Police Department, including patrol operations and the West Orange County SWAT team, before serving on Cypress city government (former mayor).",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ocregister.com/2025/12/06/former-cypress-mayor-paulo-morales-is-the-latest-to-jump-into-assembly-race/",
+          "title": "Former Cypress Mayor Paulo Morales is the latest to jump into Assembly race - Orange County Register",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Search tools were unavailable; sources were campaign sites and OC Register / Los Cerritos Community News articles. Neither candidate has a findable issues page on immigration, guns, abortion/LGBTQ+, homelessness, climate, transportation, or elections. Pulido's campaign site lists endorsements but no detailed positions; Morales's site has no endorsements page. Voting records for Pulido's Cerritos council tenure and Morales's Cypress council tenure were not retrieved."
+}

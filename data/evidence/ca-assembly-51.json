@@ -1,0 +1,287 @@
+{
+  "contestId": "ca-assembly-51",
+  "options": {
+    "colin-d-hernandez": [
+      {
+        "text": "Top priorities: Medicare for All (CalCare), universal childcare, and housing for all. \"There's absolutely no reason why we cannot guarantee healthcare to every single person in this state.\"",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388853",
+          "title": "VOTE411 Voter Guide (League of Women Voters): Member of the State Assembly, District 51",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On housing: \"Undo single family zoning laws and redlining to allow for multifamily housing to be built. Housing density is key to making California affordable and walkable.\" Also wants to build social housing for unhoused neighbors.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://onyourballot.vote411.org/m/race-detail.do?id=6388853",
+          "title": "VOTE411 Voter Guide (League of Women Voters): Member of the State Assembly, District 51",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to repeal the Costa-Hawkins Act and the Ellis Act, enact more tenant protections, restrict private equity in housing, and institute vacancy taxes per empty unit.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will push legislation creating social housing to place people into permanent housing with services such as mental health evaluations and substance rehabilitation: \"No more temporary fixes or half-measures.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports raising taxes on billionaires and the largest corporations; \"full support\" for the Billionaire Wealth Tax; will fight to reform Prop 13 and close corporate loopholes.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls to \"Abolish ICE\"; says officers who actively collaborate with ICE or the National Guard should be relieved from duty; supports more funding for legal counsel for people facing deportation.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will vote against bills allowing new oil or gas leases for on- or offshore drilling and supports more renewable energy investment and no corporate subsidies for oil and gas.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports community-based alternatives to policing and incarceration, and opposes adding police or armed guards on school campuses in favor of trained mental health professionals.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Will fight to ensure Prop 98 dollars stay with public schools; supports voting yes on Prop 3 for public school funding; opposes AB 715; wants tuition-free public college and vocational schools.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I will always vote and legislate to increase housing density, robust public transit, and safer bike lanes.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I will always support queer and trans rights\"; promises legislation advancing LGBTQ+ and trans, gender-expansive and intersex protections, and says any CalCare must cover comprehensive care for LGBTQ+ people.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he will legislate to divest CalPERS and CalSTRS funds from Israeli-linked entities and opposes AB 715, the law limiting advocacy in K-12 classrooms, as censoring teachers.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://colinforcalifornia.com/issues/",
+          "title": "Issues - Colin Hernandez for California Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Does not take donations from corporations or super PACs, relying on small-dollar donors. Endorsed by UCLA's Young Democratic Socialists of America.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://dailybruin.com/2026/05/22/5-candidates-are-running-in-primary-to-represent-california-assembly-district-51",
+          "title": "5 candidates are running in primary to represent California Assembly District 51 (Daily Bruin)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rick-chavez-zbur": [
+      {
+        "text": "Recorded NVR (no vote) on SB 79 (transit-oriented housing) on the Sept. 11, 2025 Assembly floor vote.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "SB 79 Housing development: transit-oriented development - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on the June 30, 2025 Assembly floor concurrence vote for AB 130, a budget housing bill.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "AB 130 Housing - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Recorded NVR at Assembly Judiciary on Jan. 13, 2026 on AB 1157 (just cause termination and rent increases); the motion failed.",
+        "kind": "voting-record",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1157",
+          "title": "AB 1157 Tenancy: just cause termination: rent increases - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 648 (2025) giving community college districts authority to build student and staff housing, saying it cuts red tape \"while still maintaining important environmental and permitting protections.\" Also authored AB 1740 (2026), easing coastal permitting for housing and bike lanes in urban areas.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://zbur.asmdc.org/2025-legislative-package",
+          "title": "2025 Legislative Package (Assemblymember Zbur)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2943, the California Retail Theft Reduction Act (signed 2024): creates a new crime for serial retail thieves, raises penalties for organized theft and expands diversion programs.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://a51.asmdc.org/press-releases/20240911-democratic-caucus-chair-rick-chavez-zbur-champions-key-legislation-protect",
+          "title": "Democratic Caucus Chair Rick Chavez Zbur Champions Key Legislation (Sept. 11, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2217 (2026), Alternatives to Arrest: \"we can't arrest our way out of poverty, mental health challenges, or addiction.\" Expands programs that connect people committing low-level offenses with services instead of jail.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://zbur.asmdc.org/2026-legislative-package",
+          "title": "2026 Legislative Package (Assemblymember Zbur)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2525 (signed 2024), helping the City of Los Angeles store RVs while former inhabitants receive services and housing, supporting Mayor Bass's Inside Safe program.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://a51.asmdc.org/press-releases/20240911-democratic-caucus-chair-rick-chavez-zbur-champions-key-legislation-protect",
+          "title": "Democratic Caucus Chair Rick Chavez Zbur Champions Key Legislation (Sept. 11, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2383, Fair Share in Energy Act (signed Sept. 30, 2026), requiring data centers to pay for the grid costs they trigger rather than shifting them onto households and small businesses.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://zbur.asmdc.org/press-releases/20260930-governor-signs-nations-strongest-data-center-ratepayer-protections-law",
+          "title": "Governor Signs Nation's Strongest Data Center Ratepayer Protections Into Law (Sept. 30, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1930 (signed Sept. 2026) requiring entities to notify the Attorney General before producing records in response to subpoenas about reproductive or gender-affirming care.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://zbur.asmdc.org/press-releases/20260929-governor-newsom-signs-zbur-bill-strengthening-protections-abortion-and",
+          "title": "Governor Newsom Signs Zbur Bill Strengthening Protections for Abortion and Gender-Affirming Health Care (Sept. 29, 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2907 (closing loopholes in firearm relinquishment) and AB 2917 (letting courts weigh stalking, animal cruelty and hate-based threats in gun violence restraining orders); both signed 2024.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://mediadistrict.org/rick-chavez-zburs-2023-24-legislative-accomplishments/",
+          "title": "Rick Chavez Zbur's 2023-24 Legislative Accomplishments (Hollywood Media District)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 627 (Wiener, 'Law enforcement: masks'), Assembly floor, Sept. 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "SB 627 Law enforcement: masks - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1340 (Wicks, transportation network company drivers: labor relations), Assembly floor, June 4, 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "AB 1340 Transportation network company drivers: labor relations - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 891 (2025) requiring Caltrans to create a Quick-Build program for bikeways and pedestrian routes on state highways, with at least six projects by the end of 2028.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://zbur.asmdc.org/2025-legislative-package",
+          "title": "2025 Legislative Package (Assemblymember Zbur)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2889 and AB 1484 (signed 2024) extending public-worker bargaining protections to Los Angeles city and county employees and letting temporary city and county workers join bargaining units. Also authored AB 1693 (2026) speeding retail building plan approvals.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://mediadistrict.org/rick-chavez-zburs-2023-24-legislative-accomplishments/",
+          "title": "Rick Chavez Zbur's 2023-24 Legislative Accomplishments (Hollywood Media District)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Young Democrats and the California Nurses Association.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://dailybruin.com/2026/06/06/rick-chavez-zbur-colin-hernandez-advance-to-state-assembly-general-election",
+          "title": "Rick Chavez Zbur, Colin Hernandez advance to state assembly general election (Daily Bruin)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both are Democrats. Zbur did not answer the VOTE411 questionnaire; his evidence is votes and authored bills. Hernandez has no legislative record; evidence is his campaign site and VOTE411 answers."
+}

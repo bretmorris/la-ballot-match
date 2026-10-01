@@ -1,0 +1,158 @@
+{
+  "contestId": "ca-attorney-general",
+  "options": {
+    "rob-bonta": [
+      {
+        "text": "Campaign pledge: defending \"California's first-in-class gun safety laws like the assault weapons ban\" and expanding gun violence restraining orders.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://robbonta.com/issues/",
+          "title": "Issues - Re-elect Rob Bonta Attorney General of California",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Has filed or joined more than 50 lawsuits against the Trump administration since January 2025.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to defend \"Obamacare and California's health care expansions\" and reproductive access laws.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://robbonta.com/issues/",
+          "title": "Issues - Re-elect Rob Bonta Attorney General of California",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to bring \"cases against employers who abuse workers, steal their wages and create unfair and unsafe working conditions.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://robbonta.com/issues/",
+          "title": "Issues - Re-elect Rob Bonta Attorney General of California",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to ensure every Californian is treated with dignity \"regardless of their immigration status.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://robbonta.com/issues/",
+          "title": "Issues - Re-elect Rob Bonta Attorney General of California",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Promises to keep California \"a global leader in the fight against climate change.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://robbonta.com/issues/",
+          "title": "Issues - Re-elect Rob Bonta Attorney General of California",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As AG, enforced housing laws compelling recalcitrant cities to build new housing, and runs a Fentanyl Enforcement Program and organized-retail-crime work.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party, California Teachers Association, California Environmental Voters, and California Nurses Association.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "michael-e-gates": [
+      {
+        "text": "Says \"California Has Become Lawless\" for lack of enforcement; claims he cut crime by double digits through a city-run prosecutor program and reduced homelessness 60% in Huntington Beach.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://agnetwest.com/michael-gates-california-attorney-general-interview/",
+          "title": "Michael Gates: Restoring Law & Order in California (AgNet West)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to work with all 58 district attorneys and sheriffs and to prosecute misuse of taxpayer funds and seize assets; wants to audit organizations receiving state funds.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://agnetwest.com/michael-gates-california-attorney-general-interview/",
+          "title": "Michael Gates: Restoring Law & Order in California (AgNet West)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored Huntington Beach's voter ID law as city attorney.",
+        "kind": "official-action",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Huntington Beach city attorney, fought parts of state housing law requiring the city to build affordable housing.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he will \"protect girls' sports by keeping boys out of girls' sports\" and support police with legal defense for officers.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://dailybruin.com/2026/06/02/incumbent-rob-bonta-candidate-michael-gates-advance-in-attorney-general-primary",
+          "title": "Incumbent Rob Bonta, candidate Michael Gates advance in attorney general primary (Daily Bruin)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Spoke against AB 2624, calling it \"a direct attack on First Amendment rights.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://agnetwest.com/michael-gates-california-attorney-general-interview/",
+          "title": "Michael Gates: Restoring Law & Order in California (AgNet West)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party, California Rifle & Pistol Association, California Parents Union and Huntington Beach Police Officers' Association.",
+        "kind": "endorsement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+          "title": "CalMatters 2026 California Voter Guide: Attorney General",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Gates has no findable explicit positions on immigration or Prop 36 in fetched sources; Bonta none on taxes or homelessness."
+}

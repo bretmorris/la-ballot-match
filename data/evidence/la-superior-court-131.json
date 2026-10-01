@@ -1,0 +1,69 @@
+{
+  "contestId": "la-superior-court-131",
+  "notes": "Judicial candidates; bar ratings excluded.",
+  "options": {
+    "donna-tryfman": [
+      {
+        "text": "\"As a public defender, my role requires me to uphold the Constitution, protect due process, and ensure that the law is applied fairly, regardless of a person's background or resources.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://tryfmanforjudge2026.com",
+          "title": "Donna Tryfman for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU Local 721, UNITE HERE Local 11 and Western States Carpenters.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://tryfmanforjudge2026.com",
+          "title": "Donna Tryfman for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Crime Survivors PAC and the Association of Deputy District Attorneys.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://tryfmanforjudge2026.com",
+          "title": "Donna Tryfman for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "david-ross": [
+      {
+        "text": "Describes himself as a \"fair, independent and unbiased judge who listens to all sides,\" grounded in respect for everyone before the court.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://davidrossforjudge2026.com",
+          "title": "David Ross for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by IUOE Local 12, IBEW Local 47, Ironworkers, ILWU locals and UNITE HERE Local 11.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://davidrossforjudge2026.com",
+          "title": "David Ross for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Working Families Party, Americans for Democratic Action and several progressive Democratic clubs.",
+        "kind": "endorsement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://davidrossforjudge2026.com",
+          "title": "David Ross for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

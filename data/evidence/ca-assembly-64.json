@@ -1,0 +1,219 @@
+{
+ "contestId": "ca-assembly-64",
+ "options": {
+  "blanca-pacheco": [
+   {
+    "text": "Voted No on SB 79 (Housing development: transit-oriented development), Assembly floor, 9/11/2025; the bill passed 43-19.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+     "title": "Bill Votes - SB-79 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 9 (Accessory Dwelling Units: ordinances), Assembly floor, 8/28/2025; passed 62-2.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB9",
+     "title": "Bill Votes - SB-9 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 130 (Housing) concurrence in Senate amendments, Assembly floor, 6/30/2025; passed 62-3.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+     "title": "Bill Votes - AB-130 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted No on SB 627 (Law enforcement: masks), Assembly floor, 9/9/2025; passed 45-23.",
+    "kind": "voting-record",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+     "title": "Bill Votes - SB-627 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1340 (Transportation network company drivers: labor relations), concurrence, Assembly floor, 9/9/2025; passed 60-15.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "Bill Votes - AB-1340 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 288 (Employment: labor organization and unfair practices) concurrence, Assembly floor, 9/10/2025; passed 67-5.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB288",
+     "title": "Bill Votes - AB-288 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 98 (education: immigration enforcement) as an urgency bill, Assembly floor, 9/2/2025; passed 59-10.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+     "title": "Bill Votes - SB-98 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 81 (Health and care facilities: information sharing) as an urgency bill, Assembly floor, 9/2/2025; passed 58-11.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB81",
+     "title": "Bill Votes - SB-81 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 53 (Artificial intelligence models: large developers), Assembly floor, 9/12/2025; passed 59-7.",
+    "kind": "voting-record",
+    "dimension": null,
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB53",
+     "title": "Bill Votes - SB-53 (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 400 to require law enforcement agencies with K9 units to maintain policies meeting POST guidelines; sponsored by the California Police Chiefs Association, State Sheriffs' Association and PORAC.",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://a64.asmdc.org/press-releases/20250204-new-legislation-introduced-police-k9s",
+     "title": "New Legislation Introduced on Police K9s (Asm. Pacheco press release, 2025-02-04)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Co-announced AB 469, bipartisan legislation letting prosecutors seek stronger penalties for looting and for impersonating emergency personnel during wildfires and other emergencies.",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://a64.asmdc.org/press-releases/20250210-california-lawmakers-announce-legislation-strengthen-penalties-looting",
+     "title": "Legislation to Strengthen Penalties for Looting (Asm. Pacheco press release, 2025-02-10)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 953, signed Oct. 2, 2025: bars foreign nationals from contributing to state and local ballot measure campaigns. Said: \"California's elections should be decided by Californians – not foreign money.\"",
+    "kind": "official-action",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://a64.asmdc.org/press-releases/20251002-governor-newsom-signs-legislation-protect-california-ballot-measures",
+     "title": "Governor Newsom Signs Legislation to Protect California Ballot Measures from Foreign Influence",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 850: gives students a one-term grace period to continue classes while repaying institutional debt, bars reporting it to credit agencies, and requires colleges to publish debt collection policies.",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://a64.asmdc.org/press-releases/20250219-assemblywoman-pacheco-students-and-campaign-california-borrowers-rights",
+     "title": "Increasing Institutional Debt Transparency and Protecting Students Act (press release, 2025-02-19)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "raul-ortiz-jr": [
+   {
+    "text": "\"I'm a lifelong social & fiscal conservative businessman, husband and father who knows how to get things done.\"",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/",
+     "title": "Raul Ortiz for Assembly - home",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "\"Our children and parental rights are under attack along with personal and religious freedoms. Education is in shambles, we rank 48th in the country. Our community has had enough of radical policies that hurt prosperity, safety and education.\"",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/",
+     "title": "Raul Ortiz for Assembly - home",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Lists \"What I Stand For\": quality education, small business advocacy, protecting children's innocence, safer communities, parental authority, supporting law and order, veteran rights, protecting our borders.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/",
+     "title": "Raul Ortiz for Assembly - home",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign pledges to \"Protect Our Borders\" (listed among his priorities, with no further policy detail on the site).",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/",
+     "title": "Raul Ortiz for Assembly - home",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says he will \"Be Your Small Business Advocate\" and \"Ensure Public Safety by Supporting Law and Order\"; describes himself as a business leader and minister of the gospel for 41 years.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/about",
+     "title": "Raul Ortiz for Assembly - About",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign motto \"Faith, Family & Freedom\"; says the family is \"the foundation of our culture\" and pledges to \"Protect Parental Authority\" and \"Protect Our Children's Innocence.\"",
+    "kind": "own-statement",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/about",
+     "title": "Raul Ortiz for Assembly - About",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Media page lists a video titled \"Raul Ortiz Stands Against AB1955 For the Sake of Our Children.\"",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/media",
+     "title": "Raul Ortiz for Assembly - Media",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the California Republican Assembly and the GOP Union Caucus (as listed on his campaign site).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.raulortizforassembly.com/",
+     "title": "Raul Ortiz for Assembly - home",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Pacheco: votes are Assembly floor votes from leginfo (Pacheco's asmdc press page for SB 627 position had no readable text). Her Nov 2025 positions on abortion, guns, taxes, climate, health care were not found in fetched pages. Ortiz (running as Raul Ortiz Jr.; campaign site uses 'Raul Ortiz'): campaign site is thin, general statements only, no policy detail; no Wikipedia/Ballotpedia/Vote411 page found; no questionnaire. Only education/policing/immigration/business covered, no positions on housing, taxes specifics, climate, health care, guns."
+}

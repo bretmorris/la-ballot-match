@@ -1,0 +1,200 @@
+{
+  "contestId": "ca-senate-28",
+  "options": {
+    "lola-smallwood-cuevas": [
+      {
+        "text": "Smallwood-Cuevas voted Aye on SB 627 (law enforcement masks), Senate concurrence vote, 9/11/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "Bill Votes - SB-627 Law enforcement: masks (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on AB 1127 (firearms: converter pistols), Senate floor, 9/12/2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "Bill Votes - AB-1127 Firearms: converter pistols (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on AB 1207 (extension of the cap-and-trade market-based compliance mechanism), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+          "title": "Bill Votes - AB-1207 Climate change: market-based compliance mechanism: extension (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on SB 98 (schools and colleges: immigration enforcement notification), Senate floor, 9/2/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Bill Votes - SB-98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on AB 1340 (labor relations for rideshare drivers), Senate floor, 9/8/2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "Bill Votes - AB-1340 Transportation network company drivers: labor relations (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on SB 63 (Bay Area local revenue measure for public transit funding), Senate concurrence, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63",
+          "title": "Bill Votes - SB-63 San Francisco Bay area: local revenue measure: public transit funding (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on ACA 8 (congressional redistricting), Senate floor, 8/21/2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Bill Votes - ACA 8 Congressional redistricting (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on SB 840 (Greenhouse Gas Reduction Fund, urgency), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB840",
+          "title": "Bill Votes - SB-840 Greenhouse gases: Greenhouse Gas Reduction Fund: studies (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on SB 101, the Budget Act of 2025, Senate concurrence, 6/13/2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
+          "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Smallwood-Cuevas voted Aye on AB 144 (health budget trailer), Senate floor, 9/12/2025.",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB144",
+          "title": "Bill Votes - AB-144 Health (budget trailer) (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate profile: supports a Medicare for All model, expanding community health clinics, and opposes corporate takeovers of public hospitals.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.ballotready.org/people/lola-smallwood-cuevas",
+          "title": "Lola Smallwood-Cuevas - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate profile: champion of keeping California a safe haven for people seeking reproductive healthcare and abortion services.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.ballotready.org/people/lola-smallwood-cuevas",
+          "title": "Lola Smallwood-Cuevas - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate profile: advocates carbon neutrality goals and environmental justice; supports Project Roomkey model and building affordable housing as job creation.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.ballotready.org/people/lola-smallwood-cuevas",
+          "title": "Lola Smallwood-Cuevas - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate profile: favors enforcing labor laws, investing in apprenticeships, and corporate tax accountability, while reducing regulatory burden on small businesses.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ballotready.org/people/lola-smallwood-cuevas",
+          "title": "Lola Smallwood-Cuevas - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "joe-lisuzzo": [
+      {
+        "text": "Wants to \"Increase Public Safety funding support the rule of law for ALL the People of California\" and target waste and fraud.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/joe-lisuzzo",
+          "title": "Joe Lisuzzo - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports business-friendly policy: cutting business taxes and reducing regulatory red tape.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.ballotready.org/people/joe-lisuzzo",
+          "title": "Joe Lisuzzo - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a gas tax holiday until California prices match national averages and inviting refineries back to California to reduce fuel imports.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.ballotready.org/people/joe-lisuzzo",
+          "title": "Joe Lisuzzo - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls LA school underperformance \"a management problem\" despite about $19 billion annual LAUSD funding; calls for reform and alternative educational opportunities.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ballotready.org/people/joe-lisuzzo",
+          "title": "Joe Lisuzzo - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls homelessness a \"Humanitarian Crisis\" and questions how $24 billion in voter-approved funding has been allocated.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.ballotready.org/people/joe-lisuzzo",
+          "title": "Joe Lisuzzo - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Smallwood-Cuevas: BallotReady profile text may predate 2026. Her Senate page gave no policy detail."
+}

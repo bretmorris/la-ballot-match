@@ -1,0 +1,160 @@
+{
+  "contestId": "ca-assembly-39",
+  "options": {
+    "juan-carrillo": [
+      {
+        "text": "Voted Aye on SB 79 (Wiener), requiring cities to allow denser housing near transit stations; Assembly floor, 09/11/25, passed 43-19.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "Assembly floor vote - SB 79 (09/11/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 130, the 2025 housing bill streamlining housing approvals and extending Housing Accountability Act protections; Assembly floor, 06/30/25, passed 62-3.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "Assembly floor vote - AB 130 (06/30/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 98, requiring notification at schools and colleges about immigration enforcement; Assembly floor, 09/02/25, passed 59-10.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Assembly floor vote - SB 98 (09/02/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 81 (health and care facilities: information sharing); Assembly floor, 09/02/25, passed 58-11.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB81",
+          "title": "Assembly floor vote - SB 81 (09/02/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 627 (law enforcement: masks) and carried it on the Assembly floor; 09/09/25, passed 45-23.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "Assembly floor vote - SB 627 (09/09/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1127 (firearms: converter pistols); Assembly floor concurrence, 09/13/25, passed 54-16.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "Assembly floor vote - AB 1127 (09/13/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1207, extending California's cap-and-trade market-based compliance mechanism; 09/13/25, passed 58-10.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+          "title": "Assembly floor vote - AB 1207 (09/13/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on ACA 8 (congressional redistricting); Assembly floor, 08/21/25, passed 57-20.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Assembly floor vote - ACA 8 (08/21/25)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2533 (2024, signed): bars local agencies from denying permits for older unpermitted ADUs over building-standard violations and prohibits impact fees except for health/safety needs.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2533",
+          "title": "AB 2533 - Accessory dwelling units",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 98 (2024, signed): statewide warehouse design standards, truck routing plans and buffer distances from homes and schools, with 2-to-1 replacement of demolished housing.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB98",
+          "title": "AB 98 - Logistics use and truck routes",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1808 (chaptered 09/29/26): cuts mitigation fees for homeowners removing Western Joshua trees, lets cities authorize removals, and exempts certain permits from CEQA until 2032.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1808",
+          "title": "AB 1808 - Western Joshua Tree Conservation Act",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "paul-andre-marsh": [
+      {
+        "text": "\"Our law enforcement agencies need adequate funding to support their operations, including personnel, equipment, and training.\" Also supports evidence-based programs addressing root causes of crime.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/paul-marsh",
+          "title": "BallotReady - Paul Andre Marsh",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Parents have a strong say in their children's education, healthcare, and well-being, without bureaucratic interference.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ballotready.org/people/paul-marsh",
+          "title": "BallotReady - Paul Andre Marsh",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates clear government spending reports so taxpayers understand fund use, eliminating wasteful spending and holding agencies accountable for performance.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.ballotready.org/people/paul-marsh",
+          "title": "BallotReady - Paul Andre Marsh",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says police \"deserve our full support\" and prioritizes \"supporting our officers\"; backs building trust between law enforcement and communities.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://ijaction.org/ad-39-2026/",
+          "title": "IJ Action - Assembly District 39",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Marsh: thin; only a BallotReady profile and IJ Action page found, no campaign site retrievable (search budget exhausted). Carrillo evidence is mostly floor votes and authored bills."
+}

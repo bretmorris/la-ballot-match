@@ -1,0 +1,159 @@
+{
+ "contestId": "ca-assembly-62",
+ "options": {
+  "jose-luis-solache": [
+   {
+    "text": "Voted No on SB 79, which allows transit-oriented housing development, on the Assembly floor (Sept 11, 2025). The bill passed.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+     "title": "SB 79 (transit-oriented housing development) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 130 (Housing, budget trailer bill) on the Assembly floor, including concurrence on June 30, 2025.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+     "title": "AB 130 (Housing) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 131 (Public Resources budget trailer bill) on the Assembly floor, June 30, 2025.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB131",
+     "title": "SB 131 (Public Resources) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 627 (law enforcement: masks) on the Assembly floor, Sept 9, 2025.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+     "title": "SB 627 (Law enforcement: masks) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 49, limiting immigration enforcement at school sites, on the Assembly floor (May 27 and Sept 2, 2025).",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB49",
+     "title": "AB 49 (Schoolsites: immigration enforcement) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 81 (health and care facilities: information sharing), an urgency measure, Sept 2, 2025.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB81",
+     "title": "SB 81 (Health facilities: information sharing) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1127 (firearms: converter pistols) on the Assembly floor, June 3 and Sept 13, 2025.",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+     "title": "AB 1127 (Firearms: converter pistols) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1078 (Firearms) on the Assembly floor, June 2 and Sept 11, 2025.",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1078",
+     "title": "AB 1078 (Firearms) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1340, labor relations for transportation network company drivers, on the Assembly floor, June 4 and Sept 9, 2025.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "AB 1340 (TNC drivers: labor relations) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 288 (employment: labor organization and unfair practices) on the Assembly floor, June 2 and Sept 10, 2025.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB288",
+     "title": "AB 288 (Employment: labor organization) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on ACA 8 (congressional redistricting) on the Assembly floor, Aug 21, 2025.",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+     "title": "ACA 8 (Congressional redistricting) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 237 (gasoline specifications suspension, CEQA exemptions, County of Kern) on the Assembly floor, Sept 13, 2025.",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+     "title": "SB 237 (Oil spill prevention: gasoline specifications, Kern County) - Bill Votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Said of ICE raids in Paramount: \"These families deserve protection - not tear gas. Not raids. Not fear.\" Pledged to demand \"transparency, justice, and dignity for every resident - regardless of immigration status.\"",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://solache.asmdc.org/press-releases/20250606-assemblymember-solache-responds-ice-activity-and-tear-gas-deployment",
+     "title": "Assemblymember Solache Responds to ICE Activity and Tear Gas Deployment in Paramount (June 6, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 1708 to let cities under 300,000 people apply for state HHAP homelessness funding through their Continuum of Care. Said it would \"deliver local solutions\" with \"compassion.\" Sponsored by the League of California Cities.",
+    "kind": "official-action",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://solache.asmdc.org/press-releases/20260211-assemblymember-solache-introduces-hhap-pathways-cities-act-increase-access",
+     "title": "Assemblymember Solache Introduces the HHAP Pathways for Cities Act (Feb 11, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Supported the 2025-26 budget, citing Medi-Cal access, protections for reproductive health providers, K-12 funding, rejected UC/CSU cuts, and preserved housing and homelessness prevention programs.",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://solache.asmdc.org/press-releases/20250630-statement-assemblymember-solache-2025-2026-state-budget",
+     "title": "Statement from Assemblymember Solache on the 2025-2026 State Budget (June 30, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "paul-irving-jones": []
+ },
+ "notes": "No public positions found for paul-irving-jones: no campaign site, Ballotpedia, Vote411, or news page could be retrieved with issue positions (web search budget exhausted). Solache items are leginfo Assembly floor votes (2025) and his official press releases; his AB 1708 HHAP bill is described from his press release, not final vote outcome."
+}

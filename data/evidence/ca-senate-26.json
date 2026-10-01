@@ -1,0 +1,170 @@
+{
+  "contestId": "ca-senate-26",
+  "options": {
+    "sara-hernandez": [
+      {
+        "text": "Housing priorities: more multifamily housing near transit and jobs, streamlined approvals, stronger tenant protections including eviction and rent control laws, community land trusts and public land for affordable homes.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.theeastsiderla.com/news/government_and_politics/sara-hernandez-state-senate-district-26-candidate/article_f600a2a7-d123-4d49-b47f-25ceb07d6254.html",
+          "title": "Sara Hernandez: State Senate District 26 candidate (Eastsider LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports strengthening eviction and rent control laws to protect tenants.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.theeastsiderla.com/news/government_and_politics/sara-hernandez-state-senate-district-26-candidate/article_f600a2a7-d123-4d49-b47f-25ceb07d6254.html",
+          "title": "Sara Hernandez: State Senate District 26 candidate (Eastsider LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Transit: expand bus and rail, add protected bike lanes, improve stops, and champion universal TAP card access.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.theeastsiderla.com/news/government_and_politics/sara-hernandez-state-senate-district-26-candidate/article_f600a2a7-d123-4d49-b47f-25ceb07d6254.html",
+          "title": "Sara Hernandez: State Senate District 26 candidate (Eastsider LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to expand \"safe zone\" protections beyond schools and healthcare and tax private ICE detention; would redirect state funding for mixed-status families facing HUD cuts.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/brief/news/immigration-public-health-are-top-concerns-at-senate-district-26-candidate-forum-in-boyle-heights",
+          "title": "Immigration, public health are top concerns at Senate District 26 forum (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would \"redirect Prop 1 funding to support early intervention and community nonprofits.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/brief/news/immigration-public-health-are-top-concerns-at-senate-district-26-candidate-forum-in-boyle-heights",
+          "title": "Immigration, public health are top concerns at Senate District 26 forum (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates \"stronger gun safety laws, increased enforcement, and real investment in violence prevention\"; opposes racial profiling and unconstitutional tactics of masked, unidentified agents.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://ijaction.org/sd-26-2026/",
+          "title": "Senate District 26 - Initiate Justice Action voter guide",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants debt-free community college and bachelor's degrees and union apprenticeships and workforce training; supports universal childcare.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.theeastsiderla.com/news/government_and_politics/sara-hernandez-state-senate-district-26-candidate/article_f600a2a7-d123-4d49-b47f-25ceb07d6254.html",
+          "title": "Sara Hernandez: State Senate District 26 candidate (Eastsider LA)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Committed to defending reproductive freedom and gender equity, environmental justice, and protecting immigrant communities.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.theeastsiderla.com/news/government_and_politics/sara-hernandez-state-senate-district-26-candidate/article_f600a2a7-d123-4d49-b47f-25ceb07d6254.html",
+          "title": "Sara Hernandez: State Senate District 26 candidate (Eastsider LA)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sarah-rascon": [
+      {
+        "text": "Endorses CalCare single-payer, \"eliminating private insurance overhead to reduce premiums and out-of-pocket costs,\" and expanding Medi-Cal.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs sanctuary-state protections and policies ensuring \"housing and health care regardless of immigration status.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Our undocumented immigrant communities should never fear going to the doctor\"; supports progressive taxation to replace federal Medi-Cal cuts.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laist.com/brief/news/immigration-public-health-are-top-concerns-at-senate-district-26-candidate-forum-in-boyle-heights",
+          "title": "Immigration, public health are top concerns at Senate District 26 forum (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Promotes community-based responses to homelessness and mental health crises, increased police oversight, and strengthening public defenders over traditional enforcement.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes clean energy and climate resilience, aligning workforce development with green jobs; environmental justice background.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports reproductive justice measures and reducing barriers to abortion care.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"public investment in workforce development, education, and community economic opportunity\" and tax credits for California's entertainment sector.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://electionscali.com/candidates/sarah-rascn",
+          "title": "Sarah Rascón - Election Scali",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Said she spent the summer patrolling her neighborhood for federal immigration agents.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/brief/news/immigration-public-health-are-top-concerns-at-senate-district-26-candidate-forum-in-boyle-heights",
+          "title": "Immigration, public health are top concerns at Senate District 26 forum (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Rascón: Election Scali profile is a third-party summary of her platform; her own campaign site was not located. Nothing on housing growth or renters found. Hernandez: positions from Eastsider LA profile, LAist forum and IJ voter guide."
+}

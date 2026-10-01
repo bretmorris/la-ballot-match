@@ -2,7 +2,7 @@
  "contestId": "la-county-measure-e",
  "kind": "measure",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:48.122Z",
+ "scoredAt": "2026-10-01T04:41:35.271Z",
  "measure": {
   "taxes-spending": {
    "direction": 0.01,

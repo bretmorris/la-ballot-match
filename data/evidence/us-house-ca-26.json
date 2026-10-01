@@ -1,0 +1,228 @@
+{
+ "contestId": "us-house-ca-26",
+ "options": {
+  "jacqui-irwin": [
+   {
+    "text": "Said the district's biggest challenge is the rising cost of living, particularly housing affordability, and that the federal government should help reduce barriers to housing construction and expand funding for affordable housing projects.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/",
+     "title": "Candidates for Congress focus on affordability in District 26 race (Thousand Oaks Acorn)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 1207 reauthorizing cap-and-trade as 'Cap-and-Invest' (passed Assembly 58-10). Said it is 'the strongest, most cost-effective emissions reduction program in the world' and aligns the program with net-zero emissions statewide by 2045.",
+    "kind": "official-action",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20250918-assemblywoman-irwin-sends-bill-reauthorize-californias-cap-and-trade",
+     "title": "Assemblywoman Irwin Sends Bill to Reauthorize California's Cap and Trade Greenhouse Gas Law to the Governor (Sept 18, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 2589 (2026) requiring the CPUC to return to ratepayers utility savings from federal tax-law changes: 'Californians should not pay utility rates based on tax expenses that a utility no longer has to pay.' Passed the Legislature without a 'no' vote.",
+    "kind": "official-action",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20260828-bill-close-utilities-windfall-profit-loophole-passed-legislature",
+     "title": "Bill to close utilities windfall profit loophole passed Legislature (Aug 28, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 2531, signed Sept 2026, expanding California's uncompensated abortion and contraception care grants to veterans cut off by VA policy: 'California has committed to protecting reproductive freedom, and that commitment must include veterans.'",
+    "kind": "official-action",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20260929-governor-newsom-signs-irwin-bill-protect-veterans-benefits-cut-trump",
+     "title": "Governor Newsom signs Irwin bill to protect veterans' benefits cut by Trump (Sept 29, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Secured $10 million in the 2021 state budget for a grant program helping county sheriffs seize firearms from people prohibited from possessing them: 'we need to do all we can to keep guns out of the hands of dangerous individuals.'",
+    "kind": "official-action",
+    "dimension": "guns",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20210614-assemblymember-irwin-secures-state-funding-crucial-gun-violence-prevention",
+     "title": "Irwin secures state funding for gun violence prevention (June 14, 2021)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 411, a bill to put a $600 million Veterans Housing and Homelessness Prevention Program bond before voters; said 'It is heartbreaking that there are thousands of homeless veterans in California experiencing housing insecurity.'",
+    "kind": "official-action",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20210316-irwin-bill-reduce-veteran-homelessness-passes-assembly-committee-housing",
+     "title": "Irwin bill to reduce veteran homelessness passes Assembly committee (Mar 16, 2021)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Joined 21 Assembly members in March 2022 proposing a $400 tax rebate in response to rising gas prices and consumer inflation.",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20220317-asm-irwin-joins-legislators-calling-tax-rebate-rising-gas-prices-and",
+     "title": "Irwin joins legislators calling for tax rebate (Mar 17, 2022)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 1534 (signed Sept 2026) setting approval standards and student protections for federally funded Workforce Pell short-term training programs, so 'every dollar from the federal government will be spent on quality programs.'",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20260928-governor-newsom-signs-ab-1534-establishing-strongest-workforce-pell",
+     "title": "Governor Newsom signs AB 1534 establishing strongest Workforce Pell standards (Sept 28, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 762 (signed Sept 2026) banning sales of non-rechargeable, non-refillable disposable nicotine vapes starting Jan 1, 2028, citing waste, pollution and lithium-battery fire risks.",
+    "kind": "official-action",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://irwin.asmdc.org/press-releases/20260928-governor-newsom-signs-ab-762-banning-disposable-vapes-california",
+     "title": "Governor Newsom signs AB 762 banning disposable vapes (Sept 28, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the California Labor Federation, SEIU California, California Federation of Teachers and the Tri-Counties Building and Construction Trades Council.",
+    "kind": "endorsement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.jacquiirwin.com/endorsements2026",
+     "title": "Jacqui Irwin for Congress - 2026 endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by Planned Parenthood Action Fund, Equality California and the Sierra Club.",
+    "kind": "endorsement",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://www.jacquiirwin.com/endorsements2026",
+     "title": "Jacqui Irwin for Congress - 2026 endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Ventura County Deputy Sheriffs Association and the Ventura County Professional Firefighters' Association.",
+    "kind": "endorsement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.jacquiirwin.com/endorsements2026",
+     "title": "Jacqui Irwin for Congress - 2026 endorsements",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Announced her run saying she is ready to stand up for the district and state in Congress, 'fighting Trump's assault on our democracy and values while prioritizing public safety, affordability, and the needs of Ventura County.'",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://keyt.com/news/ventura-county/2026/01/08/assemblymember-jacqui-irwin-announces-congressional-campaign-thursday/",
+     "title": "Assemblymember Jacqui Irwin announces Congressional campaign (KEYT, Jan 8, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "sam-gallucci": [
+   {
+    "text": "2021 recall questionnaire: 'I would reduce spending on government entitlement programs and money for new illegal immigrants coming into the state.' Also pledged to audit budgets and eliminate wasteful spending.",
+    "kind": "questionnaire",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://ivoterguide.com/candidate/58815/race/12919/election/853?culture=en-us",
+     "title": "Voter Guide Profile for CA Gubernatorial Replacement candidate Samuel Gallucci (2021 recall questionnaire)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall questionnaire on health care: 'I would eliminate all barriers to the free market to create competitive creative solutions.'",
+    "kind": "questionnaire",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://ivoterguide.com/candidate/58815/race/12919/election/853?culture=en-us",
+     "title": "Voter Guide Profile for CA Gubernatorial Replacement candidate Samuel Gallucci (2021 recall questionnaire)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall questionnaire: 'Any non-criminal should be able to immigrate to the U.S. following all immigration laws.' Supports border wall construction and denying funds to entities not complying with immigration laws.",
+    "kind": "questionnaire",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://ivoterguide.com/candidate/58815/race/12919/election/853?culture=en-us",
+     "title": "Voter Guide Profile for CA Gubernatorial Replacement candidate Samuel Gallucci (2021 recall questionnaire)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall questionnaire: asked in what circumstances abortion should be permitted, answered 'None'; opposes taxpayer funding for abortion providers.",
+    "kind": "questionnaire",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://ivoterguide.com/candidate/58815/race/12919/election/853?culture=en-us",
+     "title": "Voter Guide Profile for CA Gubernatorial Replacement candidate Samuel Gallucci (2021 recall questionnaire)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall questionnaire: 'The state cannot interfere with the free practice of religion.' Listed homelessness, voter fraud, and restoring parental rights and religious freedoms as his legislative priorities.",
+    "kind": "questionnaire",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://ivoterguide.com/candidate/58815/race/12919/election/853?culture=en-us",
+     "title": "Voter Guide Profile for CA Gubernatorial Replacement candidate Samuel Gallucci (2021 recall questionnaire)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall campaign: said he is 'the only candidate with a proven plan to address California's homeless crisis without spending more taxpayer dollars,' citing his years as a pastor serving the homeless.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://patch.com/california/los-angeles/ca-recall-candidate-profile-meet-sam-galluci",
+     "title": "CA Recall Candidate Profile: Meet Sam Gallucci (Patch)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2021 recall campaign: said his business experience would 'help create jobs, lower taxes, and roll back regulations that hurt job growth.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://patch.com/california/los-angeles/ca-recall-candidate-profile-meet-sam-galluci",
+     "title": "CA Recall Candidate Profile: Meet Sam Gallucci (Patch)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On undocumented immigrants (2026): 'I think most people agree criminals need to go, the workers need to stay.'",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/",
+     "title": "Candidates for Congress focus on affordability in District 26 race (Thousand Oaks Acorn)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "2026 candidate focus: said he wants to bridge political divisions while focusing on homelessness, education and immigration reform; described his fiscal views as conservative.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/",
+     "title": "Candidates for Congress focus on affordability in District 26 race (Thousand Oaks Acorn)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Gallucci's campaign site (samgallucci.com) had no issues content, so most of his items are from his 2021 gubernatorial recall candidate statements (older than 2026) plus one 2026 news quote; positions may have evolved. Irwin items are mostly her office press releases (her own statements) rather than roll-call votes, which could not be retrieved (Vote Smart blocked, Digital Democracy gave only summaries)."
+}

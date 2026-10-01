@@ -1,0 +1,110 @@
+{
+  "contestId": "ca-superintendent-of-public-instruction",
+  "options": {
+    "richard-barrera": [
+      {
+        "text": "\"California should have the best public school system in the world... it's not that we lack the resources that our students and educators need\"; advocates increased education funding.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://edsource.org/2026/california-superintendent-candidates-education-issues/759405",
+          "title": "Still deciding before Election Day? See where California superintendent candidates stand (EdSource)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports state protections for transgender and LGBTQ+ students and promotes ethnic studies and bilingual teaching.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://edsource.org/2026/california-superintendent-candidates-education-issues/759405",
+          "title": "Still deciding before Election Day? See where California superintendent candidates stand (EdSource)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Statement: says he \"fought to protect students from the heartless Trump administration: keeping ICE out of schools, standing up for LGBTQ students.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+          "title": "Superintendent of Public Instruction Candidate Statements (CA SOS Voter Guide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes privatization efforts; backs union partnership in education decisions.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.yahoo.com/news/politics/articles/union-power-vs-maga-politics-100000162.html",
+          "title": "Union power vs. MAGA politics in California's schools superintendent race",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Teachers Association, United Domestic Workers and California Charter School Advocates.",
+        "kind": "endorsement",
+        "dimension": "education",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/",
+          "title": "CalMatters 2026 California Voter Guide: Superintendent of Public Instruction",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "sonja-shaw": [
+      {
+        "text": "Opposes transgender students in girls' sports and supports parental notification policies on student gender identity.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://edsource.org/2026/california-superintendent-candidates-education-issues/759405",
+          "title": "Still deciding before Election Day? See where California superintendent candidates stand (EdSource)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Believes the state should redirect existing education funds rather than increase spending; calls ethnic studies \"divisive\" and prefers civics.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://edsource.org/2026/california-superintendent-candidates-education-issues/759405",
+          "title": "Still deciding before Election Day? See where California superintendent candidates stand (EdSource)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports charter schools, homeschooling and \"alternative learning models\" as options for families.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.yahoo.com/news/politics/articles/union-power-vs-maga-politics-100000162.html",
+          "title": "Union power vs. MAGA politics in California's schools superintendent race",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Statement: \"Fewer than half can read or write at grade level\"; agenda is academic basics, Title IX protections for girls' sports, less bureaucracy.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+          "title": "Superintendent of Public Instruction Candidate Statements (CA SOS Voter Guide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party, Moms for Liberty and California Rifle and Pistol Association.",
+        "kind": "endorsement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/",
+          "title": "CalMatters 2026 California Voter Guide: Superintendent of Public Instruction",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both nonpartisan on ballot."
+}

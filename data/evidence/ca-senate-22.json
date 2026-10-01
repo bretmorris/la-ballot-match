@@ -1,0 +1,190 @@
+{
+  "contestId": "ca-senate-22",
+  "options": {
+    "susan-rubio": [
+      {
+        "text": "Rubio voted Aye on SB 627 (law enforcement masks), Senate concurrence vote, 9/11/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "Bill Votes - SB-627 Law enforcement: masks (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on AB 1127 (firearms: converter pistols), Senate floor, 9/12/2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "Bill Votes - AB-1127 Firearms: converter pistols (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on AB 1207 (extension of the cap-and-trade market-based compliance mechanism), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+          "title": "Bill Votes - AB-1207 Climate change: market-based compliance mechanism: extension (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 98 (schools and colleges: immigration enforcement notification), Senate floor, 9/2/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Bill Votes - SB-98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on AB 1340 (labor relations for rideshare drivers), Senate floor, 9/8/2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "Bill Votes - AB-1340 Transportation network company drivers: labor relations (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 63 (Bay Area local revenue measure for public transit funding), Senate concurrence, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63",
+          "title": "Bill Votes - SB-63 San Francisco Bay area: local revenue measure: public transit funding (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on ACA 8 (congressional redistricting), Senate floor, 8/21/2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Bill Votes - ACA 8 Congressional redistricting (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 840 (Greenhouse Gas Reduction Fund, urgency), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB840",
+          "title": "Bill Votes - SB-840 Greenhouse gases: Greenhouse Gas Reduction Fund: studies (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 101, the Budget Act of 2025, Senate concurrence, 6/13/2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
+          "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 237 (suspending certain gasoline specifications and CEQA exemptions, oil spill prevention), Senate floor 9/13/2025 and Assembly floor.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "Bill Votes - SB-237 Oil spill prevention: gasoline specifications: suspension: CEQA exemptions (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio voted Aye on SB 41 (pharmacy benefits), Senate third reading 5/28/2025 and concurrence 9/10/2025.",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB41",
+          "title": "Bill Votes - SB-41 Pharmacy benefits (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Digital Democracy voting alignment for Rubio: Equality California 100%, Planned Parenthood 100%, California Labor Federation 93%, California Teachers Association 89%; Howard Jarvis Taxpayers Association 0%, American Conservative Union 0%.",
+        "kind": "voting-record",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://calmatters.digitaldemocracy.org/legislators/susan-rubio-165042",
+          "title": "Susan Rubio - Digital Democracy (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Rubio's Senate page lists her priorities as supporting immigrants' rights, advancing working families' economic prosperity, and defending women's bodily autonomy.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://democrats.senate.ca.gov/senator/rubio",
+          "title": "Senator Susan Rubio",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "mike-netter": [
+      {
+        "text": "Wants to cut income taxes by 28% for people earning $150,000 or less, saying it \"will only cost the state $9 billion a year.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "title": "State Senate Candidate Mike Netter: It's Time to Undo a lot of Bad Laws (California Globe)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says legislators with no business experience pass \"1,500 to 2,000 new laws every year\" that hurt small businesses and expand government.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "title": "State Senate Candidate Mike Netter (California Globe)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On crime: \"The laws we have need to be followed\"; emphasizes enforcing existing laws over passing new ones.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "title": "State Senate Candidate Mike Netter (California Globe)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On homelessness: \"It is wrong to live on the streets and we are going to empower you to deal with them\"; argues state officials should work in communities rather than micromanage from above.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "title": "State Senate Candidate Mike Netter (California Globe)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On elections: opposes permanent absentee ballots, supports removing voters from the rolls after they skip two elections, and questions whether online registrations are legitimate.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "title": "State Senate Candidate Mike Netter (California Globe)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Netter: only one interview (California Globe) retrieved; his own campaign site was not located. Nothing found on abortion, guns, health care, education, housing."
+}

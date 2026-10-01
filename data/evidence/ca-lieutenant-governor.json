@@ -1,0 +1,148 @@
+{
+  "contestId": "ca-lieutenant-governor",
+  "options": {
+    "fiona-ma": [
+      {
+        "text": "Calls housing her \"#1 goal\": \"We need to expand the supply of affordable housing.\" Proposes a zero-interest revolving loan fund from Building Homes and Jobs Trust Fund revenue and workforce housing on school and college land.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+          "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would expand affordable student housing, cut student debt burdens, and push higher education toward \"real pathways to stable, well-paying careers\"; commits to measurable cuts in non-tuition costs.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+          "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to champion the first commercial-scale offshore wind hub, with over 10,000 union jobs created by 2028.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+          "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants \"working people\" to share in prosperity through good-paying jobs in industries of the future and stronger education-labor-industry partnerships.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+          "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes abolishing the Board of Equalization and requiring the Governor and Lieutenant Governor to run on the same ticket.",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/fiona-ma/",
+          "title": "Fiona Ma Lieutenant Governor Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Treasurer, advocated collecting sales tax from online marketplaces, estimated at $431 million to $1.8 billion per year in new revenue.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Fiona_Ma",
+          "title": "Fiona Ma (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Labor Federation, State Building and Construction Trades Council, and AFSCME.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/",
+          "title": "CalMatters 2026 California Voter Guide: Lieutenant Governor",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "gloria-romero": [
+      {
+        "text": "Campaigns on universal school choice and accountability: \"ZIP codes should not determine a child's future\"; campaign materials tout support for vouchers.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://bayareagop.com/gloria-romeros-unconventional-bid-for-california-lieutenant-governor/",
+          "title": "Gloria Romero's Unconventional Bid for California Lieutenant Governor (BayAreaGOP)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As a state senator, authored the \"parent trigger\" law letting a majority of parents at a \"failing school\" vote on a restructuring method; later founded Scholarship Prep Charter School.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Gloria_Romero_(politician)",
+          "title": "Gloria Romero (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Candidate statement: \"California's budget is bloated with bureaucracy and waste\"; cites failures in education, homelessness and public safety under one-party rule; pledges to defend parental rights in schools.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+          "title": "Lieutenant Governor Candidate Statements (CA SOS Voter Guide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaigning for housing reform and tax relief to cut the cost of living, and for tougher stances on crime; wants to freeze tuition and limit remedial coursework in higher education.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://bayareagop.com/gloria-romeros-unconventional-bid-for-california-lieutenant-governor/",
+          "title": "Gloria Romero's Unconventional Bid for California Lieutenant Governor (BayAreaGOP)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supported Proposition 32, which aimed to restrict union political contributions.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Gloria_Romero_(politician)",
+          "title": "Gloria Romero (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Left the Democratic Party for the Republicans in 2024, citing disagreements on crime, gender identity, COVID-19 lockdowns, gas stoves and school choice.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Gloria_Romero_(politician)",
+          "title": "Gloria Romero (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party and Reform California.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/",
+          "title": "CalMatters 2026 California Voter Guide: Lieutenant Governor",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Romero has no findable positions on abortion, guns, immigration or health care; Ma none on policing or immigration. Wikipedia used for legislative record because primary records were not fetched."
+}

@@ -1,0 +1,48 @@
+{
+  "contestId": "la-superior-court-87",
+  "notes": "Judicial candidates; bar ratings excluded. DeJute's site lists no endorsers on the page fetched.",
+  "options": {
+    "anthony-a-j-bayne": [
+      {
+        "text": "Campaign tagline \"Justice that Works for Los Angeles\"; emphasizes courtroom experience and judicial temperament rather than specific policy positions.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://electbayneforjudge.com",
+          "title": "A.J. Bayne for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU Local 721, ILWU, Knock LA and LA Forward.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://electbayneforjudge.com",
+          "title": "A.J. Bayne for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Association of Deputy District Attorneys and the Peace Officers Research Association of California.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://electbayneforjudge.com",
+          "title": "A.J. Bayne for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "david-dejute": [
+      {
+        "text": "\"Justice belongs to everyone\" and \"values matter\" in judicial service; campaign tagline \"Justice That Reflects Los Angeles,\" framed around \"fairness, reason, and respect.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://dejuteforjudge.com",
+          "title": "David DeJute for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

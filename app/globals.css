@@ -1,49 +1,233 @@
+/* Ballot-inspired styling: black contest header bars, plain sans-serif, ovals. Deliberately not a replica of any official ballot. */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #ffffff;
+  --page: #ecebe6;
+  --ink: #111111;
+  --ink-soft: #4a4a4a;
+  --rule: #111111;
+  --rule-soft: #c9c7bf;
+  --bar: #111111;
+  --bar-ink: #ffffff;
+  --accent: #1d4ed8;
+  --accent-soft: #dbe5fb;
+  --warn-bg: #fff7d6;
+  --warn-ink: #5c4500;
+  --font: "Arial", "Helvetica Neue", Helvetica, system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme="light"]) {
+    --paper: #1b1b1b;
+    --page: #0f0f0f;
+    --ink: #f2f2f2;
+    --ink-soft: #b5b5b5;
+    --rule: #e8e8e8;
+    --rule-soft: #3a3a3a;
+    --bar: #e8e8e8;
+    --bar-ink: #111111;
+    --accent: #8fb0ff;
+    --accent-soft: #23304d;
+    --warn-bg: #3a3214;
+    --warn-ink: #f3df9b;
   }
 }
 
-html {
-  height: 100%;
-}
+* { box-sizing: border-box; }
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
+html, body {
   margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+a { color: var(--accent); }
+
+button { font: inherit; color: inherit; }
+
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 16px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+.unofficial {
+  background: var(--warn-bg);
+  color: var(--warn-ink);
+  font-size: 13px;
+  padding: 8px 16px;
+  text-align: center;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.masthead {
+  border: 2px solid var(--rule);
+  background: var(--paper);
+  padding: 16px;
+  margin: 16px 0;
+}
+.masthead h1 {
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.masthead p { margin: 6px 0 0; color: var(--ink-soft); font-size: 14px; }
+
+/* A ballot "card": black bar header, rows below. */
+.card {
+  background: var(--paper);
+  border: 2px solid var(--rule);
+  margin: 0 0 16px;
+  break-inside: avoid;
+}
+.bar {
+  background: var(--bar);
+  color: var(--bar-ink);
+  padding: 8px 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-size: 15px;
+}
+.subbar {
+  padding: 6px 12px;
+  border-bottom: 1px solid var(--rule);
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+.body { padding: 12px; }
+.body p { margin: 0 0 10px; }
+
+.section-title {
+  margin: 28px 0 10px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 3px solid var(--rule);
+  padding-bottom: 4px;
+}
+
+/* Option rows with an oval */
+.row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 10px 12px;
+  border-top: 1px solid var(--rule-soft);
+  width: 100%;
+  background: none;
+  border-left: 0; border-right: 0; border-bottom: 0;
+  text-align: left;
+}
+.row:first-child { border-top: 0; }
+button.row { cursor: pointer; }
+button.row:hover { background: var(--accent-soft); }
+button.row:focus-visible { outline: 3px solid var(--accent); outline-offset: -3px; }
+
+.oval {
+  flex: none;
+  width: 30px;
+  height: 18px;
+  border: 2px solid var(--rule);
+  border-radius: 50%;
+  margin-top: 2px;
+}
+.oval.filled { background: var(--ink); }
+.oval.half { background: linear-gradient(90deg, var(--ink) 50%, transparent 50%); }
+
+.name { font-weight: 700; text-transform: uppercase; }
+.meta { font-size: 13px; color: var(--ink-soft); }
+.tag {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border: 1px solid currentColor;
+  margin-left: 6px;
+  text-transform: uppercase;
+  vertical-align: 1px;
+}
+.tag.match { color: var(--accent); }
+
+.verdict {
+  padding: 8px 12px;
+  border-top: 1px solid var(--rule);
+  font-size: 14px;
+}
+.verdict.muted { color: var(--ink-soft); }
+
+details { border-top: 1px solid var(--rule-soft); }
+details summary {
+  cursor: pointer;
+  padding: 8px 12px;
+  font-size: 14px;
+  color: var(--accent);
+}
+details .inner { padding: 0 12px 12px; font-size: 14px; }
+details ul { margin: 0; padding-left: 18px; }
+details li { margin: 0 0 6px; }
+
+/* Position strip: where you and an option sit on a dimension */
+.strip { margin: 8px 0 12px; }
+.strip .label { font-size: 13px; font-weight: 700; }
+.strip .track {
+  position: relative;
+  height: 14px;
+  border-bottom: 2px solid var(--rule-soft);
+  margin: 4px 0 2px;
+}
+.strip .dot {
+  position: absolute;
+  top: 2px;
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  transform: translateX(-50%);
+}
+.strip .you { background: var(--accent); }
+.strip .them { background: var(--ink); border: 2px solid var(--paper); }
+.strip .ends { display: flex; justify-content: space-between; gap: 12px; font-size: 11px; color: var(--ink-soft); }
+.strip .ends span:last-child { text-align: right; }
+
+.btns { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; }
+.btn {
+  border: 2px solid var(--rule);
+  background: var(--paper);
+  padding: 10px 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+}
+.btn.primary { background: var(--bar); color: var(--bar-ink); }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.progress { height: 6px; background: var(--rule-soft); margin: 0 0 16px; }
+.progress div { height: 100%; background: var(--ink); }
+
+input[type="text"] {
+  width: 100%;
+  font: inherit;
+  padding: 10px 12px;
+  border: 2px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.error { color: #b91c1c; font-size: 14px; margin-top: 8px; }
+@media (prefers-color-scheme: dark) { .error { color: #fca5a5; } }
+
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--ink-soft); margin: 8px 0 0; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+
+footer { font-size: 13px; color: var(--ink-soft); margin: 32px 0; }
+
+@media print {
+  .unofficial, .btns, details summary { display: none; }
+  body { background: #fff; }
 }

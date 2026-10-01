@@ -1,0 +1,127 @@
+{
+  "contestId": "ca-treasurer",
+  "options": {
+    "eleni-kounalakis": [
+      {
+        "text": "Prioritizes \"expanding affordable housing and investing in infrastructure,\" citing her background as a housing developer.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/eleni-kounalakis/",
+          "title": "Eleni Kounalakis Treasurer Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes \"protecting retirement security and strengthening public pension systems.\"",
+        "kind": "questionnaire",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/eleni-kounalakis/",
+          "title": "Eleni Kounalakis Treasurer Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a public-facing \"California Balance Sheet\" dashboard and keeping debt service at or below 6% of General Fund revenues.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://growsf.org/voter-guide/questionnaires/june-2026/eleni-kounalakis/",
+          "title": "Eleni Kounalakis Treasurer Candidate Questionnaire (GrowSF, June 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Statement: priorities include affordable housing through public finance, supporting children and families, protecting health care, and pension security.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+          "title": "Treasurer Candidate Statements (CA SOS Voter Guide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Regularly voted against proposed tuition increases\" on the UC Regents and CSU Trustees.",
+        "kind": "voting-record",
+        "dimension": "education",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+          "title": "CalMatters 2026 California Voter Guide: Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Labor Federation, Teamsters California and National Union of Healthcare Workers.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+          "title": "CalMatters 2026 California Voter Guide: Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jennifer-hawks": [
+      {
+        "text": "Promises every bond, allocation and dollar of debt service \"published in plain language — not buried in a 400-page PDF.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://hawksforus.com/about",
+          "title": "Jennifer Hawks for California State Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"California spends more per person than almost any state and gets less for it. Jennifer will score programs on outcomes, not press releases.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://hawksforus.com/about",
+          "title": "Jennifer Hawks for California State Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Pension and investment decisions made for the beneficiaries who earned them — never as political statements.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://hawksforus.com/about",
+          "title": "Jennifer Hawks for California State Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"California doesn't need more spending plans. It needs someone willing to ask why past spending failed.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://hawksforus.com/about",
+          "title": "Jennifer Hawks for California State Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Statement: calls herself \"a financial watchdog, not another politician\" who will demand transparency and investigate waste.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+          "title": "Treasurer Candidate Statements (CA SOS Voter Guide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party, California Republican Assembly and Reform California.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+          "title": "CalMatters 2026 California Voter Guide: Treasurer",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Treasurer office is fiscal; little evidence on social-policy dimensions for either candidate."
+}

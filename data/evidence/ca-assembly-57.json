@@ -1,0 +1,159 @@
+{
+ "contestId": "ca-assembly-57",
+ "options": {
+  "sade-elhawary": [
+   {
+    "text": "Voted Aye on SB 79 (transit-oriented housing development) on the Assembly floor, Sept. 11, 2025 (passed 43-19).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+     "title": "SB 79 Housing development: transit-oriented development - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 130 (housing budget trailer bill) on the Assembly floor, March 20, 2025 (53-17) and on concurrence June 30, 2025 (62-3).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+     "title": "AB 130 Housing - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1207 (extending the cap-and-trade market-based compliance mechanism) on the Assembly floor, May 27, 2025 (60-2) and on concurrence Sept. 13, 2025 (58-10).",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+     "title": "AB 1207 Climate change: market-based compliance mechanism: extension - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1340 (union organizing for rideshare/TNC drivers) on the Assembly floor, June 4, 2025 (54-15) and on concurrence Sept. 9, 2025 (60-15).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "AB 1340 Transportation network company drivers: labor relations - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 1127 (firearms: converter pistols) on the Assembly floor, June 3, 2025 (58-17) and on concurrence Sept. 13, 2025 (54-16).",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+     "title": "AB 1127 Firearms: converter pistols - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 704 (firearm barrels) on the Assembly floor, Sept. 8, 2025 (57-20).",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB704",
+     "title": "SB 704 Firearms: firearm barrels - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on SB 627 (restricting masks for law enforcement officers) on the Assembly floor, Sept. 9, 2025 (45-23).",
+    "kind": "voting-record",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+     "title": "SB 627 Law enforcement: masks - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Aye on AB 495, the Family Preparedness Plan Act of 2025, on the Assembly floor, June 3, 2025 (62-7) and on concurrence Sept. 11, 2025 (60-20).",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB495",
+     "title": "AB 495 Family Preparedness Plan Act of 2025 - bill votes (leginfo)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "On immigration raids: \"These raids don't make us safer; they only tear our communities apart... We must fight back.\" Urged residents to demand a judicial warrant before letting ICE agents into a home.",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20250210-assemblymember-sade-elhawary-stands-firm-against-immigration-raids-while",
+     "title": "Assemblymember Sade Elhawary Stands Firm Against Immigration Raids (Feb. 10, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Office statement that she \"has been an advocate for increasing taxes on the wealthiest Californians to help offset federal cuts\" that threaten services relied on by vulnerable populations.",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20260408-assemblymember-sade-elhawary-introduces-2026-legislative-package-centered",
+     "title": "Assemblymember Sade Elhawary Introduces 2026 Legislative Package (Apr. 8, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 1231, the Safer Communities Through Opportunities Act, to expand judges' ability to offer diversion and services for low-level, non-violent felonies; she spoke at a Capitol rally urging Senate passage, themed \"Healing not Incarceration.\"",
+    "kind": "official-action",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20250821-healing-not-incarceration-capitol-rally-urge-passage-ab-1231",
+     "title": "Healing not Incarceration: Capitol Rally to Urge the Passage of AB 1231 (Aug. 21, 2025)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 2079 (Adaptive Reuse) in 2026 to expand flexibility to transform vacant office space into new development projects.",
+    "kind": "official-action",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20260408-assemblymember-sade-elhawary-introduces-2026-legislative-package-centered",
+     "title": "Assemblymember Sade Elhawary Introduces 2026 Legislative Package (Apr. 8, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 1843 (2026) to remove prior-authorization requirements for Hepatitis C treatment in commercial health plans.",
+    "kind": "official-action",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20260408-assemblymember-sade-elhawary-introduces-2026-legislative-package-centered",
+     "title": "Assemblymember Sade Elhawary Introduces 2026 Legislative Package (Apr. 8, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 2014, the Gender Justice Act (2026), requiring judges to scrutinize evidence or arguments in trials that rely on gender stereotypes, including a defendant's sexual history, orientation or reproductive choices.",
+    "kind": "official-action",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20260408-assemblymember-sade-elhawary-introduces-2026-legislative-package-centered",
+     "title": "Assemblymember Sade Elhawary Introduces 2026 Legislative Package (Apr. 8, 2026)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 37, an intent bill to convene stakeholders on barriers to mental-health treatment for unhoused people, citing low reimbursement rates and limited access to services.",
+    "kind": "official-action",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://a57.asmdc.org/press-releases/20241202-elhawary-introduces-legislation-improve-mental-health-unhoused-people",
+     "title": "Elhawary Introduces Legislation to Improve Mental Health for Unhoused People (Dec. 2, 2024)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "constance-jewel-menzies": []
+ },
+ "notes": "No public positions found for constance-jewel-menzies (listed as Republican, ballot designation In-Home Care Provider): no campaign site, Ballotpedia, Vote411 or news coverage was retrievable. Elhawary vote positions were read from leginfo Assembly floor roll calls (name in Ayes list). Her Assembly Aye on SB 79 etc. reflect floor votes only; she was not-voting on SB 98, SB 81 and SB 237, which are omitted."
+}

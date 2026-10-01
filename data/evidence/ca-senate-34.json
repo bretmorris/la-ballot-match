@@ -1,0 +1,170 @@
+{
+  "contestId": "ca-senate-34",
+  "options": {
+    "avelino-valencia": [
+      {
+        "text": "Valencia voted Aye on AB 1340 (labor relations for rideshare drivers), Assembly 6/4/2025 and concurrence 9/9/2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "Bill Votes - AB-1340 Transportation network company drivers: labor relations (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Valencia voted Aye on SB 98 (schools and colleges: immigration enforcement notification), Assembly floor, 9/2/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Bill Votes - SB-98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Valencia voted Aye on SB 840 (Greenhouse Gas Reduction Fund, urgency), Assembly floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB840",
+          "title": "Bill Votes - SB-840 Greenhouse gases: Greenhouse Gas Reduction Fund: studies (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Valencia voted Aye on ACA 8 (congressional redistricting), Assembly floor, 8/21/2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Bill Votes - ACA 8 Congressional redistricting (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Valencia voted Aye on SB 237 (suspending certain gasoline specifications and CEQA exemptions, oil spill prevention), Assembly floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "Bill Votes - SB-237 Oil spill prevention: gasoline specifications: suspension: CEQA exemptions (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Valencia voted Aye on SB 101, the Budget Act of 2025, Assembly floor, 6/13/2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
+          "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform: \"FULLY FUND SCHOOLS and improve teacher recruitment\"; expand home construction and first-time buyer assistance; ensure universal California healthcare coverage.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.avelinovalencia.com/",
+          "title": "Avelino Valencia campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform lists housing: expand home construction and first-time buyer assistance programs.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.avelinovalencia.com/",
+          "title": "Avelino Valencia campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform lists healthcare: ensure universal California coverage.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.avelinovalencia.com/",
+          "title": "Avelino Valencia campaign site",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rhonda-shader": [
+      {
+        "text": "Supports a simplified tax system with a competitive 25% rate, opposes the gas tax, and defends Prop 13 taxpayer protections.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Rhonda will fight to keep violent criminals out of our communities and support our law enforcement officers.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"education funding follow the student, giving parents more options, including charter schools.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports empowering local governments and faith-based organizations to increase shelter capacity, with more accountability for state homelessness programs.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes letting small businesses and individuals pool insurance across state lines and reducing frivolous lawsuits to lower health costs.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs reduced regulatory burden for small businesses, including benefit-requirement exceptions for firms under 50 employees, and PAGA reform.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates public-private partnerships for roads, utilities and broadband.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.ballotready.org/people/rhonda-shader",
+          "title": "Rhonda Shader - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Valencia votes are Assembly floor votes; Assembly vote on AB 1127 was NVR and SB 79/SB 627 are Senate-only, so not scored. Shader: BallotReady profile only; her own site was not located."
+}

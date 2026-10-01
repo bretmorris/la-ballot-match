@@ -1,0 +1,280 @@
+{
+  "contestId": "ca-assembly-46",
+  "options": {
+    "jesse-gabriel": [
+      {
+        "text": "Authored AB 3160 (2024), which secures $500 million annually in Low-Income Housing Tax Credits through 2031, and AB 2728, supporting affordable housing construction on lands owned by faith institutions and colleges.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 130 (housing trailer bill) on the Assembly floor in March and June 2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "AB 130 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 71 (CEQA exemptions: transit projects), Sept 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB71",
+          "title": "SB 71 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2835 (2024), \"Securing Motel Rooms for Homeless Families,\" to help provide housing to homeless families in motels.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2621 (2024), requiring hate-crime trainings to cover how gun violence restraining orders can prevent escalation, and AB 2822, the Safer Homes Act, letting DOJ collect data on firearm removal after domestic violence calls.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 1127 (firearms: converter pistols), a bill listed under his name, on the Assembly floor in June and Sept 2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "AB 1127 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2899 (2024), \"Safe Nurse-to-Patient Ratios,\" strengthening enforcement so hospitals comply with safe nurse staffing.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2550 (2024), the Small Business Support Act, which updates outdated regulations and cuts unnecessary red tape for small businesses.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Assembly Budget Committee chair on the June 2026 budget deal: \"We have talked in previous years and again this year about the balance between compassion and fiscal responsibility. That is at the center of our budget conversation.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://calmatters.org/politics/2026/06/california-budget-legislature-deal/",
+          "title": "California Democrats postpone deep cuts in budget deal (CalMatters)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2331 (2024) on voluntary carbon offset transparency, aimed at corporate greenwashing.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://a46.asmdc.org/press-releases/20240528-assemblymember-jesse-gabriel-successfully-advances-14-bills-california",
+          "title": "Assemblymember Jesse Gabriel Successfully Advances 14 Bills to the California State Senate (May 28, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 98 (schools: immigration enforcement notification, urgency) on the Assembly floor, Sept 2, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "SB 98 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 627 (law enforcement: masks) on the Assembly floor, Sept 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "SB 627 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 288 (employment: labor organization and unfair practices) on the Assembly floor, June and Sept 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB288",
+          "title": "AB 288 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 1340 (transportation network company drivers: labor relations), Sept 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "AB 1340 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 237 (oil spill prevention: gasoline specifications suspension; CEQA exemptions) on the Assembly floor, Sept 13, 2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "SB 237 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on ACA 8 (congressional redistricting) on the Assembly floor, Aug 21, 2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "ACA 8 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by California Correctional Peace Officers Association, California Professional Firefighters, California Labor Federation, California Teachers Association, California Federation of Teachers, SEIU California, and California Nurses Association.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jessegabriel.com/endorsements",
+          "title": "Endorsements - Jesse Gabriel for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Sierra Club California, California Environmental Voters, Equality California, and Planned Parenthood.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://jessegabriel.com/endorsements",
+          "title": "Endorsements - Jesse Gabriel for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "tracey-schroeder": [
+      {
+        "text": "\"I will vote to suspend the Gas Tax, use the state's surplus to cut your taxes, and defend Proposition 13 so families aren't taxed out of their homes. I oppose any new tax increase.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://traceyschroeder.com/issues",
+          "title": "Issues - Tracey Schroeder for Assembly 46",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I oppose 'Defunding the Police.' I will fight for tougher penalties for repeat offenders, hold rogue DAs accountable, stop the refusal to prosecute, and keep dangerous felons behind bars.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://traceyschroeder.com/issues",
+          "title": "Issues - Tracey Schroeder for Assembly 46",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would call for a state audit of homelessness spending, expand mental health and addiction treatment, and \"make it easier to place people in care rather than leave them on the street.\" Homepage: fund Prop 36; prioritize rehabilitation and jobs.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://traceyschroeder.com/issues",
+          "title": "Issues - Tracey Schroeder for Assembly 46",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"I will fight for parental rights and school choice, defend parents' voice in their kids' education, and audit education spending.\" Homepage also lists restoring lower class sizes and trades training.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://traceyschroeder.com/issues",
+          "title": "Issues - Tracey Schroeder for Assembly 46",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: protect girls' sports, protect the innocence of children, defend parental participation in schools. Says parents must be informed if their child is at risk of self-harm, and wants \"strong, academic, non-sexualized curriculum.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://traceyschroeder.com/",
+          "title": "Tracey Schroeder for Assembly 46 (home page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Homepage platform: reduce gas taxes, \"reduce regulations & keep refineries in CA,\" and \"STOP the track & tax our miles agenda.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://traceyschroeder.com/",
+          "title": "Tracey Schroeder for Assembly 46 (home page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes the state's road-mileage tracking and taxing idea: \"STOP the track & tax our miles agenda.\"",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://traceyschroeder.com/",
+          "title": "Tracey Schroeder for Assembly 46 (home page)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: \"Reduce small business taxes.\" Says small business owners and employees \"deserve Sacramento's support, not burdensome regulations and ever-increasing taxation,\" and calls state over-regulation of business shocking.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://traceyschroeder.com/about",
+          "title": "About - Tracey Schroeder for Assembly 46",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Howard Jarvis Taxpayers Association PAC (listed for Assembly District 46).",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.hjta.org/election-information/for-voters/endorsements-by-the-hjta-pac/",
+          "title": "HJTA-PAC Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Neither candidate answered the League of Women Voters Vote411 questions. Gabriel's campaign site lists endorsements but no issues page. Schroeder: nothing found on immigration, guns, health care, housing growth, or renters."
+}

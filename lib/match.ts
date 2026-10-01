@@ -23,8 +23,12 @@ export type CandidateScores = Record<string, { position: number; evidence: numbe
 export type MeasureScores = Record<string, { direction: number; relevance: number }>
 
 export const DEFAULT_IMPORTANCE = 2
-/** Below this share of your weighted priorities covered by evidence, we don't recommend. */
-export const MIN_COVERAGE = 0.35
+/**
+ * Minimum evidence-weighted importance (sum of importance × evidence over a candidate's scored issues)
+ * before we compare them. Importance is 0–3, so 4 ≈ two issues you care about with solid evidence.
+ * Absolute rather than a share of all your issues: a Controller race never touches guns or immigration.
+ */
+export const MIN_EVIDENCE_WEIGHT = 4
 /** Candidate alignment gap (0..1) below which the top two are called a toss-up. */
 export const MIN_CANDIDATE_MARGIN = 0.05
 /** Measure lean (|score| on -1..1) below which we call it a toss-up. */
@@ -55,6 +59,7 @@ export type CandidateMatch = {
   optionId: string
   alignment: number // 0..1, 1 = identical on every scored dimension
   coverage: number // 0..1, share of your weighted priorities we had evidence for
+  evidenceWeight: number // sum of importance × evidence over scored issues
   byDimension: { dimension: string; alignment: number; weight: number }[]
 }
 
@@ -77,22 +82,26 @@ export function matchCandidate(profile: Profile, scores: CandidateScores, option
     optionId,
     alignment: den === 0 ? 0 : num / den,
     coverage: totalWeight === 0 ? 0 : den / totalWeight,
+    evidenceWeight: den,
     byDimension: byDimension.sort((x, y) => y.weight - x.weight),
   }
 }
 
 export type Recommendation =
-  | { kind: "pick"; optionId: string }
+  | { kind: "pick"; optionIds: string[] }
   | { kind: "toss-up"; optionIds: string[] }
   | { kind: "not-enough-info" }
 
-export function recommendCandidate(matches: CandidateMatch[]): Recommendation {
-  const covered = matches.filter((m) => m.coverage >= MIN_COVERAGE).sort((a, b) => b.alignment - a.alignment)
-  if (covered.length === 0 || covered.length < Math.min(2, matches.length)) return { kind: "not-enough-info" }
-  if (covered.length >= 2 && covered[0].alignment - covered[1].alignment < MIN_CANDIDATE_MARGIN) {
-    return { kind: "toss-up", optionIds: [covered[0].optionId, covered[1].optionId] }
+/** Picks the top `voteFor` candidates. Needs evidence on more candidates than seats to compare. */
+export function recommendCandidate(matches: CandidateMatch[], voteFor = 1): Recommendation {
+  const covered = matches.filter((m) => m.evidenceWeight >= MIN_EVIDENCE_WEIGHT).sort((a, b) => b.alignment - a.alignment)
+  if (covered.length === 0 || covered.length < Math.min(voteFor + 1, matches.length)) return { kind: "not-enough-info" }
+  const last = covered[voteFor - 1]
+  const next = covered[voteFor]
+  if (last && next && last.alignment - next.alignment < MIN_CANDIDATE_MARGIN) {
+    return { kind: "toss-up", optionIds: covered.filter((m) => last.alignment - m.alignment < MIN_CANDIDATE_MARGIN).map((m) => m.optionId) }
   }
-  return { kind: "pick", optionId: covered[0].optionId }
+  return { kind: "pick", optionIds: covered.slice(0, voteFor).map((m) => m.optionId) }
 }
 
 export type MeasureMatch = {
@@ -123,5 +132,5 @@ export function matchMeasure(profile: Profile, scores: MeasureScores): MeasureMa
 export function recommendMeasure(m: MeasureMatch): Recommendation {
   if (m.relevance < MIN_MEASURE_RELEVANCE) return { kind: "not-enough-info" }
   if (Math.abs(m.lean) < MIN_MEASURE_LEAN) return { kind: "toss-up", optionIds: ["yes", "no"] }
-  return { kind: "pick", optionId: m.lean > 0 ? "yes" : "no" }
+  return { kind: "pick", optionIds: [m.lean > 0 ? "yes" : "no"] }
 }

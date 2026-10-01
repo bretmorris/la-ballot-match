@@ -1,0 +1,130 @@
+{
+  "contestId": "la-county-sheriff",
+  "notes": "Villanueva's campaign site could not be located; his evidence is his past record as sheriff (2018-2022) from Wikipedia and Daily Bruin plus limited campaign quotes. Luna's 2026 positions beyond his campaign priorities were not found.",
+  "options": {
+    "robert-g-luna": [
+      {
+        "text": "Campaign priorities: reduce violent crime, increase public trust through relationship-based policing in communities of color, modernize the department, address homelessness, and improve deputy and employee wellness.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.lunaforsheriff.com",
+          "title": "Robert Luna for Los Angeles County Sheriff (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says violent crime has fallen every year in the areas patrolled by LASD since he took office.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.lunaforsheriff.com",
+          "title": "Robert Luna for Los Angeles County Sheriff (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "After the primary: \"We need change. We need progress. The only way to do that is for us to work collectively.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-live-results-la-county-sheriff",
+          "title": "LA County Sheriff primary results (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Long Beach police chief (2020), his department banned sleeper holds after George Floyd protests, calling it the \"first of many steps\" in community trust-building.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Robert_Luna",
+          "title": "Robert Luna (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, ALADS (deputy sheriffs), LAPPL, SEIU locals, Teamsters and UNITE HERE Local 11.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.lunaforsheriff.com/2026endorsements",
+          "title": "Luna for Sheriff: 2026 Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by all five LA County Supervisors, the LA County District Attorney, Sen. Alex Padilla and the LA County Police Chiefs Association.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.lunaforsheriff.com/2026endorsements",
+          "title": "Luna for Sheriff: 2026 Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "alex-villanueva": [
+      {
+        "text": "As sheriff in 2018, ordered a moratorium on transferring undocumented immigrants in jail to ICE and removed ICE agents from county jails; ended a federal data program that paid LA County about $122 million, calling it \"blood money.\"",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Alex_Villanueva",
+          "title": "Alex Villanueva (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In 2020 secured $35 million in county funding for a department-wide body-worn camera program.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Alex_Villanueva",
+          "title": "Alex Villanueva (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Hired about 1,100 deputies in his first year to address a staffing shortage of more than 1,300; transferred 36 deputies over alleged gang activity, suspending 22 and firing 4.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Alex_Villanueva",
+          "title": "Alex Villanueva (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Declined to enforce COVID-19 vaccine requirements for department staff.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Alex_Villanueva",
+          "title": "Alex Villanueva (Wikipedia)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "After the primary: \"We look forward to a runoff and much-needed public debate over public safety. The LASD will not survive four more years of mismanagement.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-live-results-la-county-sheriff",
+          "title": "LA County Sheriff primary results (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Primary night: \"People are tired of waiting for someone to take their safety seriously. I heard you, and I'm not going to let you down.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.nbclosangeles.com/news/local/luna-villanueva-la-county-sheriffs-race/3902589/",
+          "title": "Luna and Villanueva set to face off in November (NBC LA)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

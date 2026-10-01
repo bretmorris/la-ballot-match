@@ -1,0 +1,239 @@
+{
+  "contestId": "ca-assembly-34",
+  "options": {
+    "randall-putz": [
+      {
+        "text": "Housing platform: cut red tape for projects that include affordable units to speed development, convert vacant motels and offices into housing, and align growth with water, roads and public-safety capacity.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.putzforassembly.com/affordable-housing",
+          "title": "Randall Putz for Assembly - affordable-housing",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Housing platform: \"expand safeguards to keep both renters and small landlords stable\" and address rising rents.",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.putzforassembly.com/affordable-housing",
+          "title": "Randall Putz for Assembly - affordable-housing",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports building more local clinics, recruiting doctors and mental health professionals through targeted incentives, and investing in telehealth backed by broadband.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "http://www.putzforassembly.com/issues",
+          "title": "Randall Putz for Assembly - Affordable Healthcare",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety: \"target violent crime and drug trafficking while building trust between law enforcement and communities\"; also pledges to hold law enforcement accountable to the highest standards.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.putzforassembly.com/public-safety",
+          "title": "Randall Putz for Assembly - public-safety",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Fair taxation: wants \"big corporations pay their fair share so working families aren't left carrying the load alone,\" plus commuter tax credits or rebates for the High Desert.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.putzforassembly.com/fair-taxation",
+          "title": "Randall Putz for Assembly - fair-taxation",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Environment: pledges to clean up illegal dumping and hold polluters accountable; supports clean-energy projects that bring local jobs and community investment.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.putzforassembly.com/environment",
+          "title": "Randall Putz for Assembly - environment",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public education: \"I'll fight for smaller class sizes, more counselors and support staff,\" expanded career and technical education, and early childhood education.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.putzforassembly.com/public-education",
+          "title": "Randall Putz for Assembly - public-education",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Civil rights: pledges to strengthen anti-discrimination protections in housing, education and employment and expand support for vulnerable groups including LGBTQ youth.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.putzforassembly.com/civil-rights",
+          "title": "Randall Putz for Assembly - civil-rights",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety plan supports infrastructure upgrades such as better street lighting and widened roads that prevent accidents and crimes; highlights highway safety on Routes 138 and US 395.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.putzforassembly.com/public-safety",
+          "title": "Randall Putz for Assembly - public-safety",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On renewable energy: \"Desert communities should not be treated as sacrifice zones\"; prioritizes disturbed lands over neighborhood areas.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+          "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party, California Teachers Association, SEIU California, Communications Workers of America, UAW Region 6, and San Bernardino County Professional Firefighters Local 935.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.putzforassembly.com/endorsements",
+          "title": "Randall Putz for Assembly - endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Planned Parenthood of Orange and San Bernardino County and Equality California.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.putzforassembly.com/endorsements",
+          "title": "Randall Putz for Assembly - endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "charles-frederick-hughes": [
+      {
+        "text": "Priorities: oppose new taxes, a Middle-Class Tax Cut, and eliminating the state gas tax to lower fuel, grocery and housing costs.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.ballotready.org/people/charles-f-hughes",
+          "title": "BallotReady - Charles F. Hughes",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Affordability priority: \"Reduce overregulation and eliminating excessive government fees and costly mandates that drive up price increases\"; cut red tape for small businesses.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://votecharleshughes.com/priorities",
+          "title": "Charles Hughes for Assembly - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety priority: \"Reinstating the death penalty, ensuring accountability for the most heinous crimes, including the murder of law enforcement.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://votecharleshughes.com/priorities",
+          "title": "Charles Hughes for Assembly - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Stands against efforts to defund the police, wants to protect the Peace Officer's Bill of Rights, and supports ending early release policies.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/charles-f-hughes",
+          "title": "BallotReady - Charles F. Hughes",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Wants to increase school choice for parents and expand vocational and trade programs; refocus classroom instruction on core subjects such as reading, writing and math.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ballotready.org/people/charles-f-hughes",
+          "title": "BallotReady - Charles F. Hughes",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"California needs more housing, but Sacramento's one-size-fits-all mandates are not working for rural communities.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+          "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes treating desert communities as \"dumping grounds for industrial projects\" and wants local community input on solar development.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+          "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates expanding telehealth and mobile clinics and ensuring Medi-Cal patients can access care locally.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+          "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritizes Caltrans improvements on Highways 62 and 247: better lighting, turn lanes and passing lanes.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.deserttrumpet.org/p/california-state-assembly-districts",
+          "title": "Desert Trumpet - California State Assembly Districts 34 and 47 Primary Preview 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Howard Jarvis Taxpayers Association.",
+        "kind": "endorsement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://votecharleshughes.com/endorsements",
+          "title": "Charles Hughes for Assembly - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles Police Protective League, California Police Chiefs Association, California Association of Highway Patrolmen and Crime Victims United, among other law enforcement groups.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://votecharleshughes.com/endorsements",
+          "title": "Charles Hughes for Assembly - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

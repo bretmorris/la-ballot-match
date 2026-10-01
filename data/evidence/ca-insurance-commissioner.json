@@ -1,0 +1,104 @@
+{
+  "contestId": "ca-insurance-commissioner",
+  "options": {
+    "ben-allen": [
+      {
+        "text": "Says there is \"no silver bullet\"; would strengthen the admitted market rather than replace it with a state program, reform rate review, expand risk reduction and data sharing, and stabilize the FAIR Plan.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/jane-kims-plan-to-remake-california-insurance-draws-fire-as-fair-plan-increase-nears-591074.aspx",
+          "title": "Jane Kim's plan to remake California insurance draws fire as FAIR Plan increase nears (Insurance Business)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would increase oversight and accountability of the FAIR Plan; require real-time reporting of claim delays and explanations for denials; appoint a consumer advocate.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes expanding the low-cost auto insurance program to all drivers.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored Proposition 4 climate bond and restrictions on single-use plastics; says fossil fuel industry should be held accountable.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Sierra Club, California Environmental Voters, California Professional Firefighters and the California Democratic Party.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jane-kim": [
+      {
+        "text": "Proposes \"Natural Disaster Insurance for All,\" a state-run nonprofit pool, plus minimum loss-ratio floors so insurers return more premium as claims.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/jane-kims-plan-to-remake-california-insurance-draws-fire-as-fair-plan-increase-nears-591074.aspx",
+          "title": "Jane Kim's plan to remake California insurance draws fire as FAIR Plan increase nears (Insurance Business)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would pay interest to policyholders for delayed, denied or underpaid claims and freeze rates during claims; create public dashboard of insurer records.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would audit the FAIR Plan committee and add seats for consumer advocates; expand low-cost auto insurance to all drivers.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/jane-kims-plan-to-remake-california-insurance-draws-fire-as-fair-plan-increase-nears-591074.aspx",
+          "title": "Jane Kim's plan to remake California insurance draws fire as FAIR Plan increase nears (Insurance Business)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As San Francisco supervisor, secured free community college, the city's first $15 minimum wage ordinance and tenant-protection laws.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by SEIU California, California Teachers Association, California Faculty Association and California Labor Federation.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+          "title": "CalMatters 2026 California Voter Guide: Insurance Commissioner",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Both Democrats; evidence is mostly insurance-specific."
+}

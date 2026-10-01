@@ -1,0 +1,169 @@
+{
+  "contestId": "la-city-member-of-the-city-council-3rd-district",
+  "options": {
+    "timothy-k-gaspar": [
+      {
+        "text": "Goal of zero encampments in CD3: 24-hour response teams offering shelter, mental health and addiction services, using legal tools to clear encampments if help is refused. Says \"Los Angeles has spent billions on homelessness, and the crisis got worse.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.timgaspar.com/priorities/homelessness/",
+          "title": "Tim Gaspar: Homelessness Plan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would cut underperforming homeless service providers from city contracts, add oversight of 100+ providers, and shift responsibility for housing, mental health and addiction treatment to the County.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.timgaspar.com/priorities/homelessness/",
+          "title": "Tim Gaspar: Homelessness Plan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety plan: zero tolerance for quality-of-life crime (public drug use, vandalism, illegal dumping, illegal vending, street racing), more park rangers, and an LAPD Cadets program.",
+        "kind": "questionnaire",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.timgaspar.com/priorities/public-safety/",
+          "title": "Tim Gaspar: Public Safety Plan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates increased law enforcement funding and said he would have rejected the current city budget for insufficient law enforcement allocation.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes rent control, saying it \"creates slumlords\" and \"drives prices up.\"",
+        "kind": "own-statement",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes ICE raids and supports immigrant workers.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Small business plan: concierge desk for permitting, online permits with a shot clock for non-structural work, a West Valley incubator, and enforcement against unlicensed operators with legal pathways for street vendors.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.timgaspar.com/priorities/small-business/",
+          "title": "Tim Gaspar: Small Business Plan",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles Police Protective League, ALADS (deputy sheriffs) and other police associations.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.timgaspar.com/endorsements",
+          "title": "Tim Gaspar: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by IBEW Locals 18 and 40, ILWU Local 13, BizFed, VICA, Apartment Association of Greater Los Angeles and Southland Regional Association of Realtors.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.timgaspar.com/endorsements",
+          "title": "Tim Gaspar: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "barri-worth-girvan": [
+      {
+        "text": "Proposes deeper county Public Health and Mental Health involvement in transitions off the street and using Section 41.18 to remove encampments in sensitive areas.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates streamlining permitting to speed housing construction and to keep the state from taking over local land use.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls ICE raids \"unconscionable\" and commits to protecting communities from family separations.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-3",
+          "title": "Guide to the race for LA City Council, District 3 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign priorities: safe, clean neighborhoods through public safety and housing; workforce development and job creation; and more transparent, efficient core services.",
+        "kind": "questionnaire",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.barriforthevalley.com",
+          "title": "Barri Worth Girvan for LA City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign backs labor unions and wage workers, local entrepreneurship, and skilled trades in modernizing city infrastructure; also opening police stations.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.barriforthevalley.com/copy-of-issues",
+          "title": "Barri Worth Girvan: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Federation of Labor, SEIU Local 721, Teamsters, IBEW, Carpenters and AFSCME.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.barriforthevalley.com/copy-of-issues",
+          "title": "Barri Worth Girvan: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Sierra Club, LA League of Conservation Voters, Stonewall Democratic Club and the LA County Democratic Party.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.barriforthevalley.com/copy-of-issues",
+          "title": "Barri Worth Girvan: Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

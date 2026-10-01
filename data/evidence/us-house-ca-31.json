@@ -1,0 +1,230 @@
+{
+ "contestId": "us-house-ca-31",
+ "options": {
+  "gil-cisneros": [
+   {
+    "text": "Voted No on H.R. 1, the 2025 budget reconciliation bill (final House vote, July 3, 2025). His office statement rejected 'Republican cuts to healthcare, food assistance' and called it the 'One Big Ugly' Bill.",
+    "kind": "voting-record",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://web.archive.org/web/20260511032346/https://cisneros.house.gov/issues/health",
+     "title": "Rep. Cisneros issues: Health (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Yea on H.R. 1834 (Jan. 8, 2026), restoring enhanced Affordable Care Act tax credits for three years; his office said he voted to extend the credits 'to reduce healthcare costs.'",
+    "kind": "voting-record",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://web.archive.org/web/20260511032346/https://cisneros.house.gov/issues/health",
+     "title": "Rep. Cisneros issues: Health (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Unveiled a Health Care Action Plan (Dec. 8, 2025) aimed at lowering healthcare costs, expanding access to high-quality care, and protecting programs seniors and working Americans rely on; held a town hall on protecting Medicare, Medicaid and Social Security.",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://web.archive.org/web/20260511032346/https://cisneros.house.gov/issues/health",
+     "title": "Rep. Cisneros issues: Health (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Immigration page: 'I have been and will continue to be a vocal advocate for keeping families together and protecting the pathway to citizenship.' Posts an ICE privacy release form and know-your-rights resources.",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://web.archive.org/web/20260511025842/https://cisneros.house.gov/issues/immigration",
+     "title": "Rep. Cisneros issues: Immigration (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Co-sponsored H.Res. 996 to impeach DHS Secretary Kristi Noem (statement Jan. 26, 2026) and introduced the PROTECT Military Families Act to shield military families from deportation and forced separation.",
+    "kind": "official-action",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://web.archive.org/web/20260511025842/https://cisneros.house.gov/issues/immigration",
+     "title": "Rep. Cisneros issues: Immigration (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Yea on H.R. 1689 (Apr. 16, 2026), requiring the Homeland Security Secretary to designate Haiti for temporary protected status.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2026/h120",
+     "title": "House Vote #120 (2026): H.R. 1689, Haiti TPS (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Nay on H.R. 22, the SAVE Act (Apr. 10, 2025).",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+     "title": "House Vote #102 (2025): H.R. 22 SAVE Act (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Yea on H.R. 884 (June 10, 2025), prohibiting non-citizens from voting in District of Columbia elections and repealing DC's Local Resident Voting Rights Amendment Act of 2022.",
+    "kind": "voting-record",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2025/h163",
+     "title": "House Vote #163 (2025): H.R. 884 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Yea on H.R. 2550, the Protect America's Workforce Act (Dec. 11, 2025).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2025/h332",
+     "title": "House Vote #332 (2025): H.R. 2550 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Yea on H.R. 5408, the Faster Labor Contracts Act (June 9, 2026).",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2026/h216",
+     "title": "House Vote #216 (2026): H.R. 5408 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Nay on H.R. 1041, the Veterans 2nd Amendment Protection Act (May 21, 2026).",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2026/h190",
+     "title": "House Vote #190 (2026): H.R. 1041 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Nay on H.R. 6260, the Keeping Violent Offenders Off Our Streets Act of 2025 (May 14, 2026).",
+    "kind": "voting-record",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2026/h169",
+     "title": "House Vote #169 (2026): H.R. 6260 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted Nay on H.R. 5184, the Affordable HOMES Act (Jan. 9, 2026), which passed 263-147.",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.govtrack.us/congress/votes/119-2026/h12",
+     "title": "House Vote #12 (2026): H.R. 5184 (GovTrack)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced the Cut the Burden, Keep the Benefits Act (Dec. 3, 2025), letting small businesses voice concerns on regulations and other government actions including tariffs and healthcare; also introduced a bill raising small-business single-source contract thresholds to $10 million.",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://web.archive.org/web/20260920163051/https://cisneros.house.gov/issues/economy-and-small-businesses",
+     "title": "Rep. Cisneros issues: Economy and Small Businesses (cisneros.house.gov, archived)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "eric-ching": [
+   {
+    "text": "'I will support our rights to keep and bear arms.' Lists this under 'For Our Country I Will' on his campaign priorities.",
+    "kind": "own-statement",
+    "dimension": "guns",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Border security: 'I will promote legal trade and tourism while supporting ways to best secure our border from the illegal movement of weapons, drugs, contraband, and people.'",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Crime plank: 'Keep our Community Safe by Being Tough on Crime.' Supports deterrence and 'proper justice' while also 'showing mercy'; wants criminals to pay restitution to victims and officials held accountable for selectively not doing their jobs.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says he has worked with treatment centers and organizations on homelessness caused by mental illness and will support legislation to encourage treatment centers to help people with substance abuse.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Education plank: 'I support school choice, and I will empower parents to use their ability to decide which schools are best for their kids,' and opposes identity-based entrance policies and 'racially divisive material' in curriculums.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Economy plank: 'I will support the removal of burdensome regulations while promoting legislation to aid and protect U.S.-based businesses and workers from unfair practices.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Supports 'a speedy public trial by jury' and opposes 'excessive fines and excessive bail, as well as cruel and unusual punishment.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by the Association for Los Angeles Deputy Sheriffs (letter dated Sept. 18, 2024, for his 2024 run in CA-38), posted on his campaign site.",
+    "kind": "endorsement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.ericchingforcongress.com/",
+     "title": "Eric Ching for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Cisneros: House roll-call votes (GovTrack, which reproduces the official House Clerk record) and his official House issues pages (read via Wayback Machine snapshots because cisneros.house.gov blocks direct fetches); gilcisneros.com is a parked domain, so no campaign site was found. Ching: campaign site text only (no taxes, housing, renters, climate, health care, transportation, abortion/LGBTQ or election positions stated; no news/Ballotpedia pages could be retrieved). Vote items cite bill titles only and no characterization of bill content."
+}

@@ -1,0 +1,257 @@
+{
+  "contestId": "us-house-ca-38",
+  "options": {
+    "hilda-solis": [
+      {
+        "text": "Campaign statement: \"The working people of Southern California are under assault by the Trump Administration – and I won't just stand by and let it happen.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.hildasolis.com/",
+          "title": "Hilda Solis for Congress - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: helped pass Measure H in 2017, providing $355 million annually for homeless services; committed to \"creating and preserving affordable housing for all residents in innovative and sustainable ways.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.hildasolis.com/",
+          "title": "Hilda Solis for Congress - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site says she wants to shift focus \"from punishment and incarceration to support and resources\" in public safety.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.hildasolis.com/",
+          "title": "Hilda Solis for Congress - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: helped implement the Affordable Care Act as a member of Obama's Cabinet and works locally to improve healthcare access.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.hildasolis.com/",
+          "title": "Hilda Solis for Congress - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored May 2026 Board motion (approved May 19) to implement the Latinx homelessness task force recommendations, including language access, a public dashboard and a 90-day implementation plan.",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://hildalsolis.org/los-angeles-county-moves-to-implement-task-force-recommendations-on-latino-homelessness/",
+          "title": "LA County Moves to Implement Task Force Recommendations on Latino Homelessness",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Board Chair, said of the 2026-27 homeless services spending plan ($843M, unanimously approved): \"I'm encouraged that improved Measure A revenue projections are allowing us to close gaps in several key priorities.\"",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://lacounty.gov/2026/02/03/la-county-aims-to-keep-people-sheltered-and-housed-by-focusing-on-proven-programs/",
+          "title": "LA County Aims to Keep People Sheltered and Housed by Focusing on Proven Programs",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "In January 2026 co-authored a Board motion protecting access to gender-affirming health care for transgender, intersex and gender-nonconforming young people.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://hildalsolis.org/category/community/",
+          "title": "Supervisor Solis - Community news",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "January 2026: honored plaintiffs and legal teams challenging unlawful immigration enforcement and federal raids in Vasquez-Perdomo v. Noem.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://hildalsolis.org/category/community/",
+          "title": "Supervisor Solis - Community news",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "February 2026: co-authored Board motion to adopt the County's Heat Action Plan responding to rising temperatures and extreme heat.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://hildalsolis.org/category/community/",
+          "title": "Supervisor Solis - Community news",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "2020: championed Board motion ending transfers of Sheriff's custody inmates to immigration authorities without a judicial warrant.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.aclusocal.org/press-releases/la-county-ends-warrantless-ice-transfers/",
+          "title": "L.A. County Ends Warrantless ICE Transfers (ACLU SoCal)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As County Supervisor co-authored motions expanding public awareness of Gun Violence Restraining Orders.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-38-2026/hilda-solis/",
+          "title": "Hilda Solis - 2026 CA-38 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign endorsements listed on her site include the Los Angeles Times and La Opinión.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.hildasolis.com/",
+          "title": "Hilda Solis for Congress - campaign site",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "pedro-antonio-casas": [
+      {
+        "text": "Questionnaire: opposes higher taxes on wealthy individuals, arguing it causes businesses to leave California; supports cutting government spending to reduce the national debt and eliminate fraud.",
+        "kind": "questionnaire",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he would lower federal and state taxes and reduce government waste.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-38-2026/pedro-casas/",
+          "title": "Pedro Casas - 2026 CA-38 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questionnaire: immigration should prioritize US needs; opposes sanctuary cities that protect undocumented immigrants.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports \"immigration reform that includes securing the southern border\" via a proposed \"Dr. Casas Immigration Bill.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-38-2026/pedro-casas/",
+          "title": "Pedro Casas - 2026 CA-38 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes addressing homelessness with NGO governance oversight of tax dollars and funds for mental health and substance abuse treatment with job retraining; calls for regulating public space.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.ballotready.org/people/pedro-antonio-casas",
+          "title": "Pedro Antonio Casas (BallotReady)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prefers keeping Medicaid and Medicare, opposes universal healthcare, and favors fraud audits and prosecution.",
+        "kind": "questionnaire",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports eliminating the U.S. Department of Education and private-school vouchers; proposes JROTC in every high school.",
+        "kind": "questionnaire",
+        "dimension": "education",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questionnaire: \"Life begins at conception\"; opposes elective abortion except rape or to protect the mother's life. Opposes medical transition for minors and biological males in women's sports.",
+        "kind": "questionnaire",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questionnaire: Second Amendment \"Shall Not Be Infringed\"; opposes gun restrictions.",
+        "kind": "questionnaire",
+        "dimension": "guns",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Questionnaire: opposes voting without photo ID; supports mandating voter ID through the SAVE America Act.",
+        "kind": "questionnaire",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates nuclear energy as the most reliable and efficient energy source; said he needed a \"thorough brief on both sides\" on pollution regulations.",
+        "kind": "questionnaire",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes defunding police and says he wants to enhance public safety so criminals are not incentivized to reoffend.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/pedro-antonio-casas",
+          "title": "Pedro Antonio Casas (BallotReady)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party, California Republican Assembly, California Rifle and Pistol Association PAC and Reform California.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "title": "Voter Guide Profile - Pedro Antonio Casas (iVoterGuide)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

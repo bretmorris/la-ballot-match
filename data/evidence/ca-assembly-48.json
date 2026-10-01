@@ -1,0 +1,229 @@
+{
+  "contestId": "ca-assembly-48",
+  "options": {
+    "blanca-rubio": [
+      {
+        "text": "Authored AB 1590 (2019), a targeted tax credit to help first-time, low- and moderate-income buyers in disadvantaged communities achieve homeownership; sponsored by the California Association of Realtors.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://rubio.asmdc.org/news",
+          "title": "News - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 130 (housing) on the Assembly floor in March and June 2025, and AYE on SB 71 (CEQA exemptions: transit projects), Sept 2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "AB 130 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 71 (CEQA exemptions: transit projects) on the Assembly floor, Sept 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB71",
+          "title": "SB 71 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 789 (2017), letting judges release felony arrestees with three or more failures to appear without an open-court hearing if placed in a court-approved pretrial release program, citing efficiency and less jail overcrowding.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://rubio.asmdc.org/chaptered-legislation",
+          "title": "Chaptered Legislation - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 3129 (2018), imposing a lifetime firearm prohibition on anyone convicted of a misdemeanor domestic violence offense.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://rubio.asmdc.org/chaptered-legislation",
+          "title": "Chaptered Legislation - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 1127 (firearms: converter pistols) on the Assembly floor in June and Sept 2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "AB 1127 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 704 (firearms: firearm barrels) on the Assembly floor, Sept 8, 2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB704",
+          "title": "SB 704 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1654 (2018), waiving PAGA lawsuits in the construction industry for employees and employers covered by a collective bargaining agreement. Authored AB 323 (2019), exempting newspaper carriers from the ABC test for employment status.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://rubio.asmdc.org/chaptered-legislation",
+          "title": "Chaptered Legislation - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 288 (employment: labor organization and unfair practices) on the Assembly floor, June and Sept 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB288",
+          "title": "AB 288 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on AB 1340 (transportation network company drivers: labor relations), Sept 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "AB 1340 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "June 2025 statement on immigration raids in Los Angeles County: \"In solidarity with our community, we stand vigilant.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rubio.asmdc.org/press-releases/20250609-response-ongoing-situation-los-angeles-county",
+          "title": "A Response to the Ongoing Situation in Los Angeles County (press release, June 9, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1645 (2019), requiring community colleges and CSU to designate a Dreamer Resource Liaison for students exempt from nonresident tuition.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rubio.asmdc.org/chaptered-legislation",
+          "title": "Chaptered Legislation - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "June 2024 on budget talks: it is \"imperative that California allocates funding to keep programs like CHIRP, that support children, especially some of the most vulnerable, unaccompanied immigrant children.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://rubio.asmdc.org/news",
+          "title": "News - Assemblymember Blanca Rubio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 98 (schools: immigration enforcement notification, urgency) on the Assembly floor, Sept 2, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "SB 98 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 81 (health and care facilities: information sharing, urgency) on the Assembly floor, Sept 2, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB81",
+          "title": "SB 81 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1121 (2025), an early literacy bill requiring an evidence-based, phonics-based approach to teaching reading, co-sponsored by the NAACP California Hawaii State Conference, Decoding Dyslexia CA, EdVoice, and Families In Schools.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://rubio.asmdc.org/press-releases/20250319-naacp-ca-hi-co-sponsors-assemblywoman-rubios-early-literacy-bill",
+          "title": "NAACP CA-HI Co-Sponsors Assemblywoman Rubio's Early Literacy Bill AB 1121 (March 19, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on ACA 8 (congressional redistricting) on the Assembly floor, Aug 21, 2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "ACA 8 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted AYE on SB 237 (oil spill prevention: gasoline specifications suspension; CEQA exemptions) on the Assembly floor, Sept 13, 2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "SB 237 Bill Votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "dan-t-tran": [
+      {
+        "text": "Housing priorities: lowering hidden household costs (energy, insurance, fees), supporting first-time homebuyers and renters, cutting permitting red tape that drives up costs, and expanding housing supply, especially workforce housing.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.ballotready.org/people/dan-t-tran",
+          "title": "Dan T. Tran - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Public safety priorities: supporting local law enforcement with accountability and resources, fighting retail theft and organized crime, strengthening juvenile crime prevention and intervention, and improving emergency response times and mental health crisis response.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.ballotready.org/people/dan-t-tran",
+          "title": "Dan T. Tran - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Education priorities: strengthening K-12 outcomes (reading, math, career readiness), expanding career technical education and apprenticeships, and partnering with community colleges and local employers.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.ballotready.org/people/dan-t-tran",
+          "title": "Dan T. Tran - BallotReady",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign is focused on improving public safety, expanding economic opportunity, and protecting constitutional rights, with policies that support law-abiding citizens and strengthen families.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.civoren.com/candidate/dan-tran",
+          "title": "Dan Tran - Civoren candidate profile",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Dan T. Tran has a thin public record: no issues page was reachable (his campaign site returned 404), no endorsements listed, and nothing found on taxes, renters, homelessness, climate, immigration, guns, abortion/LGBTQ+, health care, transportation, or elections. No 2026 endorsements were found for Rubio, and her site gives no issue statements beyond bills."
+}

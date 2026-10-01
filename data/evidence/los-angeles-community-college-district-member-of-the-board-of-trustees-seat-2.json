@@ -1,0 +1,212 @@
+{
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-2",
+  "options": {
+    "steven-f-veres": [
+      {
+        "text": "Lists as a top priority under 'College Affordability & Basic Needs' to \"continue working to expand tuition-free education\" and to \"develop affordable student housing.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://steveveres.com/issues/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he will \"continue working to expand tuition-free education\" as part of his college affordability priorities, citing more than a decade of work as an LACCD trustee.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://steveveres.com/issues/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges accountability for district resources: \"Maintain transparency and accountability for district resources and investments\" and set clear, measurable goals across all nine colleges.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://steveveres.com/issues/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priority to expand paid internships, apprenticeships and career pathways, and to build direct pipelines from classroom into good-paying careers.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://steveveres.com/issues/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Priority to strengthen access to food, transportation, childcare and other basic-needs resources for students facing housing insecurity and the cost of living.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://steveveres.com/issues/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by labor groups including the LA County Federation of Labor, AFT Local 1521 and Staff Guild, UTLA, SEIU 721 and 99, LA/OC Building Trades, Teamsters Joint Council 42, IBEW 11 and Unite HERE Local 11.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://steveveres.com/endorsements/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party and the Los Angeles League of Conservation Voters.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://steveveres.com/endorsements/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Mayor Karen Bass, Treasurer Fiona Ma, State Sen. Maria Elena Durazo and State Sen. Ben Allen.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://steveveres.com/endorsements/",
+          "title": "Steve Veres for LA Community College Trustee 2026 - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party for the Nov 3, 2026 general election (Seat 2).",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.lacdp.org/candidates",
+          "title": "LACDP - Endorsed Candidates",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "robert-payne": [
+      {
+        "text": "Says he wants \"equal pay and health care for the adjunct faculty, who teach more than 70% of the classes,\" and criticizes tenured-faculty contracts being rubber-stamped by trustees.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://payneforlaccd.info/",
+          "title": "PayneforLACCD.info (campaign site; text refers to 'Seat 6' and an earlier opponent, so parts may predate 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says that as a trustee he would advocate more solar power for facilities, more environmental innovation on campuses, and more critical review of designs and costs of contracted building or renovation work.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://payneforlaccd.info/",
+          "title": "PayneforLACCD.info (campaign site; text refers to 'Seat 6' and an earlier opponent, so parts may predate 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates testing all new students for learning modalities and for physical, mental or economic impediments before classes begin; says he supports reducing the cost of college and graduating students without debt.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://payneforlaccd.info/future/future_index.html",
+          "title": "PayneforLACCD.info - The Future (may predate 2026)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says corporations give trustees many thousands of dollars at election time; proposes such money go to language-acquisition software and tutorials instead of campaign mailings.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://payneforlaccd.info/future/future_index.html",
+          "title": "PayneforLACCD.info - The Future (may predate 2026)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "kristina-irwin": [],
+    "roy-payan": [],
+    "adriana-cabrera": [
+      {
+        "text": "Says LACCD's budget should be \"a statement of priorities\" and that public tax funding must reach the people it serves. Proposes a 'Local First LACCD Investment Plan' so district dollars support local small and worker-owned businesses.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes on-campus legal workshops with advocates on housing rights, wage theft, immigration defense and credit protection; her campaign names \"the undocumented student wondering if college is possible\" as a core constituency.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes expanding East LA College's business incubator model to all nine campuses to launch \"Undocu-Startups\" and immigrant-led businesses, with non-taxpayer revenue earmarked for paid student jobs and scholarships.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a 'Public Access Standard' moving major board budget votes to evenings or weekends, and a budget process giving student governments and labor unions \"a structural seat at the table before budgets are finalized.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a centralized 'No Wrong Door' services model on all nine campuses and a Student Parent Success Plan; cites housing insecurity and lack of childcare as reasons students drop out.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes using Measure LA funds to replace asphalt with tree canopy on campuses, a Healthy Green Campuses Initiative, and workforce certificates in solar operations and stormwater management.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes translating all board agendas and policy papers into the district's primary languages and distributing them well before votes.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://adrianaforlaccd.com/platform",
+          "title": "Adriana Cabrera for LACCD - Priorities",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No LACCD-trustee campaign positions found for kristina-irwin (a Kristina Irwin ran in 2026 for State Senate SD24, but nothing fetched confirms it is the same person, so nothing was recorded) or roy-payan (found only his ADA lawsuit against LACCD as a plaintiff; no candidate platform found). Robert Payne's site text still references 'Seat 6' and an earlier opponent, so it may predate 2026; items are flagged. No board voting-record items for Veres because LACCD board pages were blocked (HTTP 403 / WAF)."
+}

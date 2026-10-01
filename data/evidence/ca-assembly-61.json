@@ -1,0 +1,200 @@
+{
+ "contestId": "ca-assembly-61",
+ "options": {
+  "tina-simone-mckinnor": [
+   {
+    "text": "Voted aye on AB 1263 (firearms: ghost guns) on the Assembly floor, 62-13 on concurrence, 9/12/2025.",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1263",
+     "title": "Bill Votes - AB 1263 Firearms: ghost guns (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on AB 1078 (firearms) on the Assembly floor, 57-20 on concurrence, 9/11/2025.",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1078",
+     "title": "Bill Votes - AB 1078 Firearms (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on SB 704 (firearm barrels) on the Assembly floor, 57-20, 9/8/2025.",
+    "kind": "voting-record",
+    "dimension": "guns",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB704",
+     "title": "Bill Votes - SB 704 Firearms: firearm barrels (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on SB 627, which makes it a crime for a peace officer to wear a facial covering while performing duties, with exceptions; Assembly floor 45-23, 9/9/2025.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+     "title": "Bill Votes - SB 627 Law enforcement: masks (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on SB 98 (schools and colleges: immigration enforcement notification) on the Assembly floor, 59-10, 9/2/2025.",
+    "kind": "voting-record",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+     "title": "Bill Votes - SB 98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on AB 1340 (rideshare driver labor relations) on the Assembly floor, 54-15 on 6/4/2025 and 60-15 on concurrence 9/9/2025.",
+    "kind": "voting-record",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+     "title": "Bill Votes - AB 1340 Transportation network company drivers: labor relations (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 288, signed 9/30/2025. It lets California's Public Employment Relations Board act on private-sector union and labor complaints when the federal NLRB cannot. She said workers' right to organize 'is essential to the state's economic security.'",
+    "kind": "official-action",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20250930-asm-mckinnor-legislation-protect-california-workers-right-organize-signed",
+     "title": "Asm. McKinnor Legislation to Protect California Workers' Right to Organize Signed into Law",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced a three-bill renter package in March 2026: AB 1963 (reusable tenant screening reports, capped screening costs), AB 2350 (ban on 'Rent Now, Pay Later' lending) and AB 2616 (82-degree maximum indoor temperature in rentals).",
+    "kind": "official-action",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20260324-assemblymember-mckinnor-introduces-legislative-package-lower-housing-costs",
+     "title": "Assemblymember McKinnor Introduces Legislative Package to Lower Housing Costs and Protect Renters Across California",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 628, requiring new residential leases to include a working stove and refrigerator; final Assembly approval 45-13 on 9/11/2025. She called them 'a necessary part of modern life.'",
+    "kind": "official-action",
+    "dimension": "renters-landlords",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20250911-assemblymember-mckinnor-measure-requiring-new-residential-leases-include",
+     "title": "Assemblymember McKinnor Measure Requiring New Residential Leases to Include a Stove and Refrigerator Approved by State Legislature",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on AB 130 (housing budget trailer bill) on the Assembly floor, 53-17 on 3/20/2025 and 62-3 on concurrence 6/30/2025. She did not vote on SB 79 (transit-oriented development) on 9/11/2025 (NVR).",
+    "kind": "voting-record",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+     "title": "Bill Votes - AB 130 Housing (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Authored AB 57, dedicating ten percent of the state's Home Purchase Assistance Program to descendants of formerly enslaved people; final Assembly vote 58-10, 9/9/2025.",
+    "kind": "official-action",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20250909-nations-first-homebuyer-assistance-fund-descendants-formerly-enslaved",
+     "title": "Nation's First Homebuyer Assistance Fund for Descendants of Formerly Enslaved People Approved by California State Legislature",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Introduced AB 2186 to exempt reparations benefits from California personal income tax from 2027 through 2032, citing 'lower taxes for hard working residents.'",
+    "kind": "official-action",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20260325-assemblymember-tina-mckinnor-declares-no-taxation-reparations",
+     "title": "Assemblymember Tina McKinnor Declares No Taxation on Reparations",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Voted aye on SB 840 (Greenhouse Gas Reduction Fund studies, urgency) on the Assembly floor, 59-15, 9/13/2025.",
+    "kind": "voting-record",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB840",
+     "title": "Bill Votes - SB 840 Greenhouse gases: Greenhouse Gas Reduction Fund: studies (leginfo.legislature.ca.gov)",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Joined legislators denouncing the Ninth Circuit ruling on federalized National Guard use in California: 'End this federal government's occupation of California now.'",
+    "kind": "own-statement",
+    "dimension": "immigration",
+    "source": {
+     "url": "https://mckinnor.asmdc.org/press-releases/20250623-california-legislative-leaders-respond-ninth-circuit-ruling-allowing",
+     "title": "California Legislative Leaders Respond to Ninth Circuit Ruling Allowing President to Continue Illegal Use of National Guard",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign site lists her priorities as 'fair work practices and worker's rights, pay equity, affordable housing, and transformative justice measures.'",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.tina4ca.com/",
+     "title": "Tina McKinnor 2024 campaign website",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "brian-lockwood": [
+   {
+    "text": "Campaign plan: 'a renewed support for law enforcement. No more homelessness, drugs, and violent crime on our streets.'",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.electbrianlockwood.com/issues",
+     "title": "The Plan - Brian Lockwood for CA State Assembly District 61",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign plan promises 'no more homelessness, drugs, and violent crime on our streets,' without detailing specific policies.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.electbrianlockwood.com/issues",
+     "title": "The Plan - Brian Lockwood for CA State Assembly District 61",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign plan: families will be 'unburdened with the removal of restrictive taxes & red tape' and 'no more waste, fraud and abuse of our money.'",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.electbrianlockwood.com/issues",
+     "title": "The Plan - Brian Lockwood for CA State Assembly District 61",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Campaign plan calls for 'the unleashing of California's abundant energy resources.'",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.electbrianlockwood.com/issues",
+     "title": "The Plan - Brian Lockwood for CA State Assembly District 61",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Brian Lockwood (R) was a write-in in the June 2026 primary and has only a one-paragraph 'The Plan' on his campaign site; no questionnaires, news coverage or Ballotpedia/Vote411 profile were retrievable (web search budget exhausted). Per-vote McKinnor positions parsed from leginfo roll calls; bill descriptions use official titles/digests only. McKinnor was NVR on SB 79 and SB 53."
+}

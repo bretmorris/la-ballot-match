@@ -1,0 +1,59 @@
+{
+  "contestId": "la-superior-court-64",
+  "notes": "Judicial candidates; bar ratings excluded. Only campaign-site philosophy statements and notable endorsements recorded.",
+  "options": {
+    "maria-ghobadi": [
+      {
+        "text": "Campaign themes are \"Public Safety. Equal Justice\": says she understands the balance between protecting the public and upholding the constitutional rights of the accused, and pursued \"justice, not simply convictions.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://mariaghobadi4judge.com",
+          "title": "Maria Ghobadi for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles Police Protective League and the Los Angeles Association of Deputy District Attorneys.",
+        "kind": "endorsement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://mariaghobadi4judge.com",
+          "title": "Maria Ghobadi for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA County Democratic Party, SEIU 721, IBEW Local 11 and Ironworkers.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://mariaghobadi4judge.com",
+          "title": "Maria Ghobadi for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "rhonda-a-haymon": [
+      {
+        "text": "\"Justice must honor both the spirit and the letter of the law. Fairness, due process, and ethical decision-making are not optional.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://rhondahaymon4judge.com",
+          "title": "Rhonda Haymon for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"Justice should restore dignity and strengthen communities\"; campaign tagline: \"Bringing empathy, experience and compassion to the bench.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://rhondahaymon4judge.com",
+          "title": "Rhonda Haymon for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+ "contestId": "us-house-ca-30",
+ "options": {
+  "laura-friedman": [
+   {
+    "text": "As an Assemblymember, authored a bill eliminating minimum parking requirements for housing near mass transit stations; it was signed into law in 2022.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://en.wikipedia.org/wiki/Laura_Friedman",
+     "title": "Laura Friedman - Wikipedia",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "In September 2021, delayed release of $4 billion in voter-approved high-speed rail bonds, saying the authority had \"not provided us any real details about what the money would go towards this year.\"",
+    "kind": "official-action",
+    "source": {
+     "url": "https://en.wikipedia.org/wiki/Laura_Friedman",
+     "title": "Laura Friedman - Wikipedia",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "transportation"
+   },
+   {
+    "text": "Campaign priorities include \"expanding access to affordable housing, supporting universal healthcare and childcare, strengthening economic security for families.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "health-care"
+   },
+   {
+    "text": "Campaign site says her record includes efforts to prevent gun violence, protect reproductive freedom, and defend the LGBTQ+ community.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "social-issues"
+   },
+   {
+    "text": "Campaign site cites legislative work supporting people experiencing severe mental illness and homelessness.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "homelessness"
+   },
+   {
+    "text": "Member of the Congressional Progressive Caucus; serves on House Transportation and Infrastructure and Science, Space, and Technology committees.",
+    "kind": "official-action",
+    "source": {
+     "url": "https://en.wikipedia.org/wiki/Laura_Friedman",
+     "title": "Laura Friedman - Wikipedia",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by Abundant Housing Los Angeles (pro-housing-growth group).",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "housing-growth"
+   },
+   {
+    "text": "Endorsed by Giffords PAC, Gun Sense Voter, Planned Parenthood Action Fund and Equality California.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "guns"
+   },
+   {
+    "text": "Endorsed by the California Federation of Labor Unions, SEIU California, California Federation of Teachers and National Union of Healthcare Workers.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Endorsed by the League of Conservation Voters, Sierra Club, NRDC Action Fund and CA Environmental Voters.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.lauraforcongress.org",
+     "title": "Laura Friedman for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "climate-energy"
+   }
+  ],
+  "scott-alan-meyers": [
+   {
+    "text": "Campaign site: \"cut regulatory red tape that drives up housing and small business costs\"; opposes \"reckless federal spending that fuels inflation\" and supports lower taxes.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "taxes-spending"
+   },
+   {
+    "text": "Advocates American energy independence to reduce gas costs.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "climate-energy"
+   },
+   {
+    "text": "Supports strengthening southern border security and strong enforcement against drug trafficking; \"oppose[s] sanctuary policies that undermine public safety.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "immigration"
+   },
+   {
+    "text": "\"Protect our neighborhoods and support law enforcement to keep communities safe.\"",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com",
+     "title": "Scott Alan Meyers for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "policing-justice"
+   },
+   {
+    "text": "Wants congressional leverage to expose California's high-speed rail and homelessness spending (\"Transparency for taxpayer dollars\").",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com",
+     "title": "Scott Alan Meyers for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "homelessness"
+   },
+   {
+    "text": "Education priority is reading, writing, math and analytical thinking, not \"political indoctrination\"; emphasizes parental rights.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "education"
+   },
+   {
+    "text": "Supports voter ID protections, election-administration transparency and the SAVE Act.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "elections-voting"
+   },
+   {
+    "text": "Proposes tax and regulatory policy to bring film and TV production back to California.",
+    "kind": "own-statement",
+    "source": {
+     "url": "https://www.meyersforcongress.com/issues",
+     "title": "Issues - Scott Alan Meyers for Congress",
+     "retrieved": "2026-09-30"
+    },
+    "dimension": "labor-business"
+   },
+   {
+    "text": "Endorsed by Reform California, the California Republican Party and the L.A. County Republican Party.",
+    "kind": "endorsement",
+    "source": {
+     "url": "https://www.meyersforcongress.com",
+     "title": "Scott Alan Meyers for Congress (campaign site)",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Web search budget was exhausted and clerk.house.gov, congress.gov, govtrack and friedman.house.gov returned 403, so no House roll-call votes were retrievable for Friedman; her items rely on Wikipedia (Assembly record) and her campaign site, which has no detailed issues page (only a summary and endorsements). Meyers site lacks positions on abortion, guns, health care, climate mandates. No third-party questionnaires (Votes411, CalMatters, Vote Smart) were reachable."
+}

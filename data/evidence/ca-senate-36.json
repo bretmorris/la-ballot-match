@@ -1,0 +1,139 @@
+{
+  "contestId": "ca-senate-36",
+  "options": {
+    "chris-duncan": [],
+    "tony-strickland": [
+      {
+        "text": "Strickland voted No on SB 79 (transit-oriented housing development), Senate third reading 6/3/2025 and concurrence 9/12/2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "Bill Votes - SB-79 Housing development: transit-oriented development (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on SB 627 (law enforcement masks), Senate concurrence, 9/11/2025; his office called it a \"reckless anti-law enforcement bill.\"",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "Bill Votes - SB-627 Law enforcement: masks (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on AB 1127 (firearms: converter pistols), Senate floor, 9/12/2025.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1127",
+          "title": "Bill Votes - AB-1127 Firearms: converter pistols (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on AB 1207 (extension of the cap-and-trade compliance mechanism), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1207",
+          "title": "Bill Votes - AB-1207 Climate change: market-based compliance mechanism: extension (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on SB 98 (schools: immigration enforcement notification), Senate floor, 9/2/2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB98",
+          "title": "Bill Votes - SB-98 Education: immigration enforcement: notification (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on AB 1340 (labor relations for rideshare drivers), Senate floor, 9/8/2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "Bill Votes - AB-1340 Transportation network company drivers: labor relations (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on SB 63 (Bay Area local revenue measure for public transit funding), Senate, 6/2 and 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63",
+          "title": "Bill Votes - SB-63 San Francisco Bay area: local revenue measure: public transit funding (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on ACA 8 (congressional redistricting), Senate floor, 8/21/2025.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "Bill Votes - ACA 8 Congressional redistricting (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on SB 840 (Greenhouse Gas Reduction Fund), Senate floor, 9/13/2025.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB840",
+          "title": "Bill Votes - SB-840 Greenhouse gases: Greenhouse Gas Reduction Fund: studies (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland voted No on SB 101, the Budget Act of 2025, Senate, 3/20/2025 and 6/13/2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB101",
+          "title": "Bill Votes - SB-101 Budget Act of 2025 (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland's office: opposed ACA 20 as \"more debt, more spending\" (6/25/2026), and criticized Sacramento Democrats for rejecting a gas tax suspension (8/25/2026).",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://sr36.senate.ca.gov/news",
+          "title": "Senator Tony Strickland - Press Releases and Op-Eds",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Strickland's office warned on 9/12/2025 that the Cap & Trade \"slush fund\" could worsen the affordability crisis.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://sr36.senate.ca.gov/news",
+          "title": "Senator Tony Strickland - Press Releases and Op-Eds",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On Huntington Beach housing, Strickland said he supports affordable housing but the city is \"95% built out\" and he won't back \"anything that guts our suburban coastal community.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://en.wikipedia.org/wiki/Tony_Strickland",
+          "title": "Tony Strickland - Wikipedia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Chris Duncan: no public positions found (BallotReady lookup was a different person; no campaign site located). Strickland press release headlines paraphrased from his news page; Wikipedia housing statement refers to his Huntington Beach era."
+}

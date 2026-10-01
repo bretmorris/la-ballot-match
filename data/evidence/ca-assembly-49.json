@@ -1,0 +1,208 @@
+{
+  "contestId": "ca-assembly-49",
+  "options": {
+    "mike-fong": [
+      {
+        "text": "Voted Aye on the Assembly floor for SB 79 (Wiener, transit-oriented development housing), Sept. 11, 2025.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB79",
+          "title": "SB 79 Housing development: transit-oriented development - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on the June 30, 2025 Assembly floor concurrence vote for AB 130, a budget housing bill.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB130",
+          "title": "AB 130 Housing - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 893 (Campus Development Zones), signed 2025: streamlines mixed-income housing on commercially zoned properties within a half mile of CSU, UC and community college campuses and expands affordable-unit eligibility to lower-income students, faculty and staff.",
+        "kind": "official-action",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://a49.asmdc.org/press-releases/20251022-assemblymember-mike-fong-celebrates-major-2025-legislative-wins",
+          "title": "Assemblymember Mike Fong Celebrates Major 2025 Legislative Wins (Oct. 22, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 2329 (2026), which updates the sale process for surplus State Route 710 corridor homes and creates a loan program to facilitate sales to tenants; passed the Legislature and awaited the Governor in Sept. 2026.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://fong.asmdc.org/press-releases/20260902-assemblymember-fongs-2026-legislative-package-heads-governor-newsoms-desk",
+          "title": "Assemblymember Fong's 2026 Legislative Package Heads To Governor Newsom's Desk",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored gun bills after the Monterey Park shooting: AB 732 (courts must confirm firearms are surrendered by prohibited persons) and AB 733 (bars state and local agencies from selling surplus firearms, ammunition and body armor). Said: \"State and local government agencies should not be arms dealers.\"",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.cbsnews.com/losangeles/news/mike-fong-gun-proposals-near-scene-of-monterey-park-mass-shooting/",
+          "title": "Assemblyman Mike Fong introduces gun proposals near scene of Monterey Park mass shooting (CBS Los Angeles)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 732 (relinquishment of firearms) on the Assembly floor, May 30 and Sept. 13, 2023; the bill passed 78-0 both times.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB732",
+          "title": "AB 732 Crimes: relinquishment of firearms - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 627 (Wiener, 'Law enforcement: masks'), Assembly floor, Sept. 9, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+          "title": "SB 627 Law enforcement: masks - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on AB 1340 (Wicks, transportation network company drivers: labor relations), Assembly floor, June 4, 2025.",
+        "kind": "voting-record",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1340",
+          "title": "AB 1340 Transportation network company drivers: labor relations - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on SB 237 (Kern County oil/gasoline specifications, CEQA exemptions), Assembly floor, Sept. 13, 2025; the bill passed 66-4.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB237",
+          "title": "SB 237 Oil spill prevention: gasoline specifications: Kern County - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Aye on ACA 8 (Rivas, congressional redistricting), Assembly floor, Aug. 21, 2025; passed 57-20.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA8",
+          "title": "ACA 8 Congressional redistricting - votes (leginfo.legislature.ca.gov)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Democratic Party for Assembly District 49. The party cited his commitment to expanding healthcare access, addressing homelessness, combating climate change, supporting local businesses and fully funding public schools.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://cadem.org/cadem-announces-the-endorsement-of-mike-fong-for-california-state-assembly-district-49/",
+          "title": "CADEM Announces the Endorsement of Mike Fong for California State Assembly District 49",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign bio lists his priorities as reducing homelessness, protecting the environment, expanding access to higher education, and helping businesses create jobs.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://mikefong.org/about/",
+          "title": "About Mike Fong - Mike Fong for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Authored AB 1028 (signed 2025), requiring community college districts to comply with existing collective bargaining agreements when terminating a part-time employee.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://a49.asmdc.org/press-releases/20251022-assemblymember-mike-fong-celebrates-major-2025-legislative-wins",
+          "title": "Assemblymember Mike Fong Celebrates Major 2025 Legislative Wins (Oct. 22, 2025)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "long-david-liu": [
+      {
+        "text": "\"I will hold criminals accountable, back the police, and introduce humane but effective solutions to homelessness.\" Says misguided public safety policies have allowed crime to go unpunished.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.liuforassembly.com/",
+          "title": "Long David Liu for Assembly - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "\"California's rising taxes hurt families and businesses daily... I will fight tax hikes, remove bureaucratic barriers, and put money back in your pocket.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.liuforassembly.com/",
+          "title": "Long David Liu for Assembly - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says schools are required to implement policies restricting parental involvement: \"Parents, not bureaucrats, know what is best for their children.\" Promises a \"transparent, merit-based, non-partisan school system.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.liuforassembly.com/",
+          "title": "Long David Liu for Assembly - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign philosophy at 2024 launch: supports law enforcement being adequately resourced and opposes drastic budget cuts to police departments; wants strict justice for criminals and fewer homeless people; advocates tax reduction for workers and small business owners.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://lapost.us/?p=61991",
+          "title": "Make California Safe Again, David Liu running for CA 49th district Assembly Member (The Los Angeles Post, Jan. 8, 2024)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says California needs \"bold leadership to overcome our homelessness, rampant crime, fiscal recklessness, high taxes, failing education system and highest-in-the-nation gas prices.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laclc.org/speaker-spotlight/meet-the-republican-primary-winners-long-david-liu-and-dan-t-tran/",
+          "title": "Meet the Republican Primary Winners - Long \"David\" Liu and Dan T. Tran (LA County Lincoln Clubs)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says regulatory burdens push jobs and businesses out of California; promises pro-growth economic policy and to remove bureaucratic barriers.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.liuforassembly.com/",
+          "title": "Long David Liu for Assembly - campaign home page",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the California Republican Party, the Los Angeles County Republican Party, Sheriff Alex Villanueva, Riverside Sheriff Chad Bianco, Steve Hilton, and the Lincoln Clubs of LA County.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://www.liuforassembly.com/endorsements",
+          "title": "Endorsements - Long David Liu for Assembly",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Fong evidence is mostly legislative votes and authored bills. Liu has no legislative record; evidence is from his campaign site and coverage, and he published no positions on housing, climate, guns, immigration, elections or health care that were found."
+}

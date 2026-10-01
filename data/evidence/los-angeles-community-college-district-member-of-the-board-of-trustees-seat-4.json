@@ -1,0 +1,204 @@
+{
+  "contestId": "los-angeles-community-college-district-member-of-the-board-of-trustees-seat-4",
+  "options": {
+    "nancy-pearlman": [
+      {
+        "text": "Advocates equal pay and opportunities for faculty, noting \"over 65% of faculty are part-timers.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she advocated designated parking lots at all nine colleges for unhoused students, plus restrooms and shower facilities.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the district should \"reestablish\" its position as a nationwide leader in sustainable building practices; supports renewable energy, water reuse, open space, toxics reduction, recycling, heat-island mitigation and mass transit on campuses.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says \"student success is critical\" and services should be available so students excel and have good transfer opportunities.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she won her first election in 2001 spending under $1,000 and emphasizes educating voters over fundraising.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Americans for Democratic Action of Southern California and Progressive Democrats of the Santa Monica Mountains.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://nancypearlman.net/indexElect.html",
+          "title": "Nancy Pearlman - Election Campaign (official website)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "darryn-harris": [
+      {
+        "text": "Says the district must take \"seriously the need for affordable housing so students can stay enrolled, succeed, and build stable futures.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://darrynharris.com/meet-darryn",
+          "title": "Darryn Harris for LA Community College Board - Meet Darryn",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says LACCD colleges should \"serve students, support faculty and staff, and connect more people to the skills they need\" and calls them pathways to good jobs and economic mobility.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://darrynharris.com/meet-darryn",
+          "title": "Darryn Harris for LA Community College Board - Meet Darryn",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign slogan: \"LA Community Colleges: Pathways to Good Jobs, Affordable Housing, and Opportunity.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://darrynharris.com/",
+          "title": "Darryn Harris for LA Community College Board - Home",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by AFT College Faculty Guild 1521, AFT Staff Guild 1521A, UTLA, SEIU 99 and 721, IBEW 11, IUOE Local 12, Painters DC 36 and SMART Local 105.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://darrynharris.com/endorsements/",
+          "title": "Darryn Harris for LA Community College Board - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the Los Angeles County Democratic Party and the Working Families Party.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://darrynharris.com/endorsements/",
+          "title": "Darryn Harris for LA Community College Board - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Rep. Sydney Kamlager-Dove, County Supervisors Holly Mitchell and Lindsey Horvath, State Controller Malia Cohen and Treasurer Fiona Ma; also by incumbent LACCD trustees including Steve Veres.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://darrynharris.com/endorsements/",
+          "title": "Darryn Harris for LA Community College Board - Endorsements",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "adam-bruno": [],
+    "elaine-alaniz": [
+      {
+        "text": "On her 2026 County Supervisor campaign site: her approach is to protect communities from the fentanyl crisis and manage public resources responsibly \"so families are not forced to shoulder ever increasing tax burdens.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://elainereadytoserve.com/",
+          "title": "Elaine Alaniz campaign site (LA County Board of Supervisors District 1, 2026; not her LACCD campaign)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On her County Supervisor site: wants homelessness programs tied to measurable outcomes so taxpayer dollars help people \"transition back into stability and independence.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://elainereadytoserve.com/",
+          "title": "Elaine Alaniz campaign site (LA County Board of Supervisors District 1, 2026; not her LACCD campaign)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On her County Supervisor site: proposes expanding workforce training through community-college partnerships and supporting apprenticeship programs in skilled trades.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://elainereadytoserve.com/issues/education-and-trade-preparation/",
+          "title": "Elaine Alaniz campaign site (LA County Board of Supervisors District 1, 2026; not her LACCD campaign)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On her County Supervisor site: calls for fiscal discipline and policies that support economic opportunity \"without increasing the tax burden on residents.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://elainereadytoserve.com/issues/economic-and-budget-responsibility/",
+          "title": "Elaine Alaniz campaign site (LA County Board of Supervisors District 1, 2026; not her LACCD campaign)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "isidro-j-armenta": [],
+    "priscilla-umana": [],
+    "jason-r-aula": [
+      {
+        "text": "Writes \"I believe in small government, free enterprise and individual liberty,\" and says his political beliefs are guided by the U.S. Constitution.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "http://www.jasonaula.com/meet-the-candidate.html",
+          "title": "Jason R. Aula - Meet the Candidate (legacy page, header references a 2024 Assembly campaign)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says funding higher education is of utmost importance and \"all levels of education need more money to update technology and hire more teachers.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "http://www.jasonaula.com/meet-the-candidate.html",
+          "title": "Jason R. Aula - Meet the Candidate (legacy page, header references a 2024 Assembly campaign)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to usher in solar and wind power for LACCD campuses and facilities, and to reinstate and fund the Pierce College Farm.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "http://www.jasonaula.com/meet-the-candidate.html",
+          "title": "Jason R. Aula - Meet the Candidate (legacy page, header references a 2024 Assembly campaign)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "No public positions found for adam-bruno, isidro-j-armenta or priscilla-umana (only BallotReady listings and, for Umana, an Instagram account that could not be read). Elaine Alaniz's positions come from her LA County Supervisor District 1 campaign site; her LACCD-specific platform was not found. Jason Aula's page is a legacy campaign page and may not reflect 2026. Pearlman's site mislabels her seat as 'Seat 3'; the contest file lists her in Seat 4."
+}

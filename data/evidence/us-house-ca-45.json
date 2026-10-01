@@ -80,16 +80,6 @@
           "title": "Derek Tran - 2026 candidate profile (smarter.vote)",
           "retrieved": "2026-09-30"
         }
-      },
-      {
-        "text": "Introduced the Housing COST Act (Sept. 24, 2026) creating tax credits for renters facing rising housing costs.",
-        "kind": "official-action",
-        "dimension": "renters-landlords",
-        "source": {
-          "url": "https://tran.house.gov/media/press-releases",
-          "title": "Press Releases - Rep. Derek Tran",
-          "retrieved": "2026-09-30"
-        }
       }
     ],
     "chuong-v-vo": [
@@ -185,5 +175,5 @@
       }
     ]
   },
-  "notes": "Vo: campaign-site platform items come via the smarter.vote summary; Ballotpedia and oppintell could not be retrieved. No findable positions on housing, health care, guns, or labor. Tran: house.gov pages blocked (403), so items rely on the smarter.vote profile of his record; the Housing COST Act item comes from a search result snippet of tran.house.gov press releases and should be treated as less verified."
+  "notes": "Vo: campaign-site platform items come via the smarter.vote summary; Ballotpedia and oppintell could not be retrieved. No findable positions on housing, health care, guns, or labor. Tran: house.gov pages blocked (403), so items rely on the smarter.vote profile of his record; no housing/renter items verified."
 }

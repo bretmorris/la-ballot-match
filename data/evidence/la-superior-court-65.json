@@ -1,0 +1,38 @@
+{
+  "contestId": "la-superior-court-65",
+  "notes": "Judicial candidates; bar ratings excluded. Clayton's site lists no specific policy positions or endorsers on the pages fetched.",
+  "options": {
+    "justin-allen-clayton": [
+      {
+        "text": "Campaign frames his candidacy around \"accountability, passion and shared responsibility to keep Los Angeles courts fair and accessible for every resident.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://claytonforjudge2026.com",
+          "title": "Clayton for Judge 2026 (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "anna-slotky-reitano": [
+      {
+        "text": "Judicial philosophy centered on applying the law \"not ideology\": constitutional fairness, due process, and dignity and respect for all persons in court.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.reitanoforjudge.com",
+          "title": "Anna Slotky Reitano for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the National Women's Political Caucus, East Area Progressive Democrats, West LA Democratic Club, State Sen. Ben Allen and Rep. Laura Friedman.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.reitanoforjudge.com",
+          "title": "Anna Slotky Reitano for Judge (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

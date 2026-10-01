@@ -1,0 +1,240 @@
+{
+ "contestId": "ca-assembly-66",
+ "options": {
+  "paul-seo": [
+   {
+    "text": "Supports policies that build more housing responsibly and cut red tape, while protecting neighborhoods and respecting high-risk fire zones.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Will work to increase funding for more police, deputy sheriffs, prosecutors, peace officers and Highway Patrol officers, and to improve community-based policing and combat gun violence.",
+    "kind": "own-statement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says government must hold homelessness initiatives accountable, cut red tape, and work faster to get people off the streets and into safe, stable housing or mental healthcare programs.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Supports investing more in clean, renewable energy like wind and solar, holding polluters accountable, and protecting clean air and water near ports and airports.",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Describes himself as a strong supporter of the Affordable Care Act who 'believes deeply in universal healthcare'; will work to expand coverage for those who need it.",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Strong supporter of 2024 Prop. 1 enshrining abortion rights in the state constitution; says he will fully fund Planned Parenthood and community clinics and protect abortion access.",
+    "kind": "own-statement",
+    "dimension": "social-issues",
+    "source": {
+     "url": "https://www.paulseo.com/media",
+     "title": "Media - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Will work with teachers to increase educator pay, reduce class sizes and modernize campuses; supports full-time community college faculty hiring and student support programs.",
+    "kind": "own-statement",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says he will work with labor unions and businesses on a stronger economy, and cut red tape for small businesses. Notes he is a dues-paying union member.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.paulseo.com/priorities",
+     "title": "Priorities - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Promises to make life more affordable by cracking down on unfair price hikes and providing tax relief for middle-class families.",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.paulseo.com/media",
+     "title": "Media - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by California Professional Firefighters, Association for Los Angeles Deputy Sheriffs, Los Angeles Police Protective League, and LA County Professional Peace Officers Association.",
+    "kind": "endorsement",
+    "dimension": "policing-justice",
+    "source": {
+     "url": "https://www.paulseo.com/endorsements",
+     "title": "Endorsements - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by California Federation of Labor Unions, SEIU California, and IATSE.",
+    "kind": "endorsement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.paulseo.com/endorsements",
+     "title": "Endorsements - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by Sierra Club and Planned Parenthood Advocacy Project LA County Action Fund.",
+    "kind": "endorsement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.paulseo.com/endorsements",
+     "title": "Endorsements - Paul Seo for Assembly",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ],
+  "sara-deen": [
+   {
+    "text": "Priority: balance the state budget by restoring fiscal discipline, closing unfair tax loopholes, and pursuing responsible non-tax revenue sources.",
+    "kind": "own-statement",
+    "dimension": "taxes-spending",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Will streamline permitting and outdated regulations, expand starter homes and workforce housing, and support community land trusts.",
+    "kind": "own-statement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants to hold utility and insurance industries accountable and streamline permitting to cut red tape for starting a business or building, while keeping strong environmental and safety protections.",
+    "kind": "own-statement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Wants to expand access to quality, affordable healthcare, including mental health and substance abuse treatment, and says insurance companies deny care while raising rates.",
+    "kind": "own-statement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Priority: invest in a modern, resilient energy grid and clean energy infrastructure; supports California's 30x30 conservation commitment, grounded in sound science.",
+    "kind": "own-statement",
+    "dimension": "climate-energy",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "As school board president, says she worked to strengthen neighborhood public schools, retain teachers, and expand career technical pathways; led a school safety framework and a local school bond measure.",
+    "kind": "official-action",
+    "dimension": "education",
+    "source": {
+     "url": "https://www.saradeenforca.com/meet-sara/",
+     "title": "Meet Sara Deen - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says she will reduce special-interest influence in elections and strengthen the voice of everyday voters.",
+    "kind": "own-statement",
+    "dimension": "elections-voting",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Says rising costs push more people toward homelessness and links the housing shortage to homelessness; no specific enforcement or housing-first policy stated.",
+    "kind": "own-statement",
+    "dimension": "homelessness",
+    "source": {
+     "url": "https://www.saradeenforca.com/why-im-running/",
+     "title": "Why I'm Running - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by California Teachers Association, California Nurses Association, California Federation of Teachers, and Western States Regional Council of Carpenters.",
+    "kind": "endorsement",
+    "dimension": "labor-business",
+    "source": {
+     "url": "https://www.saradeenforca.com/endorsements/",
+     "title": "Endorsements - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by California YIMBY and Abundant Housing Los Angeles.",
+    "kind": "endorsement",
+    "dimension": "housing-growth",
+    "source": {
+     "url": "https://www.saradeenforca.com/endorsements/",
+     "title": "Endorsements - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   },
+   {
+    "text": "Endorsed by California Dental Association, California Medical Association, and California Primary Care Association.",
+    "kind": "endorsement",
+    "dimension": "health-care",
+    "source": {
+     "url": "https://www.saradeenforca.com/endorsements/",
+     "title": "Endorsements - Sara Deen for California Assembly District 66",
+     "retrieved": "2026-09-30"
+    }
+   }
+  ]
+ },
+ "notes": "Sources are campaign websites (paulseo.com, saradeenforca.com); both fetched 2026-09-30. Ballotpedia/search unavailable. Neither campaign site states positions on immigration, guns (Seo mentions only combating gun violence), transportation, or voting rules (Seo). Both are Democrats; Seo's site lists many law-enforcement endorsements, Deen's lists education/health/housing groups."
+}

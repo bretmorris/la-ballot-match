@@ -1,0 +1,268 @@
+{
+  "contestId": "us-house-ca-34",
+  "options": {
+    "jimmy-gomez": [
+      {
+        "text": "Founding member of the Medicare for All Caucus and original cosponsor of the Medicare for All Act; also introduced the Choose Medicare Act to require public health insurance plans with high-quality coverage, including reproductive care.",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cosponsored and voted to pass the Women's Health Protection Act to codify Roe v. Wade; original cosponsor of the Right to Contraception Act and the Reproductive Health Travel Fund Act.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Equality Act and the Transgender Bill of Rights legislation; secured $750,000 in federal funding for the TransLatin@ Coalition.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Founded and chairs the Congressional Renters Caucus; principal architect of the Rent Relief Act (monthly payments to rent-burdened households); introduced the End Junk Fees for Renters Act and a bill to convert vacant office buildings to housing.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsored the For the 99.5% Act with Sen. Bernie Sanders so billionaires cannot pass wealth to children tax-free, raising nearly $550 billion over 10 years; says billionaires must pay their fair share.",
+        "kind": "official-action",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the PRO Act and the Empowering Striking Workers Act; committed to raising the minimum wage; picketed alongside striking Los Angeles unions in 2023.",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Green New Deal and Climate Emergency Resolution; sponsored bills toward 100 percent renewable energy by 2035.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the George Floyd Justice in Policing Act and the Ending Qualified Immunity Act; cosponsor of the MORE Act to deschedule marijuana.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Citizenship Act and Dignity for Detained Immigrants Act; has pushed to prohibit ICE from using for-profit private detention centers; cosponsor of the Dream and Promise Act.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Laken Riley Act (requires DHS detention of certain unauthorized immigrants arrested for theft-related offenses); the bill passed 263-156.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://ballotpedia.org/Jimmy_Gomez",
+          "title": "Jimmy Gomez - Ballotpedia (Key votes, 119th Congress)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the One Big Beautiful Bill Act (H.R. 1), the 2025 reconciliation bill covering tax policy and federal programs; it passed 218-214.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Jimmy_Gomez",
+          "title": "Jimmy Gomez - Ballotpedia (Key votes, 119th Congress)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the SAVE Act (H.R. 22), which requires documentary proof of citizenship to register to vote in federal elections; it passed the House 220-208.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://ballotpedia.org/Jimmy_Gomez",
+          "title": "Jimmy Gomez - Ballotpedia (Key votes, 119th Congress)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports overturning Citizens United with the goal of public financing of elections; does not accept corporate PAC money; cosponsor of the Freedom to Vote Act to expand voter registration and access.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates canceling student debt and debt-free college; passed his bill making student loan forgiveness tax-free; led colleagues in pushing to increase funding for School Based Health Centers in K-12 schools.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/issues",
+          "title": "On The Issues - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Planned Parenthood Action Fund, the Los Angeles County Federation of Labor, EnviroVoters, Equality California, and the National Education Association.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://jimmygomezforcongress.com/endorsements",
+          "title": "Supporters - Jimmy Gomez for Congress",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "angela-gonzales-torres": [
+      {
+        "text": "Campaign priorities: Affordability, Accountability (\"Equitably taxing & investing\"), Access (\"Funding education & youth programs\"), and Abolition (\"Ending ICE & for-profit prisons\").",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.angela4congress.com/",
+          "title": "Angela Gonzales-Torres for Congress (home)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Housing platform: expanding emergency rental assistance and housing vouchers, supporting community land trusts and rapid rehousing, and building permanently affordable housing \"that puts people over profit.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Housing platform includes expanding emergency rental assistance and vouchers to tackle homelessness \"before it starts\" through rapid rehousing and permanently affordable housing.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Economic platform: a Guaranteed Basic Income pilot for working families, stronger protections for gig workers, and expanded leave and childcare support.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Healthcare platform: co-sponsoring Medicare for All, investing in mental health and addiction care, and strengthening clinics that serve everyone regardless of immigration status or income.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Climate platform: a \"bold, community-driven Green New Deal\" prioritizing renewable energy, unionized green jobs, and neighborhood projects such as rooftop gardens and urban farms.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Education platform: fully funding early childhood and special education, canceling student debt, and making public college tuition-free.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Immigration platform: a pathway to citizenship, expanded services for mixed-status households, and investments in legal aid; lists \"Ending ICE & for-profit prisons\" as a priority.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.angela4congress.com/issues",
+          "title": "Issues - Angela Gonzales-Torres for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Describes herself as a democratic socialist; says her campaign aims to get corporate money's influence out of politics, and criticizes the incumbent as nearly fully funded by corporate super PACs.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://theoccidentalnews.com/community/2026/03/04/three-ca-34-contenders-share-campaign-priorities/2916977",
+          "title": "Three CA-34 contenders share campaign priorities - The Occidental",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says she supports Medicare for All, a Green New Deal, small business protections, and ending U.S. weapons funding for wars abroad.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://theoccidentalnews.com/community/2026/03/04/three-ca-34-contenders-share-campaign-priorities/2916977",
+          "title": "Three CA-34 contenders share campaign priorities - The Occidental",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Justice Democrats, Working Families Party, and Los Angeles DSA.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ballotpedia.org/Angela_Gonzales-Torres",
+          "title": "Angela Gonzales-Torres - Ballotpedia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Sources: both campaign sites, Ballotpedia, The Occidental. Gomez's house.gov site and congress.gov blocked fetches (403), so Gomez votes come from Ballotpedia's key-votes list. Angela Gonzales-Torres has no voting record; her items are campaign-site platform statements. Neither candidate has a Ballotpedia Candidate Connection survey for 2026. Neither candidate had findable positions on guns or transportation; Gonzales-Torres had no findable policing position beyond ending for-profit prisons."
+}

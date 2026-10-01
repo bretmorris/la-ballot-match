@@ -2,6 +2,347 @@
  "contestId": "la-city-member-of-the-city-council-3rd-district",
  "kind": "candidate",
  "model": "jev-1.13.0",
- "scoredAt": "2026-10-01T04:31:48.122Z",
- "options": {}
+ "scoredAt": "2026-10-01T04:41:35.577Z",
+ "options": {
+  "timothy-k-gaspar": {
+   "taxes-spending": {
+    "position": 0.395,
+    "evidence": 0.66,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.26,
+     "3": 0.69,
+     "4": 0.05
+    }
+   },
+   "housing-growth": {
+    "position": -0.135,
+    "evidence": 0.33,
+    "confidence": 0.64,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.28,
+     "2": 0.6,
+     "3": 0.07,
+     "4": 0.01
+    }
+   },
+   "renters-landlords": {
+    "position": 0.88,
+    "evidence": 0.91,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.23,
+     "4": 0.77
+    }
+   },
+   "policing-justice": {
+    "position": 0.98,
+    "evidence": 0.98,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.03,
+     "4": 0.97
+    }
+   },
+   "homelessness": {
+    "position": 0.88,
+    "evidence": 0.98,
+    "confidence": 0.8,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0,
+     "3": 0.23,
+     "4": 0.77
+    }
+   },
+   "climate-energy": {
+    "position": 0.07,
+    "evidence": 0.02,
+    "confidence": 0.88,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.87,
+     "3": 0.11,
+     "4": 0.02
+    }
+   },
+   "labor-business": {
+    "position": 0.395,
+    "evidence": 0.89,
+    "confidence": 0.56,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.34,
+     "3": 0.49,
+     "4": 0.16
+    }
+   },
+   "immigration": {
+    "position": -0.625,
+    "evidence": 0.96,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0.28,
+     "1": 0.7,
+     "2": 0.02,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": 0.005,
+    "evidence": 0.02,
+    "confidence": 0.97,
+    "probabilities": {
+     "0": 0,
+     "1": 0.02,
+     "2": 0.97,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": 0.15,
+    "evidence": 0.02,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.73,
+     "3": 0.22,
+     "4": 0.04
+    }
+   },
+   "health-care": {
+    "position": 0.18,
+    "evidence": 0.29,
+    "confidence": 0.65,
+    "probabilities": {
+     "0": 0,
+     "1": 0.03,
+     "2": 0.6,
+     "3": 0.35,
+     "4": 0.02
+    }
+   },
+   "transportation": {
+    "position": 0.16,
+    "evidence": 0.08,
+    "confidence": 0.73,
+    "probabilities": {
+     "0": 0,
+     "1": 0,
+     "2": 0.72,
+     "3": 0.24,
+     "4": 0.04
+    }
+   },
+   "elections-voting": {
+    "position": 0,
+    "evidence": 0.03,
+    "confidence": 0.98,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.98,
+     "3": 0.01,
+     "4": 0
+    }
+   }
+  },
+  "barri-worth-girvan": {
+   "taxes-spending": {
+    "position": -0.11,
+    "evidence": 0.05,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.25,
+     "2": 0.7,
+     "3": 0.04,
+     "4": 0
+    }
+   },
+   "housing-growth": {
+    "position": 0.565,
+    "evidence": 0.96,
+    "confidence": 0.75,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.07,
+     "3": 0.7,
+     "4": 0.22
+    }
+   },
+   "renters-landlords": {
+    "position": 0.03,
+    "evidence": 0.06,
+    "confidence": 0.72,
+    "probabilities": {
+     "0": 0,
+     "1": 0.13,
+     "2": 0.68,
+     "3": 0.18,
+     "4": 0.01
+    }
+   },
+   "policing-justice": {
+    "position": 0.13,
+    "evidence": 0.79,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0,
+     "1": 0.05,
+     "2": 0.65,
+     "3": 0.29,
+     "4": 0.01
+    }
+   },
+   "homelessness": {
+    "position": 0.22,
+    "evidence": 0.97,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.54,
+     "3": 0.44,
+     "4": 0.01
+    }
+   },
+   "climate-energy": {
+    "position": -0.38,
+    "evidence": 0.15,
+    "confidence": 0.7,
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.65,
+     "2": 0.28,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "labor-business": {
+    "position": -0.66,
+    "evidence": 0.91,
+    "confidence": 0.65,
+    "probabilities": {
+     "0": 0.37,
+     "1": 0.58,
+     "2": 0.05,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "immigration": {
+    "position": -0.765,
+    "evidence": 0.96,
+    "confidence": 0.61,
+    "probabilities": {
+     "0": 0.54,
+     "1": 0.46,
+     "2": 0,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "education": {
+    "position": -0.155,
+    "evidence": 0.02,
+    "confidence": 0.74,
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.24,
+     "2": 0.72,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "social-issues": {
+    "position": -0.565,
+    "evidence": 0.16,
+    "confidence": 0.78,
+    "probabilities": {
+     "0": 0.2,
+     "1": 0.74,
+     "2": 0.06,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "guns": {
+    "position": -0.165,
+    "evidence": 0.02,
+    "confidence": 0.71,
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.27,
+     "2": 0.68,
+     "3": 0.01,
+     "4": 0
+    }
+   },
+   "health-care": {
+    "position": -0.32,
+    "evidence": 0.78,
+    "confidence": 0.66,
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.61,
+     "2": 0.37,
+     "3": 0,
+     "4": 0
+    }
+   },
+   "transportation": {
+    "position": 0.01,
+    "evidence": 0.03,
+    "confidence": 0.96,
+    "probabilities": {
+     "0": 0,
+     "1": 0.01,
+     "2": 0.96,
+     "3": 0.02,
+     "4": 0.01
+    }
+   },
+   "elections-voting": {
+    "position": -0.115,
+    "evidence": 0.03,
+    "confidence": 0.81,
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.2,
+     "2": 0.79,
+     "3": 0,
+     "4": 0
+    }
+   }
+  }
+ }
 }

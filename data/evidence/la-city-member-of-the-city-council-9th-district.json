@@ -1,0 +1,179 @@
+{
+  "contestId": "la-city-member-of-the-city-council-9th-district",
+  "options": {
+    "estuardo-mazariegos": [
+      {
+        "text": "Campaign platform: build deeply affordable housing, enforce renter protections, stop no-fault evictions and predatory landlord practices.",
+        "kind": "questionnaire",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports mixed-income social housing in the district and believes the district has \"done its share\" in density.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Prioritize housing people with dignity and care, address displacement and underfunded services, and increase transparency in homelessness spending.",
+        "kind": "questionnaire",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Opposes LAPD expansion, saying \"folks in this district don't feel served.\" Platform favors preventive approaches, community-based violence prevention and police accountability.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: legal representation and due process for all residents and protecting families from detention and separation.",
+        "kind": "questionnaire",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Platform: raise wages, support small business, create good jobs for working families; also reduce pollution, advance clean energy, expand transit and parks.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes a surcharge on sports and entertainment venue tickets to fund neighborhood amenities.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by United Teachers Los Angeles, SEIU 1000, SEIU USWW, SEIU 2015, DSA-LA and Sen. Bernie Sanders.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by the LA League of Conservation Voters and Stonewall Democrats.",
+        "kind": "endorsement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.estuardo4la.com",
+          "title": "Estuardo Mazariegos for City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jose-ugarte": [
+      {
+        "text": "Says \"Homelessness is a mental health, drug abuse and alcohol abuse problem\"; supports mandatory treatment and job training for unhoused people and prioritizes mental health funding over housing-only approaches.",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Advocates hiring more police officers, with city residency requirements.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Favors lower-priced housing and discourages luxury development to keep rents affordable.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes the city create its own public health department.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform: bring a Metro line to CD9, fix streetlights, expand public parks, build more affordable housing.",
+        "kind": "questionnaire",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.ugarteforla.com",
+          "title": "Jose Ugarte for Los Angeles City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign platform: stop automation and save jobs in the community.",
+        "kind": "questionnaire",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ugarteforla.com",
+          "title": "Jose Ugarte for Los Angeles City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by Los Angeles Firefighters, nurses, and CHIRLA (immigrant rights coalition).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.ugarteforla.com",
+          "title": "Jose Ugarte for Los Angeles City Council (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Endorsed by labor organizations and the LA County Democratic Party.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-la-city-councilmember-district-9",
+          "title": "Guide to the race for LA City Council, District 9 (LAist)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  }
+}

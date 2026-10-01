@@ -1,0 +1,200 @@
+{
+  "contestId": "us-house-ca-27",
+  "options": {
+    "george-whitesides": [
+      {
+        "text": "Campaign site lists among his priorities in Congress: \"protecting a woman's right to choose.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.georgewhitesideforcongress.com/",
+          "title": "George Whitesides for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site lists among his priorities: \"protecting Social Security and Medicare for seniors.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.georgewhitesideforcongress.com/",
+          "title": "George Whitesides for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "House issues page: Health priorities are protecting access to affordable healthcare, supporting local hospitals, and defending reproductive rights.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://whitesides.house.gov/issues",
+          "title": "Representative George Whitesides - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "House issues page: supports \"cost-effective, clean energy policies that achieve American energy independence,\" leveraging private-sector innovation to reduce costs and create jobs.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://whitesides.house.gov/issues",
+          "title": "Representative George Whitesides - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "House issues page: wants \"every child has access to high-quality, affordable education regardless of their zip code,\" investing in public education, community colleges and workforce development.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://whitesides.house.gov/issues",
+          "title": "Representative George Whitesides - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "House issues page: priorities include policies that lower costs and expand job growth for working families, and addressing catastrophic wildfire prevention and the home fire insurance crisis.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://whitesides.house.gov/issues",
+          "title": "Representative George Whitesides - Issues",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on passage of H.R. 1, the One Big Beautiful Bill Act (House vote, May 22, 2025).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://clerk.house.gov/evs/2025/roll145.xml",
+          "title": "House Roll Call 145 (2025), H.R. 1 On Passage",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted No on the motion to concur in the Senate amendment to H.R. 1, the One Big Beautiful Bill Act (July 3, 2025).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://clerk.house.gov/evs/2025/roll190.xml",
+          "title": "House Roll Call 190 (2025), H.R. 1 Motion to Concur",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on passage of H.R. 5103, the Make the District of Columbia Safe and Beautiful Act (March 25, 2026).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://clerk.house.gov/evs/2026/roll101.xml",
+          "title": "House Roll Call 101 (2026), H.R. 5103 On Passage",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.R. 4, the Rescissions Act of 2025 (June 12, 2025).",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://politicaldna.org/officials/george-whitesides/",
+          "title": "George Whitesides voting record - Political DNA",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "jason-gibbs": [
+      {
+        "text": "Campaign site: \"Jason will fight to lower the cost of living by opposing new taxes, supporting energy affordability, and holding government accountable for wasteful spending.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: will support law enforcement and oppose \"soft-on-crime\" policies; \"He'll push to end catch-and-release justice and restore consequences for criminal behavior.\"",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"supports securing the border, cracking down on fentanyl trafficking, and ending policies that reward illegal entry\"; believes in legal immigration.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: local communities \"know best how to manage housing, schools, and public safety\"; he'll stand up against one-size-fits-all mandates from Sacramento and Washington.",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: \"every parent deserves a say in what their kids are being taught\"; he'll work to expand career pathways and technical training, not only four-year-college tracks.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign site: opposes new taxes and one-size-fits-all mandates while supporting energy affordability.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.jasongibbsforcongress.com/",
+          "title": "Jason Gibbs for Congress (campaign site)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Stated position: \"immigration policy should begin with real border security, including secured barriers and protected ports of entry,\" plus \"shorter backlogs, improved legal pathways, and support for skilled and essential workers.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-27-2026/jason-gibbs/",
+          "title": "Jason Gibbs - smarter.vote CA-27 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign materials state: \"our national debt is a multi-generational economic and security threat.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://laclc.org/uncategorized/candidate-for-the-27th-congressional-district-jason-gibbs/",
+          "title": "Candidate for the 27th Congressional District, Jason Gibbs - LA County Lincoln Clubs",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Listed as the recommended U.S. House District 27 candidate by the California ProLife Council for the 2026 primary.",
+        "kind": "endorsement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-27-2026/jason-gibbs/",
+          "title": "Jason Gibbs - smarter.vote CA-27 2026",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Many sources blocked (403/rate-limited): Whitesides campaign issues/endorsements page was empty, congress.gov/govtrack/house.gov press pages unavailable, so Whitesides has no stated positions on housing, immigration, guns, policing, renters, transportation, elections. Gibbs has no legislative record (city councilmember); no council votes retrieved. Whitesides H.R. 4 vote is from politicaldna.org (secondary), not clerk.house.gov. Campaign-site 'local control' item mapped loosely to housing-growth; Gibbs's ProLife listing is a recommendation per smarter.vote."
+}

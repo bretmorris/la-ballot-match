@@ -1,0 +1,207 @@
+{
+  "contestId": "us-house-ca-42",
+  "options": {
+    "robert-garcia": [
+      {
+        "text": "Voted No on H.R. 1 (One Big Beautiful Bill Act), motion to concur in the Senate amendment, July 3, 2025; passed 218-214.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://clerk.house.gov/Votes/2025190",
+          "title": "House Roll Call 190, H.R. 1, July 3, 2025 (Clerk of the House)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "July 15, 2026: \"Today, I am voting yes on an amendment to block $3.3 billion in American taxpayer dollars for Benjamin Netanyahu and the Israeli military.\"",
+        "kind": "voting-record",
+        "source": {
+          "url": "https://robertgarcia.house.gov/",
+          "title": "Congressman Robert Garcia - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "With Rep. Lisa McClain (R), passed the Common Cents Act (July 2026) to end penny production and let businesses round cash transactions to the nearest nickel.",
+        "kind": "official-action",
+        "source": {
+          "url": "https://robertgarcia.house.gov/",
+          "title": "Congressman Robert Garcia - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Announced a $544,904 federal DOT grant (Aug 31, 2026) to replace Long Beach water taxi engines for cleaner, faster service.",
+        "kind": "official-action",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://robertgarcia.house.gov/",
+          "title": "Congressman Robert Garcia - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "As Oversight ranking member (Sept 21, 2026): \"ICE must immediately put an end to this inhumane treatment and give us answers\"; co-led letters on conditions at Florida ICE facilities.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-bennie-thompson-and-maxwell-frost-demand-answers-from-ice-on-dangerous-conditions-in-florida-immigration-facilities",
+          "title": "Ranking Members Garcia, Thompson, Frost Demand Answers From ICE (Oversight Democrats)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Led creation of an Immigration Enforcement Dashboard (Nov 2025) tracking potential misconduct, and released a Feb 2026 report on killings by federal immigration agents in Minneapolis.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-bennie-thompson-and-maxwell-frost-demand-answers-from-ice-on-dangerous-conditions-in-florida-immigration-facilities",
+          "title": "Ranking Members Garcia, Thompson, Frost Demand Answers From ICE (Oversight Democrats)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Site lists priorities including abortion access, gun violence prevention, healthcare expansion, affordable housing, wage increases, green jobs and LGBTQ+ protections.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://robertgarcia.house.gov/",
+          "title": "Congressman Robert Garcia - official site",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign positions: healthcare is a human right and Medicare for All the primary solution; $15 minimum wage and stronger union protections.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/robert-garcia/",
+          "title": "Robert Garcia - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign positions: transition away from fossil fuels, expand clean energy, back the Green New Deal framework.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/robert-garcia/",
+          "title": "Robert Garcia - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign positions: universal background checks, assault-weapon ban, age restrictions on firearm purchases.",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/robert-garcia/",
+          "title": "Robert Garcia - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign positions: codify abortion rights into federal law; expand pathways to citizenship for undocumented residents; opposes restrictions on vote-by-mail.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/robert-garcia/",
+          "title": "Robert Garcia - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "brian-burley": [
+      {
+        "text": "Campaign pledge: \"Advocate for Tax Relief to Families and Business Owners.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.burley4congress.com/",
+          "title": "Brian Burley for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign pledge: \"Take a Stand Against Illegal Immigration.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.burley4congress.com/",
+          "title": "Brian Burley for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign pledge: \"Fully Support Our Law Enforcement and Our Military\"; wants stronger coordination between federal and local law enforcement.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.burley4congress.com/",
+          "title": "Brian Burley for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign pledge: \"Fight to Restore American Family Values.\"",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.burley4congress.com/",
+          "title": "Brian Burley for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Seeks to reduce federal regulations that increase housing and energy costs; opposes \"stronger regulations on pollution and carbon emissions\" while supporting cleaner-technology innovation.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/brian-burley/",
+          "title": "Brian Burley - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports requiring proof of citizenship for voting in federal elections and wants to prevent prolonged ballot counting.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/brian-burley/",
+          "title": "Brian Burley - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "On the school board he says he has stood for \"parental rights, academic excellence, and fiscal responsibility.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.burley4congress.com/bio",
+          "title": "Brian Burley for Congress - Bio",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he wants to prevent abusive deepfakes involving students and teachers through coordination with school districts.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/brian-burley/",
+          "title": "Brian Burley - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports a strong, well-funded military while opposing \"endless wars.\"",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://smarter.vote/races/ca-house-42-2026/brian-burley/",
+          "title": "Brian Burley - 2026 CA-42 (Smarter.vote)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Burley: no positions found on health care, housing policy detail, guns, abortion, or labor; endorsements page not retrievable (BallotReady lists none). Garcia and Burley issue-position items marked from smarter.vote come from an aggregator summarizing campaign/official material. House.gov, clerk.house.gov, congress.gov and govtrack were mostly blocked (403)."
+}
