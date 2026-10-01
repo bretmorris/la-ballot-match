@@ -1,0 +1,279 @@
+{
+  "contestId": "us-house-ca-37",
+  "options": {
+    "sydney-kamlager-dove": [
+      {
+        "text": "Voted Nay on H.R. 1 (the 2025 reconciliation bill, later enacted as the One Big Beautiful Bill Act) when the House passed it on May 22, 2025, and voted No again on the Senate-amended version on July 3, 2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+          "title": "GovTrack: H.R. 1 House passage, May 22, 2025 (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Medicare for All Act (H.R. 3069), per GovTrack's cosponsor list.",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr3069/cosponsors",
+          "title": "GovTrack: H.R. 3069 Medicare for All Act cosponsors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Yea on H.R. 1834 (Jan. 8, 2026), a bill to reinstate enhanced Affordable Care Act subsidies for three years; it passed 230-196.",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h11",
+          "title": "GovTrack: H.R. 1834 ACA subsidies (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Stop ICE's Medical Neglect Act of 2026 (H.R. 10027), requiring DHS to set up a system for detainees to submit complaints about medical neglect.",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr10027",
+          "title": "GovTrack: H.R. 10027 Stop ICE's Medical Neglect Act of 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Laken Riley Act (H.R. 29) on Jan. 7, 2025, and Nay on the Senate version (S. 5) on Jan. 22, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h6",
+          "title": "GovTrack: H.R. 29 Laken Riley Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Second Look Act of 2026 (H.R. 8549), letting incarcerated people petition a federal court to revisit sentences over 10 years if they are not dangerous and are ready for reentry.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr8549",
+          "title": "GovTrack: H.R. 8549 Second Look Act of 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the End Solitary Confinement Act (H.R. 4682), to end solitary confinement and other restrictive housing in all federal agencies and contractors.",
+        "kind": "official-action",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr4682",
+          "title": "GovTrack: H.R. 4682 End Solitary Confinement Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the SAVE Act (H.R. 22), April 10, 2025, and Nay on S. 1383, the Safeguard American Voter Eligibility Act, Feb. 11, 2026.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+          "title": "GovTrack: H.R. 22 SAVE Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Equality Act (H.R. 15) and the Women's Health Protection Act of 2025 (H.R. 12), per GovTrack cosponsor lists.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr12/cosponsors",
+          "title": "GovTrack: H.R. 12 Women's Health Protection Act cosponsors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Veterans 2nd Amendment Protection Act (H.R. 1041), May 21, 2026; it passed 216-201.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h190",
+          "title": "GovTrack: H.R. 1041 Veterans 2nd Amendment Protection Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Affordable HOMES Act (H.R. 5184) on Jan. 9, 2026; it passed 263-147.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h12",
+          "title": "GovTrack: H.R. 5184 Affordable HOMES Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Unlocking our Domestic LNG Potential Act (H.R. 1949), Nov. 20, 2025; it passed 217-188.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h304",
+          "title": "GovTrack: H.R. 1949 Unlocking our Domestic LNG Potential Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Higher Education Access and Success for Homeless and Foster Youth Act of 2026 (H.R. 9960), to improve the financial aid process for homeless and foster care youth.",
+        "kind": "official-action",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr9960",
+          "title": "GovTrack: H.R. 9960 Higher Education Access and Success for Homeless and Foster Youth Act of 2026",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Ballotpedia lists her 2026 endorsements as including the California Federation of Labor Unions AFL-CIO, California Teachers Association, National Union of Healthcare Workers, California Environmental Voters, Sierra Club Angeles Chapter and Equality California.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Sydney_Kamlager-Dove",
+          "title": "Sydney Kamlager-Dove - Ballotpedia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "samantha-mota": [
+      {
+        "text": "Supports a national health insurance system, saying the U.S. is the only major industrialized country without one. Principles: affordable, equitable, all-inclusive coverage (dental, vision, preventive, mental), drug price negotiation, subsidized medical and nursing school tuition.",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/universal-healthcare",
+          "title": "Universal Health care - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to champion dismantling ICE, ending for-profit detention, and promoting asylum access and due process, plus community-based alternatives to detention and humane treatment.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/immigration-reform",
+          "title": "Immigration Reform - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls housing a right. Would co-sponsor the Homes for All Act, increase public housing funding, fund zoning reform, expand vouchers, strengthen the LIHTC and implement the Neighborhood Homes Tax Credit. Also says \"We can ELIMINATE government regulations, zoning restrictions, and red tape.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/housing-for-all",
+          "title": "Housing for All - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would support the Raise the Wage Act, champion the Social Security Expansion Bill, and expand the Earned Income Tax Credit.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/expand-social-security",
+          "title": "Economic Security - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would raise corporate tax rates (listed among her economic security priorities), and also seeks to lower the tax rate for small C-corporations and expand the small business deduction to 23%.",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/expand-social-security",
+          "title": "Economic Security - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Democracy reform agenda: support the For the People Act and Ranked Choice Voting Act, campaign finance reform, overturning Citizens United, lowering the voting age, term limits, and banning congressional stock trading.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/DemocracyReform",
+          "title": "Democracy Reform - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pledges to promote the Green New Deal, address environmental racism and increase green space; cites her Santa Monica advocacy to expand green space in the Pico neighborhood.",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/EnvironmentalJustice",
+          "title": "Environmental Justice - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls education a right. Would co-sponsor the IDEA Full Funding Act, implement universal school meals, strengthen Title I and CTE, and is \"Opposing All School Vouchers.\"",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/issue-2",
+          "title": "Education Reform - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would champion the College for All Act, cap tuition at private universities, limit student loan borrowing and pursue partial loan forgiveness.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/student-loan-forgiveness-and-tuition-costs",
+          "title": "Student Loan Forgiveness - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would support the Active Transportation Safety Act and expand community project funding for infrastructure, transportation and community development.",
+        "kind": "own-statement",
+        "dimension": "transportation",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/issue-1",
+          "title": "Community-based Projects - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Small business agenda: pass the Credit Card Competition Act, expand the small business tax deduction to 23%, co-sponsor the PROVE IT Act, and lower tax rates for small C-corporations.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/small-businesses",
+          "title": "Small Businesses - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would co-sponsor repeal of FISA surveillance authorities, rescind the AUMF, repeal Trump tariffs, and end foreign aid with a total arms embargo; criticizes 750 U.S. military bases abroad.",
+        "kind": "own-statement",
+        "source": {
+          "url": "https://www.motaforcongress.com/issues/ForeignPolicy",
+          "title": "Foreign Policy - Samantha Mota for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Campaign pledge: break barriers \"built by those meant to lead\" and build bridges into politics to increase participation and reduce corruption. Names immigration reform, universal health care, family leave and economic stability as her passions.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://ballotpedia.org/Samantha_Mota",
+          "title": "Samantha Mota - Ballotpedia (2025 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent evidence is from GovTrack House roll-call and bill pages (house.gov and clerk.house.gov blocked automated fetches). Mota's site lists no stated positions on policing, homelessness or guns."
+}

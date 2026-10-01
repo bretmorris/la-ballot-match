@@ -1,0 +1,269 @@
+{
+  "contestId": "us-house-ca-35",
+  "options": {
+    "norma-j-torres": [
+      {
+        "text": "Voted Nay on H.R. 1 (the 2025 reconciliation bill, later enacted as the One Big Beautiful Bill Act) when the House passed it on May 22, 2025, and voted No again on the Senate-amended version on July 3, 2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+          "title": "GovTrack: H.R. 1 House passage, May 22, 2025 (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Laken Riley Act (H.R. 29) on Jan. 7, 2025, and Nay on the Senate version (S. 5) on Jan. 22, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h6",
+          "title": "GovTrack: H.R. 29 Laken Riley Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the SAVE Act (H.R. 22), April 10, 2025, and Nay on S. 1383, the Safeguard American Voter Eligibility Act, Feb. 11, 2026.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+          "title": "GovTrack: H.R. 22 SAVE Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Born-Alive Abortion Survivors Protection Act (H.R. 21), Jan. 23, 2025, which passed 217-204.",
+        "kind": "voting-record",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h27",
+          "title": "GovTrack: H.R. 21 Born-Alive Abortion Survivors Protection Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Protection of Women and Girls in Sports Act (H.R. 28), Jan. 14, 2025, which passed 218-206.",
+        "kind": "voting-record",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h12",
+          "title": "GovTrack: H.R. 28 Protection of Women and Girls in Sports Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Equality Act (H.R. 15) and of the Women's Health Protection Act of 2025 (H.R. 12), per GovTrack cosponsor lists.",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr15/cosponsors",
+          "title": "GovTrack: H.R. 15 Equality Act cosponsors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Fairness to Freedom Act of 2025 (H.R. 3127), whose stated purpose is \"to establish the right to counsel, at Government expense for those who cannot afford counsel, for people facing removal.\"",
+        "kind": "official-action",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr3127",
+          "title": "GovTrack: H.R. 3127 Fairness to Freedom Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of H.R. 10294, the Better Pay for American Workers Act (introduced Sept. 3, 2026), \"to amend the Fair Labor Standards Act of 1938 to increase the minimum wage.\"",
+        "kind": "official-action",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr10294",
+          "title": "GovTrack: H.R. 10294 Better Pay for American Workers Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Multiple Firearm Sales Reporting Modernization Act (H.R. 4270): to expand to all firearms the requirement that licensed dealers report sales of 2 or more handguns to one unlicensed buyer within 5 business days.",
+        "kind": "official-action",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr4270",
+          "title": "GovTrack: H.R. 4270 Multiple Firearm Sales Reporting Modernization Act of 2025",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Yea on H.R. 1834 (Jan. 8, 2026), a bill to reinstate enhanced Affordable Care Act subsidies for three years; it passed 230-196.",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h11",
+          "title": "GovTrack: H.R. 1834 ACA subsidies (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Yea on the Affordable HOMES Act (H.R. 5184) on Jan. 9, 2026; it passed 263-147.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h12",
+          "title": "GovTrack: H.R. 5184 Affordable HOMES Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.Con.Res. 96, \"Expressing support for law enforcement officers\" (May 13, 2026).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h165",
+          "title": "GovTrack: H.Con.Res. 96 support for law enforcement officers (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Unlocking our Domestic LNG Potential Act (H.R. 1949), Nov. 20, 2025; it passed 217-188.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h304",
+          "title": "GovTrack: H.R. 1949 Unlocking our Domestic LNG Potential Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Ballotpedia lists her 2026 endorsements as including the California Federation of Labor Unions AFL-CIO, California Teachers Association, National Union of Healthcare Workers, Equality California, and Planned Parenthood (Orange and San Bernardino Counties).",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Norma_Torres",
+          "title": "Norma Torres - Ballotpedia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "mike-cargile": [
+      {
+        "text": "Proposes that people here illegally self-deport at government expense, with travel paid and money given on arrival; then complete the border wall. Says those who refuse to self-deport \"will be deported forcibly and without prejudice.\"",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.cargileforcongress.com/immigration-1",
+          "title": "Immigration - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Pro-life; states \"life begins at conception\" and that, \"except in the case of rape, incest or the life of the mother, I will never support abortion.\" Cites the heartbeat bill approvingly and says adoption should be made simpler.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.cargileforcongress.com/life",
+          "title": "Life - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says the Second Amendment right is absolute: \"Any restriction, registration or regulation of that right, is by definition, an 'infringement' and is unconstitutional.\"",
+        "kind": "own-statement",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.cargileforcongress.com/issues",
+          "title": "Issues - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls himself \"absolutely pro-choice\" on education: parents should choose among public, online, private, charter and home schools. Wants vocational classes brought back as early as middle school.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://www.cargileforcongress.com/education-1",
+          "title": "Education - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says homelessness has no one-size-fits-all fix and that, absent severe mental illness, a person needs a job. Argues \"If we were to quit subsidizing the drugs and the homeless, we might begin to see real solutions develop.\"",
+        "kind": "own-statement",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.cargileforcongress.com/homelessness-1",
+          "title": "Homelessness - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he will \"always DEFEND the police\" and never support defunding them; backs school resource officers, student-loan relief for law enforcement recruits, and qualified immunity for officers.",
+        "kind": "own-statement",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.cargileforcongress.com/public-safety",
+          "title": "Public Safety - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Backs proof of citizenship to vote in federal elections, valid government photo ID, paper ballots hand-counted the same day, same-day voting for citizens only, and making Election Day a federal holiday.",
+        "kind": "own-statement",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.cargileforcongress.com/issues",
+          "title": "Issues - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "2024 campaign website: \"The solution to our economic situation is, and always has been, lower taxes, less fees and fewer government regulations.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Mike_Cargile",
+          "title": "Mike Cargile - Ballotpedia (2024 campaign website excerpt)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports unions that aid members and trade unions; says California's union status is a state decision he accepts. Wants public-sector unions barred from striking, political activism or directly supporting elected officials.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.cargileforcongress.com/unions",
+          "title": "Unions - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Calls nuclear the cleanest, most reliable electricity source and says he likes clean energy, but argues EVs and many 'green' technologies carry hidden environmental costs. Promises to \"protect the gas in your car, the gas in your stove.\"",
+        "kind": "own-statement",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.cargileforcongress.com/environment",
+          "title": "Environment - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says he stands against boys in girls' sports and men in women's bathrooms, opposes DEI and CRT, and supports parents' right to know everything that goes on in school. Backs the Biblical definition of marriage.",
+        "kind": "own-statement",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.cargileforcongress.com/issues",
+          "title": "Issues - Cargile for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Lists endorsements in his 2024 Ballotpedia survey: LA GOP, SB GOP, National Right to Life, Moms for Liberty, Crime Victims United, CRPA, Howard Jarvis, Republican National Hispanic Assembly and others. Reports being \"in favor\" of congressional term limits.",
+        "kind": "endorsement",
+        "source": {
+          "url": "https://ballotpedia.org/Mike_Cargile",
+          "title": "Mike Cargile - Ballotpedia (2024 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent evidence is from GovTrack House roll-call and bill pages (house.gov and clerk.house.gov blocked automated fetches). Cargile 2024 items are labeled as such; he has not completed Ballotpedia's 2026 survey."
+}

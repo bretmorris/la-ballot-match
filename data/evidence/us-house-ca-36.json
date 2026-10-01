@@ -1,0 +1,240 @@
+{
+  "contestId": "us-house-ca-36",
+  "options": {
+    "ted-w-lieu": [
+      {
+        "text": "Voted Nay on H.R. 1 (the 2025 reconciliation bill, later enacted as the One Big Beautiful Bill Act) when the House passed it on May 22, 2025, and voted No again on the Senate-amended version on July 3, 2025.",
+        "kind": "voting-record",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h145",
+          "title": "GovTrack: H.R. 1 House passage, May 22, 2025 (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Climate Solutions Act of 2025 (H.R. 6098), introduced Nov. 18, 2025, whose stated purpose is \"to reduce greenhouse gas emissions and protect the climate.\"",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr6098",
+          "title": "GovTrack: H.R. 6098 Climate Solutions Act of 2025",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Increasing Penalties for Offshore Polluters Act (H.R. 3071), which would increase civil and criminal penalties for oil spills under the Federal Water Pollution Control Act.",
+        "kind": "official-action",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr3071",
+          "title": "GovTrack: H.R. 3071 Increasing Penalties for Offshore Polluters Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Housing for All Act of 2025 (H.R. 2945), \"to address the homelessness and housing crises, to move toward the goal of providing for a home for all Americans.\"",
+        "kind": "official-action",
+        "dimension": "homelessness",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr2945",
+          "title": "GovTrack: H.R. 2945 Housing for All Act of 2025",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Prevent Homelessness Act of 2025 (H.R. 2206), to create a Housing Stabilization Fund providing emergency housing assistance to extremely low-income renters and homeowners.",
+        "kind": "official-action",
+        "dimension": "renters-landlords",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr2206",
+          "title": "GovTrack: H.R. 2206 Prevent Homelessness Act of 2025",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Original cosponsor of the Medicare for All Act (H.R. 3069), per GovTrack's cosponsor list.",
+        "kind": "official-action",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr3069/cosponsors",
+          "title": "GovTrack: H.R. 3069 Medicare for All Act cosponsors",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Yea on H.R. 1834 (Jan. 8, 2026), a bill to reinstate enhanced Affordable Care Act subsidies for three years; it passed 230-196.",
+        "kind": "voting-record",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h11",
+          "title": "GovTrack: H.R. 1834 ACA subsidies (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Sponsor of the Reproductive Data Privacy and Protection Act (H.R. 3218), to ensure data requests on individuals do not pertain to reproductive services; also an original cosponsor of the Women's Health Protection Act (H.R. 12) and Equality Act (H.R. 15).",
+        "kind": "official-action",
+        "dimension": "social-issues",
+        "source": {
+          "url": "https://www.govtrack.us/congress/bills/119/hr3218",
+          "title": "GovTrack: H.R. 3218 Reproductive Data Privacy and Protection Act",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Laken Riley Act (H.R. 29) on Jan. 7, 2025, and Nay on the Senate version (S. 5) on Jan. 22, 2025.",
+        "kind": "voting-record",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h6",
+          "title": "GovTrack: H.R. 29 Laken Riley Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the SAVE Act (H.R. 22), April 10, 2025, and Nay on S. 1383, the Safeguard American Voter Eligibility Act, Feb. 11, 2026.",
+        "kind": "voting-record",
+        "dimension": "elections-voting",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+          "title": "GovTrack: H.R. 22 SAVE Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on H.Con.Res. 96, \"Expressing support for law enforcement officers\" (May 13, 2026), and Yea on the Cashless Bail Reporting Act (H.R. 5625, May 14, 2026).",
+        "kind": "voting-record",
+        "dimension": "policing-justice",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h165",
+          "title": "GovTrack: H.Con.Res. 96 support for law enforcement officers (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Veterans 2nd Amendment Protection Act (H.R. 1041), May 21, 2026; it passed 216-201.",
+        "kind": "voting-record",
+        "dimension": "guns",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h190",
+          "title": "GovTrack: H.R. 1041 Veterans 2nd Amendment Protection Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Affordable HOMES Act (H.R. 5184) on Jan. 9, 2026; it passed 263-147.",
+        "kind": "voting-record",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2026/h12",
+          "title": "GovTrack: H.R. 5184 Affordable HOMES Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Voted Nay on the Unlocking our Domestic LNG Potential Act (H.R. 1949), Nov. 20, 2025; it passed 217-188.",
+        "kind": "voting-record",
+        "dimension": "climate-energy",
+        "source": {
+          "url": "https://www.govtrack.us/congress/votes/119-2025/h304",
+          "title": "GovTrack: H.R. 1949 Unlocking our Domestic LNG Potential Act (House roll call)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Ballotpedia lists his 2026 endorsements as including the California Federation of Labor Unions AFL-CIO, California Teachers Association, National Union of Healthcare Workers, California Environmental Voters, Sierra Club Angeles Chapter and Equality California.",
+        "kind": "endorsement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Ted_Lieu",
+          "title": "Ted Lieu - Ballotpedia",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ],
+    "houston-brignano": [
+      {
+        "text": "Wants \"a fair immigration system where Native-born citizens get the first shot at jobs,\" with no \"back door deals or secret amnesty.\" Calls for strong borders, thorough vetting, and removing criminals.",
+        "kind": "own-statement",
+        "dimension": "immigration",
+        "source": {
+          "url": "https://www.voteforhouston.com/solutions",
+          "title": "Solutions - Houston Brignano for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Supports portable health savings accounts, cross-state insurance competition, price transparency, and giving people \"thousands of choices\" of provider, starting with local institutions rather than a \"top-down model.\"",
+        "kind": "own-statement",
+        "dimension": "health-care",
+        "source": {
+          "url": "https://www.voteforhouston.com/solutions",
+          "title": "Solutions - Houston Brignano for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says high housing costs are \"a political failure\" and proposes innovation zones for technology, manufacturing and energy, plus streamlining regulations. States \"regulations restrict new development, driving up costs.\"",
+        "kind": "own-statement",
+        "dimension": "housing-growth",
+        "source": {
+          "url": "https://ballotpedia.org/Houston_Brignano",
+          "title": "Houston Brignano - Ballotpedia (2025 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Would cut regulation by controlling presidential overreach through the REINS Act, so \"inventors and businesses grow without heavy burdens,\" and cut bureaucracies that slow aid and raise costs.",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://www.voteforhouston.com/solutions",
+          "title": "Solutions - Houston Brignano for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Proposes tax breaks for buying homes or starting companies, more job training, and fixing the student loan crisis; wants to stop \"waste, fraud, and abuse in government spending.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://www.voteforhouston.com/solutions",
+          "title": "Solutions - Houston Brignano for Congress",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Cites $882 billion a year in federal debt interest and pledges to publish every meeting, donor and vote explanation online. Says: \"No backroom deals. No corporate PAC money.\"",
+        "kind": "own-statement",
+        "dimension": "taxes-spending",
+        "source": {
+          "url": "https://ballotpedia.org/Houston_Brignano",
+          "title": "Houston Brignano - Ballotpedia (2025 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says to \"trust the American people with choice whether that's housing, healthcare, or education.\" Gives no more detailed education platform on his site.",
+        "kind": "own-statement",
+        "dimension": "education",
+        "source": {
+          "url": "https://ballotpedia.org/Houston_Brignano",
+          "title": "Houston Brignano - Ballotpedia (2025 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      },
+      {
+        "text": "Says young people should be trained \"to master\" AI \"instead of fearing it.\" Supports \"smart safeguards\" but opposes \"bureaucratic paralysis that hands dominance to our adversaries.\"",
+        "kind": "own-statement",
+        "dimension": "labor-business",
+        "source": {
+          "url": "https://ballotpedia.org/Houston_Brignano",
+          "title": "Houston Brignano - Ballotpedia (2025 Candidate Connection survey)",
+          "retrieved": "2026-09-30"
+        }
+      }
+    ]
+  },
+  "notes": "Incumbent evidence is from GovTrack House roll-call and bill pages (house.gov and clerk.house.gov blocked automated fetches). Brignano's site is general; no stated positions found on policing, homelessness, guns, climate, abortion or transportation."
+}
